@@ -2,7 +2,7 @@ name: Filter IPV4 Addresses
 
 on:
   schedule:
-    - cron: '0 17 * * *'  # 每天下午运行
+    - cron: '0 5,17 * * *'  # 每天下午运行
   workflow_dispatch:  # 允许手动触发
 
 permissions:
