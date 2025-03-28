@@ -39,10 +39,4 @@ jobs:
 
   
 
-      - name: Push To Github
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          repository: ${{ secrets.GH_PATH }}
-          directory: .
-          force: true
+
