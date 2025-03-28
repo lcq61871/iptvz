@@ -23,7 +23,7 @@ case $city_choice in
         ;;
     2)
         city="Jiangsu"
-        stream="udp/239.76.254.64:9000"
+        stream="udp/239.49.8.19:9614"
         channel_key="江苏电信"
         ;;
     3)
@@ -33,7 +33,7 @@ case $city_choice in
         ;;
     4)
         city="Hubei_90"
-        stream="udp/239.77.0.174:5146"
+        stream="rtp/239.69.1.249:11136"
         channel_key="湖北电信"
         ;;
     5)
