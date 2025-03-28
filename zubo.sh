@@ -69,8 +69,8 @@ esac
 ipfile="ip/${channel_key}_ip"
 good_ip="ip/${channel_key}_good_ip"
 # 搜索最新 IP
-cat ip/${channel_key}.html | grep -E -o '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+' > tmp_ipfile
-cat ip/${channel_key}_good_ip >>tmp_ipfile
+#cat ip/${channel_key}.html | grep -E -o '[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+' > tmp_ipfile
+cat ip/${channel_key}_good_ip >tmp_ipfile
 sort tmp_ipfile | uniq | sed '/^\s*$/d' > "$ipfile"
 rm -f tmp_ipfile $good_ip
 
@@ -136,3 +136,8 @@ echo "浙江电信,#genre#" >>zubo1.txt
 cat txt/浙江电信.txt >>zubo1.txt
 echo "江苏电信,#genre#" >>zubo1.txt
 cat txt/江苏电信.txt >>zubo1.txt
+
+# 生成txt
+rm -rf dianxin.txt
+(echo "📡 AKTV,#genre#"; curl -s "http://204bae1.123nat.com:66/test/m3u2txt.php?f=http://aktv.space/live.m3u" | sed 's/<br>/\n/g') >> dianxin.txt
+cat zubo.txt >>dianxin.txt
