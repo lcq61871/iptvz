@@ -2,10 +2,10 @@ import os
 
 def merge_files(input_files, output_file):
     try:
-        # 删除旧的 hbzb.txt
-        if "hnzb.txt" in input_files and os.path.exists("hbzb.txt"):
-            os.remove("hbzb.txt")
-            print("Old hbzb.txt deleted.")
+        # 删除旧的 dszb.txt
+        if "hnzb.txt" in input_files and os.path.exists("dszb.txt"):
+            os.remove("dszb.txt")
+            print("Old dszb.txt deleted.")
 
         with open(output_file, 'w', encoding='utf-8') as outfile:
             for file in input_files:
