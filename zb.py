@@ -2,8 +2,8 @@ import os
 
 def merge_files(input_files, output_file):
     try:
-        # 删除旧的 dszb.txt
-        if "hnzb.txt" in input_files and os.path.exists("dszb.txt"):
+        # 删除旧txt
+        if "dszb.txt" in input_files and os.path.exists("dszb.txt"):
             os.remove("dszb.txt")
             print("Old dszb.txt deleted.")
 
