@@ -1,4 +1,5 @@
 abc频道,#genre#
+博斯魅力台,http://213.210.4.41:50007/litv-longturn04/index.m3u8
 博斯魅力台,http://wdy.601417.eu.org:55007/litv-longturn04/index.m3u8
 博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
 博斯魅力,http://phdown.serv00.net/litv.php?id=litv-longturn04
@@ -12,7 +13,7 @@ abc频道,#genre#
 博斯魅力台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn04
 博斯魅力台,https://www.4gtv.tv/channel/litv-longturn04?set=1&ch=300
 博斯魅力台,http://47.239.245.207:5050/litv/litv-longturn04
-博斯魅力台,p3p://108.181.32.169:19774/642d395d0004e9950a015dce389f4c91
+
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB亚洲武侠,https://ali.hlspull.yximgs.com/live/12344.flv
 亞洲旅遊台,https://haoyunlai.serv00.net/Smartv-1.php?id=asiatravel_twn
