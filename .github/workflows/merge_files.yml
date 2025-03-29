@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add hbzb.txt
+          git add dszb.txt
           git commit -m '自动合并 TXT 文件' || echo "No changes to commit"
           git push
