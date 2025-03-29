@@ -27,12 +27,9 @@ jobs:
     - name: Run filtering script
       run: python script.py
 
-    - name: Run script2
-      run: python script2.py
-
     - name: Commit and push if changed
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add live_ipv4.txt hnzb.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update live_ipv4.txt and hnzb.txt" && git push)
+        git add live_ipv4.txt
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update live_ipv4.txt" && git push)
