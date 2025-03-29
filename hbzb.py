@@ -12,4 +12,4 @@ def merge_files(file1, file2, output_file):
         print(f"合并文件时出错: {e}")
 
 if __name__ == "__main__":
-    merge_files('aktv.txt', 'maotv.txt', 'hbzb.txt')
+    merge_files('4gtv.txt', 'maotv.txt', 'hbzb.txt')
