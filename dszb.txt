@@ -1224,6 +1224,7 @@ CCTV16 4k(试看),http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000
 CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 活动直播2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000100549/main.m3u8?stbid=
 abc频道,#genre#
+博斯魅力台,http://wdy.601417.eu.org:55007/litv-longturn04/index.m3u8
 博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
 博斯魅力,http://phdown.serv00.net/litv.php?id=litv-longturn04
 博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
