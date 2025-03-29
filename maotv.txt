@@ -39,13 +39,9 @@ CCTV央视文化精品[1920x1080],http://113.104.187.91:7088/udp/239.253.43.13:5
 CCTV央视文化精品[1920x1080],http://113.104.187.91:7088/udp/239.253.43.27:5146
 CCTV央视文化精品[1920x1080],http://113.100.31.0:4022/udp/239.253.43.13:5146
 CCTV央视文化精品[1920x1080],http://113.100.31.0:4022/udp/239.253.43.27:5146
-
 Sun Music,https://haoyunlai.serv00.net/Smartv-1.php?id=Sunmusic
 FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-
-大人台,#genre#
 PLAYBOY HD,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
 PLAYBOY HD,https://fm1077.serv00.net/anbo/index.php?id=411
 PLAYBOY HD,https://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
@@ -55,14 +51,12 @@ Playboy,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
 Playboy,mitv://135.148.104.228:19806/47f99c6bdb9449a594cc0621f8980f3c
 BUSTY LOVER,https://z88.ubtvfans.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
 CUM 4K,https://z88.ubtvfans.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-
 美国家庭,p3p://173.208.176.178:31809/5ff7341b000bdc38cc94ba7e6b763297
 欧美艺术,p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
 美国家庭,p3p://108.181.20.159:45963/5ff7341b000bdc38cc94ba7e6b763297
 欧美艺术,p3p://108.181.20.159:45963/607e1f9f0004af8edb961118303e4935
 美国家庭,p3p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e
 欧美艺术,p3p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750
-
 Playboy KR,p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077
 Midnight KR,p3p://173.208.176.178:31809/646fa5d10004a256e557326f0b8b5682
 Miami TV,p3p://173.208.176.178:31809/64eefc5700067df3d6beb4ce0b4d4a5d
