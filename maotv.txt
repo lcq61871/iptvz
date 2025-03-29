@@ -1,6 +1,7 @@
 abc频道,#genre#
 博斯魅力台,http://213.210.4.41:50007/litv-longturn04/index.m3u8
 博斯魅力台,http://wdy.601417.eu.org:55007/litv-longturn04/index.m3u8
+博斯魅力台,zlive://38.114.114.155:6678/a681d8e0362c37f451bdee506f77c896
 博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
 博斯魅力,http://phdown.serv00.net/litv.php?id=litv-longturn04
 博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
