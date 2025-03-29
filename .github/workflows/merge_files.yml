@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run merge script
-        run: python hbzb.py
+        run: python zb.py
 
       - name: Commit and push changes
         run: |
