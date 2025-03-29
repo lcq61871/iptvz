@@ -32,4 +32,4 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add dxzb.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update dxzb.txt" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update hnzb.txt" && git push)
