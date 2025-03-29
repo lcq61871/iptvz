@@ -1,4 +1,4 @@
-name: Filter IPV4 Addresses
+name: Filter hnzb Addresses
 
 on:
   schedule:
