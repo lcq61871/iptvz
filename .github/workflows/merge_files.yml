@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 7,15,23 * * *'   # 每天运行一次
+    - cron: '30 7,15,23 * * *'   # 每天在 UTC 时间 7:30、15:30 和 23:30 运行
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -21,8 +21,11 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Remove old merged file
+        run: rm -f dszb.txt  # 
+
       - name: Run merge script
-        run: python zb.py
+        run: python zb.py  # 
 
       - name: Commit and push changes
         run: |
