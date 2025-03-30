@@ -38,10 +38,13 @@ jobs:
           #git commit *.m3u -m "Update results"
 
 
-      - name: Push To Github
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
+   - name: Push to branch main
+  uses: ad-m/github-push-action@master
+  with:
+    github_token: ${{ secrets.GITHUB_TOKEN }}
+
           repository: ${{ secrets.GH_PATH }}
           directory: .
           force: true
+
+ 
