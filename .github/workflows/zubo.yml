@@ -1,12 +1,9 @@
 name: zubo
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 7,15,23 * * *'   # 每天在 UTC 时间 7:30、15:30 和 23:30 运行
-  workflow_dispatch:  # 允许手动触发
+    - cron: '20 0,7 * * *'       
+  workflow_dispatch:
 
 jobs:
   run-script:
