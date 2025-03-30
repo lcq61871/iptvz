@@ -1,8 +1,11 @@
 name: Filter IPV4 Addresses
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 5,17 * * *'  # 每天下午运行
+    - cron: '20 7,15,23 * * *'   # 每天在 UTC 时间 7:30、15:30 和 23:30 运行
   workflow_dispatch:  # 允许手动触发
 
 permissions:
