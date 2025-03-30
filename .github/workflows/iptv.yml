@@ -37,6 +37,11 @@ jobs:
           git commit *.txt -m "更新直播源"
           #git commit *.m3u -m "Update results"
 
-  
 
-
+      - name: Push To Github
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          repository: ${{ secrets.GH_PATH }}
+          directory: .
+          force: true
