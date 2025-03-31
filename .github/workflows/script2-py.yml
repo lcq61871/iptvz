@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '30 8,15,23 * * *'  # 每天 UTC 时间 7:30、15:30、23:30 运行
+    - cron: '40 1,9,17 * * *'  # 每天 UTC 时间 7:30、15:30、23:30 运行
   workflow_dispatch:  # 允许手动触发
 
 permissions:
