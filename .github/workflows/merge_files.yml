@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '15 1,10,17 * * *'   # 每天在 UTC 时间 1:15、10:15 和 17:15 运行
+    - cron: '50 2,10,18 * * *'   # 每天在 UTC 时间 1:15、10:15 和 17:15 运行即北京时间 -8小时
   workflow_dispatch:  # 允许手动触发
 
 jobs:
