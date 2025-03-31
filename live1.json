@@ -1,0 +1,32 @@
+{
+  "lives": [
+    {
+      "name": "哈哈",
+      "ua": "AptvPlayer/1.3.4",
+      "type": 0,
+      "url": "https://9554.kstore.space/a.txt",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "广东",
+      "url": "https://iptvz.llhao.ggff.net/hnzb.txt"
+    },
+    {
+      "name": "OK直播",
+      "url": "http://ok321.top/ok"
+    },
+    {
+      "name": "央视直播",
+      "url": "https://iptvz.llhao.ggff.net/live_ipv4.txt"
+    },
+    {
+      "name": "移动直播",
+      "url": "https://p.llhao.ggff.net/raw.githubusercontent.com/luoye20230624/hndxzb/refs/heads/main/iptv_list.txt"
+    },
+    {
+      "name": "组播",
+      "url": "https://p.llhao.ggff.net/raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/iptv.txt"
+    }
+  ]
+}
