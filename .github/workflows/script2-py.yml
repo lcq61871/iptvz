@@ -1,8 +1,11 @@
 name: Filter hnzb Addresses
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 5,17 * * *'  # 每天下午运行
+    - cron: '30 7,15,23 * * *'  # 每天 UTC 时间 7:30、15:30、23:30 运行
   workflow_dispatch:  # 允许手动触发
 
 permissions:
@@ -11,13 +14,15 @@ permissions:
 jobs:
   filter-and-push:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v4  # 新版本
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.x'
+        python-version: '3.11'  # 新
 
     - name: Install dependencies
       run: |
@@ -25,11 +30,17 @@ jobs:
         pip install requests
 
     - name: Run filtering script
-      run: python script2.py
+      run: python script2.py  # 路径正确
 
     - name: Commit and push if changed
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add hnzb.txt
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update hnzb.txt" && git push)
+
+        if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+        else
+            git commit -m "Update hnzb.txt"
+            git push
+        fi
