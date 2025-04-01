@@ -2,9 +2,8 @@ import requests
 
 def fetch_and_filter():
     urls = [
-        'https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt',
-        'https://raw.githubusercontent.com/a2256569/tv/5bc4c943d6ded4be92b7eca9c59ca849bd3c4ecc/4gtv.txt',
-        'https://raw.githubusercontent.com/luoye20230624/hndxzb/refs/heads/main/iptv_list.txt'
+        'https://raw.githubusercontent.com/luoye20230624/ZB/refs/heads/main/iptv_list.txt',
+        'https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt'
     ]
 
     all_filtered_lines = []
