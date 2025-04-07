@@ -203,6 +203,638 @@ Nickelodeon,http://kele666.serv00.net/Smart.php?id=Nickelodeon
 Nick Jr,http://kele666.serv00.net/Smart.php?id=Nickjr
 
 
+4GTV-PHP🌸,#genre#
+民視台灣台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv001
+民視第一台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv003
+民視綜藝台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv004
+豬哥亮歌廳秀,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv006
+中天新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv009
+非凡新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv010
+影迷數位電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv011
+視納華仁紀實頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv013
+時尚運動X,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv014
+達文西頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv018
+八大精彩台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv034
+八大綜藝台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv039
+中視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv040
+華視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv041
+公視戲劇,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv042
+客家電視台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv043
+靖天卡通台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv044
+靖洋戲劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv045
+靖天綜合台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv046
+靖天日本台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv047
+非凡商業台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv048
+采昌影劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv049
+台視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv051
+華視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv052
+GINX Esports TV,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv053
+靖天歡樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv054
+靖天映畫,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv055
+台視財經,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv056
+靖洋卡通台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv057
+靖天戲劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv058
+CLASSICA古典樂,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv059
+靖天電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv061
+靖天育樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv062
+靖天國際台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv063
+中視菁采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv064
+靖天資訊台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv065
+台視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv066
+TVBS精采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv067
+TVBS歡樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv068
+愛爾達娛樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv070
+TVBS新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv072
+TVBS,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv073
+中視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv074
+CATCHPLAY電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv076
+TRACE Sport Stars,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv077
+ARIRANG阿里郎頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv079
+中視經典台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv080
+TRACE Urban,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv082
+Mezzo Live,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv083
+國會頻道1台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv084
+國會頻道2台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv085
+智林體育台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv101
+東森購物1台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv102
+東森購物2台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv103
+第1商業台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv104
+中天亞洲台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv109
+東森新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv152
+東森財經新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv153
+民視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv155
+VOA美國之音,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv03
+民視旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv07
+民視影劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv09
+半島國際新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv10
+民視新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv13
+i-Fun動漫台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv15
+好消息,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv16
+好消息2台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv17
+龍華卡通台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn01
+龍華電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn03
+博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
+博斯高球台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn05
+博斯高球二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn06
+博斯運動一台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn07
+博斯運動二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn08
+博斯網球台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn09
+博斯無限台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn10
+龍華日韓台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn11
+龍華偶像台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn12
+博斯無限二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn13
+寰宇新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn14
+寰宇新聞台灣台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn15
+亞洲旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn17
+龍華戲劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn18
+Smart知識台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn19
+ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn20
+龍華經典台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn21
+寰宇財經台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn23
+
+斯玛特,#genre#
+香港|翡翠台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=jade_twn
+香港|翡翠台 backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Jade_xue
+香港|iNews 新闻台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=inews_twn
+香港|J 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=j2_twn
+香港|珍珠台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=pearl_twn
+香港|凤凰香港,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hkphoenix_twn
+香港|HOY资讯台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hoycaijing_twn
+香港|RHK 31,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=rhk31_twn
+香港|VIUTV1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viu1_twn
+香港|RHK 32,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=rhk32_twn
+香港|凤凰卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=phoenixtv_hd
+香港|凤凰资讯,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=phoenixinfo_hd
+香港|Viu6,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viusix_twn
+中国|CCTV-1 综合 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv1
+中国|CCTV-2 财经,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv2
+中国|CCTV-3 综艺 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv3
+中国|CCTV-4 中文国际,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv4
+中国|CCTV4 新闻台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cctv4
+中国|CCTV-7 军事农业,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv7
+中国|CCTV-8 电视剧 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv8hd
+中国|CCTV-9 记录 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv9hd
+中国|CCTV-10 科教 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv10hd
+中国|CCTV-11 戏曲,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv11
+中国|CCTV-12 社会与法,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv12
+中国|CCTV-13 新闻频道,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv13
+中国|CCTV-14 少儿,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv14
+中国|CCTV-6,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv6
+中国|CCTV-15 音乐,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv15
+中国|湖南卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hunan_twn
+中国|浙江卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=zhejiang_twn
+中国|江苏卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=jiangsu_twn
+中国|深圳卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=shenzhen
+中国|福建东南卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=fujian
+中国|广东南方卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nanfang_twn
+中国|广东卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=guangdongweishi_twn
+中国|北京卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=beijing
+中国|珠江台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=zhujiang
+中国|广西卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=guangxi
+中国|湖北卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hubei
+中国|四川卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sichuan_twn
+中国|东方卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=dongfangweishi_twn
+中国|CGTN,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=CGTN
+中国|凤凰卫视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=phoenixtv_hd
+中国|凤凰资讯,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=phoenixinfo_hd
+中国|CCTV-5 体育频道,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv5
+中国|CCTV-5+ 体育赛事 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv5plus
+体育频道|Astro Premier League 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_assp1
+体育频道|Astro EPL 1 backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_assp1x
+体育频道|Astro Premier League 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_assp2
+体育频道|Astro Grandstand,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_assp3
+体育频道|Astro Football,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_assp4
+体育频道|Astro Sports Plus,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_sportsplus
+体育频道|Astro Badminton 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_badminton1
+体育频道|Astro Badminton 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_badminton2
+体育频道|Astro W-Sports,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_assp5
+体育频道|Supersports 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Assp1
+体育频道|Supersports 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Assp2
+体育频道|Supersports 3,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Assp3
+体育频道|Supersports 4,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Assp4
+体育频道|WWE,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Wwe
+体育频道|Fight Sports,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Fs
+体育频道|NBA TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Nba
+体育频道|Astro Cricket,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Acricket
+体育频道|Astro Golf,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Agolf
+体育频道|Tnt Sports 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=6fac0aaead
+体育频道|TNT Sports 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=d9a76a79cc
+体育频道|TNT Sports 3,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=5fea4d73db
+体育频道|TNT Sports 4,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tntsport4
+体育频道|Sony Ten 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ten1_raj
+体育频道|Sony Ten 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ten2_raj
+体育频道|Sony Ten 3,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ten3_raj
+体育频道|SPOTV 1 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_spotv
+体育频道|SPO TV 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=go_spotv2
+体育频道|Skysports F1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongf1
+体育频道|Skysports Cricket,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongcricket
+体育频道|Skysports EPL,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongepl
+体育频道|Skysports Main Event,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongmain
+体育频道|Skysports News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongnews
+体育频道|Skysports Mix,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongmix
+体育频道|CCTV-5 体育频道,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv5
+体育频道|CCTV-5+ 体育赛事 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv5plus
+体育频道|爱尔达体育2台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eltasport2_twn
+体育频道|爱尔达体育3台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eltasport3_twn
+体育频道|Rugby Pass TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rugbypasstv
+体育频道|RTM Sports HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rtmsport
+体育频道|Arena,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Arena
+体育频道|Arena 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Arena2
+体育频道|BolaArena 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Bolaarena1
+体育频道|BolaArena 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Bolaarena2
+体育频道|Astro Beinsports 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Astrobein1
+体育频道|Astro Beinsports 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Astrobein2
+体育频道|Astro Beinsports 3,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Astrobein3
+台湾|TVBS News 新闻台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tvbs_n
+台湾|TVBS 欢乐台 （备份）,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tvbshuanle_twn
+台湾|TVBS HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tvbs
+台湾|中天新闻 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ctinews
+台湾|中天娱乐 CTI Entertaiment,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ctient
+台湾|中天综合 CTI Metro,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ctizhonghe
+台湾|中天亚洲台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ctiasia_twn
+台湾|台视 TTV HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ttv_taiwan
+台湾|台视新闻台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ttvnews_twn
+台湾|台视综合台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ttvzhonghe
+台湾|中视 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=zhongshihd_twn
+台湾|中视新闻台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=zhongshinews_twn
+台湾|民视 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ftvhd_taiwan
+台湾|民视新闻台 FTV News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ftvnew_taiwan
+台湾|民视台湾台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ftvtaiwan_twn
+台湾|华视 CTS HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ctshd_twn
+台湾|公视 CTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ctv18_twn
+台湾|八大第一 GTV First,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=badafirst
+台湾|八大综合 GTV Metro,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=badazhonghe
+台湾|八大戏剧 GTV Drama,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=badadrama
+台湾|八大娱乐 GTV Entertainment,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=badaentertain
+台湾|HBO_HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hbohd_twn
+台湾|HBO_HITS,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hbohit_twn
+台湾|Hollywood Movies,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hollywoodmovies_twn
+台湾|三立台湾 Sanli Taiwan,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sanlitaiwan
+台湾|三立戏剧台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sanlixiju_twn
+台湾|三立综合 Sanli Metro,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sanlizhonghe
+台湾|三立都会台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sanlidouhui
+台湾|东森新闻 ETTV News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvnews
+台湾|CINEMAX,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cinemax_twn
+台湾|东森综合 ETTV Metro,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvzhonghe
+台湾|东森戏剧 ETTV Drama,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvdrama
+台湾|东森超视,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvsuper
+台湾|东森财经新闻 ETTV Business,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvcaijing_twn
+台湾|寰宇财经,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=huanyutaiwan_twn
+台湾|寰宇新闻台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=huanyuxinwen_twn
+台湾|公视2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ctv2_twn
+台湾|大爱1台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=daai_twn
+台湾|非凡新闻台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=feifannews_twn
+台湾|龙华戏剧 Lunghua Drama,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=lunghuaxiju_twn
+台湾|龙华经典台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=lunghuajingdian_twn
+台湾|龙华偶像,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=lunghuaidol_twn
+台湾|AXN Taiwan,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=axn_twn
+台湾|靖天国际台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=jingtianintl_twn
+台湾|年代新闻,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=niandainews_twn
+台湾|纬来日本台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=videolandjapan
+台湾|纬来电影台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=videolandmovie
+台湾|纬来体育台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=videolandsport
+台湾|纬来综合台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=videolandzonghe
+台湾|纬来育乐,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=videolandyule
+台湾|纬来精彩,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=videolandspecial_twn
+台湾|好消息 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=good2_twn
+台湾|大爱2台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=daai2_twn
+台湾|亚洲美食,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=afc_twn
+台湾|美食星球,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=foodplanet_twn
+台湾|亚洲旅游 TLC Asia,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tlc_twn
+台湾|东森电影 ETTV Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvmovie
+台湾|阿里郎 Arirang,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=arirang_twn
+台湾|博斯运动 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bosisport1_twn
+台湾|博斯运动 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bosisport2_twn
+台湾|博斯高球2 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bosigolf2_twn
+台湾|博斯网球 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bositennis_twn
+台湾|东森洋片 ETTV Western,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvwestern
+台湾|龙华洋片 Lunghua Western,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=lunghuawestern_twn
+台湾|博斯无限,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bosiunlimited_twn
+台湾|MTV Live,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=mtvhd_twn
+台湾|龙详时代,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=lungxiangtime_twn
+台湾|EYETV 旅游,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eyetvtravel_twn
+台湾|靖天卡通台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=jingtiancartoon_twn
+台湾|EYETV 戏剧,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eyetvxiju_twn
+台湾|卫视中文台 Star Movies Chinese,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=weishichinese_twn
+台湾|东森幼幼 Yoyo TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=yoyo_twn
+台湾|卫视电影台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=weishimovie_twn
+台湾|美亚电影,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=meiyamovie_twn
+台湾|爱尔达影剧台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eltayingju_twn
+台湾|爱尔达综合台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eltazonghe_twn
+台湾|星卫电影,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=xingwei_movie
+台湾|爱尔达影剧,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eltayingju_twn
+台湾|AFC 亚洲旅游台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=asiatravel_twn
+台湾|爱尔达体育2台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eltasport2_twn
+台湾|爱尔达体育3台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=eltasport3_twn
+电影频道|HBO_HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hbohd_twn
+电影频道|HBO_HITS,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hbohit_twn
+电影频道|Hollywood Movies,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=hollywoodmovies_twn
+电影频道|CCTV-6,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cctv6
+电影频道|CINEMAX,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cinemax_twn
+电影频道|Cinemax,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cinemax
+电影频道|AXN Taiwan,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=axn_twn
+电影频道|大爱2台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=daai2_twn
+电影频道|东森电影 ETTV Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvmovie
+电影频道|东森洋片 ETTV Western,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvwestern
+电影频道|龙华洋片 Lunghua Western,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=lunghuawestern_twn
+电影频道|Animax,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Animax
+电影频道|龙详时代,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=lungxiangtime_twn
+电影频道|Movies Now HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=moviesnow_raj
+电影频道|Star Movies HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=starmovies_raj
+电影频道|卫视中文台 Star Movies Chinese,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=weishichinese_twn
+电影频道|HBO Family,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbofamily
+电影频道|Hits,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hits
+电影频道|Warner TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=WarnerTV
+电影频道|卫视电影台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=weishimovie_twn
+电影频道|HBO HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbo
+电影频道|美亚电影,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=meiyamovie_twn
+电影频道|HBO Signature,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbosignature
+电影频道|HBO Hits,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbohitshd
+电影频道|星卫电影,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=xingwei_movie
+电影频道|SCM,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Weishimovie
+电影频道|Dreamworks,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Dreamworks
+电影频道|Thrill,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Thrill
+电影频道|Hits Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hitsmovie
+电影频道|One,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=One
+电影频道|tvN Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvnmovie
+电影频道|Celestial Classic,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Celestial2
+电影频道|Celestial Movies HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Celestialindo
+电影频道|Axn HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Axn
+电影频道|Paramount Network,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Paramountnetwork
+电影频道|Astrol Kplus,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Kplus
+电影频道|Rock Actions,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rockaction
+电影频道|Rock Entertainment,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rockentertain
+纪录频道|Natgeo_HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=natgeohd_twn
+纪录频道|NatGeo_Wild HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=natgeowild_twn
+纪录频道|Animal_Planet,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=animalplanet_twn
+纪录频道|Discovery Asia,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=discoverytwn_twn
+纪录频道|CI,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ci_twn
+纪录频道|Asia Travel,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=asiatravel_twn
+纪录频道|Discovery HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=discoveryhd_twn
+纪录频道|亚洲美食,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=afc_twn
+纪录频道|美食星球,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=foodplanet_twn
+纪录频道|亚洲旅游 TLC Asia,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tlc_twn
+纪录频道|NatGeo HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Natgeo
+纪录频道|Fashion TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=fashiontv_twn
+纪录频道|History,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=History
+纪录频道|BBC Earth HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbcearth_twn
+纪录频道|BBC Earth Lifestyle,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbclifestyle_twn
+纪录频道|MTV Live,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=mtvhd_twn
+纪录频道|NatGeo Wild HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Natgeowild
+纪录频道|Animal Planet (Eng),http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AnimalPlanet
+纪录频道|TLC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tlc
+纪录频道|Foodnetwork Hd,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Foodnetwork
+纪录频道|HGTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=HGTV
+纪录频道|AFC 亚洲旅游台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=asiatravel_twn
+新闻频道|Skynews,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=skynews_twn
+新闻频道|ABC News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=abcnews_glo
+新闻频道|东森财经新闻 ETTV Business,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ettvcaijing_twn
+新闻频道|CBS HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cbshd_glo
+新闻频道|CBSN HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cbsn_glo
+新闻频道|France 24,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=france24_twn
+新闻频道|DW (Deutsch),http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=dw_twn
+新闻频道|NHK World,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhkworld_japan
+新闻频道|Fox News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=foxnews_twn
+新闻频道|CGTN,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=CGTN
+新闻频道|CNN International,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cnn
+新闻频道|CNN backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cnn_twn
+新闻频道|CNBC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cnbc_twn
+新闻频道|CNA,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cna
+新闻频道|BBC World News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbcnews_twn
+新闻频道|BBC World News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Bbcnews
+新闻频道|Bloomberg News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bloomberg_twn
+新闻频道|Al-Jazeera,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=aljazeera_twn
+儿童频道|Baby TV Eng,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Babytv
+儿童频道|CBeebies,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cbeebies
+儿童频道|Kids TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=KidsTV
+儿童频道|Momo TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=momo1_twn
+儿童频道|Animax,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Animax
+儿童频道|Baby TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=babytv_twn
+儿童频道|MiaoMi,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=MiaoMi
+儿童频道|靖天卡通台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=jingtiancartoon_twn
+儿童频道|东森幼幼 Yoyo TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=yoyo_twn
+儿童频道|Cartoon Network,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cn
+儿童频道|Nickelodeon,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Nickelodeon
+儿童频道|Nick Jr,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Nickjr
+新加坡|Channel 5,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Channel5HD
+新加坡|Channel 8,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Channel8HD
+新加坡|Suria,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Suria
+新加坡|Channel U,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ChannelU
+新加坡|Vasantham,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Vasantham
+新加坡|CNA,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cna
+新加坡|CNA backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cna_twn
+新加坡|MeWatch Ch 5,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Mewatch_ch5
+新加坡|MeWatch Ch 8,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Mewatch_ch8
+新加坡|MeWatch Ch U,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Mewatch_chU
+新加坡|MeWatch Suria,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Mewatch_Suria
+新加坡|MeWatch Vasantham,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Mewatch_Vasantham
+新加坡|MeWatch CNA,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Mewatch_cna
+马来西亚|TV1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TV1
+马来西亚|TV1 backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TV1_backup
+马来西亚|TV2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TV2
+马来西亚|TV3,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TV3
+马来西亚|TV3 SD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TV3_mega
+马来西亚|NTV7,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=NTV7
+马来西亚|TV8,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TV8
+马来西亚|TV9,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TV9
+马来西亚|Ria,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Ria
+马来西亚|Ria-3,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Ria_backup
+马来西亚|Al-Hijrah,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Alhijrah
+马来西亚|Al-Hijrah backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Alhijrah_backup
+马来西亚|Awani,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Awani
+马来西亚|Bernama,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Bernama
+马来西亚|Prima,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Prima
+马来西亚|Prima backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AAprima1
+马来西亚|Prima backup 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AAprima
+马来西亚|Ceria,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Ceria
+马来西亚|Astro MTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AstroMTV
+马来西亚|Mecca Live HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=quran_mido
+马来西亚|Madinah HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sunnah_mido
+马来西亚|Oasis,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Oasis
+马来西亚|HBO HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbo
+马来西亚|HBO Signature,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbosignature
+马来西亚|HBO Hits,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbohitshd
+马来西亚|NatGeo Wild HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Natgeowild
+马来西亚|Cartoon Network,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cn
+马来西亚|Nickelodeon,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Nickelodeon
+马来西亚|Nick Jr,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Nickjr
+马来西亚|Dreamworks,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Dreamworks
+马来西亚|Siar,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Siar
+马来西亚|Citra,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AAcitra
+马来西亚|Citra backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AAcitra1
+马来西亚|Sensasi,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Sensasi
+马来西亚|Aura,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Aura
+马来西亚|Rania,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rania
+马来西亚|KBS World,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=KBS
+马来西亚|Boo,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Boo
+马来西亚|Awesome TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Dsangat
+马来西亚|Astro Sonypix,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Asonypix
+马来西亚|Sony HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=SetOne
+马来西亚|TvN,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TVN
+马来西亚|AEC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AEC
+马来西亚|华丽台 HD （Wah Lai Toi）,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Wlt
+马来西亚|欢喜台 HD （Hua Hee Tai）,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Huahee
+马来西亚|Astro QJ,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Quanjia
+马来西亚|TVB Jade,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvbjade
+马来西亚|TVB Asia,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvbasia
+马来西亚|TVB Entertainment,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvbentertainment
+马来西亚|TVB Classic,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvbclassic
+马来西亚|AOD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Aodhd
+马来西亚|One,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=One
+马来西亚|TVB 星河台 Xing He,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Xinhe
+马来西亚|爱奇艺 iQiyi,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Qiyi
+马来西亚|Animal Planet (Eng),http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AnimalPlanet
+马来西亚|tvN Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvnmovie
+马来西亚|CNN backup,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cnn_twn
+马来西亚|Celestial Classic,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Celestial2
+马来西亚|CNBC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cnbc_twn
+马来西亚|TLC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tlc
+马来西亚|CNA,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cna
+马来西亚|BBC World News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbcnews_twn
+马来西亚|Foodnetwork Hd,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Foodnetwork
+马来西亚|HGTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=HGTV
+马来西亚|Goshop,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Goshop
+马来西亚|Celestial Movies HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Celestial
+马来西亚|Axn HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Axn
+马来西亚|Paramount Network,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Paramountnetwork
+马来西亚|Astrol Kplus,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Kplus
+马来西亚|AFC 亚洲旅游台,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=asiatravel_twn
+马来西亚|Rock Actions,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rockaction
+马来西亚|Bloomberg News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bloomberg_twn
+马来西亚|Al-Jazeera,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=aljazeera_twn
+马来西亚|Rock Entertainment,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rockentertain
+马来西亚|RTM Sports HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rtmsport
+马来西亚|Arena,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Arena
+马来西亚|Arena 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Arena2
+马来西亚|BolaArena 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Bolaarena1
+马来西亚|BolaArena 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Bolaarena2
+马来西亚|Astro LOL,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Astro_lol
+马来西亚|Astro Rusi,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rusi
+马来西亚|WION,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Wion
+马来西亚|RTM Asean,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rtmasean
+印度尼西亚|TVRI National,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TVRI
+印度尼西亚|RCTI,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rcti
+印度尼西亚|Kompass TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Kompass
+印度尼西亚|Berita Satu,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=BeritaSatu_eko
+印度尼西亚|Indosiar HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Indosiar
+印度尼西亚|AnTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Antv
+印度尼西亚|MNC TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Mnctv
+印度尼西亚|Trans 7,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Trans7_eko
+印度尼西亚|Transtv,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Transtv
+印度尼西亚|JTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=JTV_eko
+印度尼西亚|Metro TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=metrotv_eko
+印度尼西亚|Cinemax,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cinemax
+印度尼西亚|SCTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=SCTV
+印度尼西亚|Tvone,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvone
+印度尼西亚|TVMU,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TVMU_eko
+印度尼西亚|GTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Gtv
+印度尼西亚|RTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rtv
+印度尼西亚|Jak TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=JakTV
+印度尼西亚|iNews TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Inewstv
+印度尼西亚|Daai TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=DaaiTV
+印度尼西亚|Net TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=NetTV
+印度尼西亚|Animax,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Animax
+印度尼西亚|EWTN,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Ewtn
+印度尼西亚|AlQuran AlKareem,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AlQuran
+印度尼西亚|Tawaf TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=TawafTV
+印度尼西亚|Vision Prime,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=VisionPrime
+印度尼西亚|Muslim TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=MuslimTV
+印度尼西亚|Music TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=MusicTV
+印度尼西亚|Lifestyle&amp;Fashion,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Lifestyle
+印度尼西亚|Entertain,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Entertain
+印度尼西亚|Hits,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hits
+印度尼西亚|Warner TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=WarnerTV
+印度尼西亚|SCM,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Weishimovie
+印度尼西亚|Thrill,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Thrill
+印度尼西亚|Fight Sports,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Fs
+印度尼西亚|Hits Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hitsmovie
+印度尼西亚|One,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=One
+印度尼西亚|tvN Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tvnmovie
+印度尼西亚|Celestial Movies HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Celestialindo
+印度尼西亚|Rock Actions,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rockaction
+印度尼西亚|Rock Entertainment,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Rockentertain
+印度|Sun TV HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Suntv
+印度|Star Vijay,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Starvijay
+印度|Colors Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Colorstam
+印度|Sun Music,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Sunmusic
+印度|Astro Sunlife,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Sunlife
+印度|Astro Vaanavil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Vaanavil
+印度|Zee Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Zeetamil
+印度|Zee Business,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Zeebusiness
+印度|News 18 Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=news18tamil_raj
+印度|Adithya,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Adithya
+印度|Makkal TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Makkaltv
+印度|Zee Action,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Zeeaction
+印度|Astro KTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Astroktv
+印度|Zee TV HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Zeetvhd
+印度|Zee Cinema HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Zeecinemahd
+印度|Color HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Colorhd
+印度|Starplus HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Starplushd
+印度|Picture HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Npicture
+印度|Zee News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Zeenews
+印度|Asianet,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=asianet_raj
+印度|Asianet News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=asianetnews_raj
+印度|Discovery World Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=discoveryworldtam_raj
+印度|History Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=historytam_raj
+印度|NatGeo Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=natgeotamil_raj
+印度|Natgeo Wild Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=natgeowildtamil_raj
+印度|Astro Sonypix,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Asonypix
+印度|Discovery Kids Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=discoverykidtamil_raj
+印度|Discovery Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=discoverytamil_raj
+印度|Sony Yay Tamil,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sonyyaytam_raj
+印度|Sun TV India,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=suntv_raj
+印度|Starmaa HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=starmaa_raj
+印度|Starmaa Movies HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=starmaamovies_raj
+印度|Bollyone,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Bollyone
+印度|Astro Sunmusic,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Sunmusic
+印度|Vijay Super,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=vijaysuper_raj
+印度|Vellithirai,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Vellithirai
+泰国|Channel 3 Thailand,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ch3_pat
+泰国|Channel 5 Thailand,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ch5_pat
+泰国|Channel 7 Thailand,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ch7_pat
+泰国|MCOT HD Thailand-1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=mcot_pat
+泰国|PPTV Thailand1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=pptv_pat
+泰国|Thai Thai,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=thaithai_pat
+泰国|Amarin,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=amarin_pat
+泰国|Ch 8,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ch8_pat
+泰国|GmmOne,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=gmmone_pat
+泰国|Mono,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=mono_pat
+泰国|Thairath,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=thairath_pat
+泰国|tpbs,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tpbs_pat
+泰国|Workpoint,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=workpoint_pat
+泰国|Gmm Channel,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=gmmchannel_pat
+泰国|Nation,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nation_pat
+泰国|Tnn24,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tnn24_pat
+泰国|Nbt,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nbt_pat
+泰国|New,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=new_pat
+泰国|TPTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tptv_pat
+英国|BBC 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbc1_antik
+英国|BBC 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbc2_antik
+英国|CBBC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cbbc_antik
+英国|More4,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=more4_antik
+英国|Freesports,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=freesports_antik
+英国|Skynews,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=skynews_twn
+英国|Pick TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=picktv_antik
+英国|itv 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=itv1_antik
+英国|itv 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=itv2_antik
+英国|Euronews,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=euronews_antik
+英国|Channel 4,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=channel4_antik
+英国|NatGeo HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Natgeo
+英国|CBeebies,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Cbeebies
+英国|History,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=History
+英国|Kids TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=KidsTV
+英国|France 24,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=france24_twn
+英国|DW (Deutsch),http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=dw_twn
+英国|BBC Earth HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbcearth_twn
+英国|BBC Earth Lifestyle,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbclifestyle_twn
+英国|MTV Live,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=mtvhd_twn
+英国|Star Movies HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=starmovies_raj
+英国|NHK World,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhkworld_japan
+英国|Warner TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=WarnerTV
+英国|HBO HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hbo
+英国|NatGeo Wild HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Natgeowild
+英国|Nickelodeon,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Nickelodeon
+英国|Nick Jr,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Nickjr
+英国|Thrill,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Thrill
+英国|CGTN,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=CGTN
+英国|Hits Movie,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Hitsmovie
+英国|Animal Planet (Eng),http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=AnimalPlanet
+英国|CNBC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cnbc_twn
+英国|TLC,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Tlc
+英国|BBC World News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bbcworldnews_antik
+英国|HGTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=HGTV
+英国|Axn HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=Axn
+英国|Skysports F1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongf1
+英国|Skysports Cricket,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongcricket
+英国|Bloomberg News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bloomberg_twn
+英国|Skysports EPL,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongepl
+英国|Skysports Main Event,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongmain
+英国|Skysports News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tiankongnews
+英国|Al-Jazeera,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=aljazeera_twn
+越南|ANTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_antv
+越南|VTV 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_vtv1
+越南|VTV 7,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_vtv7
+越南|HTV 7,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_htv7
+越南|HTV 9,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_htv9
+越南|BPTV 2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_bptv2
+越南|BRT HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_brt
+越南|Ca Mau TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_camautv
+越南|Danang TV1 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_danangtv1
+越南|Danang TV2 HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_danangtv2
+越南|HBTV HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_hbtv
+越南|PTTH 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=viet_ptth1
+韩国|Arirang HD,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=arirang_korea
+韩国|Yonhap News,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=yonhapnews_korea
+韩国|CBS,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cbs_korea
+韩国|EBS 1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ebs1_korea
+韩国|EBS2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ebs2_korea
+韩国|EBS Plus2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ebsplus2_korea
+韩国|SBS Plus,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=sbsplus_korea
+韩国|YTN,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ytn_korea
+韩国|KBS World 24,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=kbsworld24_korea
+韩国|YTN Science,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ytnscience_korea
+韩国|YTN Korean,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ytnkorean_korea
+韩国|YTN DMB,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ytndmb_korea
+韩国|Apps TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=appongoogle_korea
+韩国|All the Kpop,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=allthekpop_korea
+韩国|J the Kpop,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=jthekpop_korea
+韩国|EBS Kids,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=ebskids_korea
+韩国|CGNTV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cgntv_korea
+日本|NHK-総合-2,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhkg_japan
+日本|NHK-E,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhke_japan
+日本|テレビ朝日 Asahi TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=asahitv_japan
+日本|JET 綜合,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=jettv_japan
+日本|テレビ東京 Tokyo TV,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tokyotv_japan
+日本|TOKYOMX,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=tokyomx_japan
+日本|NHKBS1,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhkbs1_japan
+日本|NHKBSプレミア Premium,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhkpremium_japan
+日本|BSジャパン 181,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bs181_japan
+日本|BSフジ BS Fuji,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bsfuji_japan
+日本|CNA Japan,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=cna_japan
+日本|BS-TBS,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=bstbs_japan
+日本|NHK Oaska,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhkosaka_japan
+日本|NHK World,http://varied-hollyanne-kele666-20d06aff.koyeb.app/index.php?id=nhkworld_japan
+
 abc频道,#genre#
 博斯魅力台,http://213.210.4.41:50007/litv-longturn04/index.m3u8
 博斯魅力台,http://wdy.601417.eu.org:55007/litv-longturn04/index.m3u8
