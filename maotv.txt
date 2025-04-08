@@ -1,10 +1,27 @@
 4GTV-PHP🌸,#genre#
+
+TVBS新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv072
+TVBS,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv073
+東森新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv152
+寰宇新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn14
+寰宇新聞台灣台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn15
+中天新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv009
+非凡新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv010
+中視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv074
+民視新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv13
+台視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv051
+華視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv052
+亞洲旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn17
+民視旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv07
+博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
+愛爾達娛樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv070
+中視菁采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv064
+TVBS精采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv067
+TVBS歡樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv068
 民視台灣台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv001
 民視第一台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv003
 民視綜藝台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv004
 豬哥亮歌廳秀,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv006
-中天新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv009
-非凡新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv010
 影迷數位電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv011
 視納華仁紀實頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv013
 時尚運動X,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv014
@@ -21,8 +38,6 @@
 靖天日本台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv047
 非凡商業台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv048
 采昌影劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv049
-台視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv051
-華視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv052
 GINX Esports TV,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv053
 靖天歡樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv054
 靖天映畫,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv055
@@ -33,15 +48,8 @@ CLASSICA古典樂,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv059
 靖天電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv061
 靖天育樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv062
 靖天國際台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv063
-中視菁采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv064
 靖天資訊台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv065
 台視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv066
-TVBS精采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv067
-TVBS歡樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv068
-愛爾達娛樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv070
-TVBS新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv072
-TVBS,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv073
-中視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv074
 CATCHPLAY電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv076
 TRACE Sport Stars,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv077
 ARIRANG阿里郎頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv079
@@ -55,20 +63,16 @@ Mezzo Live,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv083
 東森購物2台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv103
 第1商業台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv104
 中天亞洲台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv109
-東森新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv152
 東森財經新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv153
 民視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv155
 VOA美國之音,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv03
-民視旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv07
 民視影劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv09
 半島國際新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv10
-民視新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv13
 i-Fun動漫台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv15
 好消息,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv16
 好消息2台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv17
 龍華卡通台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn01
 龍華電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn03
-博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
 博斯高球台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn05
 博斯高球二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn06
 博斯運動一台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn07
@@ -78,9 +82,6 @@ i-Fun動漫台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv15
 龍華日韓台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn11
 龍華偶像台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn12
 博斯無限二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn13
-寰宇新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn14
-寰宇新聞台灣台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn15
-亞洲旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn17
 龍華戲劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn18
 Smart知識台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn19
 ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn20
@@ -89,33 +90,19 @@ ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longtu
 
 
 abc频道,#genre#
+博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
 博斯魅力台,http://213.210.4.41:50007/litv-longturn04/index.m3u8
 博斯魅力台,http://wdy.601417.eu.org:55007/litv-longturn04/index.m3u8
 博斯魅力台,zlive://38.114.114.155:6678/a681d8e0362c37f451bdee506f77c896
-博斯魅力,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
-博斯魅力,http://phdown.serv00.net/litv.php?id=litv-longturn04
-博斯魅力,http://litv.zapi.us.kg/?id=litv-longturn04
-博斯魅力,http://A/ku9/js/litvk9.js?id=litv-longturn04
-博斯魅力台,http://litv.zapi.us.kg/?id=litv-longturn04
-博斯魅力台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn04
-博斯魅力台,https://4gtv.livednow.us.kg/litv/litv-longturn04
-博斯魅力台,https://tv.iill.top/litv/litv-longturn04
-博斯魅力台,https://klxtx.koyeb.app/litv/litv-longturn04
-博斯魅力台,http://45.145.229.220:8080/http:/127.0.0.1:5000/litv/litv-longturn04
-博斯魅力台,https://www.4gtv.tv/channel/litv-longturn04?set=1&ch=300
-博斯魅力台,http://47.239.245.207:5050/litv/litv-longturn04
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB亚洲武侠,https://ali.hlspull.yximgs.com/live/12344.flv
 亞洲旅遊台,https://haoyunlai.serv00.net/Smartv-1.php?id=asiatravel_twn
 亞洲旅遊台,https://video.mytvsuper.xyz/live/c3fe1c123058a305cd081aef788f56be7605bcad021f4f433b9cb64f9aa1e5bf.m3u8?token=422640347226075
 TLC旅遊生活,https://haoyunlai.serv00.net/Smartv-1.php?id=tlc_twn
-EYE旅遊,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvtravel_twn
+EYETV 旅游,http://100.83.104.117:5678/stv.php?id=eyetvtravel_twn
+EYETV 旅游,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvtravel_twn
 ELTA 生活旅遊,http://wdy.601417.eu.org:55007/4gtv-live120/index.m3u8
 民視旅遊台,http://wdy.601417.eu.org:55007/litv-ftv07/index.m3u8
-翡翠台,http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 Sun Music,https://haoyunlai.serv00.net/Smartv-1.php?id=Sunmusic
 FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
