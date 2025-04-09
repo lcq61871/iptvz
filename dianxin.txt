@@ -68,6 +68,7 @@ beIN SPORTS XTRA,http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3
 PAC12,http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
 Tennis Channel DE,http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
 緯來體育,http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
+Asian Action,http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
 Astro Football,http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 Astro IQIYI,http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 Astro QJ,http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
