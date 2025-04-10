@@ -42,6 +42,7 @@ ZooMoo,http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 東方衛視國際頻道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+Celestial Classic Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
 Celestial Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 CINEMAWORLD,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 FIGHT SPORTS,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
