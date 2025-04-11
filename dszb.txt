@@ -1036,7 +1036,7 @@ ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longtu
 abc频道,#genre#
 博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB亚洲武侠,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 亚洲美食,http://192.168.31.4:8083/stv.php?id=afc_twn
 美食星球,http://192.168.31.4:8083/stv.php?id=foodplanet_twn
 亞洲旅遊,http://192.168.31.4:8083/stv.php?id=tlc_twn
