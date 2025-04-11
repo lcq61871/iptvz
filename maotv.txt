@@ -92,17 +92,17 @@ abc频道,#genre#
 博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB亚洲武侠,https://ali.hlspull.yximgs.com/live/12344.flv
-亚洲美食,http://eu.huohuoaa.tech:1025/Smart.php?id=afc_twn
-美食星球,http://eu.huohuoaa.tech:1025/Smart.php?id=foodplanet_twn
-亞洲旅遊,http://eu.huohuoaa.tech:1025/Smart.php?id=tlc_twn
+亚洲美食,http://192.168.31.4:8083/stv.php?id=afc_twn
+美食星球,http://192.168.31.4:8083/stv.php?id=foodplanet_twn
+亞洲旅遊,http://192.168.31.4:8083/stv.php?id=tlc_twn
 亞洲旅遊,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn17
 TLC旅遊生活,http://eu.huohuoaa.tech:1025/Smart.php?id=Tlc
 EYETV 旅游,http://eu.huohuoaa.tech:1025/Smart.php?id=eyetvtravel_twn
 EYETV 旅游,http://wdy.601417.eu.org:55007/4gtv-live120/index.m3u8
 民視旅遊台,http://wdy.601417.eu.org:55007/litv-ftv07/index.m3u8
-印度|Sun TV HD,http://eu.huohuoaa.tech:1025/Smart.php?id=Suntv
-印度|Star Vijay,http://eu.huohuoaa.tech:1025/Smart.php?id=Starvijay
-印度|Sun Music,http://eu.huohuoaa.tech:1025/Smart.php?id=Sunmusic
+印度|Sun TV HD,http://192.168.31.4:8083/stv.php?id=Suntv
+印度|Star Vijay,http://192.168.31.4:8083/stv.php?id=Starvijay
+印度|Sun Music,http://192.168.31.4:8083/stv.php?id=Sunmusic
 
 FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
