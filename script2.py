@@ -3,6 +3,7 @@ import requests
 def fetch_and_filter():
     urls = [
         'https://raw.githubusercontent.com/luoye20230624/ZB/refs/heads/main/iptv_list.txt',
+        'https://raw.githubusercontent.com/lcq61871/df1/refs/heads/main/filtered_streams.txt',
         'https://raw.githubusercontent.com/ngdikman/hksar/refs/heads/main/dianxin.txt'
     ]
 
