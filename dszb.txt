@@ -920,26 +920,6 @@ ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longtu
 龍華經典台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn21
 寰宇財經台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn23
 
-
-abc频道,#genre#
-博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-亞洲旅遊,http://4gtv.mumi.rip:9877/250/4gtv-4gtv076/index.m3u8
-亞洲旅遊,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn17
-TLC旅遊生活,http://eu.huohuoaa.tech:1025/Smart.php?id=Tlc
-EYETV 旅游,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-EYETV 旅游,http://wdy.601417.eu.org:55007/4gtv-live120/index.m3u8
-民視旅遊台,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
-美食星球,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-亞洲美食,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-Sun TV HD,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-SUN MUSIC,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-
-FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-
   _0000,#genre#
 
 PLAYBOY HD,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
