@@ -310,6 +310,57 @@ CHC家庭影院高清,http://125.37.162.219:18001/rtp/225.1.1.213:5002
 世界地理[1920x1080],http://221.225.51.77:4022/rtp/239.49.8.87:8000
 世界地理[1920x1080],http://222.185.164.90:4022/rtp/239.49.8.87:8000
 省级频道&爬虫,#genre#
+abc频道,#genre#
+CCTV1, http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
+CCTV1, http://39.170.52.236:808/hls/1/index.m3u8
+CCTV1, http://111.14.181.15:9901/tsfile/live/0001_1.m3u8
+CCTV1, http://111.14.181.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1, https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV13, http://dsj.motem.top:8880/gaoma/cctv13.m3u8
+CCTV13, https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
+CCTV13, https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
+CCTV13, http://39.170.52.236:808/hls/13/index.m3u8
+CCTV13, http://111.14.181.15:9901/tsfile/live/0013_1.m3u8
+CCTV2, https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
+CCTV2, http://39.170.52.236:808/hls/2/index.m3u8
+CCTV2, http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
+CCTV2, http://dsj.motem.top:8880/gaoma/cctv2.m3u8
+CCTV2, http://58.210.168.86:10800/newlive/live/hls/2/live.m3u8
+CCTV世界地理[1920x1080], http://116.30.249.99:8088/udp/239.253.43.7:5146
+CCTV世界地理[1920x1080], http://113.104.184.159:7088/udp/239.253.43.24:5146
+CCTV世界地理[1920x1080], http://113.104.184.159:7088/udp/239.253.43.7:5146
+CCTV央视文化精品[1920x1080], http://113.104.184.159:7088/udp/239.253.43.13:5146
+CCTV央视文化精品[1920x1080], http://116.30.249.99:8088/udp/239.253.43.27:5146
+CCTV央视文化精品[1920x1080], http://113.104.184.159:7088/udp/239.253.43.27:5146
+CCTV央视文化精品[1920x1080], http://116.30.249.99:8088/udp/239.253.43.13:5146
+EYETV 旅游, http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+FASHION TV, https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+PLAYBOY Plus, http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
+Playboy Plus, http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
+Playboy Plus, https://hyf000.eu.org/live/80947108.php?id=102
+SUN MUSIC, http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+Sun TV HD, http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+亚洲武侠, http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+亞洲旅遊, http://37.27.111.214:8080/live/10/hls.m3u8
+亞洲旅遊, http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
+亞洲旅遊, http://4gtv.mumi.rip:9877/250/4gtv-4gtv076/index.m3u8
+深圳都市, http://183.30.199.23:8886/udp/239.77.1.176:5146
+深圳都市, http://183.11.239.36:808/hls/140/index.m3u8
+深圳都市, http://183.30.199.23:8886/udp/239.77.1.124:5146
+深圳都市, http://113.90.244.16:4000/udp/239.77.1.124:5146
+深圳都市, http://113.90.244.16:4000/udp/239.77.1.176:5146
+湖南卫视[1920x1080], http://113.104.184.159:7088/udp/239.77.1.129:5146
+湖南卫视[1920x1080], http://113.104.184.159:7088/udp/239.77.1.5:5146
+湖南卫视[1920x1080], http://113.104.184.159:7088/udp/239.77.0.88:5146
+湖南卫视[1920x1080], http://113.104.184.159:7088/udp/239.77.0.127:5146
+湖南卫视[1920x1080], http://116.30.249.99:8088/udp/239.77.1.5:5146
+湖南都市, http://110.53.218.182:9902/tsfile/live/0127_1.m3u8
+湖南都市, http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNDSMPP360.m3u8
+湖南都市, http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市, http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
+湖南都市, http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=hnds
+美食星球, http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+美食星球, https://pixman.mytvsuper.com.mp/Smart.php?id=foodplanet_twn
 📡 AKTV,#genre#
 28 AI 智慧賽馬,http://live_bin.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://live_bin.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
