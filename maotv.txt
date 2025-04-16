@@ -86,7 +86,7 @@ Smart知識台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn19
 ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn20
 龍華經典台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn21
 寰宇財經台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn23
-abc,http://192.168.31.4:9906/stream/8LMVj21AMLYynx8r6BgGKnSq4eD1tn1nxjBQiRtx98h3ibev3r.ts
+
 
 
   _0000,#genre#
