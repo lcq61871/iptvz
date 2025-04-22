@@ -90,42 +90,17 @@ ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longtu
 亞洲旅遊台,http://4gtv.mumi.rip:9877/250/4gtv-4gtv076/index.m3u8
 愛爾達生活旅遊台,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
 MagellanTV頻道 (麥哲倫頻道),http://4gtv.mumi.rip:9877/450/4gtv-live123/index.m3u8
-无线经典影视,tvbus://783J48rpNgCKx9V777UnY8TBf7wZPP3bQjjFov6cdBhAEDLmPo
-无线经典影视,tvbus://8bkLt8kvUoqdj19moFDtaQ7bhp9omXXcmLGTuhrMYFouowii7b
-无线经典影视,tvbus://77WDcHhvPZiPPxpNqkNspZmoeqYWN3tTsSm17FBhCUYtwrQs3q
-无线经典影视,tvbus://7GJynpsuZ5Wyez52YQg1wmJ43TRGnXxCySH4KZ4Qvqg4Fnf3J9
-无线经典影视,tvbus://8XEbZx3n25xqidaniwg5SB49qd7owXckxWEfAaeE15umYfqqzo
-无线经典影视,tvbus://8N3FAu7fjJMxtLAZrbP9s5WRGXTz53bSZ592LeMnhVvufBmozj
-无线经典影视,tvbus://5hYeJ832h3hrFkrEw9Rce79ppqqAiDcM6voZsLGX3yDNrSZwwR8dz3LJKDyon
-天映经典影视,tvbus://75ZnxccXHY2VG9MYKT3iDEuAJ4uKQZV2KCvqiWWNmoqps2xZTu
-天映经典影视,tvbus://8LDxVs1SPgay9iJKU8Ne8ym4toc3SqayejL9zU8mLGacGYE9oE
-天映经典影视,tvbus://5jyTDrpvhUEiEHaaNvkcQFYWcCneT8nb4oR2gwRpg9tXymV4dZ7r8dFGTePZq
-天映经典影视,tvbus://63M6rHFURFP5DW2b9VcqiFTXkVivYqfm4FgZbk5qq4AGGw73mb3yubP3qjY9M
-天映经典影视,tvbus://6ToeZRJ1gnmnNMSXCK4q4TWCYfFrKfCVn78qmJXNfjYpApRUHXntuyE9vCSt8
-天映频壹影视,tvbus://77pcuPGzoUKogBYTGPaTyvv1aEnBVGFgWDcyq7Nq6SvPsLAbXs
-天映频壹影视,tvbus://6qkgmPgbsYjUyk1b1jx2b1ZtBN63dbYg7zsnzhgC368g6aefJu
-天映频壹影视,tvbus://6B1vSuSJzS4XbrFPq5P73474wFjvjPndc4zPMPFfyJmEQTU4pHe9GhJHxVYC1
-天映频壹影视,tvbus://5RmhvTr9qeqwYaM2qx4o9GKQwVMa9diqtKaQhXGhMYmGYX7WDAwZLH69fvBPr
-天映频壹影视,tvbus://6H8m5g79c9xXKxMPCYq2unPJ6C13LCQvbbmFkFjR1oyWc8pH1ToK1AxNHDeon
-天映频贰影视,tvbus://6qbh4X86AAwWyoVMdAEXAEJmSnK9WUrcmSvPy46TiKx9gpfcoz
-天映频贰影视,tvbus://79igmqHkx6c7U3BUjC4JjmBehwDjQhKxkFdEA6jHK3fnE721An
-天映频贰影视,tvbus://8YmnuABfc2jqt3WiyPvwVCdAgjcK9odAQBCqM5o38Cd7j5YsQ3
-天映频贰影视,tvbus://8TqiKH5vTPcR2nYLt8M5bPKjdDajKXBaEjuF3zCGzvrNz1PoD1
-天映频贰影视,tvbus://7QSfzX2CV4xx6CDTzeuhTv9Qptc9W9Xqmmxa38sYycB3KZeztK
-天映频贰影视,tvbus://7T1FXAjjZjvypuoTDa4qbXbAyqqhwM32gAGoa4oW2UQigQnUPk
-天映频贰影视,tvbus://6JYnpJiWphJr2rPXNXj1pwDgqyjFXmTVYetoqKD3xCCRUZVfJZPEcc9GibbiT
-美亚电影影视,tvbus://8NptuXpNaZRPi7QvEUamHVSpWYq5JRRLiv3w3WUpPd7aiZQgEL
-美亚电影影视,tvbus://7SqbyokF8aEt3AaKpopB8C5qaVZVg6689rPRdk3rihJfQUBr4G
-美亚电影影视,tvbus://6Bx84gDGZE79jXUYRXbUry4Ecb7dNDhwSWgV1zVx73TtWLm48BtcYQupFrgy5
-美亚电影影视,tvbus://6d1XehfdQBRU7XoX4FDBeGkbdfCfhD9GEAV4C4ciPery4YSj7jBpd9EWpbxre
-美亚电影影视,tvbus://5hP62FZLqknVhyesvN6idW2iCF3hUgjtX8wuiHtJsNouM29Ln4ba8GSfWCmeg
-Playboy Plus,https://hyf000.eu.org/iptv/102
+亚洲美食,https://pixman.mytvsuper.com.mp/Smart.php?id=afc_twn
+美食星球,https://pixman.mytvsuper.com.mp/Smart.php?id=foodplanet_twn
+翡翠台,https://pixman.mytvsuper.com.mp/Smart.php?id=jade_twn
+TVB 星河台https://pixman.mytvsuper.com.mp/Smart.php?id=Xinhe
+TvN,https://pixman.mytvsuper.com.mp/Smart.php?id=TVN
+ANTV,https://pixman.mytvsuper.com.mp/Smart.php?id=viet_antv
 Playboy Plus,https://hyf000.eu.org/live/80947108.php?id=102
 FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Sun Music, https://www.insurancegogogo.com/4987/Sunmusic/playlist.m3u8
+FASHION TV,https://pixman.mytvsuper.com.mp/Smart.php?id=fashiontv_twn
 Sun Music, https://pixman.mytvsuper.com.mp/Smart.php?id=Sunmusic
-Sun TV HD, https://www.insurancegogogo.com/4987/Suntv/playlist.m3u8
 Sun TV HD, https://pixman.mytvsuper.com.mp/Smart.php?id=Suntv
 
   _0000,#genre#
