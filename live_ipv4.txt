@@ -9,7 +9,7 @@ TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
 寰宇新聞台,http://aktv_stream.m16tv.cfd/stream/yt/null-1/AKTV.m3u8
 東森新聞,http://aktv_stream.m16tv.cfd/stream/yt/null-2/AKTV.m3u8
 
-央视☠️台湾,#genre#
+央视/台湾,#genre#
 中国|CCTV-1 综合 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 中国|CCTV-2 财经,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 中国|CCTV-3 综艺 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
