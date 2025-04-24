@@ -188,70 +188,44 @@ IBIZA,http://A/ku9/js/159169.js?ip=167.114.175.6&id=644ecb5f000ca4ee650265db655d
 IBIZA,p3p://173.208.176.178:19806/644ecb5f000ca4ee650265db655d0248
 
 abc频道,#genre#
-CCTV1 综合[1920x1080], http://113.104.184.49:7088/udp/239.77.0.129:5146
-CCTV1 综合[1920x1080], http://113.104.184.49:7088/udp/239.77.0.86:5146
-CCTV1 综合[1920x1080], http://113.111.130.115:4022/udp/239.77.0.119:5146
-CCTV1 综合[1920x1080], http://113.104.184.49:7088/udp/239.77.0.119:5146
-CCTV1 综合[1920x1080], http://113.111.130.115:4022/udp/239.77.0.129:5146
-CCTV13 新闻[1920x1080], http://113.111.130.115:4022/udp/239.77.0.188:5146
-CCTV13 新闻[1920x1080], http://113.104.184.49:7088/udp/239.77.0.188:5146
-CCTV13 新闻[1920x1080], http://113.111.130.115:4022/udp/239.253.43.196:5146
-CCTV13 新闻[1920x1080], http://113.104.184.49:7088/udp/239.253.43.196:5146
-CCTV2 财经[1920x1080], http://113.111.130.115:4022/udp/239.77.0.137:5146
-CCTV2 财经[1920x1080], http://113.111.130.115:4022/udp/239.253.43.17:5146
-CCTV2 财经[1920x1080], http://113.104.184.49:7088/udp/239.253.43.17:5146
-CCTV2 财经[1920x1080], http://113.104.184.49:7088/udp/239.77.0.137:5146
 CCTV2 财经[1920x1080], http://113.104.184.49:7088/udp/239.77.1.158:5146
-CCTV世界地理[1920x1080], http://113.111.130.115:4022/udp/239.253.43.24:5146
-CCTV世界地理[1920x1080], http://113.111.130.115:4022/udp/239.253.43.7:5146
-CCTV世界地理[1920x1080], http://113.104.184.49:7088/udp/239.253.43.7:5146
-CCTV世界地理[1920x1080], http://113.104.184.49:7088/udp/239.253.43.24:5146
-CCTV央视文化精品[1920x1080], http://113.111.130.115:4022/udp/239.253.43.27:5146
-CCTV央视文化精品[1920x1080], http://113.111.130.115:4022/udp/239.253.43.13:5146
-CCTV央视文化精品[1920x1080], http://113.104.184.49:7088/udp/239.253.43.27:5146
-CCTV央视文化精品[1920x1080], http://113.104.184.49:7088/udp/239.253.43.13:5146
 EYETV 旅游, https://www.chaojidianshi.net/zhibo/gangtaizhibo/EYETVlüyou.html
 FASHION TV, https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Fashion TV, https://pixman.mytvsuper.com.mp/Smart.php?id=fashiontv_twn
-Playboy Plus, https://hyf000.eu.org/live/80947108.php?id=102
 Playboy Plus, https://hyf000.eu.org/80947108/102
+Playboy Plus, https://hyf000.eu.org/live/80947108.php?id=102
 Playboy Plus, https://hyf000.eu.org/iptv/102
 Sun Music, https://pixman.mytvsuper.com.mp/Smart.php?id=Sunmusic
 Sun TV HD, https://pixman.mytvsuper.com.mp/Smart.php?id=Suntv
+TVB星河, http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 TVB星河, http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-TVB星河, http://108.181.20.197/livehttpplay?channel_id=20070
-TVB星河, http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+TVB星河, http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
 TVB星河, http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB星河, http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 TVN, http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 TVN, https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
 TvN, https://pixman.mytvsuper.com.mp/Smart.php?id=TVN
+tvN, http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
+tvN, http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 tvN, http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 tvN, http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-tvN, http://aktv_stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-tvN, http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
 亞洲旅遊, http://37.27.111.214:8080/live/10/hls.m3u8
 亞洲旅遊, http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
 功夫台, https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
-千禧经典, http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-千禧经典, http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
-千禧经典, http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典, http://aktv_stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-千禧经典, http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+千禧经典, http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+千禧经典, http://aktv_stream.m16tv.cfd/stream/aktv2/hk-2/AKTV.m3u8
+千禧经典, http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
+千禧经典, https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbclassic
 天映经典, http://108.181.20.197/livehttpplay?channel_id=10122
 天映经典, http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天映经典, http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典, http://108.181.20.197/livehttpplay?channel_id=20063
 天映经典, https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源
-深圳都市频道, http://183.51.190.7:6633/udp/239.77.1.176:5146
 深圳都市频道, http://183.51.190.7:6633/udp/239.77.1.124:5146
+深圳都市频道, http://183.51.190.7:6633/udp/239.77.1.176:5146
 深圳都市频道, http://116.31.164.14:4022/udp/239.77.1.124:5146
 深圳都市频道, http://116.31.164.14:4022/udp/239.77.1.176:5146
-湖南卫视[1920x1080], http://113.111.130.115:4022/udp/239.77.1.5:5146
-湖南卫视[1920x1080], http://113.111.130.115:4022/udp/239.77.0.88:5146
-湖南卫视[1920x1080], http://113.104.184.49:7088/udp/239.77.0.127:5146
-湖南卫视[1920x1080], http://113.104.184.49:7088/udp/239.77.0.88:5146
-湖南卫视[1920x1080], http://113.104.184.49:7088/udp/239.77.1.5:5146
 湖南都市高清, http://58.46.201.51:4022/udp/239.76.253.104:9000
 美食星球, https://www.chaojidianshi.net/zhibo/gangtaizhibo/meishixingqiu.html
 美食星球, https://pixman.mytvsuper.com.mp/Smart.php?id=foodplanet_twn
