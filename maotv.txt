@@ -86,17 +86,11 @@ Smart知識台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn19
 ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn20
 龍華經典台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn21
 寰宇財經台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn23
-民視旅遊台,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
-亞洲旅遊台,http://4gtv.mumi.rip:9877/250/4gtv-4gtv076/index.m3u8
-愛爾達生活旅遊台,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-MagellanTV頻道 (麥哲倫頻道),http://4gtv.mumi.rip:9877/450/4gtv-live123/index.m3u8
 Playboy Plus,https://hyf000.eu.org/live/80947108.php?id=102
-FASHION,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Sun Music, https://pixman.mytvsuper.com.mp/Smart.php?id=Sunmusic
-Sun TV HD, https://pixman.mytvsuper.com.mp/Smart.php?id=Suntv
 
 
+HK-SMT🌸,#genre#
 NOW新闻台,http://mytv.cdn.com.mp/live/now/stream.m3u8
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 好莱坞电影,http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
@@ -139,50 +133,14 @@ Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 印度|Sun TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Suntv
 印度|Star Vijay,https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 印度|Sun Music,https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
+SUN MUSIC,tvbus://74h7GoSxMYVxCGrMRUr9Kb5EVpHpfgAgKsT7k8t7QcGD2mXxHv#tvbus://79AcfksYFyPCn5sP1P2nm4QDD7qhytKafeHh2Yh1JyAgT7UnpV#tvbus://5foqBJocsADs8Ey81yJTai3qTyLanbQNMb1jgedoLG6V5eQvZXjaM1Pfv2gtv#tvbus://5StaDHjU18x1aWhtHup7c1VniUavJYPvicXB9ahWuiFBu7cmanibsdVjuKPwm#tvbus://66dV9a9EWUEBo33TqdPCHkk7kjoXR58fDa58qTKNe3vuS3LEz5tK2hEPTcg2h
+SUN TV HD,tvbus://7rzCwWRALpSxg1uNFGGt8LWTT7emUou8cySyHaSeyn3L44UCKN#tvbus://8Fkb5GSVcme6YS5vY7NzZK1E96oNXj4f9LFhoD91UjBN5SLaQt#tvbus://6jgW2fAMK92LbohwV34X7KwR752R6EL6KM35NWwnqX2Mrpj7zmDrQtCmDDp2d#tvbus://6T4VgFsSr7NoDPNoS7yHhgfAhus4BeQ1WjQUrs2F1r9jyR7UhZp3tihi6wxiL#tvbus://63efswd6z1cxoNWhag3EkPW7j16iTtqjvggqbXrKWEN9svEiXzfXaYhohGHyT
+ANTV(VN),tvbus://7eC5xQMf6ybMBfsQQm7gBromGAKiMLKDqpz8mtRyi4fB28Sgcs#tvbus://8FDzfu7mh9Vpn8HdPgMUvfRBggJWXhqXuKYfuzJgSujodFHdRW#tvbus://6VSW1Wi1uTN8HWBbGabz1EuYzPEcfAFkAavKfNBw5XsnKyWJ19XHi4LHodpDP#tvbus://6N7Y6dRKzezoV7SLP2eYvFTyShHkXUPt2nVBGq7tAnV6Q1R3UXTgoctALdL8N#tvbus://6Xg3RnuZcwMV6pKnUY2gC5vHmhawEwCkWZGWUUb2wYpKijKRzez8o3Gy116Ni
+7-Mate,tvbus://81RWZ1y99mSDWoiomGNpYQP6EfcDDuvXqLJ13vUwc4hgSY5Tp8#tvbus://7p3hM7Zf5vtShB7rCr57JCRHnwqA1H4dGhiJoDAyRskHm3PUvj#tvbus://7U44EmNb4ESsmZ9rR44oqxZXJd3uohMZLab8TeaQM1s4nrG8Y6#tvbus://5eDuBBrcm1SJqsUPhSj6GWbeogqprJCKM6Wif4z3S5weudZc4xSGjjgjWKX9s#tvbus://5zBFv9YQCdScaGRH4jygopcrWF7DGyZJqkqjDziRvyXpHbmNM26tG9CA9LgRH#tvbus://69rxYap2o9kNWUBDcYHEozBnApzU5HqL94949Y6FLBWreEpHnR4ZqUqCZZk93
+7-Now,tvbus://81vxBwBxm9AKsX74QtuUnPmEJWg24TNG6fGrT23eyCPcQbsrKq#tvbus://8AL6A2wqiXbBKmeEitMZSnEMKgae2BEYKShjrBS2Ujer5xcXUk#tvbus://8Gv5xjFVzKGLVZYv8MoUEgsvxs6yntefDPP4X4xtpj9FS3CYi2#tvbus://8FFMRkbhWfty7XcVLDMHkwrbdYcdbBTH8JG5AN8TF3teyF3C4q#tvbus://6vaD8YpDEsksp8ZHMv2NgWk9ZQbrNsTtKerbiJTWkWkWiard7g#tvbus://8EpG6xKUgPNCXzY3m4tgcfCShKWSFez4oqwp59qyoeozBY9Qf8#tvbus://5v6fw4xbGDj6o8kd2V4pR4zGbegCezzhzfTsaAT69MKniSjhiwtGbBvkMKdam
+7-Two,tvbus://7ckvzf38oPz7BLurpSou6C7AqM9oUimKGJtAcdx3GA5EtmscAv#tvbus://7mfbYCZMKoTHoyHWRJJtTkRJiTB45FKbvx7Jsv4pPZ9bmw2Grh#tvbus://7DrE5vm2NKdzqqV5h64JuGPecgmcVUdvFEsxx6EGubkDnJ2oPm#tvbus://6jRinc7sbvWPswPwu9dq7ivSCnPj5NhEYR3eD35STGdhcpDZH2kBemrNW2LxS#tvbus://6dLNm1kA1NbCa1tdQQkp6Jc1PT7ycHLAUCQKCKNVcdmDq1wAfKNVvvcvhkwA1#tvbus://5icczFzsTGfNqGNteUTAKN8TEvF1kT8Lk6qiMXSwpLhXMpkBEdqfdT8EC3n8Z
 
-  _0000,#genre#
-
-PLAYBOY HD,https://f22.ccplay22aldrich.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-PLAYBOY HD,https://fm1077.serv00.net/anbo/index.php?id=411
-PLAYBOY HD,https://z88.ubtvfans.com/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-PLAYBOY HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-PLAYBOY TV,https://hyf000.eu.org/live/80947108.php?id=197
-Playboy LA,https://hyf000.eu.org/live/80947108.php?id=140
-Playboy Plus,https://hyf000.eu.org/live/80947108.php?id=102
-Playboy,https://hyf000.eu.org/live/80947108.php?id=16
-Playboy,http://spacetv.in/stream/DKQ6M3GWVG1/56.m3u8
-Playboy,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
-Playboy,mitv://135.148.104.228:19806/47f99c6bdb9449a594cc0621f8980f3c
-VERAPORN 4K,https://hyf000.eu.org/live/80947108.php?id=199
-VERAPORN 4K 2,https://hyf000.eu.org/live/80947108.php?id=200
-Tiny4K,https://hyf000.eu.org/live/80947108.php?id=118
-Extasy 4K,https://hyf000.eu.org/live/80947108.php?id=27
-BANGBROS UHD 4K,https://hyf000.eu.org/live/80947108.php?id=241
-Brazzers HD,https://hyf000.eu.org/live/80947108.php?id=1
-Brazzers TV Europe,https://hyf000.eu.org/live/80947108.php?id=2
-Brazzers eXXtra,https://hyf000.eu.org/live/80947108.php?id=3
-BUSTY LOVER,https://z02.ubtvfans.com/live/rx4/3093/2a861849d86e97cc28acbdb9729732c8/index.m3u8
-Cum4k,https://hyf000.eu.org/live/80947108.php?id=54
-CUM4K,https://hyf000.eu.org/live/🔞.php?id=19
-CUM4K,https://z02.ubtvfans.com/live/rx4/3094/ea741775a7f562ad2b33e9ae4fc4c8cc/index.m3u8
-French Lover,https://hyf000.eu.org/live/80947108.php?id=188
-美国家庭,p3p://167.114.175.6:55331/5ff7341b000bdc38cc94ba7e6b763297
-欧美艺术,p3p://167.114.175.6:55331/607e1f9f0004af8edb961118303e4935
-美国家庭,p3p://108.181.20.﻿159:37916/5ff7341b000bdc38cc94ba7e6b763297
-欧美艺术,p3p://108.181.20.﻿159:37916/607e1f9f0004af8edb961118303e4935
-美国家庭,p3p://173.208.176.178:31809/5ff7341b000bdc38cc94ba7e6b763297
-欧美艺术,p3p://173.208.176.178:31809/607e1f9f0004af8edb961118303e4935
-美国家庭,p3p://167.114.175.6:55331/5ff7341b000bdc38cc94ba7e6b763297
-欧美艺术,p3p://167.114.175.6:55331/607e1f9f0004af8edb961118303e4935
-美国家庭,http://A/ku9/js/159169.js?ip=167.114.175.6&id=5ff7341b000bdc38cc94ba7e6b763297
-欧美艺术,http://A/ku9/js/159169.js?ip=167.114.175.6&id=607e1f9f0004af8edb961118303e4935
-美国家庭,p3p://108.181.20.159:45963/5ff7341b000bdc38cc94ba7e6b763297
-欧美艺术,p3p://108.181.20.159:45963/607e1f9f0004af8edb961118303e4935
-美国家庭,p3p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e
-欧美艺术,p3p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750
-Playboy KR,p3p://173.208.176.178:31809/646fa54000041fa7e554fbe50f3b3077
-Midnight KR,p3p://173.208.176.178:31809/646fa5d10004a256e557326f0b8b5682
-Miami TV,p3p://173.208.176.178:31809/64eefc5700067df3d6beb4ce0b4d4a5d
-MiamiTVJennyForYou,p3p://173.208.176.178:31809/64ef02c100057c77d6d7c2942a8e0343
-IBIZA,http://A/ku9/js/159169.js?ip=167.114.175.6&id=644ecb5f000ca4ee650265db655d0248
-IBIZA,p3p://173.208.176.178:19806/644ecb5f000ca4ee650265db655d0248
+民視旅遊台,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+亞洲旅遊台,http://4gtv.mumi.rip:9877/250/4gtv-4gtv076/index.m3u8
+愛爾達生活旅遊台,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+MagellanTV頻道 (麥哲倫頻道),http://4gtv.mumi.rip:9877/450/4gtv-live123/index.m3u8
