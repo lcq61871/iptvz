@@ -1,17 +1,4 @@
 
-
-
-
-#EXTINF:-1 tvg-id="16166" tvg-name="美亞電影" tvg-logo="https://vpic.6868c.cc/media_asset/20220302/1646211970954619573.jpg" group-title="台灣148°",美亞電影(HK)
-http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="579" tvg-name="新加坡8" tvg-logo="http://123.176.96.186:18006/gemini-TW 欧飞//images/livepic/1bswqtjtpvv007ii0m6asbgb2511gqli.png" group-title="TW 欧飞",新加坡8
-https://pixman.mytvsuper.com.mp/Smart.php?id=Channel8HD
-#EXTINF:-1 tvg-id="579" tvg-name="新加坡8" tvg-logo="http://123.176.96.186:18006/gemini-TW 欧飞//images/livepic/1bswqtjtpvv007ii0m6asbgb2511gqli.png" group-title="TW 欧飞",新加坡8
-http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="579" tvg-name="新加坡8" tvg-logo="http://123.176.96.186:18006/gemini-TW 欧飞//images/livepic/1bswqtjtpvv007ii0m6asbgb2511gqli.png" group-title="TW 欧飞",新加坡8
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="TW 欧飞", 黃金北美
-http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1 tvg-id="567" tvg-name="8度空间" tvg-logo="http://123.176.96.186:18006/gemini-TW 欧飞//images/livepic/bdafnmwgc3kyawzmblak3fozwqkehobu.png" group-title="TW 欧飞",8度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-id="334" tvg-name="东森电影" tvg-logo="http://123.176.96.186:18006/gemini-TW 欧飞//images/livepic/32mz9hbzi5jq5jzuz4xd0xodcg9oxtut.png" group-title="TW 欧飞",東森電影
