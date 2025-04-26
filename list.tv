@@ -1,4 +1,4 @@
-4GTV-PHP🌸,#genre#
+4GTV,#genre#
 TVBS新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv072
 TVBS,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv073
 東森新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv152
@@ -89,9 +89,7 @@ ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longtu
 Playboy Plus,https://hyf000.eu.org/live/80947108.php?id=102
 FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-
-
-HK-SMT🌸,#genre#
+Smartv,#genre#
 民視旅遊,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv07/index.m3u8
 亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv076/index.m3u8
 ELTA生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
@@ -151,7 +149,7 @@ Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 
 
-收藏🌸,#genre#
+🌏,#genre#
 CCTV1綜合,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv1hd&playseek=
 CCTV1綜合,tvbus://754wArwKe2oFVqFNowKvwFb6mq6Ra35TedFPE6Em2dYod8oTjr#tvbus://7XAey2WCN5WcXG16B9VBdWoxG8dpiyiB7XREXhCjSzPqpRWph7#tvbus://7NrawBmR4j3ej7xEXGX5KV8p19V4dH6iEVukBUcjZ1kBiYaBSi#tvbus://8mt7nTgkFwdCBYUxke7RRLmfUeeV25GVdcuNGkWxQS74qppVfx#tvbus://89ywtuuDRPDME3BATFU4CBZRZyQYS1owGWeTmguw3HnY4gSBev#tvbus://8aksQWGRq5cgearaVp1w33KmS3mmG5aYY3qH3TnmJkgBh5cSYM#tvbus://6LibUX6aSh1u21u6rbHq7ha31XkCQrTcg98FGJXUto1QARZWxRrZHsBcoyo8L
 CCTV2財經,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv2hd&playseek=
@@ -165,7 +163,6 @@ CCTV文化精品,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_398?token
 tvN(TW),tvbus://82UCR98s3YkN614FJoxBmKQFRMdKKiKQs8oQar5QND7gxntKUL#tvbus://8MbsaNYjTYcqhesWXes1vvwtJZdDFtW3G3HYYzkQ6YCZ8Bhqtu#tvbus://6dwDVJcvDPFY3dxDJQcByaBq8KX9RTTY1QtbhbPgdS85kvDZKKeT2GPuCnh88#tvbus://6ZLyrDu544NBrKTBsCMVcSubmd4xgQaDDRTY9i6aAYup3zngb5nzRrBA2bWoG#tvbus://5yM3CFBv4y5VzmAXGsGQC2jho3RWt1PGWYjZkTRMjn6fp2EcaSfnqR7Gu7sQE
 翡翠台,tvbus://8LMVj21AMLYynx8r6BgGKnSq4eD1tn1nxjBQiRtx98h3ibev3r#tvbus://7thEZmGxTEdbmhEKwasidZK1wzeo5tkNduCRNTUVhf9kyMSroS#tvbus://7gy7JhXwFW2vvPVf1SH2CVHcAfjRMGZoZy4DaQnxVVi8tLwtzu#tvbus://8THk4xDZHCQkJiz57i8GU6kafkqV9duho5ezM8JtZ2Ejs2xFGD#tvbus://86eX7AZXgWyCPFEjQr1ZRoUrGdHU2c5HGroAALyhifwoUXusXM#tvbus://7ajwxDWM7jjq3msx73X2zJFFWsZL7GnnoWxqSqPNLZci5wYgnY#tvbus://6TVws8SRzfLoz91XBVsPSVge1W3cpuNj2RWLzupoWYWkN9sb1a2JeM4x3PZyu
 翡翠台(备:1),tvbus://7t84haoAhepDQqeyPNmta5aEdxDGoZekCy6yQVXuJYzaLCrxSw#tvbus://6yzrgQP7Fm4hyC6MrjjbM9oLGsiCvzuGf3rYSrqZTetYEzrk5T#tvbus://5Kef6mmU21pxMTnG1R53vuvYspS6NsQ3bgcpapSXXCzyZLbf2bY9uknqPH729#tvbus://5wWwiWmZ4wxgNECEcY4XejKrYB6DGKdKGJqywi1xysRnRa8A83gSySb41kfGn#tvbus://6jNXqgAHKpwN4fZ7KnZnbN4WtznQ8JiX7fyaKvH1UYbhdqKEnYErzhZCeL9qK
-翡翠台(备:2),tvbus://7ZAapmDhEuRgPn9PpgeBU54xJEMRyaxGsrhTZ9KsiQqwKPA7fp#tvbus://8RDisdJwQ1sxLTqJWx1KKJceBWN4QoxxtFTifxgttUBcCcTrXN#tvbus://5NLF8LLHEsFo4RARReWMwybbd26XRdf7trxWYcQpRzNZwp6U8Ez7PeLYC2vSw#tvbus://5mM5ydAVRaPPXi7DYDxVDtcmaqabFSbPJdRE4x1UCyzSvrsTA9Y6LCEY9hTCs#tvbus://6Zm6ZRzsEPub3KTmibhq15o8TS9pV2TEeHect1PTBZ2ffdrYvemgf19vkNA1h
 无线翡翠频测,tvbus://8LMVj21AMLYynx8r6BgGKnSq4eD1tn1nxjBQiRtx98h3ibev3r#tvbus://7thEZmGxTEdbmhEKwasidZK1wzeo5tkNduCRNTUVhf9kyMSroS#tvbus://7gy7JhXwFW2vvPVf1SH2CVHcAfjRMGZoZy4DaQnxVVi8tLwtzu#tvbus://8THk4xDZHCQkJiz57i8GU6kafkqV9duho5ezM8JtZ2Ejs2xFGD#tvbus://86eX7AZXgWyCPFEjQr1ZRoUrGdHU2c5HGroAALyhifwoUXusXM#tvbus://7ajwxDWM7jjq3msx73X2zJFFWsZL7GnnoWxqSqPNLZci5wYgnY#tvbus://6TVws8SRzfLoz91XBVsPSVge1W3cpuNj2RWLzupoWYWkN9sb1a2JeM4x3PZyu#tvbus://7t84haoAhepDQqeyPNmta5aEdxDGoZekCy6yQVXuJYzaLCrxSw#tvbus://6yzrgQP7Fm4hyC6MrjjbM9oLGsiCvzuGf3rYSrqZTetYEzrk5T#tvbus://5Kef6mmU21pxMTnG1R53vuvYspS6NsQ3bgcpapSXXCzyZLbf2bY9uknqPH729#tvbus://5wWwiWmZ4wxgNECEcY4XejKrYB6DGKdKGJqywi1xysRnRa8A83gSySb41kfGn#tvbus://6jNXqgAHKpwN4fZ7KnZnbN4WtznQ8JiX7fyaKvH1UYbhdqKEnYErzhZCeL9qK#tvbus://7ZAapmDhEuRgPn9PpgeBU54xJEMRyaxGsrhTZ9KsiQqwKPA7fp#tvbus://8RDisdJwQ1sxLTqJWx1KKJceBWN4QoxxtFTifxgttUBcCcTrXN#tvbus://5NLF8LLHEsFo4RARReWMwybbd26XRdf7trxWYcQpRzNZwp6U8Ez7PeLYC2vSw#tvbus://5mM5ydAVRaPPXi7DYDxVDtcmaqabFSbPJdRE4x1UCyzSvrsTA9Y6LCEY9hTCs#tvbus://6Zm6ZRzsEPub3KTmibhq15o8TS9pV2TEeHect1PTBZ2ffdrYvemgf19vkNA1h
 无线华丽频测,tvbus://74t1s3zfpCPiS9jQCrPHBepWjirwvkFq6nMydSnQYaNCgdaRJq#tvbus://7TvL6hYWy4uTonkk7UAVZq6fRfpSAiEwFrHjwkKoiRP3g8Uvrz#tvbus://8LnW5AWshBmFi37WUMiL2KqEAhRBXXfXftAd1nYN6P7GiHgkMk#tvbus://8j4gmyvAJcjUXSNq14GmmCXgDe14AiiFURQ1P4TRdrh2BsbRBQ#tvbus://8GgRaJd2p2KGeGWExN1XZCtLbeRk4K16ZzYdZ6jYVsovnp1bq5#tvbus://7TyFfxQkUY4TLbiGJPZiB5nLMoCAaXmPMwKBDSbNam96JtEKkK#tvbus://6YCNF54tpKbyBZHQ2KKh2ZhbvWYMq9Du8GsmtBnN7aHzJT4fbaoDGCYyPq81e
 TVB星河頻道,tvbus://6yNeeY1KYTpqKNLaB6YuBm93ksELVKaqpssAzqxiwLr7t2Cn7G#tvbus://8gFc7dmUKYWxtWFFUUkRMNJXdKMCqNpmAaWBEXySBGHFTQS2gp#tvbus://8JpRS5Fqrz8pXEc9SpLUnzBRT17Vv7tE8J83zEtpDFaY5ugcif#tvbus://6tRf2Zi5HVhEkoMgxYaQQPfyioZnquhHxiLxnmG5tQgUA9rvQY#tvbus://8axj6dBKCiBvoD4qCycUGKvzetcvwajZQBywmRPZG8XqA8xKde#tvbus://7cydkC4CZZCgH829yBTHLRmRxVvaBGdwZmjmDPEBHbsi29WA88#tvbus://6S256i2J6hD5926UeKwe2ymfXLmqPYE4nuESv93qRMtWmZpXwjhRRHLGjBk3K
@@ -201,7 +198,60 @@ EYE TV旅遊HD,tvbus://7bKKR5GrPw5v9AD4Tevfrz4wcZpJ3oLzAdHP9MwFVzfDZMVuMM#tvbus:
 民視旅遊台,tvbus://8K8o2yjm177cTDkF7FDPCLuhWjPZs9EmEJAH8um8qiYuKTgc1h#tvbus://72gx7DwwVNgBteMJ3rVZW2UVPomMrPfNYurd6FapH2MZKmwdse#tvbus://5fWgjCz9brXxG9zFJLRy4zta2je48F5pQPDzMU6BQcFG1uFFySpwfb9kiUe9s#tvbus://6GtE5FpLQ955FLU99EEkK4czwiStp32ofgWDETGuHAsJE4nTb9maBMHJGk4aq#tvbus://6RULhRtryaCZxdUzH5Z1wVZq98SEno8YcSF8zKttqSFkMc4P24UJGsPbj9tZD
 TLC旅遊生活,tvbus://8W1zdB9XnKX6qwZppG9BBiBgFHvFHm1tHhjVhCRPgHTmMkp12X#tvbus://8GEUve9SjaaWk4t8zVBaLU9JXzHaVGFAMevu3pKVeCdzzKGs6a#tvbus://5QZp4H3T879UjZqFiyE3z7T5wSRMFh9uHQpSoGB26W6oikQSkyiJKqai3XTRe#tvbus://5poqkZcQiRrBNKyxn39x1URXbVCYv8K2ZmAX8WTrRN1omAPqWoNALwds17ftS#tvbus://6DgH4yBZcyCR5SAP9hpqkTQZMQDcNLS7PSeUUrJyGMwN88q97ep6Hh4LJJmg8
 
-
+全网通,#genre#
+CCTV-1,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv1hd&playseek=
+CCTV-2,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv2hd&playseek=
+CCTV-3,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv3hd&playseek=
+CCTV-4,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv4hd&playseek=
+CCTV-5,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5hd&playseek=
+CCTV-5+,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5phd&playseek=
+CCTV-6,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv6hd&playseek=
+CCTV-7,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv7hd&playseek=
+CCTV-8,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv8hd&playseek=
+CCTV-9,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv9hd&playseek=
+CCTV-10,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv10hd&playseek=
+CCTV-11,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv11hd&playseek=
+CCTV-12,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv12hd&playseek=
+CCTV-13,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv13hd&playseek=
+CCTV-14,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv14hd&playseek=
+CCTV-15,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv15hd&playseek=
+CCTV-16,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv16hd&playseek=
+CCTV-17,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv17hd&playseek=
+北京卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=bjwshd&playseek=
+天津卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=tjwshd&playseek=
+黑龙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hljwshd&playseek=
+吉林卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jlwshd&playseek=
+辽宁卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=lnwshd&playseek=
+山东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sdwshd&playseek=
+河北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hebwshd&playseek=
+河南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=henwshd&playseek=
+湖北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hubwshd&playseek=
+湖南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hnwshd&playseek=
+安徽卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ahwshd&playseek=
+浙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=zjwshd&playseek=
+江苏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
+江西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jxwshd&playseek=
+东方卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=dfwshd&playseek=
+内蒙古卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nmgwshd&playseek=
+甘肃卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gswshd&playseek=
+四川卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=scwshd&playseek=
+重庆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cqwshd&playseek=
+云南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ynwshd&playseek=
+贵州卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gzwshd&playseek=
+广东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gdwshd&playseek=
+广西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gxwshd&playseek=
+东南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=dnwshd&playseek=
+深圳卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=szwshd&playseek=
+海南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hainwshd&playseek=
+三沙卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sswshd&playseek=
+厦门卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xmws&playseek=
+山西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sx1ws&playseek=
+陕西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sx3ws&playseek=
+宁夏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nxws&playseek=
+青海卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=qhws&playseek=
+西藏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xzws&playseek=
+新疆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xjws&playseek=
+兵团卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=btws&playseek=
 
 港澳,#genre#
 HOY TV,tvbus://7ZN7Rv6FkW2uucVq8gfhFpkwKqSTJEt2v1JGuTmSGWn7gHa82f#tvbus://7acNwrk6PrcfqipD1wioWqesZMz6wAt5x3JgrGmrfGWUWjvSr2#tvbus://5daSWZjwwRGgDqSJY7vvmSa4RHC3Ewb7gwBRHUyzeZfn5K6w3vsSj2dvRgLRP#tvbus://5RsZzMCayXosxyn8pRQak1KfDa1CPj2zhyi1RsNmyKce6JvzxMNn6rcWrJoK7#tvbus://5YX4Cn9BeQyVeuExonyq1Eg4PyTLjnjTSKKKvhcocsQm3xy595utb9rbTGfwf
