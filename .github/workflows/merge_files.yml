@@ -22,7 +22,7 @@ jobs:
           python-version: '3.x'
 
       - name: Remove old merged file
-        run: rm -f dszb.txt  # 
+        run: rm -f dszb.tv  # 
 
       - name: Run merge script
         run: python zb.py  # 
@@ -31,6 +31,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dszb.txt
+          git add dszb.tv
           git commit -m '自动合并 TXT 文件' || echo "No changes to commit"
           git push
