@@ -1,0 +1,284 @@
+abc频道,#genre#
+CCTV1 综合[1920x1080], http://116.30.249.120:8088/udp/239.77.1.17:5146
+CCTV1 综合[1920x1080], http://116.30.249.120:8088/udp/239.77.0.119:5146
+CCTV13 新闻[1920x1080], http://113.104.184.49:7088/udp/239.77.0.188:5146
+CCTV13 新闻[1920x1080], http://116.30.249.120:8088/udp/239.77.0.188:5146
+CCTV13 新闻[1920x1080], http://113.104.184.49:7088/udp/239.253.43.196:5146
+CCTV2 财经[1920x1080], http://113.104.184.49:7088/udp/239.253.43.17:5146
+CCTV2 财经[1920x1080], http://116.30.249.120:8088/udp/239.77.0.137:5146
+CCTV2 财经[1920x1080], http://113.104.184.49:7088/udp/239.77.1.158:5146
+CCTV世界地理[1920x1080], http://113.104.184.49:7088/udp/239.253.43.24:5146
+CCTV世界地理[1920x1080], http://116.30.249.120:8088/udp/239.253.43.24:5146
+CCTV世界地理[1920x1080], http://113.104.184.49:7088/udp/239.253.43.7:5146
+CCTV央视台球[1920x1080], http://113.104.184.49:7088/udp/239.253.43.21:5146
+CCTV央视台球[1920x1080], http://116.30.249.120:8088/udp/239.253.43.11:5146
+CCTV央视文化精品[1920x1080], http://116.30.249.120:8088/udp/239.253.43.13:5146
+CCTV央视文化精品[1920x1080], http://116.30.249.120:8088/udp/239.253.43.27:5146
+CCTV怀旧剧场[1920x1080], http://116.30.249.120:8088/udp/239.253.43.5:5146
+CCTV怀旧剧场[1920x1080], http://116.30.249.120:8088/udp/239.253.43.25:5146
+CCTV风云足球[1920x1080], http://116.30.249.120:8088/udp/239.253.43.14:5146
+CCTV风云足球[1920x1080], http://113.104.184.49:7088/udp/239.253.43.20:5146
+CCTV风云足球[1920x1080], http://116.30.249.120:8088/udp/239.253.43.20:5146
+CCTV高尔夫·网球[1920x1080], http://116.30.249.120:8088/udp/239.253.43.12:5146
+CCTV高尔夫·网球[1920x1080], http://113.104.184.49:7088/udp/239.253.43.22:5146
+深圳都市频道, http://183.30.199.238:8886/udp/239.77.1.176:5146
+深圳都市频道, http://183.51.190.61:6633/udp/239.77.1.176:5146
+深圳都市频道, http://183.30.199.238:8886/udp/239.77.1.124:5146
+深圳都市频道, http://183.51.190.61:6633/udp/239.77.1.124:5146
+湖南卫视[1920x1080], http://116.30.249.120:8088/udp/239.77.1.129:5146
+湖南卫视[1920x1080], http://113.104.184.49:7088/udp/239.77.1.5:5146
+湖南卫视[1920x1080], http://113.104.184.49:7088/udp/239.77.0.88:5146
+4GTV,#genre#
+TVBS新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv072
+TVBS,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv073
+東森新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv152
+寰宇新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn14
+中天新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv009
+非凡新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv010
+中視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv074
+民視新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv13
+台視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv051
+華視新聞,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv052
+民視旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv07
+博斯魅力台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn04
+愛爾達娛樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv070
+中視菁采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv064
+TVBS精采台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv067
+TVBS歡樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv068
+民視台灣台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv001
+民視第一台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv003
+民視綜藝台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv004
+豬哥亮歌廳秀,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv006
+影迷數位電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv011
+視納華仁紀實頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv013
+時尚運動X,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv014
+達文西頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv018
+八大精彩台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv034
+八大綜藝台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv039
+中視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv040
+華視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv041
+公視戲劇,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv042
+客家電視台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv043
+靖天卡通台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv044
+靖洋戲劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv045
+靖天綜合台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv046
+靖天日本台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv047
+非凡商業台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv048
+采昌影劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv049
+GINX Esports TV,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv053
+靖天歡樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv054
+亞洲旅遊台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn17
+靖天映畫,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv055
+台視財經,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv056
+靖洋卡通台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv057
+靖天戲劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv058
+CLASSICA古典樂,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv059
+靖天電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv061
+靖天育樂台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv062
+靖天國際台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv063
+寰宇新聞台灣台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn15
+靖天資訊台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv065
+台視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv066
+CATCHPLAY電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv076
+TRACE Sport Stars,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv077
+ARIRANG阿里郎頻道,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv079
+中視經典台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv080
+TRACE Urban,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv082
+Mezzo Live,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv083
+國會頻道1台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv084
+國會頻道2台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv085
+智林體育台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv101
+東森購物1台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv102
+東森購物2台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv103
+第1商業台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv104
+中天亞洲台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv109
+東森財經新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv153
+民視,http://192.168.31.4:1216/litv.php?token=jake3&id=4gtv-4gtv155
+VOA美國之音,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv03
+民視影劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv09
+半島國際新聞台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv10
+i-Fun動漫台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv15
+好消息,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv16
+好消息2台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-ftv17
+龍華卡通台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn01
+龍華電影台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn03
+博斯高球台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn05
+博斯高球二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn06
+博斯運動一台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn07
+博斯運動二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn08
+博斯網球台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn09
+博斯無限台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn10
+龍華日韓台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn11
+龍華偶像台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn12
+博斯無限二台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn13
+龍華戲劇台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn18
+Smart知識台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn19
+ELTV生活英語台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn20
+龍華經典台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn21
+寰宇財經台,http://192.168.31.4:1216/litv.php?token=jake3&id=litv-longturn23
+Playboy Plus,https://hyf000.eu.org/live/80947108.php?id=102
+FASHION TV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+Smartv,#genre#
+民視旅遊,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv07/index.m3u8
+亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv076/index.m3u8
+ELTA生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
+MagellanTV頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live123/index.m3u8
+民視旅遊,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv07/index.m3u8
+亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv076/index.m3u8
+Smart知識台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn19/index.m3u8
+亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv076/index.m3u8
+Smart知識台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn19/index.m3u8
+民視旅遊,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+亞洲旅遊,http://4gtv.mumi.rip:9877/250/4gtv-4gtv076/index.m3u8
+ELTA生活旅遊,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+MagellanTV頻道,http://4gtv.mumi.rip:9877/450/4gtv-live123/index.m3u8
+
+NOW新闻台,http://mytv.cdn.com.mp/live/now/stream.m3u8
+东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
+好莱坞电影,http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
+龙祥时代,http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
+纬来电影,http://mytv.cdn.com.mp/live/wldy/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+
+香港|翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
+香港|翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
+香港|iNews 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
+香港|J 2,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
+香港|珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
+香港|凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+香港|HOY资讯台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+台湾|八大第一 GTV First,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
+台湾|八大综合 GTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
+台湾|八大娱乐 GTV Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
+台湾|东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+台湾|纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+台湾|纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
+台湾|纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
+台湾|纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
+台湾|亚洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
+台湾|美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
+台湾|亚洲旅游 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
+台湾|龙详时代,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+台湾|EYETV 旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
+台湾|AFC 亚洲旅游台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+印度|Sun TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Suntv
+印度|Star Vijay,https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
+印度|Sun Music,https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
+
+
+
+🌏,#genre#
+CCTV1綜合,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv1hd&playseek=
+CCTV1綜合,tvbus://754wArwKe2oFVqFNowKvwFb6mq6Ra35TedFPE6Em2dYod8oTjr#tvbus://7XAey2WCN5WcXG16B9VBdWoxG8dpiyiB7XREXhCjSzPqpRWph7#tvbus://7NrawBmR4j3ej7xEXGX5KV8p19V4dH6iEVukBUcjZ1kBiYaBSi#tvbus://8mt7nTgkFwdCBYUxke7RRLmfUeeV25GVdcuNGkWxQS74qppVfx#tvbus://89ywtuuDRPDME3BATFU4CBZRZyQYS1owGWeTmguw3HnY4gSBev#tvbus://8aksQWGRq5cgearaVp1w33KmS3mmG5aYY3qH3TnmJkgBh5cSYM#tvbus://6LibUX6aSh1u21u6rbHq7ha31XkCQrTcg98FGJXUto1QARZWxRrZHsBcoyo8L
+CCTV2財經,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv2hd&playseek=
+CCTV2財經,tvbus://7jtPkTrJERFLxQXdhCPyQZ1zgDBGPMUCcSYMTvX8QyrcT1WDgb#tvbus://8KJ2ZfZpfP2psAoCY9WcQ2WKrvav8Wr1j4dqELPLFFEP5D2QJB#tvbus://7bfpbDFkyiXLGCdHpxbj3mgMMceto77cQMD1o6YRM5NxoWKPyW#tvbus://6wfTyFhKVZfAoxAnjMMgLiomLrivJyKsFTiGGAhxRRTW8rPjyb#tvbus://88jKPuAnsHe92pre297Hp3796Gh7yWh4QMtDL2qr1YyXXMhUWq#tvbus://7LMM89oyjLun48PuFYUS34QGv9ntVv4bEByqMx74KvpHhJdoUm#tvbus://622cDxsJYPEqJR4Hiwrckfm6nkxPPNeM3quSUvn4vrBQWDwWDfaAwy2hB8Rzx
+CCTV13新聞,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv13hd&playseek=
+CCTV13新聞,tvbus://8YDFqA7N9eByPJEpahaXtryMXsL8GNS12wMPPkmcDij1xJh1ns#tvbus://7QoWsbLYJ8pEbv6mKmfFSsWb9Ra1agoNhJxv3Av7r47iyyiaCr#tvbus://8PbEF6ZHDzZdkKQ8fbxXM4TBAhZSopAdy8HuVjE4fuzCnnTD8v#tvbus://7UHnfTYmnW2YJ8gWPu8Vy1Uxr2y85fHDkV7PQu61PRXPi4m97B#tvbus://8fG912r3QiqShzATPLLfVQ2i1wQDCUtvEqpPsw6ey1pVxbeqH1#tvbus://7ZsK7BJKVsiAsiEQVyPQJo9z9ppRV6dSEy51C48Df7gTFLPHNY#tvbus://6HKy6TTrW92Ee5JsBdsHvfaMcYhe36cxdmWGPUCSf76k6XLeGPAcYnCaFQ7RR
+CCTV世界地理,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_394?token=eiVZME6INXlBgfujsCRnFg%3D%3D&key=z%2FJRIJcWo%2BECMIJB8qdoeuQRBy8DiwbtU4XFwEiYO7SQw7SXrHHZUkUKgm4cL%2BNlH%2FsY4IIOau7E3nog4pWjdCGdDuuarF4If2JGExDYStd9MEKkJWzFYjSd4XBCbbBzM1U9ccAfDJDC6jvfYtfShaTvaRc%2BWxH1bHK%2B3q0w5pRFObwCaFJUl6dXdyoMm0IO&clientIp=140.250.235.236
+CCTV文化精品,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_398?token=eiVZME6INXlBgfujsCRnFg%3D%3D&key=z%2FJRIJcWo%2BECMIJB8qdoeuQRBy8DiwbtU4XFwEiYO7SQw7SXrHHZUkUKgm4cL%2BNlH%2FsY4IIOau7E3nog4pWjdCGdDuuarF4If2JGExDYStd9MEKkJWzFYjSd4XBCbbBzjFgyKQqUL%2FAJh3T06es%2FtH1RlbTYqQwL6ATRpWFtPcm6u6W%2BBMWlJQLQxp9ksUks&clientIp=140.250.235.236
+湖南衛視,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hnwshd&playseek=
+湖南衛視,tvbus://6ujPR589nF5jAZCMb1g9WSCjSgZbvv4AVhvBze6mc7MjA9uiDS#tvbus://8fb9gfdV6D6rn8Q2w4i53F45KznHjqZs5fZxZitBexWg9nJpp6#tvbus://6D8pqxJmLQPQYZjTZD2peh17Ubng6NCEqaVgirfyCaCRmAq6Tm7mxkSGHEyYC#tvbus://6B8EuAsKbbD6qrjPhysm1H9WvsBC1gUZNTgGCqZZgi1yrn9TbUBXsW3EdtfaX#tvbus://5p5CFNF2WQqkmRp3qrgEQfinqajWpSntktPzbeBfnDFSLJXbsVH9PQVMAFWST
+tvN(TW),tvbus://82UCR98s3YkN614FJoxBmKQFRMdKKiKQs8oQar5QND7gxntKUL#tvbus://8MbsaNYjTYcqhesWXes1vvwtJZdDFtW3G3HYYzkQ6YCZ8Bhqtu#tvbus://6dwDVJcvDPFY3dxDJQcByaBq8KX9RTTY1QtbhbPgdS85kvDZKKeT2GPuCnh88#tvbus://6ZLyrDu544NBrKTBsCMVcSubmd4xgQaDDRTY9i6aAYup3zngb5nzRrBA2bWoG#tvbus://5yM3CFBv4y5VzmAXGsGQC2jho3RWt1PGWYjZkTRMjn6fp2EcaSfnqR7Gu7sQE
+翡翠台,tvbus://8LMVj21AMLYynx8r6BgGKnSq4eD1tn1nxjBQiRtx98h3ibev3r#tvbus://7thEZmGxTEdbmhEKwasidZK1wzeo5tkNduCRNTUVhf9kyMSroS#tvbus://7gy7JhXwFW2vvPVf1SH2CVHcAfjRMGZoZy4DaQnxVVi8tLwtzu#tvbus://8THk4xDZHCQkJiz57i8GU6kafkqV9duho5ezM8JtZ2Ejs2xFGD#tvbus://86eX7AZXgWyCPFEjQr1ZRoUrGdHU2c5HGroAALyhifwoUXusXM#tvbus://7ajwxDWM7jjq3msx73X2zJFFWsZL7GnnoWxqSqPNLZci5wYgnY#tvbus://6TVws8SRzfLoz91XBVsPSVge1W3cpuNj2RWLzupoWYWkN9sb1a2JeM4x3PZyu
+翡翠台(备:1),tvbus://7t84haoAhepDQqeyPNmta5aEdxDGoZekCy6yQVXuJYzaLCrxSw#tvbus://6yzrgQP7Fm4hyC6MrjjbM9oLGsiCvzuGf3rYSrqZTetYEzrk5T#tvbus://5Kef6mmU21pxMTnG1R53vuvYspS6NsQ3bgcpapSXXCzyZLbf2bY9uknqPH729#tvbus://5wWwiWmZ4wxgNECEcY4XejKrYB6DGKdKGJqywi1xysRnRa8A83gSySb41kfGn#tvbus://6jNXqgAHKpwN4fZ7KnZnbN4WtznQ8JiX7fyaKvH1UYbhdqKEnYErzhZCeL9qK
+无线翡翠频测,tvbus://8LMVj21AMLYynx8r6BgGKnSq4eD1tn1nxjBQiRtx98h3ibev3r#tvbus://7thEZmGxTEdbmhEKwasidZK1wzeo5tkNduCRNTUVhf9kyMSroS#tvbus://7gy7JhXwFW2vvPVf1SH2CVHcAfjRMGZoZy4DaQnxVVi8tLwtzu#tvbus://8THk4xDZHCQkJiz57i8GU6kafkqV9duho5ezM8JtZ2Ejs2xFGD#tvbus://86eX7AZXgWyCPFEjQr1ZRoUrGdHU2c5HGroAALyhifwoUXusXM#tvbus://7ajwxDWM7jjq3msx73X2zJFFWsZL7GnnoWxqSqPNLZci5wYgnY#tvbus://6TVws8SRzfLoz91XBVsPSVge1W3cpuNj2RWLzupoWYWkN9sb1a2JeM4x3PZyu#tvbus://7t84haoAhepDQqeyPNmta5aEdxDGoZekCy6yQVXuJYzaLCrxSw#tvbus://6yzrgQP7Fm4hyC6MrjjbM9oLGsiCvzuGf3rYSrqZTetYEzrk5T#tvbus://5Kef6mmU21pxMTnG1R53vuvYspS6NsQ3bgcpapSXXCzyZLbf2bY9uknqPH729#tvbus://5wWwiWmZ4wxgNECEcY4XejKrYB6DGKdKGJqywi1xysRnRa8A83gSySb41kfGn#tvbus://6jNXqgAHKpwN4fZ7KnZnbN4WtznQ8JiX7fyaKvH1UYbhdqKEnYErzhZCeL9qK#tvbus://7ZAapmDhEuRgPn9PpgeBU54xJEMRyaxGsrhTZ9KsiQqwKPA7fp#tvbus://8RDisdJwQ1sxLTqJWx1KKJceBWN4QoxxtFTifxgttUBcCcTrXN#tvbus://5NLF8LLHEsFo4RARReWMwybbd26XRdf7trxWYcQpRzNZwp6U8Ez7PeLYC2vSw#tvbus://5mM5ydAVRaPPXi7DYDxVDtcmaqabFSbPJdRE4x1UCyzSvrsTA9Y6LCEY9hTCs#tvbus://6Zm6ZRzsEPub3KTmibhq15o8TS9pV2TEeHect1PTBZ2ffdrYvemgf19vkNA1h
+无线华丽频测,tvbus://74t1s3zfpCPiS9jQCrPHBepWjirwvkFq6nMydSnQYaNCgdaRJq#tvbus://7TvL6hYWy4uTonkk7UAVZq6fRfpSAiEwFrHjwkKoiRP3g8Uvrz#tvbus://8LnW5AWshBmFi37WUMiL2KqEAhRBXXfXftAd1nYN6P7GiHgkMk#tvbus://8j4gmyvAJcjUXSNq14GmmCXgDe14AiiFURQ1P4TRdrh2BsbRBQ#tvbus://8GgRaJd2p2KGeGWExN1XZCtLbeRk4K16ZzYdZ6jYVsovnp1bq5#tvbus://7TyFfxQkUY4TLbiGJPZiB5nLMoCAaXmPMwKBDSbNam96JtEKkK#tvbus://6YCNF54tpKbyBZHQ2KKh2ZhbvWYMq9Du8GsmtBnN7aHzJT4fbaoDGCYyPq81e
+TVB星河頻道,tvbus://6yNeeY1KYTpqKNLaB6YuBm93ksELVKaqpssAzqxiwLr7t2Cn7G#tvbus://8gFc7dmUKYWxtWFFUUkRMNJXdKMCqNpmAaWBEXySBGHFTQS2gp#tvbus://8JpRS5Fqrz8pXEc9SpLUnzBRT17Vv7tE8J83zEtpDFaY5ugcif#tvbus://6tRf2Zi5HVhEkoMgxYaQQPfyioZnquhHxiLxnmG5tQgUA9rvQY#tvbus://8axj6dBKCiBvoD4qCycUGKvzetcvwajZQBywmRPZG8XqA8xKde#tvbus://7cydkC4CZZCgH829yBTHLRmRxVvaBGdwZmjmDPEBHbsi29WA88#tvbus://6S256i2J6hD5926UeKwe2ymfXLmqPYE4nuESv93qRMtWmZpXwjhRRHLGjBk3K
+TVB星河頻道(备:1),tvbus://7n9S81Q6jEXrWjxGmcU3Bx6BQMhtoDKrdpQyNmouDxywJHD45y#tvbus://7rcTtScQZZ7VzHTqcNS2uRHzmEKKo9RsLmdvjamCEkGRzUnNL3#tvbus://5aoqJMniW1vjiYiruRubYwqPJzvLVnccMdvFRabTBJPmbBeBfNZmvjPiLAVR4#tvbus://6ity2RtxveQmA7huR5DmDNUSSbTCbzEb8j7tMpfVB8NzoLz5nutQDRkBPp5Rj#tvbus://5cqG51eZt18auG65F6isogTDpJPpfv2ELGVxB6osESN8egeXMXpzNcoK918qH
+无线经典频测,tvbus://783J48rpNgCKx9V777UnY8TBf7wZPP3bQjjFov6cdBhAEDLmPo#tvbus://8bkLt8kvUoqdj19moFDtaQ7bhp9omXXcmLGTuhrMYFouowii7b#tvbus://77WDcHhvPZiPPxpNqkNspZmoeqYWN3tTsSm17FBhCUYtwrQs3q#tvbus://7GJynpsuZ5Wyez52YQg1wmJ43TRGnXxCySH4KZ4Qvqg4Fnf3J9#tvbus://8XEbZx3n25xqidaniwg5SB49qd7owXckxWEfAaeE15umYfqqzo#tvbus://8N3FAu7fjJMxtLAZrbP9s5WRGXTz53bSZ592LeMnhVvufBmozj#tvbus://5hYeJ832h3hrFkrEw9Rce79ppqqAiDcM6voZsLGX3yDNrSZwwR8dz3LJKDyon
+天映经典频测,tvbus://75ZnxccXHY2VG9MYKT3iDEuAJ4uKQZV2KCvqiWWNmoqps2xZTu#tvbus://8LDxVs1SPgay9iJKU8Ne8ym4toc3SqayejL9zU8mLGacGYE9oE#tvbus://5jyTDrpvhUEiEHaaNvkcQFYWcCneT8nb4oR2gwRpg9tXymV4dZ7r8dFGTePZq#tvbus://63M6rHFURFP5DW2b9VcqiFTXkVivYqfm4FgZbk5qq4AGGw73mb3yubP3qjY9M#tvbus://6ToeZRJ1gnmnNMSXCK4q4TWCYfFrKfCVn78qmJXNfjYpApRUHXntuyE9vCSt8
+天映频道频测,tvbus://77pcuPGzoUKogBYTGPaTyvv1aEnBVGFgWDcyq7Nq6SvPsLAbXs#tvbus://6qkgmPgbsYjUyk1b1jx2b1ZtBN63dbYg7zsnzhgC368g6aefJu#tvbus://6B1vSuSJzS4XbrFPq5P73474wFjvjPndc4zPMPFfyJmEQTU4pHe9GhJHxVYC1#tvbus://5RmhvTr9qeqwYaM2qx4o9GKQwVMa9diqtKaQhXGhMYmGYX7WDAwZLH69fvBPr#tvbus://6H8m5g79c9xXKxMPCYq2unPJ6C13LCQvbbmFkFjR1oyWc8pH1ToK1AxNHDeon
+美亚电影频测,tvbus://8NptuXpNaZRPi7QvEUamHVSpWYq5JRRLiv3w3WUpPd7aiZQgEL#tvbus://7SqbyokF8aEt3AaKpopB8C5qaVZVg6689rPRdk3rihJfQUBr4G#tvbus://6Bx84gDGZE79jXUYRXbUry4Ecb7dNDhwSWgV1zVx73TtWLm48BtcYQupFrgy5#tvbus://6d1XehfdQBRU7XoX4FDBeGkbdfCfhD9GEAV4C4ciPery4YSj7jBpd9EWpbxre#tvbus://5hP62FZLqknVhyesvN6idW2iCF3hUgjtX8wuiHtJsNouM29Ln4ba8GSfWCmeg
+八大第一频测,tvbus://8M6cepMGuPkDXVRtMHkgZ5PSDrero8XGHCJcSkQdLRZFcvhopb#tvbus://7iWWyMgbFgUu9WJoio2RPUA2ReBupjr3u85UbFJacSF6Gp4Ygn#tvbus://6EuKgDcwmynSF49dhucTbs8qY36BAC64yYRz4nsP7Q3CwJ5Ac9s9hP1NeGH3g#tvbus://5pRbd24Zcssj14MrCnZkTicS4fpd71DNfaemZsnLeZQSCE67MujUdGaBCxcFw#tvbus://6GJidHEXgyVAFvDNu6ro9gr1hW1dZcnhnFs9ZzmatWjzQvxCV6YnAHBahymTe
+八大综合频测,tvbus://7eZeHfMrGiuxtJCRFoRugtAaQYVchycK2KdjsE9tHKCTiAZjMN#tvbus://84NSBSJkn1KAHV3i7Xp6Srwrd3im9BdxVRMjGTYR8cHnWTvS6P#tvbus://6cfaKt6zqBnDQ9o16qu2aLMXsxZ7UN4VgUwanzkzNu2VgxLvCtjiGizeGEf1u#tvbus://613WULLzYTkQ6oPoJ2B2sbSfL41YapjLJFE3gq82HNHteuLCagZwmBqNEqmoJ#tvbus://5iZRT214Tesm64cNtoion3N8QkAvkzZXTV62mbCumcMLc7FukjkFxRwL8dymF#tvbus://7161UAjFDd3aQTYbV8zYkJQ4jj4DggoTHEXrmyfouwA2QFcqFD#tvbus://77paN2TiiLYxdWT5EnocTxZwBv8H2YdJ955VKw8guARNbLJo3E#tvbus://6V8tjWYhPWv6JK2fQTtJKncsXhqxYdHL8peoDEuj9vTiRsiYy3tL1F8HQKnNa#tvbus://5cN6Y9QnZVQCw85oBRCQ6rDykF8ktzcx7KZ5b8AiBjoFCgvAUtCxzdSgYQv4T#tvbus://5bLNWYjjWTLfNvgpEGMYms6ePzYvhkjmXqq4tuK2sSdrstMqs1mhWpcNWsyTd
+八大娱乐频测,tvbus://8kf6DvEyf9NvL5MNZc2pWiW4FMQwZ8PDfeSXWzFywMYsnhWZvh#tvbus://6w2J5TSYcWpC6XLYgF4Eqv2WKghSArWbigF6mrg9EVe1BUSG3T#tvbus://5wb5qDiNRuWsbtPVEVBqydmgtaVS9LovbTe9ECQvzpVCMZavzE1pdwoNSSsLz#tvbus://5iUMZuev5ztgxwWaEWHc87CgsjgX9EtTb2QawaS6iCZXJTdtcvyqXk3WLUyi6#tvbus://5RZP1wak8jndCwGQtgv1KXzW6u3eBLaJAGDcfVNrXJxAASciwoYwXJVD8QfCF
+八大精彩频测,tvbus://6xHRN5qvno49CCrCeuynbgfrZAzNfsdFHzTZRL3ZYA4N7aGmvR#tvbus://7n65nNyotsofDjbzCxCc8xQeQtu5LUugWHFzfwMx1oawbhkJus#tvbus://6gpNb4LdAcmnJuVii1AAdKAiCi85ngU92YntaGaGRzMmBa21Ka4a1tjthYtnE#tvbus://5RH53BauoSrJ9if8VCxiyYV956j5Mk2E2SA4t3qiAuPRx3DLLLfjb8NAH996p#tvbus://5LYjm9pbbmF1mZMjLKkQRR8E7ZSY8fTTZpVVpfuao7RKvXnkuhFeRCcsfuJX4
+八大综艺频测,tvbus://7knEMPC9LLfT91HNUD228kEt17DBRUbPj6zQhiWBWjRFLjLSWd#tvbus://8h6XHKDU1LrYXKvaZvw11apccbkrHhJnAAt66vvSBDVkerDGVA#tvbus://656LUR9a9byyZnK7uM5YXWuCrfRcMUJLwT18po653WofzxfpkUDJdfYQzoT3F#tvbus://64FnVWjXZLfkauZCBgxJfy1pa757tEtYoA3LC6A9tttLebacyufFdWuthCQCk#tvbus://5QHdkZkeaFEsgVdFapBQUPL9v15rffizEoKmjHB9DxaWLnFjuXcQnpaxcBXYn
+东森综合频测,tvbus://7gNxWV1BLQMbhrLHD4Jxgkp1XYXibFAPSEDua6h3CALuv2aapD#tvbus://7nKAQEqZkb3Qt4wANhwZWfjbas6Jyr2ntKKXerYd9Q6v9rAAYe#tvbus://8Sn7iUCfb62xZ8ECJPMBsYG9qZNpnbb2VTHVAGfygKo82PK8Dg#tvbus://7PZU2meDaqVCorSuF4jmb8P187ozm59hnwPBPFBgii9eeHefiR#tvbus://7KHeCenjfbt31JsWYpXr7wHz7uFCUCxfKnBVvpeky3h7QYNNK8#tvbus://8GcJdbgbE887nDcpjmpRRVYKsWmu5W5QDL1FAKYC6JUsZ4J79J#tvbus://6XyGTJ7XzbjA7StbDPTsJjGoeG9BvsabDnixXXCtgU2xTfHoC8ohQzk5Hxd2P
+东森超视频测,tvbus://6tLpWsJSVvreFhLgWFc5xSMbUar9bCRwGuXd5ZsXwCnfQj54q7#tvbus://7seYe2RNPGssdpGaPE7ym5wSEyXPjphq3sHB8nbEtCDSHYriqW#tvbus://6e3WK6SxcwHSvbwwpW4vTniUuk3CccE1EYKeqwHmCwREnbvC91AQrZa18My7s#tvbus://6QFrxLqAqv7MPG2kPpa7kSN9tJzxZT9uBzMMuasEuYWmLzyybQu7oVmRzQYQ8#tvbus://6Khsv5wu5wzdWtTgKiiQPaY37PfJNBo9cBc18bGtryRuphFUx1kmY1KJ774cd
+东森洋片频测,tvbus://7hpQcUcuspRyMaPKM2pbddYygAvZkXVXU21BkJo1TQFLRRVpem#tvbus://8KuA8uWDHAgABwLRg6PJS8zQvyfaf3NxvSCYMrmGQWoLoogTPS#tvbus://81SvFVvwfZcTAbgn8WF2ddZAwiqcPQZz2M8fBCK6afyB6GM7mo#tvbus://8cZZEBMWZCyZWmw9fhVH3qnW1VogPxib4GJEBBWSENV3bW3Cwj#tvbus://7p4VQRERdAZsaMPJbQTbt6mgK6bfXbiSsbH5jdz6bL7bo28BVS#tvbus://7jBpEkumEH84Z8ouENF8W3KiE6sVe7Uwvpe3Do5Xd2D6Bj3aKm#tvbus://6Wrv8FmDycccWTyXyhuN3Eu256gQgXYyftGL3baFL8DYXrvDxneSFevNtLYAw
+东森电影频测,tvbus://8Ug3gPpsKhSxzygVUvLAcEDFdDSmnDFA7iczX6MGeKsdzUvczk#tvbus://6rrJejxKpkiMh8pYi4rYsh7MQqqn8PGTETN7oUixBapGiTLk4D#tvbus://5tqd4oe15cFLmjhQY2sQDfbHpotx66ptd1ENsMBT3Cs8Z9R9K68zbGzJg47Eu#tvbus://5ygfoqUeGaFvrYWR6bmoLdsAcYmtZ38rxVXeZ8YwYwXGUd6uDcarnDdgdUwuS#tvbus://6GXFTti8n8S7HhQ3jMRvUL9PPRy4mTGS5Wnd6s8sMzW7eaju59e3H4t5A5iKf
+纬来综合频测,tvbus://73GaigEgq7EmA1tGiZr3oznTGLJ7cQqqjQkKU9S6Nn3DQBoC6i#tvbus://8a4erPj48qMQCmpvCkzCzsFSzSqDKCC9oQGjqqkKahn56AxY9J#tvbus://5ncZscMeHCNxG3od9G8j2CyRpxgNQLVXzUr5BUuV2SAbYZgLCC8kwwP7BdvcV#tvbus://5tno5ZcvhRE9gkv2MQ9scw9Pkj992juR48jbpXV1UQ2k4fz26Js7fyifZDbWV#tvbus://5dyPXLqNHfaVjgAs9QPphqo4H51p85dGiri1kiUgXRDjJCfQLx7oKN5DQu5H3
+纬来育乐频测,tvbus://794okpT1bW2MnR9gNVX5VXrbzb3Uh3rYe8L6vWYdvqAoE6SH4G#tvbus://8NDEcNDrDz3zc2Ti1gi849tvFmu6J6677QXprZGDwoo8KimQt5#tvbus://5Pr6ixRQG7ppS3rqc4n84JwF7JAogqi28NzzfbUsZFa6m6RaRoKWYEFQdPz1H#tvbus://6HG91iWbgWhRKVgK4yaby2JHCji3VvcngFaeKbe6KoZvh7dj4mCW3Z7rBz9Hg#tvbus://5L7wSNftW825oP2JWvPykJkeo382o9rW6ctFnyjz67uayEtbjWmJaVwpoN1Nq
+纬来体育频测,tvbus://8VtZA3biMbkATD2jVZHinwDGUHwhFytLg77vvhQp7ns3nspbRf#tvbus://86Pno2D4QsEXNndWtd3cUsT24Z4igCjQsLBrpo9GroM7uVvrMe#tvbus://6ewxfyKnuHZmu5HKsVU7HuzDoYrZNwueotdNepPfNPW6TkyBUH3Z3VhKoLm3a#tvbus://5U1TP6541mUPKamkRpPxtR59sCtYAdSbCt78Sz5Z7rRENUNBw7rnsXnYanPZP#tvbus://5uETkB4JpJGXxq3JpP1f7hhRpTbv4qoUiZo7SRx3ugm2WYq95BKHPmh9KVtZU
+纬来电影频测,tvbus://82jXPiTsNaet6nTC41L4HhNb6596aEUr5VjaHi1VfRdnV8ebtk#tvbus://8NGhU19eCyaPac3umtknw1T5ZFE9h9esfwtPrndyPZ7hY2fhGv#tvbus://7DacC3KmhWRm2MHYfRnF9nnPYG92wPn7anVqfzN35TenKxwbc4#tvbus://7RkDoJqr7fQ7bCih5avfZtmefu6LvvpPH5shqsLUPSt4AWHgdg#tvbus://7DitW86y925DoWPZig2Ygb8UjN99dj9YdJz3f3eN5HhK8cHAzi#tvbus://8DxpmsuU4C95JWaRArDFbsvLpwvBCAqApFSLpWHDodpykaQiVj#tvbus://5QkpTBDt12sGFoiJ3RR9e2Tw3wwGAV68xQgRufvEmusvhdyGGHbLxbrYDjcmz
+龙祥时代频测,tvbus://7X1yVbjTACeoc38XezmXvyUXs4LVBXptsukdArK5PmDZ93qr88#tvbus://8Hdr7hZvcktaHTFxgR4ebenBLZ3Rrg9wncYgMztcs9n7zHEaYs#tvbus://7dZpMgTzZFvCvbmT145gq8eozJEFSqibBc48hcYMvxUkeDALV1#tvbus://7SoNgEtzi9dzj6MBwXSSuwfxySc6FTiJY1MxRrt9KgXSggnUqX#tvbus://7WdZP2JWcXydgyYUayoEAhfUdYS9bjcXZ3hwe5HKNUjHJpmCKe#tvbus://8DdDbhS9Tt4HZ2tBjrkjyrHESq9CkFRcGqeRWg6Z9Dv1fTveWi#tvbus://5mteTzmN5fLrv29VJLZkE6nMy1NPRj11SeE7Np29pW96xAHxVyFMAMsXAoKCp
+SUN MUSIC,tvbus://74h7GoSxMYVxCGrMRUr9Kb5EVpHpfgAgKsT7k8t7QcGD2mXxHv#tvbus://79AcfksYFyPCn5sP1P2nm4QDD7qhytKafeHh2Yh1JyAgT7UnpV#tvbus://5foqBJocsADs8Ey81yJTai3qTyLanbQNMb1jgedoLG6V5eQvZXjaM1Pfv2gtv#tvbus://5StaDHjU18x1aWhtHup7c1VniUavJYPvicXB9ahWuiFBu7cmanibsdVjuKPwm#tvbus://66dV9a9EWUEBo33TqdPCHkk7kjoXR58fDa58qTKNe3vuS3LEz5tK2hEPTcg2h
+SUN TV HD,tvbus://7rzCwWRALpSxg1uNFGGt8LWTT7emUou8cySyHaSeyn3L44UCKN#tvbus://8Fkb5GSVcme6YS5vY7NzZK1E96oNXj4f9LFhoD91UjBN5SLaQt#tvbus://6jgW2fAMK92LbohwV34X7KwR752R6EL6KM35NWwnqX2Mrpj7zmDrQtCmDDp2d#tvbus://6T4VgFsSr7NoDPNoS7yHhgfAhus4BeQ1WjQUrs2F1r9jyR7UhZp3tihi6wxiL#tvbus://63efswd6z1cxoNWhag3EkPW7j16iTtqjvggqbXrKWEN9svEiXzfXaYhohGHyT
+ANTV(VN),tvbus://7eC5xQMf6ybMBfsQQm7gBromGAKiMLKDqpz8mtRyi4fB28Sgcs#tvbus://8FDzfu7mh9Vpn8HdPgMUvfRBggJWXhqXuKYfuzJgSujodFHdRW#tvbus://6VSW1Wi1uTN8HWBbGabz1EuYzPEcfAFkAavKfNBw5XsnKyWJ19XHi4LHodpDP#tvbus://6N7Y6dRKzezoV7SLP2eYvFTyShHkXUPt2nVBGq7tAnV6Q1R3UXTgoctALdL8N#tvbus://6Xg3RnuZcwMV6pKnUY2gC5vHmhawEwCkWZGWUUb2wYpKijKRzez8o3Gy116Ni
+3+,tvbus://7TpH8xDcNz9YRoWQxDAD2GZBuafd9fsUpFGCQbSoY5co481xt7#tvbus://6vWzpHPWDoXaNWNWQ7ywYNtumZNF9t7MB59DQSTCj8fE7S2zLd#tvbus://5kx4Cfg63rZDsXG5MUSr2sg4aKrXaqfkmKaVE4LnammYEB778P7cBfSZVqKzz#tvbus://5igw7qiCshS8PKPUJjN8Jt4sQ67ucB8CNyjNMRb6Eq4QyrBz8D32QXsWy5MNF#tvbus://5oC8ghNZwFmCwKMNVNSMNWUztmWXAgZKdaduwCns8AGcnK6QK9P49aER9qjNr
+7 HD,tvbus://71SohZJC9cmsnsU7aSPBFzbtvAVr2scN3y33geVw44VHVKvHLj#tvbus://7EZzLM9U3JjmwJjU8r4m9gEHwoQJocDyiJuN8GEFCFgR39nzrH#tvbus://6iKYtidPHsMGCiV7ZchwVGW7RS27kHkx5NcDyo1rqeYCra2Es3vwhyVSJXTmo#tvbus://5bWshkxpWT31mgPNPSXJcBYT4oAWgUrsg2YwGUDqtibFns14zqduQ9hb3t66o#tvbus://5KnufSaerDKGwQ3zu946ozvjd8XqRanzVkLQyvAXK37osNhXHEq9pWpxJAYJy
+7-Mate,tvbus://81RWZ1y99mSDWoiomGNpYQP6EfcDDuvXqLJ13vUwc4hgSY5Tp8#tvbus://7p3hM7Zf5vtShB7rCr57JCRHnwqA1H4dGhiJoDAyRskHm3PUvj#tvbus://7U44EmNb4ESsmZ9rR44oqxZXJd3uohMZLab8TeaQM1s4nrG8Y6#tvbus://5eDuBBrcm1SJqsUPhSj6GWbeogqprJCKM6Wif4z3S5weudZc4xSGjjgjWKX9s#tvbus://5zBFv9YQCdScaGRH4jygopcrWF7DGyZJqkqjDziRvyXpHbmNM26tG9CA9LgRH#tvbus://69rxYap2o9kNWUBDcYHEozBnApzU5HqL94949Y6FLBWreEpHnR4ZqUqCZZk93
+7-Now,tvbus://81vxBwBxm9AKsX74QtuUnPmEJWg24TNG6fGrT23eyCPcQbsrKq#tvbus://8AL6A2wqiXbBKmeEitMZSnEMKgae2BEYKShjrBS2Ujer5xcXUk#tvbus://8Gv5xjFVzKGLVZYv8MoUEgsvxs6yntefDPP4X4xtpj9FS3CYi2#tvbus://8FFMRkbhWfty7XcVLDMHkwrbdYcdbBTH8JG5AN8TF3teyF3C4q#tvbus://6vaD8YpDEsksp8ZHMv2NgWk9ZQbrNsTtKerbiJTWkWkWiard7g#tvbus://8EpG6xKUgPNCXzY3m4tgcfCShKWSFez4oqwp59qyoeozBY9Qf8#tvbus://5v6fw4xbGDj6o8kd2V4pR4zGbegCezzhzfTsaAT69MKniSjhiwtGbBvkMKdam
+7-Two,tvbus://7ckvzf38oPz7BLurpSou6C7AqM9oUimKGJtAcdx3GA5EtmscAv#tvbus://7mfbYCZMKoTHoyHWRJJtTkRJiTB45FKbvx7Jsv4pPZ9bmw2Grh#tvbus://7DrE5vm2NKdzqqV5h64JuGPecgmcVUdvFEsxx6EGubkDnJ2oPm#tvbus://6jRinc7sbvWPswPwu9dq7ivSCnPj5NhEYR3eD35STGdhcpDZH2kBemrNW2LxS#tvbus://6dLNm1kA1NbCa1tdQQkp6Jc1PT7ycHLAUCQKCKNVcdmDq1wAfKNVvvcvhkwA1#tvbus://5icczFzsTGfNqGNteUTAKN8TEvF1kT8Lk6qiMXSwpLhXMpkBEdqfdT8EC3n8Z
+亞洲旅遊,tvbus://7NJ3jAWmMocus2jRnfj2bDbsAN5VqApVPGagLA2Ednzm4dATHj#tvbus://8Dpe6kz9Lxf9okJgeGdF3dPQwBqqFaaygJ99N1whN5UTDNafmY#tvbus://5L33Qbv1hxeDdrpWWuQEKbwAqm6nfiQqDC323PEdmk1Vj7SkXMNWBXBZ4irh5#tvbus://5UDumo9RL2r2ctMq1PEmms8djC5J4EWxwMKDW8bWpQfF2qu85KoKqnHrpF6mj#tvbus://5RReohGtiqRkp5r2wGjF3uViQLE4j4z9tAnySR52SFfVMeZH2EAbohaHfvaAD
+EYE TV旅遊HD,tvbus://7bKKR5GrPw5v9AD4Tevfrz4wcZpJ3oLzAdHP9MwFVzfDZMVuMM#tvbus://7624A7SqThA232Qmasazysc77KVzNJZyb7XKnUoNwppw5dXwg5#tvbus://5bFfrYYa5en5pRLABQDSSh9bog7berMY4RMmLBYWPg8eLyuLMxiHHfiq1Ahi9#tvbus://5ToVnpymp8DrNHTpfPABG1aw7zrNzz6orPvx8vDbEeWom6HGgULRPppSV7z18#tvbus://68teZoBoaXboah4DRk4qw9r3CuM6GsANbHvZZ4nPiXabb6aCnyNoyiQAftEDn
+民視旅遊台,tvbus://8K8o2yjm177cTDkF7FDPCLuhWjPZs9EmEJAH8um8qiYuKTgc1h#tvbus://72gx7DwwVNgBteMJ3rVZW2UVPomMrPfNYurd6FapH2MZKmwdse#tvbus://5fWgjCz9brXxG9zFJLRy4zta2je48F5pQPDzMU6BQcFG1uFFySpwfb9kiUe9s#tvbus://6GtE5FpLQ955FLU99EEkK4czwiStp32ofgWDETGuHAsJE4nTb9maBMHJGk4aq#tvbus://6RULhRtryaCZxdUzH5Z1wVZq98SEno8YcSF8zKttqSFkMc4P24UJGsPbj9tZD
+TLC旅遊生活,tvbus://8W1zdB9XnKX6qwZppG9BBiBgFHvFHm1tHhjVhCRPgHTmMkp12X#tvbus://8GEUve9SjaaWk4t8zVBaLU9JXzHaVGFAMevu3pKVeCdzzKGs6a#tvbus://5QZp4H3T879UjZqFiyE3z7T5wSRMFh9uHQpSoGB26W6oikQSkyiJKqai3XTRe#tvbus://5poqkZcQiRrBNKyxn39x1URXbVCYv8K2ZmAX8WTrRN1omAPqWoNALwds17ftS#tvbus://6DgH4yBZcyCR5SAP9hpqkTQZMQDcNLS7PSeUUrJyGMwN88q97ep6Hh4LJJmg8
+
+全网通,#genre#
+CCTV-1,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv1hd&playseek=
+CCTV-2,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv2hd&playseek=
+CCTV-3,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv3hd&playseek=
+CCTV-4,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv4hd&playseek=
+CCTV-5,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5hd&playseek=
+CCTV-5+,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv5phd&playseek=
+CCTV-6,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv6hd&playseek=
+CCTV-7,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv7hd&playseek=
+CCTV-8,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv8hd&playseek=
+CCTV-9,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv9hd&playseek=
+CCTV-10,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv10hd&playseek=
+CCTV-11,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv11hd&playseek=
+CCTV-12,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv12hd&playseek=
+CCTV-13,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv13hd&playseek=
+CCTV-14,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv14hd&playseek=
+CCTV-15,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv15hd&playseek=
+CCTV-16,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv16hd&playseek=
+CCTV-17,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cctv17hd&playseek=
+北京卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=bjwshd&playseek=
+天津卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=tjwshd&playseek=
+黑龙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hljwshd&playseek=
+吉林卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jlwshd&playseek=
+辽宁卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=lnwshd&playseek=
+山东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sdwshd&playseek=
+河北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hebwshd&playseek=
+河南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=henwshd&playseek=
+湖北卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hubwshd&playseek=
+湖南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hnwshd&playseek=
+安徽卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ahwshd&playseek=
+浙江卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=zjwshd&playseek=
+江苏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jswshd&playseek=
+江西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=jxwshd&playseek=
+东方卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=dfwshd&playseek=
+内蒙古卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nmgwshd&playseek=
+甘肃卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gswshd&playseek=
+四川卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=scwshd&playseek=
+重庆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=cqwshd&playseek=
+云南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=ynwshd&playseek=
+贵州卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gzwshd&playseek=
+广东卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gdwshd&playseek=
+广西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=gxwshd&playseek=
+东南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=dnwshd&playseek=
+深圳卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=szwshd&playseek=
+海南卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=hainwshd&playseek=
+三沙卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sswshd&playseek=
+厦门卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xmws&playseek=
+山西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sx1ws&playseek=
+陕西卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=sx3ws&playseek=
+宁夏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=nxws&playseek=
+青海卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=qhws&playseek=
+西藏卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xzws&playseek=
+新疆卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=xjws&playseek=
+兵团卫视,http://xvod.iptv8.com:8090/storage/channel/vod/vodheb.php?cid=btws&playseek=
