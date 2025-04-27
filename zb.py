@@ -19,6 +19,6 @@ def merge_files(input_files, output_file):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    input_files = ["filtered_streams.txt", "list.tv"]  
+    input_files = ["hnzb.txt", "list.tv"]  
     output_file = "dszb.tv"
     merge_files(input_files, output_file)
