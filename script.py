@@ -11,7 +11,7 @@ def fetch_and_filter():
     filtered_lines = [line for line in content.splitlines() if 'ipv6' not in line.lower()]
     
     # 保存到新文件
-    with open('filtered_streams.txt', 'w') as file:
+    with open('filtered_streams.txt') as file:
         file.write('\n'.join(filtered_lines))
 
 if __name__ == "__main__":
