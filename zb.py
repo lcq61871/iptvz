@@ -3,9 +3,9 @@ import os
 def merge_files(input_files, output_file):
     try:
         # 删除旧txt
-        if "dszb.tv" in input_files and os.path.exists("dszb.tv"):
-            os.remove("dszb.tv")
-            print("Old dszb.tv deleted.")
+        if "dszb.txt" in input_files and os.path.exists("dszb.txt"):
+            os.remove("dszb.txt")
+            print("Old dszb.txt deleted.")
 
         with open(output_file, 'w', encoding='utf-8') as outfile:
             for file in input_files:
@@ -20,5 +20,5 @@ def merge_files(input_files, output_file):
 
 if __name__ == "__main__":
     input_files = ["hnzb.txt", "list.tv"]  
-    output_file = "dszb.tv"
+    output_file = "dszb.txt"
     merge_files(input_files, output_file)
