@@ -24,7 +24,7 @@ TVB-金曲, http://iptv.4666888.xyz/iptv2A.php?id=57
 澳视卫星, http://php.jdshipin.com/TVOD/iptv.php?id=as
 💜港澳台,#genre#
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯，https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 澳门Mac,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门,http://php.jdshipin.com/PLTV/iptv.php?id=asam
