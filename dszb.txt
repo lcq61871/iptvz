@@ -4,8 +4,8 @@ CCTV-5 体育, http://180.109.94.149:4022/udp/239.49.8.75:8000
 CCTV-8 电视剧, http://180.109.94.149:4022/udp/239.49.8.77:8000
 凤凰资讯, http://as.288856.xyz/xg.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF&tid=1
 凤凰资讯, https://cdn6.163189.xyz/163189/fhzx
-凤凰香港, https://cdn6.163189.xyz/163189/fhhk
 凤凰香港, http://as.288856.xyz/xg.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&tid=1
+凤凰香港, https://cdn6.163189.xyz/163189/fhhk
 澳視澳門, http://iptv.4666888.xyz/iptv2A.php?id=41
 💜港澳台,#genre#
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
