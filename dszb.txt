@@ -7,17 +7,16 @@ CCTV-8HD, http://107.150.60.122/live/cctv8hd.m3u8
 凤凰资讯, https://cdn6.163189.xyz/163189/fhzx
 凤凰香港, https://cdn6.163189.xyz/163189/fhhk
 💜港澳台,#genre#
+凤凰中文,http://175.0.64.97:8888/udp/239.76.253.134:9000
+凤凰资讯,http://175.0.64.97:8888/udp/239.76.253.135:9000
+
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 
-凤凰中文,http://175.0.64.97:8888/udp/239.76.253.134:9000
-凤凰资讯,http://175.0.64.97:8888/udp/239.76.253.135:9000
-
 凤凰资讯,http://101.35.240.114:88/phenix.php?id=fhzx
 凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
 凤凰香港,http://101.35.240.114:88/phenix.php?id=fhhk
-
 
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
