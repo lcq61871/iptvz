@@ -37,10 +37,10 @@ CCTV-8电视剧, http://113.119.25.251:58888/udp/239.77.0.172:5146
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 💛央视,#genre#
-CCTV4中文国际,http://47.119.24.76:59093/631780421
-CCTV5体育,http://47.119.24.76:59093/641886683
-CCTV8电视剧,http://47.119.24.76:59093/624878356
-CCTV12社会与法,http://47.119.24.76:59093/673168185
+CCTV-4,http://go.bkpcp.top/mg/cctv4
+CCTV-5,http://go.bkpcp.top/mg/cctv5
+CCTV-8,http://go.bkpcp.top/mg/cctv8
+CCTV-12,http://go.bkpcp.top/mg/cctv12
 凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
