@@ -1,26 +1,37 @@
 常看频道,#genre#
 CCTV-12, http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV-12社会与法, http://183.236.43.98:4013/udp/239.77.0.136:5146
-CCTV-12社会与法, http://113.119.25.251:58888/udp/239.77.0.136:5146
-CCTV-12社会与法, http://113.119.24.121:58888/udp/239.77.0.136:5146
+CCTV-12社会与法, https://live.264788.xyz/channel/cctv12?streamid=0f34c587b2bea8f82b43463faa4b5708&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-12社会与法, https://live.264788.xyz/channel/cctv12?streamid=577823de18178c8e78f5dc92bfa605c3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-12社会与法, https://live.264788.xyz/channel/cctv12?streamid=ab6198438329e6431e97e89390793ea5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-12社会与法, https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-12社会与法, https://live.264788.xyz/channel/cctv12?streamid=494659294b7e1f18b61fe6cf51c66d5d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-4, http://69.30.245.50/live/cctv4.m3u8
 CCTV-4, http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4中文国际, http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-4中文国际, http://183.236.43.98:4013/udp/239.77.1.163:5146
-CCTV-4中文国际, http://113.119.24.121:58888/udp/239.77.1.163:5146
-CCTV-4中文国际, http://113.119.25.251:58888/udp/239.77.1.163:5146
+CCTV-4中文国际, https://live.264788.xyz/channel/cctv4?streamid=6bb35f2f3c97693a24eea0b7469980a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-4中文国际, https://live.264788.xyz/channel/cctv4?streamid=fd1184358330cda8bca2c2b1e36355f0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-4中文国际, https://live.264788.xyz/channel/cctv4?streamid=d9c90dcbb55c328cbe6415daad8f9b79&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-4中文国际, https://live.264788.xyz/channel/cctv4?streamid=cc1a7c2d76ea7e0ab85515d9318d6a67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-5, http://69.30.245.50/live/cctv5.m3u8
 CCTV-5, http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5体育, http://183.236.43.98:4013/udp/239.77.0.170:5146
-CCTV-5体育, http://113.119.25.251:58888/udp/239.77.0.170:5146
 CCTV-5体育, http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV-5体育, http://113.119.24.121:58888/udp/239.77.0.170:5146
+CCTV-5体育, https://live.264788.xyz/channel/cctv5?streamid=1806e73ac17e1ad9a7f4c7b2dc9abea6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-5体育, https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-8, http://69.30.245.50/live/cctv8.m3u8
 CCTV-8, http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV-8电视剧, http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV-8电视剧, http://183.236.43.98:4013/udp/239.77.0.172:5146
-CCTV-8电视剧, http://113.119.24.121:58888/udp/239.77.0.172:5146
-CCTV-8电视剧, http://113.119.25.251:58888/udp/239.77.0.172:5146
+CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=edf72a10a74fdf3c8d3b62e5540c2cf8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=9b256b5d0d7d31d0aa395813a05245f7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰中文, https://cdn6.163189.xyz/163189/fhzw
+凤凰中文, http://cdn6.163189.xyz/163189/fhzw
+凤凰中文, http://feilong123.vip/409990236/hktv.php?id=3
+凤凰资讯, http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯, https://cdn6.163189.xyz/163189/fhzx
 凤凰香港, https://cdn6.163189.xyz/163189/fhhk
+凤凰香港, http://cdn6.163189.xyz/163189/fhhk
+凤凰香港, http://feilong123.vip/409990236/hktv.php?id=2
 💜港澳台,#genre#
 凤凰中文,http://175.0.64.97:8888/udp/239.76.253.134:9000
 凤凰资讯,http://175.0.64.97:8888/udp/239.76.253.135:9000
