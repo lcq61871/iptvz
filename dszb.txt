@@ -72,6 +72,10 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 💛央视广西,#genre#
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 广西卫视,http://220.176.218.130:9000/udp/239.252.219.183:5140
 CCTV-4,http://go.bkpcp.top/mg/cctv4
 CCTV-5,http://go.bkpcp.top/mg/cctv5
