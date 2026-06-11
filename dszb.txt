@@ -100,7 +100,6 @@ ELTA体育MAX4,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax4
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://175.154.151.98:808/hls/48/index.m3u8$源:6f3a
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
