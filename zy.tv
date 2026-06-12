@@ -80,6 +80,13 @@ CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 
 🌏,#genre#
+CCTV-1综合,http://sagrad.org:8181/3m1080p/cctv1.m3u8
+CCTV-4中文国际,http://sagrad.org:8181/3m1080p/cctv4.m3u8
+CCTV-5体育,http://sagrad.org:8181/3m1080p/cctv5.m3u8
+CCTV-8电视剧,http://sagrad.org:8181/3m1080p/cctv8.m3u8
+CCTV-12社会与法,http://sagrad.org:8181/3m1080p/cctv12.m3u8
+CCTV-13新闻,http://sagrad.org:8181/3m1080p/cctv13.m3u8
+CCTV-17农业农村,http://sagrad.org:8181/3m1080p/cctv17.m3u8
 CCTV-1综合,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2财经,http://69.30.245.50/live/cctv2.m3u8
 CCTV-4中文国际,http://69.30.245.50/live/cctv4.m3u8
