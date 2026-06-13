@@ -104,7 +104,7 @@ CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 
-🌏央视广西,#genre#
+央视广西,#genre#
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
@@ -148,7 +148,7 @@ CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 
-🌏_6,#genre#
+📡🌏_6,#genre#
 ELTA体育1,id=eltasports1
 ad.usa3.345123.xyz/jrw.php?id=eltasports4
 ELTA体育MAX1,http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax1
