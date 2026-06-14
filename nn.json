@@ -52,3 +52,11 @@
       "ua": "okhttp",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
+    {
+      "name": "台湾4GTV",
+      "type": 0,
+      "ua": "okhttp",
+      "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
+    }
+  ]
+}
