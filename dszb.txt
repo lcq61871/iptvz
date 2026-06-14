@@ -61,6 +61,15 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=edf72a10a74fdf3c
 凤凰香港, https://cdn6.163189.xyz/163189/fhhk
 凤凰香港, http://47.242.63.189:2025/api1.php?id=20065
 凤凰香港, http://47.242.63.189:2025/api1.php?id=20062
+⚽世界杯⚽世界杯,#genre#
+
+粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+CCTV-5体育,http://sagrad.org:8181/3m1080p/cctv5.m3u8
+国语🔊咪咕足球,http://rihou.cc:555/tv/15世杯刘越述
+咪视界4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
+加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+NOW体育4K,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
+NOW体育4K,http://77.90.60.172:55555/8
 
 
 
