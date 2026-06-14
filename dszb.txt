@@ -61,7 +61,7 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=edf72a10a74fdf3c
 凤凰香港, https://cdn6.163189.xyz/163189/fhhk
 凤凰香港, http://47.242.63.189:2025/api1.php?id=20065
 凤凰香港, http://47.242.63.189:2025/api1.php?id=20062
-⚽世界杯⚽世界杯,#genre#
+⚽世界杯,#genre#
 
 粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 CCTV-5体育,http://sagrad.org:8181/3m1080p/cctv5.m3u8
