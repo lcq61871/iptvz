@@ -172,38 +172,7 @@ https://cdn6.163189.xyz/163189/fhzx
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="央视广西",凤凰香港
 https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="🌏",CCTV-1综合
-http://sagrad.org:8181/3m1080p/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" tvg-logo="" group-title="🌏",CCTV-4中文国际
-http://sagrad.org:8181/3m1080p/cctv4.m3u8
-#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="" group-title="🌏",CCTV-5体育
-http://sagrad.org:8181/3m1080p/cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="" group-title="🌏",CCTV-8电视剧
-http://sagrad.org:8181/3m1080p/cctv8.m3u8
-#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="" group-title="🌏",CCTV-12社会与法
-http://sagrad.org:8181/3m1080p/cctv12.m3u8
-#EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" tvg-logo="" group-title="🌏",CCTV-13新闻
-http://sagrad.org:8181/3m1080p/cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="" group-title="🌏",CCTV-17农业农村
-http://sagrad.org:8181/3m1080p/cctv17.m3u8
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="🌏",CCTV-1综合
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="" group-title="🌏",CCTV-2财经
-http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" tvg-logo="" group-title="🌏",CCTV-4中文国际
-http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="" group-title="🌏",CCTV-5体育
-http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="" group-title="🌏",CCTV-8电视剧
-http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="" group-title="🌏",CCTV-12社会与法
-http://69.30.245.50/live/cctv12.m3u8
-#EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" tvg-logo="" group-title="🌏",CCTV-13新闻
-http://69.30.245.50/live/cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="" group-title="🌏",CCTV-17农业农村
-http://69.30.245.50/live/cctv17.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="🌏",湖南卫视
-http://198.204.228.26/live/hnwshd.m3u8
+
 
 
 #EXTINF:-1 tvg-id="俄罗斯极限电影台(免翻)" tvg-name="俄罗斯极限电影台(免翻)" tvg-logo="" group-title="",俄罗斯极限电影台(免翻)
