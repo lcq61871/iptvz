@@ -40,6 +40,13 @@ CCTV-8电视剧, http://173.208.212.130:8181/1080p/cctv8.m3u8
 凤凰资讯, https://cdn6.163189.xyz/163189/fhzx
 凤凰香港, http://cdn6.163189.xyz/163189/fhhk
 凤凰香港, https://cdn6.163189.xyz/163189/fhhk
+4K世界杯回放,#genre#
+
+6月14日-巴西vs摩洛哥,http://82.156.243.185:34567/replay/4460910
+6月15日-德国vs库拉索,http://82.156.243.185:34567/replay/4460914
+6月16日-西班牙vs佛得角,http://82.156.243.185:34567/replay/4460923
+
+
 ⚽世界杯,#genre#
 
 粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
@@ -54,7 +61,7 @@ CCTV 5+體育賽事,https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 
 
-港澳台,#genre#
+港澳台_6,#genre#
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
