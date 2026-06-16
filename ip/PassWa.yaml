@@ -1,3 +1,4 @@
+# 必须包含此头文件结构
 proxies:
   - name: "🇸🇬 SGP·新加坡06"
     type: trojan
@@ -31,3 +32,13 @@ proxies:
     sni: www.10sx.com
     skip-cert-verify: true
     udp: true
+
+# 增加策略组，这是 PassWall 正确解析的关键
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - 🇸🇬 SGP·新加坡06
+      - 🇯🇵 JPN·日本01
+      - 🇯🇵 JPN·日本02
+      - 🇯🇵 JPN·日本03
