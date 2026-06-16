@@ -7,4 +7,27 @@ proxies:
     sni: www.10sx.com
     skip-cert-verify: true
     udp: true
-  # 其他节点依此类推...
+  - name: "🇯🇵 JPN·日本01"
+    type: trojan
+    server: d56ab02c02.hk-a.nynode.one
+    port: 10051
+    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
+    sni: www.10sx.com
+    skip-cert-verify: true
+    udp: true
+  - name: "🇯🇵 JPN·日本02"
+    type: trojan
+    server: d56ab02c02.hk-a.nynode.one
+    port: 10052
+    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
+    sni: www.10sx.com
+    skip-cert-verify: true
+    udp: true
+  - name: "🇯🇵 JPN·日本03"
+    type: trojan
+    server: d56ab02c02.hk-a.nynode.one
+    port: 10053
+    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
+    sni: www.10sx.com
+    skip-cert-verify: true
+    udp: true
