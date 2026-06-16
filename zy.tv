@@ -11,9 +11,6 @@ CCTV 5+體育賽事,https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=46
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 
-
-
-
 港澳台,#genre#
 
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
@@ -22,6 +19,11 @@ CCTV 5+體育賽事,https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
 凤凰资讯,http://101.35.240.114:88/phenix.php?id=fhzx
 凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
 凤凰香港,http://101.35.240.114:88/phenix.php?id=fhhk
+CCTV1,https://cdn.19891230.eu.org/api/CCTV1/index.m3u8
+CCTV4,https://cdn.19891230.eu.org/api/CCTV4/index.m3u8
+CCTV5,https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
+CCTV8,https://cdn.19891230.eu.org/api/CCTV8/index.m3u8
+CCTV12,https://cdn.19891230.eu.org/api/CCTV12/index.m3u8
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV4,http://go.bkpcp.top/mg/cctv4
 CCTV5,http://go.bkpcp.top/mg/cctv5
@@ -33,7 +35,6 @@ CCTV5,http://17752995.xyz:51111/641886683
 CCTV5+,http://17752995.xyz:51111/641886773
 CCTV8,http://17752995.xyz:51111/624878356
 CCTV12,http://17752995.xyz:51111/673168185
-
 CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
 CCTV4,http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
 CCTV5,http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
@@ -52,7 +53,6 @@ CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://107.150.60.122/live/gxwshd.m3u8
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://17752995.xyz:51111/608807420
@@ -61,23 +61,6 @@ CCTV5,http://17752995.xyz:51111/641886683
 CCTV5+,http://17752995.xyz:51111/641886773
 CCTV8,http://17752995.xyz:51111/624878356
 CCTV12,http://17752995.xyz:51111/673168185
-
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV4,http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV5,http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV8,http://39.165.39.49:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV12,http://39.165.39.49:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
-CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
-CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV8,http://107.150.60.122/live/cctv8hd.m3u8
-CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
@@ -89,16 +72,12 @@ CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 CCTV 5 體育,https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
 CCTV 5+ 體育賽事,https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
 五星体育,https://cdn15.163189.xyz/163189/wxty
-CCTV-5体育,http://sagrad.org:8181/3m1080p/cctv5.m3u8
 国语🔊愛爾達體育1台,http://gat.xyys.site/cdnlive.php?mode=play;id=95243f1030a854eab5305eccad5cf992;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
-国语🔊咪咕足球,http://rihou.cc:555/tv/15世杯刘越述
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=46
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=18
 睛彩竞技,http://feilong123.vip/409990236/iptv/gdy.php?id=24
 加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-NOW体育4K,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
-
 
 博斯魅力,https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
 博斯網球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
