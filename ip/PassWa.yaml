@@ -1,0 +1,10 @@
+proxies:
+  - name: "🇸🇬 SGP·新加坡06"
+    type: trojan
+    server: d56ab02c02.hk-a.nynode.one
+    port: 10036
+    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
+    sni: www.10sx.com
+    skip-cert-verify: true
+    udp: true
+  # 其他节点依此类推...
