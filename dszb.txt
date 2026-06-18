@@ -60,8 +60,7 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=40de643d4d718184
 粤语🔊广东体育,http://cdn2.163189.xyz/163189/gdty
 国语🔊愛爾達體育1台,https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
 国语🔊愛爾達體育1台,https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
-CCTV 5 體育,https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
-CCTV 5+體育賽事,https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
+CCTV5,http://17752995.xyz:51111/641886683
 咪视界4K,http://feilong123.vip/409990236/iptv/gdy.php?id=18
 加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=46
