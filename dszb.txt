@@ -42,7 +42,7 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4
 凤凰香港, http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 凤凰香港, http://feilong123.vip/409990236/hktv.php?id=2
 4K世界杯回放,#genre#
-
+6月19日-加拿大vs卡塔尔,http://82.156.243.185:34567/xhs/4459825
 6月19日-瑞士vs波黑,http://82.156.243.185:34567/xhs/4460942
 6月19日-捷克vs南非,http://82.156.243.185:34567/xhs/4460939
 6月18日-英格兰vs克罗地亚,http://82.156.243.185:34567/xhs/4460935
