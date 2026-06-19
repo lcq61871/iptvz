@@ -110,9 +110,6 @@
 		    
 		     {
             "name": "咖啡体育",
-            "type": 0,
-            "playerType": 2,
-             "ua": "okhttp",
 			 "url": "https://jsnzkpg.us.ci/live.m3u"
          },
 	    {
