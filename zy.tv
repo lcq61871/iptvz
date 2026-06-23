@@ -67,6 +67,9 @@ CCTV-5+高清,http://192.168.31.4:1217/yspios.php?id=cctv5p
 CCTV-13高清,http://192.168.31.4:1217/yspios.php?id=cctv13
 CCTV-17高清,http://192.168.31.4:1217/yspios.php?id=cctv17
 湖南卫视,http://192.168.31.4:1217/yspios.php?id=hnws
+高码率CCTV5,http://192.168.31.4:38766/cctv5.m3u8
+高码率CCTV5+,http://192.168.31.4:38766/cctv5p.m3u8
+高码率cctv16,http://192.168.31.4:38766/cctv16.m3u8
 
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
