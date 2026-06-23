@@ -8,6 +8,10 @@
       "name": "自用",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
+	  	    {
+      "name": "小红书",
+      "url": "http://192.168.31.4:38767/xhslist.m3u"
+    },
     {
       "name": "欧美频道",
       "url": "https://garyshare.sharewithyou.dpdns.org/garyshare.m3u?token=only_for_@garyshare_from_TG"
