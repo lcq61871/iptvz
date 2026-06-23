@@ -43,7 +43,7 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db
 凤凰香港, http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 凤凰香港, http://feilong123.vip/409990236/hktv.php?id=2
 4K世界杯回放,#genre#
-
+6月22日-法国vs伊拉克,http://82.156.243.185:34567/xhs/4460927
 6月22日-阿根廷vs奥地利,http://82.156.243.185:34567/xhs/4460930
 6月22日-乌拉圭vs佛得角,http://82.156.243.185:34567/xhs/4460965
 6月22日-西班牙vs沙特阿拉伯,http://82.156.243.185:34567/xhs/4460924
@@ -70,19 +70,12 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 粤语🔊广东体育,http://cdn2.163189.xyz/163189/gdty
-
-
 粤语🔊澳门体育,https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
 粤语🔊广东体育,https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-粤语🔊广东体育,http://cdn2.163189.xyz/163189/gdty
-
 国语🔊愛爾達體育1台,https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
-
 CCTV5,http://17752995.xyz:51111/641886683
 咪视界4K,http://feilong123.vip/409990236/iptv/gdy.php?id=18
 加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
-
 
 港澳台_6,#genre#
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
