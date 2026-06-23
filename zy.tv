@@ -57,12 +57,18 @@ CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://17752995.xyz:51111/608807420
-CCTV4,http://17752995.xyz:51111/631780421
-CCTV5,http://17752995.xyz:51111/641886683
-CCTV5+,http://17752995.xyz:51111/641886773
-CCTV8,http://17752995.xyz:51111/624878356
-CCTV12,http://17752995.xyz:51111/673168185
+CCTV-1高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv1
+CCTV-4高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv4
+CCTV-5高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
+CCTV-8高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv8
+CCTV-12高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv12
+CCTV-2高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv2
+CCTV-5+高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv5p
+CCTV-13高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv13
+CCTV-17高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv17
+湖南卫视,http://lcq6182.x3322.net:1217/yspios.php?id=hnws
+CCTV世界地理频道,http://lcq6182.x3322.net:1217/yspios.php?id=cctvsjdl
+CCTV央视文化精品频道,http://lcq6182.x3322.net:1217/yspios.php?id=cctvyswhjp
 
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
