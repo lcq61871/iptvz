@@ -1,30 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6月14日-巴西vs摩洛哥" tvg-name="6月14日-巴西vs摩洛哥" tvg-logo="" group-title="4K世界杯回放",6月14日-巴西vs摩洛哥
-http://82.156.243.185:34567/replay/4460910
-#EXTINF:-1 tvg-id="6月15日-德国vs库拉索" tvg-name="6月15日-德国vs库拉索" tvg-logo="" group-title="4K世界杯回放",6月15日-德国vs库拉索
-http://82.156.243.185:34567/replay/4460914
-#EXTINF:-1 tvg-id="6月16日-西班牙vs佛得角" tvg-name="6月16日-西班牙vs佛得角" tvg-logo="" group-title="4K世界杯回放",6月16日-西班牙vs佛得角
-http://82.156.243.185:34567/replay/4460923
-#EXTINF:-1 tvg-id="粤语🔊澳门体育" tvg-name="粤语🔊澳门体育" tvg-logo="" group-title="⚽世界杯",粤语🔊澳门体育
-http://rihou.cc:555/tv/[Pd]澳门体育
-#EXTINF:-1 tvg-id="粤语🔊广东体育" tvg-name="粤语🔊广东体育" tvg-logo="" group-title="⚽世界杯",粤语🔊广东体育
-http://cdn2.163189.xyz/163189/gdty
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="⚽世界杯",国语🔊愛爾達體育1台
-http://gat.xyys.site/cdnlive.php?mode=play;id=95243f1030a854eab5305eccad5cf992;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="⚽世界杯",国语🔊愛爾達體育1台
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
-#EXTINF:-1 tvg-id="CCTV 5 體育" tvg-name="CCTV 5 體育" tvg-logo="" group-title="⚽世界杯",CCTV 5 體育
-https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
-#EXTINF:-1 tvg-id="CCTV 5+體育賽事" tvg-name="CCTV 5+體育賽事" tvg-logo="" group-title="⚽世界杯",CCTV 5+體育賽事
-https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
-#EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="" group-title="⚽世界杯",咪视界4K
-http://feilong123.vip/409990236/iptv/gdy.php?id=18
-#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="⚽世界杯",加拿大TSN
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 #EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="" group-title="⚽世界杯",咪咕4k
 http://feilong123.vip/409990236/iptv/gdy.php?id=46
 #EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="" group-title="⚽世界杯",咪咕4k
 http://feilong123.vip/409990236/iptv/gdy.php?id=7
+#EXTINF:-1 tvg-id="粤语🔊澳门体育" tvg-name="粤语🔊澳门体育" tvg-logo="" group-title="⚽世界杯",粤语🔊澳门体育
+https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+#EXTINF:-1 tvg-id="粤语🔊澳门体育" tvg-name="粤语🔊澳门体育" tvg-logo="" group-title="⚽世界杯",粤语🔊澳门体育
+http://rihou.cc:555/tv/[Pd]澳门体育
+#EXTINF:-1 tvg-id="粤语🔊广东体育" tvg-name="粤语🔊广东体育" tvg-logo="" group-title="⚽世界杯",粤语🔊广东体育
+https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+#EXTINF:-1 tvg-id="粤语🔊广东体育" tvg-name="粤语🔊广东体育" tvg-logo="" group-title="⚽世界杯",粤语🔊广东体育
+http://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="⚽世界杯",国语🔊愛爾達體育1台
+https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="⚽世界杯",国语🔊愛爾達體育1台
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="⚽世界杯",CCTV5
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="⚽世界杯",CCTV5
+http://17752995.xyz:51111/641886683
+#EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="" group-title="⚽世界杯",咪视界4K
+http://feilong123.vip/409990236/iptv/gdy.php?id=18
+#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="⚽世界杯",加拿大TSN
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="港澳台",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="港澳台",凤凰中文
@@ -105,18 +103,26 @@ http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="" group-title="央视广西",广西新闻
 http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="央视广西",CCTV1
-http://17752995.xyz:51111/608807420
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="央视广西",CCTV4
-http://17752995.xyz:51111/631780421
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="央视广西",CCTV5
-http://17752995.xyz:51111/641886683
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="央视广西",CCTV5+
-http://17752995.xyz:51111/641886773
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="央视广西",CCTV8
-http://17752995.xyz:51111/624878356
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="央视广西",CCTV12
-http://17752995.xyz:51111/673168185
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" tvg-logo="" group-title="央视广西",CCTV-1高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv1
+#EXTINF:-1 tvg-id="CCTV-4高清" tvg-name="CCTV-4高清" tvg-logo="" group-title="央视广西",CCTV-4高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv4
+#EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" tvg-logo="" group-title="央视广西",CCTV-5高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
+#EXTINF:-1 tvg-id="CCTV-8高清" tvg-name="CCTV-8高清" tvg-logo="" group-title="央视广西",CCTV-8高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv8
+#EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" tvg-logo="" group-title="央视广西",CCTV-12高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv12
+#EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" tvg-logo="" group-title="央视广西",CCTV-2高清
+http://192.168.31.4:1217/yspios.php?id=cctv2
+#EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" tvg-logo="" group-title="央视广西",CCTV-5+高清
+http://192.168.31.4:1217/yspios.php?id=cctv5p
+#EXTINF:-1 tvg-id="CCTV-13高清" tvg-name="CCTV-13高清" tvg-logo="" group-title="央视广西",CCTV-13高清
+http://192.168.31.4:1217/yspios.php?id=cctv13
+#EXTINF:-1 tvg-id="CCTV-17高清" tvg-name="CCTV-17高清" tvg-logo="" group-title="央视广西",CCTV-17高清
+http://192.168.31.4:1217/yspios.php?id=cctv17
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="央视广西",湖南卫视
+http://192.168.31.4:1217/yspios.php?id=hnws
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="央视广西",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="央视广西",凤凰中文
@@ -131,16 +137,28 @@ https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
 https://iptv.852851.xyz/ch/9ad2c65b895ebcaa252259078ae5db64/master.m3u8
 #EXTINF:-1 tvg-id="TSN 4K CA" tvg-name="TSN 4K CA" tvg-logo="" group-title="🌏",TSN 4K CA
 https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
-#EXTINF:-1 tvg-id="FOX - HDR10 2K" tvg-name="FOX - HDR10 2K" tvg-logo="" group-title="🌏",FOX - HDR10 2K
-https://iptv.852851.xyz/ch/e566d3de7a5e26d86764d7bb5afab900/master.m3u8
+#EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="🌏",FOX - HDR10 4K
+https://iptv.852851.xyz/ch/96b26deae681ada09f666ed8f20b3c85/master.m3u8
 #EXTINF:-1 tvg-id="Now618" tvg-name="Now618" tvg-logo="" group-title="🌏",Now618
 https://iptv.852851.xyz/ch/06c3d6b8d55e423e017192cb420ab190/master.m3u8
 #EXTINF:-1 tvg-id="Now619" tvg-name="Now619" tvg-logo="" group-title="🌏",Now619
 https://iptv.852851.xyz/ch/548692242e9c5efc5a0be36de6591a35/master.m3u8
+#EXTINF:-1 tvg-id="快澳门体育" tvg-name="快澳门体育" tvg-logo="" group-title="🌏",快澳门体育
+https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
 #EXTINF:-1 tvg-id="粤语🔊澳门体育" tvg-name="粤语🔊澳门体育" tvg-logo="" group-title="🌏",粤语🔊澳门体育
 http://rihou.cc:555/tv/[Pd]澳门体育
 #EXTINF:-1 tvg-id="粤语🔊广东体育" tvg-name="粤语🔊广东体育" tvg-logo="" group-title="🌏",粤语🔊广东体育
 http://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 tvg-id="快ELTA体育1" tvg-name="快ELTA体育1" tvg-logo="" group-title="🌏",快ELTA体育1
+https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+#EXTINF:-1 tvg-id="快广东体育" tvg-name="快广东体育" tvg-logo="" group-title="🌏",快广东体育
+https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+#EXTINF:-1 tvg-id="快CCTV5" tvg-name="快CCTV5" tvg-logo="" group-title="🌏",快CCTV5
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+#EXTINF:-1 tvg-id="老咪咕CCTV5" tvg-name="老咪咕CCTV5" tvg-logo="" group-title="🌏",老咪咕CCTV5
+http://17752995.xyz:51111/641886683
+#EXTINF:-1 tvg-id="CCTV5新咪咕" tvg-name="CCTV5新咪咕" tvg-logo="" group-title="🌏",CCTV5新咪咕
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20260620113057&Channel_ID=0116_2600037000-99000-200300220111598&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=113.6.228.92&SecurityKey=20260620113057&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.6.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7b4aa6710591857cce90984276e9c061
 #EXTINF:-1 tvg-id="CCTV 5 體育" tvg-name="CCTV 5 體育" tvg-logo="" group-title="🌏",CCTV 5 體育
 https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
 #EXTINF:-1 tvg-id="CCTV 5+ 體育賽事" tvg-name="CCTV 5+ 體育賽事" tvg-logo="" group-title="🌏",CCTV 5+ 體育賽事
@@ -159,6 +177,18 @@ http://feilong123.vip/409990236/iptv/gdy.php?id=18
 http://feilong123.vip/409990236/iptv/gdy.php?id=24
 #EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="🌏",加拿大TSN
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
+#EXTINF:-1 tvg-id="所长TSN 4K CA" tvg-name="所长TSN 4K CA" tvg-logo="" group-title="🌏",所长TSN 4K CA
+https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
+#EXTINF:-1 tvg-id="所长beIN SPORTS 4K HDR" tvg-name="所长beIN SPORTS 4K HDR" tvg-logo="" group-title="🌏",所长beIN SPORTS 4K HDR
+https://iptv.852851.xyz/ch/c715b17f58cb773f5cf8c463bcad7290/master.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Tennis IT" tvg-name="Sky Sport Tennis IT" tvg-logo="" group-title="🌏",Sky Sport Tennis IT
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1937780
+#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="🌏",Sky Sports Tennis UK
+http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/825813
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="🌏",Tennis Channel
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/31209
+#EXTINF:-1 tvg-id="TRUE TENNIS" tvg-name="TRUE TENNIS" tvg-logo="" group-title="🌏",TRUE TENNIS
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1776208
 #EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="" group-title="🌏",博斯魅力
 https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
 #EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="" group-title="🌏",博斯網球
@@ -169,67 +199,9 @@ https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
 https://cdn.19891230.eu.org/4gtv/litv-xinchuang08/index.m3u8
 #EXTINF:-1 tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="" group-title="🌏",博斯無限
 https://cdn.19891230.eu.org/4gtv/litv-xinchuang10/index.m3u8
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy" tvg-logo="" group-title="🌏",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC 4K" tvg-name="BBC 4K" tvg-logo="" group-title="🌏",BBC 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
-
-
-#EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 41 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-id=" " tvg-chno=" " group-title="体育",愛爾達體育1台
-https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-id=" " tvg-chno=" " group-title="体育",愛爾達體育2台
-https://iptv.852851.xyz/ch/667741f228996f28da24100c4dc78630/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" tvg-id=" " tvg-chno=" " group-title="体育",广东体育
-https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1117785769&size=240&m=134260664554231775&x=754KKSp43JDH2IlyO5c6f3GKeuHMf6Tl" tvg-id=" " tvg-chno="335" group-title="体育",FUSSBALL.TV 1 UHD  4K杜比
-https://iptv.852851.xyz/ch/9ad2c65b895ebcaa252259078ae5db64/master.m3u8
-
-#EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117785768&size=240&m=134260664553404833&x=iD1PB2uwsmI6oexmSoJ78yV5W9BPPoRZ" group-title="体育",FOX 4K HDR10
-https://iptv.852851.xyz/ch/96b26deae681ada09f666ed8f20b3c85/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_tsn.png" tvg-id=" " tvg-chno=" " group-title="体育",TSN 4K CA
-https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283570000&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" group-title="体育",美国西班牙语频道1台4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002269747b1780941bdce2864b47f369:c84fec5b1f70acad9bc257afe46997ec
-https://g002-sle-us-cmaf-prd-fy.cdn.peacocktv.com/v~1-0-0_e~1781486694_f~0_g~1_s~efa963ad-bf1b-47c3-84ad-c446c6136b5d_u~2fc3181d9bb490b427441c0528378166696e6f4fdd3e61a95168ae5027fde71ce139842a0314078961820ae5a33f83f9_k~A_l~78_x~f87456484fa57aa185605345d1ebb1b3/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021154-723012-4911424c4c4)/master.mpd
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283570000&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" group-title="体育",美国西班牙语频道2台4K
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0022045b676b06c8da4cff795a549a76:5ce3d600b8e5207e89bff3296abf69c9
-https://g002-sle-us-cmaf-prd-ak.cdn.peacocktv.com/v~a-0-0_e~1781498102_s~ca1182b3-0bca-49c2-a952-20ac53bb4b45_u~2fc3181d9bb490b427441c0528378166696e6f4fdd3e61a95168ae5027fde71ce139842a0314078961820ae5a33f83f9_l~78_x~972fa1846349cabb5483b18372fd73348954f6461dab54ab593e9c0b5beb6513/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5022523-724381-49165be125d)/master.mpd
-
-
-#EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1备1
-http://doubleclicktv.live/Lana15/tjLUeQxVL4LE/746772
-#EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1备2
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1076470
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 42 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 43 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_043/iptv_uhd_v1.mpd  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 44 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_044/iptv_uhd_v1.mpd
-
-
-#EXTINF:-1 tvg-name="FUSSBALL.TV 3 UHD" group-title="Sports",FUSSBALL.TV 3 UHD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
-https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
-
-
-
-
-
+#EXTINF:-1 tvg-id="TravelXP 4K" tvg-name="TravelXP 4K" tvg-logo="" group-title="🌏",TravelXP 4K
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119905
