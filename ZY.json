@@ -8,7 +8,7 @@
       "name": "自用",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
-	{
+	  	    {
       "name": "小红书",
       "url": "http://192.168.31.4:38767/xhslist.m3u"
     },
@@ -100,17 +100,17 @@
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
          {
-            "name": "🐬速",
+            "name": "🐬各大源合集 海豚影视永久免费如有收费的都是骗子",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/bella329/tv/main/sports.m3u"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"
         }, 
 	{
             "name": "🐬易发源 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    }，
+    },
 		    
 		     {
             "name": "咖啡体育",
