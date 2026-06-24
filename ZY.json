@@ -9,6 +9,10 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
 	  	    {
+      "name": "群晖体育",
+      "url": "http://192.168.31.4:8080/m3u"
+    },
+	  	    {
       "name": "小红书",
       "url": "http://192.168.31.4:38767/xhslist.m3u"
     },
@@ -110,7 +114,7 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    },
+    }，
 		    
 		     {
             "name": "咖啡体育",
