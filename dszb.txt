@@ -83,25 +83,6 @@ CCTV5,http://17752995.xyz:51111/641886683
 咪视界4K,http://feilong123.vip/409990236/iptv/gdy.php?id=18
 加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 
-港澳台_6,#genre#
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-凤凰资讯,http://101.35.240.114:88/phenix.php?id=fhzx
-凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
-凤凰香港,http://101.35.240.114:88/phenix.php?id=fhhk
-CCTV1,https://cdn.19891230.eu.org/api/CCTV1/index.m3u8
-CCTV4,https://cdn.19891230.eu.org/api/CCTV4/index.m3u8
-CCTV5,https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
-CCTV8,https://cdn.19891230.eu.org/api/CCTV8/index.m3u8
-CCTV12,https://cdn.19891230.eu.org/api/CCTV12/index.m3u8
-CCTV1,http://17752995.xyz:51111/608807420
-CCTV4,http://17752995.xyz:51111/631780421
-CCTV5,http://17752995.xyz:51111/641886683
-CCTV5+,http://17752995.xyz:51111/641886773
-CCTV8,http://17752995.xyz:51111/624878356
-CCTV12,http://17752995.xyz:51111/673168185
-
 央视广西,#genre#
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
