@@ -8,11 +8,7 @@
       "name": "自用",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
-	  	    {
-      "name": "群晖体育",
-      "url": "https://github.boki.moe/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/m3u.m3u8"
-    },
-	  	    {
+	{
       "name": "小红书",
       "url": "http://192.168.31.4:38767/xhslist.m3u"
     },
