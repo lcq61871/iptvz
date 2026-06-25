@@ -28,7 +28,7 @@
         },
             {
       "name": "日本",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lzh81569/lzh81569.github.io/refs/heads/main/1jp.m3u"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lzh81569/lzh81569.github.io/refs/heads/main/jp.m3u"
     },
         {
             "name": "🐬港台国际",
@@ -60,8 +60,8 @@
     },
       {
       "name": "rebeliptv体育",
-      "url": "http://192.168.31.4:8080/1m3u"
-    }，
+      "url": "http://192.168.31.4:8080/m3u"
+    },
     {
       "name": "咪咕体育",
       "url": "https://github.boki.moe/https://raw.githubusercontent.com/JFApril/D/refs/heads/main/TestLive.txt"
@@ -106,7 +106,7 @@
             "name": "🐬美国频道",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/doms9/iptv/default/M3U8/1TV.m3u8"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/doms9/iptv/default/M3U8/TV.m3u8"
         }, 
 	{
             "name": "🐬易发源 有🔞",
