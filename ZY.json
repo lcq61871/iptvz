@@ -9,8 +9,8 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
 	  	    {
-      "name": "小红书",
-      "url": "http://192.168.31.4:38767/xhslist.m3u"
+      "name": "4GTV自",
+      "url": "http://192.168.31.4:19950/4gtv.m3u?token=3737"
     },
     {
       "name": "欧美频道",
@@ -60,7 +60,7 @@
       "url": "http://192.168.31.4:8080/m3u"
     },
     {
-      "name": "咪咕体育",
+      "name": "咪咕体育"，
       "url": "https://github.boki.moe/https://raw.githubusercontent.com/JFApril/D/refs/heads/main/TestLive.txt"
     },
     {
