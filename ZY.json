@@ -26,7 +26,10 @@
             "ua": "okhttp",
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
-        
+            {
+      "name": "日本",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lzh81569/lzh81569.github.io/refs/heads/main/jp.m3u"
+    },
         {
             "name": "🐬港台国际",
             "type": 0,
@@ -58,7 +61,7 @@
       {
       "name": "rebeliptv体育",
       "url": "http://192.168.31.4:8080/m3u"
-    },
+    }，
     {
       "name": "咪咕体育",
       "url": "https://github.boki.moe/https://raw.githubusercontent.com/JFApril/D/refs/heads/main/TestLive.txt"
@@ -110,7 +113,7 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    },
+    }，
 		    
 		     {
             "name": "咖啡体育",
