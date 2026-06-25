@@ -1,5 +1,31 @@
 
 4GTV,#genre#
+
+
+博斯運動一台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%B8%80%E5%8F%B0&token=3737
+博斯無限台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E5%8F%B0&token=3737
+博斯網球台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83%E5%8F%B0&token=3737
+博斯運動二台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%BA%8C%E5%8F%B0&token=3737
+博斯魅力台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0&token=3737
+博斯無限二台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E4%BA%8C%E5%8F%B0&token=3737
+愛爾達生活旅遊台,http://192.168.31.4:19950/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0&token=3737
+亞洲旅遊台,http://192.168.31.4:19950/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0&token=3737
+民視旅遊台,http://192.168.31.4:19950/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0&token=3737
+三立新聞iNEWS,http://192.168.31.4:19950/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS&token=3737
+TVBS新聞,http://192.168.31.4:19950/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=3737
+東森新聞台,http://192.168.31.4:19950/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0&token=3737
+寰宇新聞台灣台,http://192.168.31.4:19950/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0&token=3737
+TRACE Sport Stars,http://192.168.31.4:19950/playlist?channel=TRACE%20Sport%20Stars&token=3737
+
+
+
+智林體育台,http://192.168.31.4:19950/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0&token=3737
+時尚運動X,http://192.168.31.4:19950/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X&token=3737
+車迷TV,http://192.168.31.4:19950/playlist?channel=%E8%BB%8A%E8%BF%B7TV&token=3737
+GINX Esports TV,http://192.168.31.4:19950/playlist?channel=GINX%20Esports%20TV&token=3737
+Pet Club TV,http://192.168.31.4:19950/playlist?channel=Pet%20Club%20TV&token=3737
+博斯高球台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E5%8F%B0&token=3737
+博斯高球二台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E4%BA%8C%E5%8F%B0&token=3737
 民視第一台,http://192.168.31.4:19950/playlist?channel=%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0&token=3737
 民視台灣台,http://192.168.31.4:19950/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0&token=3737
 民視,http://192.168.31.4:19950/playlist?channel=%E6%B0%91%E8%A6%96&token=3737
@@ -27,17 +53,16 @@ DreamWorks 夢工廠動畫,http://192.168.31.4:19950/playlist?channel=DreamWorks
 靖洋卡通Nice Bingo,http://192.168.31.4:19950/playlist?channel=%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo&token=3737
 MOMO親子台,http://192.168.31.4:19950/playlist?channel=MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0&token=3737
 鏡電視新聞台,http://192.168.31.4:19950/playlist?channel=%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0&token=3737
-東森新聞台,http://192.168.31.4:19950/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0&token=3737
+
 華視新聞,http://192.168.31.4:19950/playlist?channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E&token=3737
 民視新聞台,http://192.168.31.4:19950/playlist?channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0&token=3737
-三立新聞iNEWS,http://192.168.31.4:19950/playlist?channel=%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS&token=3737
-TVBS新聞,http://192.168.31.4:19950/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=3737
+
 東森財經新聞台,http://192.168.31.4:19950/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0&token=3737
 中視新聞,http://192.168.31.4:19950/playlist?channel=%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E&token=3737
 中天新聞台,http://192.168.31.4:19950/playlist?channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0&token=3737
 Bloomberg TV,http://192.168.31.4:19950/playlist?channel=Bloomberg%20TV&token=3737
 寰宇新聞台,http://192.168.31.4:19950/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0&token=3737
-寰宇新聞台灣台,http://192.168.31.4:19950/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0&token=3737
+
 SBN全球財經台,http://192.168.31.4:19950/playlist?channel=SBN%E5%85%A8%E7%90%83%E8%B2%A1%E7%B6%93%E5%8F%B0&token=3737
 TVBS,http://192.168.31.4:19950/playlist?channel=TVBS&token=3737
 
@@ -63,29 +88,15 @@ CLASSICA 古典樂,http://192.168.31.4:19950/playlist?channel=CLASSICA%20%E5%8F%
 
 
 
-博斯高球台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E5%8F%B0&token=3737
-博斯高球二台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E4%BA%8C%E5%8F%B0&token=3737
-博斯運動一台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%B8%80%E5%8F%B0&token=3737
-博斯無限台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E5%8F%B0&token=3737
-博斯網球台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83%E5%8F%B0&token=3737
-博斯運動二台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%BA%8C%E5%8F%B0&token=3737
-博斯魅力台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0&token=3737
-博斯無限二台,http://192.168.31.4:19950/playlist?channel=%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E4%BA%8C%E5%8F%B0&token=3737
-TRACE Sport Stars,http://192.168.31.4:19950/playlist?channel=TRACE%20Sport%20Stars&token=3737
-智林體育台,http://192.168.31.4:19950/playlist?channel=%E6%99%BA%E6%9E%97%E9%AB%94%E8%82%B2%E5%8F%B0&token=3737
-時尚運動X,http://192.168.31.4:19950/playlist?channel=%E6%99%82%E5%B0%9A%E9%81%8B%E5%8B%95X&token=3737
-車迷TV,http://192.168.31.4:19950/playlist?channel=%E8%BB%8A%E8%BF%B7TV&token=3737
-GINX Esports TV,http://192.168.31.4:19950/playlist?channel=GINX%20Esports%20TV&token=3737
-Pet Club TV,http://192.168.31.4:19950/playlist?channel=Pet%20Club%20TV&token=3737
 
-民視旅遊台,http://192.168.31.4:19950/playlist?channel=%E6%B0%91%E8%A6%96%E6%97%85%E9%81%8A%E5%8F%B0&token=3737
+
 滾動力rollor,http://192.168.31.4:19950/playlist?channel=%E6%BB%BE%E5%8B%95%E5%8A%9Brollor&token=3737
-亞洲旅遊台,http://192.168.31.4:19950/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0&token=3737
+
 
 幸福空間居家台,http://192.168.31.4:19950/playlist?channel=%E5%B9%B8%E7%A6%8F%E7%A9%BA%E9%96%93%E5%B1%85%E5%AE%B6%E5%8F%B0&token=3737
 Love Nature,http://192.168.31.4:19950/playlist?channel=Love%20Nature&token=3737
 History 歷史頻道,http://192.168.31.4:19950/playlist?channel=History%20%E6%AD%B7%E5%8F%B2%E9%A0%BB%E9%81%93&token=3737
-愛爾達生活旅遊台,http://192.168.31.4:19950/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0&token=3737
+
 LUXE TV Channel,http://192.168.31.4:19950/playlist?channel=LUXE%20TV%20Channel&token=3737
 TV5MONDE STYLE HD 生活時尚,http://192.168.31.4:19950/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A&token=3737
 MagellanTV頻道 (麥哲倫頻道),http://192.168.31.4:19950/playlist?channel=MagellanTV%E9%A0%BB%E9%81%93%20%28%E9%BA%A5%E5%93%B2%E5%80%AB%E9%A0%BB%E9%81%93%29%20&token=3737
