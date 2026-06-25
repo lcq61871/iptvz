@@ -26,7 +26,10 @@
             "ua": "okhttp",
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
-          
+            {
+      "name": "日本",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lzh81569/lzh81569.github.io/refs/heads/main/jp.m3u"
+    },
         {
             "name": "🐬港台国际",
             "type": 0,
@@ -55,7 +58,10 @@
       "name": "老三直播",
       "url": "https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/main/zb"
     },
-    
+      {
+      "name": "rebeliptv体育",
+      "url": "http://192.168.31.4:8080/m3u"
+    },
     {
       "name": "咪咕体育",
       "url": "https://github.boki.moe/https://raw.githubusercontent.com/JFApril/D/refs/heads/main/TestLive.txt"
@@ -96,13 +102,18 @@
       "ua": "okhttp",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
-         
+         {
+            "name": "🐬美国频道",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/doms9/iptv/default/M3U8/TV.m3u8"
+        }, 
 	{
             "name": "🐬易发源 有🔞",
             "type": 0,
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    }，
+    },
 		    
 		     {
             "name": "咖啡体育",
