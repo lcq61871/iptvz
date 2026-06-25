@@ -42,6 +42,8 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=9b256b5d0d7d31d0
 凤凰香港, http://feilong123.vip/409990236/hktv.php?id=2
 4K世界杯回放,#genre#
 
+6月25日-瑞士vs加拿大,http://82.156.243.185:34567/xhs/4459826
+6月25日-苏格兰vs巴西,http://82.156.243.185:34567/xhs/4460912
 6月24日-葡萄牙vs乌兹别克斯坦,http://82.156.243.185:34567/xhs/4460933
 6月24日-英格兰vs加纳,http://82.156.243.185:34567/xhs/4460936
 6月23日-挪威vs塞内加尔,http://82.156.243.185:34567/xhs/4460968
@@ -85,7 +87,7 @@ CCTV5,http://17752995.xyz:51111/641886683
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+广西新闻,http://lcq6182.x3322.net:1217/yspios.php?id=gxws
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://17752995.xyz:51111/608807420
 CCTV4,http://17752995.xyz:51111/631780421
@@ -93,7 +95,7 @@ CCTV5,http://17752995.xyz:51111/641886683
 CCTV5+,http://17752995.xyz:51111/641886773
 CCTV8,http://17752995.xyz:51111/624878356
 CCTV12,http://17752995.xyz:51111/673168185
-CCTV-1高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv1
+CCTV-1高清,http:///yspios.php?id=cctv1
 CCTV-4高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv4
 CCTV-5高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
 CCTV-8高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv8
