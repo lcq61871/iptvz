@@ -9,8 +9,8 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
 	  	    {
-      "name": "4GTV自",
-      "url": "http://192.168.31.4:19950/4gtv.m3u?token=3737"
+      "name": "4GTV央视",
+      "url": "http://192.168.31.4:1905/m3u"
     },
     {
       "name": "欧美频道",
