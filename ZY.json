@@ -28,7 +28,7 @@
         },
             {
       "name": "日本",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lzh81569/lzh81569.github.io/refs/heads/main/jp.m3u"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/kamonka/kamonka.github.io/main/tv.txt"
     },
         {
             "name": "🐬港台国际",
@@ -102,12 +102,6 @@
       "ua": "okhttp",
       "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
     },
-         {
-            "name": "🐬美国频道",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/doms9/iptv/default/M3U8/TV.m3u8"
-        }, 
 	{
             "name": "🐬易发源 有🔞",
             "type": 0,
