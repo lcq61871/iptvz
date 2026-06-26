@@ -9,7 +9,7 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
 	  	    {
-      "name": "小红书",
+      "name": "小书",
       "url": "http://192.168.31.4:1905/m3u"
     },
     {
@@ -108,10 +108,6 @@
             "ua": "okhttp",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
     },
-	{
-            "name": "咖啡体育",
-			 "url": "http://ha1.159843.xyz/get.php?username=Koray.Bilsel&password=tsbVYGBdTw&type=m3u_plus"
-         },
 		     {
             "name": "咖啡体育",
 			 "url": "https://jsnzkpg.us.ci/live.m3u"
