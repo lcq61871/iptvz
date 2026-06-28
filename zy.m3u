@@ -1,207 +1,421 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="" group-title="⚽世界杯",咪咕4k
-http://feilong123.vip/409990236/iptv/gdy.php?id=46
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="" group-title="⚽世界杯",咪咕4k
-http://feilong123.vip/409990236/iptv/gdy.php?id=7
-#EXTINF:-1 tvg-id="粤语🔊澳门体育" tvg-name="粤语🔊澳门体育" tvg-logo="" group-title="⚽世界杯",粤语🔊澳门体育
-https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-#EXTINF:-1 tvg-id="粤语🔊澳门体育" tvg-name="粤语🔊澳门体育" tvg-logo="" group-title="⚽世界杯",粤语🔊澳门体育
-http://rihou.cc:555/tv/[Pd]澳门体育
-#EXTINF:-1 tvg-id="粤语🔊广东体育" tvg-name="粤语🔊广东体育" tvg-logo="" group-title="⚽世界杯",粤语🔊广东体育
-https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-#EXTINF:-1 tvg-id="粤语🔊广东体育" tvg-name="粤语🔊广东体育" tvg-logo="" group-title="⚽世界杯",粤语🔊广东体育
-http://cdn2.163189.xyz/163189/gdty
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="⚽世界杯",国语🔊愛爾達體育1台
-https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="⚽世界杯",国语🔊愛爾達體育1台
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="⚽世界杯",CCTV5
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="⚽世界杯",CCTV5
-http://17752995.xyz:51111/641886683
-#EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="" group-title="⚽世界杯",咪视界4K
-http://feilong123.vip/409990236/iptv/gdy.php?id=18
-#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="⚽世界杯",加拿大TSN
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="港澳台",凤凰资讯
-https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="港澳台",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="港澳台",凤凰香港
-https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="港澳台",凤凰资讯
-http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="港澳台",凤凰中文
-http://101.35.240.114:88/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="港澳台",凤凰香港
-http://101.35.240.114:88/phenix.php?id=fhhk
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="港澳台",CCTV1
-https://cdn.19891230.eu.org/api/CCTV1/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="港澳台",CCTV4
-https://cdn.19891230.eu.org/api/CCTV4/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="港澳台",CCTV5
-https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="港澳台",CCTV8
-https://cdn.19891230.eu.org/api/CCTV8/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="港澳台",CCTV12
-https://cdn.19891230.eu.org/api/CCTV12/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="港澳台",CCTV1
-http://go.bkpcp.top/mg/cctv1
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="港澳台",CCTV4
-http://go.bkpcp.top/mg/cctv4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="港澳台",CCTV5
-http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="港澳台",CCTV8
-http://go.bkpcp.top/mg/cctv8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="港澳台",CCTV12
-http://go.bkpcp.top/mg/cctv12
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="港澳台",CCTV1
-http://17752995.xyz:51111/608807420
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="港澳台",CCTV4
-http://17752995.xyz:51111/631780421
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="港澳台",CCTV5
-http://17752995.xyz:51111/641886683
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="港澳台",CCTV5+
-http://17752995.xyz:51111/641886773
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="港澳台",CCTV8
-http://17752995.xyz:51111/624878356
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="港澳台",CCTV12
-http://17752995.xyz:51111/673168185
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="港澳台",CCTV1
-http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="港澳台",CCTV4
-http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="港澳台",CCTV5
-http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="港澳台",CCTV8
-http://39.165.39.49:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="港澳台",CCTV12
-http://39.165.39.49:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="港澳台",CCTV1
-http://107.150.60.122/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="港澳台",CCTV4
-http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="港澳台",CCTV5
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="港澳台",CCTV5+
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="港澳台",CCTV8
-http://107.150.60.122/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="港澳台",CCTV12
-http://107.150.60.122/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="央视广西",南宁新闻综合
-http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="央视广西",南宁新闻综合
-http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="央视广西",南宁新闻综合
-http://live.xmcdn.com/live/305/64.m3u8?aac
-#EXTINF:-1 tvg-id="南宁都市生活" tvg-name="南宁都市生活" tvg-logo="" group-title="央视广西",南宁都市生活
-http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 tvg-id="南宁都市生活" tvg-name="南宁都市生活" tvg-logo="" group-title="央视广西",南宁都市生活
-http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="" group-title="央视广西",广西新闻
-http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="" group-title="央视广西",广西新闻
-http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" tvg-logo="" group-title="央视广西",CCTV-1高清
-http://lcq6182.x3322.net:1217/yspios.php?id=cctv1
-#EXTINF:-1 tvg-id="CCTV-4高清" tvg-name="CCTV-4高清" tvg-logo="" group-title="央视广西",CCTV-4高清
-http://lcq6182.x3322.net:1217/yspios.php?id=cctv4
-#EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" tvg-logo="" group-title="央视广西",CCTV-5高清
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv
+
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 11:00 世界杯 埃及vs伊朗 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460958/recording-0-1276600-d55fab92fb.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 11:00 世界杯 埃及vs伊朗 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460958/recording-10-1276601-51560b6649.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 11:00 世界杯 埃及vs伊朗 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460958/recording-20-1276602-dc519257e6.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 11:00 世界杯 新西兰vs比利时 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460922/recording-0-1276597-096aefd9d8.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 11:00 世界杯 新西兰vs比利时 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460922/recording-10-1276598-b2e965a640.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 11:00 世界杯 新西兰vs比利时 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460922/recording-20-1276599-844c2ecdd7.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 08:00 世界杯 佛得角vs沙特阿拉伯 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460966/recording-0-1276594-37832839f3.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 08:00 世界杯 佛得角vs沙特阿拉伯 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460966/recording-10-1276595-277316bcf0.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 08:00 世界杯 佛得角vs沙特阿拉伯 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460966/recording-20-1276596-2952ab6f4e.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 08:00 世界杯 乌拉圭vs西班牙 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460925/recording-0-1276591-7d2502d4fc.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 08:00 世界杯 乌拉圭vs西班牙 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460925/recording-10-1276592-b21fbd2eaa.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 08:00 世界杯 乌拉圭vs西班牙 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460925/recording-20-1276593-682711471e.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 03:00 世界杯 塞内加尔vs伊拉克 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460969/recording-0-1276587-099f12efda.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 03:00 世界杯 塞内加尔vs伊拉克 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460969/recording-10-1276588-031ed79e84.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 03:00 世界杯 塞内加尔vs伊拉克 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460969/recording-20-1276589-8dfd185af9.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 03:00 世界杯 挪威vs法国 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460928/recording-0-1276584-08b9806e65.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 03:00 世界杯 挪威vs法国 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460928/recording-10-1276585-1ee7692ddd.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-27 03:00 世界杯 挪威vs法国 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460928/recording-20-1276586-13bd2a3f6a.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 10:00 世界杯 巴拉圭vs澳大利亚 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460949/recording-0-1276671-958317dd57.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 10:00 世界杯 巴拉圭vs澳大利亚 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460949/recording-10-1276672-e5a0f15d6b.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 10:00 世界杯 巴拉圭vs澳大利亚 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460949/recording-20-1276673-f597b53ae0.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 10:00 世界杯 土耳其vs美国 [高清回放1]
+https://stream.sports3.win/iptv/recording/4459829/recording-0-1276668-a57fe365d3.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 10:00 世界杯 土耳其vs美国 [超清中文1]
+https://stream.sports3.win/iptv/recording/4459829/recording-10-1276669-bbe2c9dd3e.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 10:00 世界杯 土耳其vs美国 [超清外语1]
+https://stream.sports3.win/iptv/recording/4459829/recording-20-1276670-6a8a9382e3.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 07:00 世界杯 日本vs瑞典 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460955/recording-0-1276665-fd3ad41813.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 07:00 世界杯 日本vs瑞典 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460955/recording-10-1276666-a44daa3617.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 07:00 世界杯 日本vs瑞典 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460955/recording-20-1276667-b5b4d68428.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 07:00 世界杯 突尼斯vs荷兰 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460919/recording-0-1276662-f415b47d7c.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 07:00 世界杯 突尼斯vs荷兰 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460919/recording-10-1276663-90bd486edd.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 07:00 世界杯 突尼斯vs荷兰 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460919/recording-20-1276664-33e9cbf1e6.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 04:00 世界杯 库拉索vs科特迪瓦 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460952/recording-0-1276659-67b72625a3.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 04:00 世界杯 库拉索vs科特迪瓦 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460952/recording-10-1276660-ff1bbfd794.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 04:00 世界杯 库拉索vs科特迪瓦 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460952/recording-20-1276661-ce5195960d.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 04:00 世界杯 厄瓜多尔vs德国 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460916/recording-0-1276656-3424344159.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 04:00 世界杯 厄瓜多尔vs德国 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460916/recording-10-1276657-eba9d86a5b.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-26 04:00 世界杯 厄瓜多尔vs德国 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460916/recording-20-1276658-51d7293620.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 09:00 世界杯 南非vs韩国 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460940/recording-0-1276720-affa9aa591.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 09:00 世界杯 南非vs韩国 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460940/recording-10-1276721-bb147f2071.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 09:00 世界杯 南非vs韩国 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460940/recording-20-1276722-2f40b4972d.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 09:00 世界杯 捷克vs墨西哥 [高清回放1]
+https://stream.sports3.win/iptv/recording/4459823/recording-0-1276717-2e644e77fb.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 09:00 世界杯 捷克vs墨西哥 [超清中文1]
+https://stream.sports3.win/iptv/recording/4459823/recording-10-1276718-7e0e9e04bb.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 09:00 世界杯 捷克vs墨西哥 [超清外语1]
+https://stream.sports3.win/iptv/recording/4459823/recording-20-1276719-37cd9608ea.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 06:00 世界杯 摩洛哥vs海地 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460946/recording-0-1276714-19fa1eac5e.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 06:00 世界杯 摩洛哥vs海地 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460946/recording-10-1276715-ac5cef4101.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 06:00 世界杯 摩洛哥vs海地 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460946/recording-20-1276716-4776779448.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 06:00 世界杯 苏格兰vs巴西 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460912/recording-0-1276711-179031e781.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 06:00 世界杯 苏格兰vs巴西 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460912/recording-10-1276712-36ce5d57c9.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 06:00 世界杯 苏格兰vs巴西 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460912/recording-20-1276713-0cb2be8b2e.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 03:00 世界杯 波黑vs卡塔尔 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460943/recording-0-1276708-f61b13bfe9.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 03:00 世界杯 波黑vs卡塔尔 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460943/recording-10-1276709-44cc150206.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 03:00 世界杯 波黑vs卡塔尔 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460943/recording-20-1276710-40ee76f37c.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 03:00 世界杯 瑞士vs加拿大 [高清回放1]
+https://stream.sports3.win/iptv/recording/4459826/recording-0-1276705-d641f22266.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 03:00 世界杯 瑞士vs加拿大 [超清中文1]
+https://stream.sports3.win/iptv/recording/4459826/recording-10-1276706-2b778e7f22.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-25 03:00 世界杯 瑞士vs加拿大 [超清外语1]
+https://stream.sports3.win/iptv/recording/4459826/recording-20-1276707-fcf1ae489c.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 10:00 世界杯 哥伦比亚vs刚果(金) [高清回放1]
+https://stream.sports3.win/iptv/recording/4460974/recording-0-1276760-7f21ab3272.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 10:00 世界杯 哥伦比亚vs刚果(金) [超清中文1]
+https://stream.sports3.win/iptv/recording/4460974/recording-10-1276761-695d14132a.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 10:00 世界杯 哥伦比亚vs刚果(金) [超清外语1]
+https://stream.sports3.win/iptv/recording/4460974/recording-20-1276762-a463250ded.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 07:00 世界杯 巴拿马vs克罗地亚 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460977/recording-0-1276755-799a3e5a0e.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 07:00 世界杯 巴拿马vs克罗地亚 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460977/recording-10-1276756-c075a87a42.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 07:00 世界杯 巴拿马vs克罗地亚 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460977/recording-20-1276757-ca9688a939.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 04:00 世界杯 英格兰vs加纳 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460936/recording-0-1276752-df94ded14c.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 04:00 世界杯 英格兰vs加纳 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460936/recording-10-1276753-f7c10fb1a0.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 04:00 世界杯 英格兰vs加纳 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460936/recording-20-1276754-c2cc433686.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 01:00 世界杯 葡萄牙vs乌兹别克斯坦 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460933/recording-0-1276746-a3df459303.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 01:00 世界杯 葡萄牙vs乌兹别克斯坦 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460933/recording-10-1276747-3f58ea3e46.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-24 01:00 世界杯 葡萄牙vs乌兹别克斯坦 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460933/recording-20-1276748-4de1878242.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 11:00 世界杯 约旦vs阿尔及利亚 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460971/recording-0-1276798-56011feb21.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 11:00 世界杯 约旦vs阿尔及利亚 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460971/recording-10-1276799-0e8fc803cb.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 11:00 世界杯 约旦vs阿尔及利亚 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460971/recording-20-1276800-ccee9bc6b0.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 08:00 世界杯 挪威vs塞内加尔 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460968/recording-0-1276795-8daf9b8115.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 08:00 世界杯 挪威vs塞内加尔 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460968/recording-10-1276796-cce2a3fdf4.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 08:00 世界杯 挪威vs塞内加尔 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460968/recording-20-1276797-a2b88fa680.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 05:00 世界杯 法国vs伊拉克 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460927/recording-0-1276791-c9f83b4cc3.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 05:00 世界杯 法国vs伊拉克 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460927/recording-10-1276792-9db6646f5d.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 05:00 世界杯 法国vs伊拉克 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460927/recording-20-1276793-c06374d5b1.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 01:00 世界杯 阿根廷vs奥地利 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460930/recording-0-1276784-d88db05276.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 01:00 世界杯 阿根廷vs奥地利 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460930/recording-10-1276785-8e2e2cac7e.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-23 01:00 世界杯 阿根廷vs奥地利 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460930/recording-20-1276786-6cf1bcbbde.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 09:00 世界杯 新西兰vs埃及 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460957/recording-0-1276837-eea7fd3ea2.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 09:00 世界杯 新西兰vs埃及 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460957/recording-10-1276838-c91d7cb2f3.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 09:00 世界杯 新西兰vs埃及 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460957/recording-20-1276839-248bd1c2d4.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 06:00 世界杯 乌拉圭vs佛得角 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460965/recording-0-1276834-6c3fb925ae.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 06:00 世界杯 乌拉圭vs佛得角 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460965/recording-10-1276835-63e57a84d8.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 06:00 世界杯 乌拉圭vs佛得角 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460965/recording-20-1276836-f021b91e09.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 03:00 世界杯 比利时vs伊朗 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460921/recording-0-1276831-6e7131fdb7.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 03:00 世界杯 比利时vs伊朗 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460921/recording-10-1276832-c346a52470.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 03:00 世界杯 比利时vs伊朗 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460921/recording-20-1276833-6a7198bf31.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 00:00 世界杯 西班牙vs沙特阿拉伯 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460924/recording-0-1276824-5fc676dad5.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 00:00 世界杯 西班牙vs沙特阿拉伯 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460924/recording-10-1276825-efac6fb3b5.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-22 00:00 世界杯 西班牙vs沙特阿拉伯 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460924/recording-20-1276826-cb1d189cb7.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-21 12:00 世界杯 突尼斯vs日本 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460954/recording-0-1258700-24b99eebb3.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-21 12:00 世界杯 突尼斯vs日本 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460954/recording-10-1258701-550289d211.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-21 12:00 世界杯 突尼斯vs日本 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460954/recording-20-1258702-47a56437a4.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-21 08:00 世界杯 厄瓜多尔vs库拉索 [高清回放1]
+https://stream.sports3.win/iptv/recording/4460951/recording-0-1258694-d5e8bde9ad.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-21 08:00 世界杯 厄瓜多尔vs库拉索 [超清中文1]
+https://stream.sports3.win/iptv/recording/4460951/recording-10-1258695-4309728091.m3u8
+#EXTINF:-1 group-title="世界杯录像",⚽ 06-21 08:00 世界杯 厄瓜多尔vs库拉索 [超清外语1]
+https://stream.sports3.win/iptv/recording/4460951/recording-20-1258696-49e80356a6.m3u8
+#EXTINF:-1 group-title="⚽世界杯",CCTV5
 http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
-#EXTINF:-1 tvg-id="CCTV-8高清" tvg-name="CCTV-8高清" tvg-logo="" group-title="央视广西",CCTV-8高清
-http://lcq6182.x3322.net:1217/yspios.php?id=cctv8
-#EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" tvg-logo="" group-title="央视广西",CCTV-12高清
-http://lcq6182.x3322.net:1217/yspios.php?id=cctv12
-#EXTINF:-1 tvg-id="CCTV-2高清" tvg-name="CCTV-2高清" tvg-logo="" group-title="央视广西",CCTV-2高清
-http://192.168.31.4:1217/yspios.php?id=cctv2
-#EXTINF:-1 tvg-id="CCTV-5+高清" tvg-name="CCTV-5+高清" tvg-logo="" group-title="央视广西",CCTV-5+高清
-http://192.168.31.4:1217/yspios.php?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV-13高清" tvg-name="CCTV-13高清" tvg-logo="" group-title="央视广西",CCTV-13高清
-http://192.168.31.4:1217/yspios.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV-17高清" tvg-name="CCTV-17高清" tvg-logo="" group-title="央视广西",CCTV-17高清
-http://192.168.31.4:1217/yspios.php?id=cctv17
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="央视广西",湖南卫视
-http://192.168.31.4:1217/yspios.php?id=hnws
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="央视广西",凤凰资讯
-https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="央视广西",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="央视广西",凤凰香港
-https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="🌏",愛爾達體育1台
-https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="🌏",广东体育
-https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
-#EXTINF:-1 tvg-id="FUSSBALL.TV 1 UHD 4K杜比" tvg-name="FUSSBALL.TV 1 UHD 4K杜比" tvg-logo="" group-title="🌏",FUSSBALL.TV 1 UHD 4K杜比
-https://iptv.852851.xyz/ch/9ad2c65b895ebcaa252259078ae5db64/master.m3u8
-#EXTINF:-1 tvg-id="TSN 4K CA" tvg-name="TSN 4K CA" tvg-logo="" group-title="🌏",TSN 4K CA
-https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
-#EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="" group-title="🌏",FOX - HDR10 4K
-https://iptv.852851.xyz/ch/96b26deae681ada09f666ed8f20b3c85/master.m3u8
-#EXTINF:-1 tvg-id="Now618" tvg-name="Now618" tvg-logo="" group-title="🌏",Now618
-https://iptv.852851.xyz/ch/06c3d6b8d55e423e017192cb420ab190/master.m3u8
-#EXTINF:-1 tvg-id="Now619" tvg-name="Now619" tvg-logo="" group-title="🌏",Now619
-https://iptv.852851.xyz/ch/548692242e9c5efc5a0be36de6591a35/master.m3u8
-#EXTINF:-1 tvg-id="快澳门体育" tvg-name="快澳门体育" tvg-logo="" group-title="🌏",快澳门体育
-https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-#EXTINF:-1 tvg-id="粤语🔊澳门体育" tvg-name="粤语🔊澳门体育" tvg-logo="" group-title="🌏",粤语🔊澳门体育
-http://rihou.cc:555/tv/[Pd]澳门体育
-#EXTINF:-1 tvg-id="粤语🔊广东体育" tvg-name="粤语🔊广东体育" tvg-logo="" group-title="🌏",粤语🔊广东体育
-http://cdn2.163189.xyz/163189/gdty
-#EXTINF:-1 tvg-id="快ELTA体育1" tvg-name="快ELTA体育1" tvg-logo="" group-title="🌏",快ELTA体育1
-https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-#EXTINF:-1 tvg-id="快广东体育" tvg-name="快广东体育" tvg-logo="" group-title="🌏",快广东体育
-https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-#EXTINF:-1 tvg-id="快CCTV5" tvg-name="快CCTV5" tvg-logo="" group-title="🌏",快CCTV5
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-#EXTINF:-1 tvg-id="老咪咕CCTV5" tvg-name="老咪咕CCTV5" tvg-logo="" group-title="🌏",老咪咕CCTV5
-http://17752995.xyz:51111/641886683
-#EXTINF:-1 tvg-id="CCTV5新咪咕" tvg-name="CCTV5新咪咕" tvg-logo="" group-title="🌏",CCTV5新咪咕
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=f863b466d46e2ff46401579155d4a125&mdspid=&spid=699004&netType=4&sid=5500516171&pid=2028597139&timestamp=20260620113057&Channel_ID=0116_2600037000-99000-200300220111598&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=113.6.228.92&SecurityKey=20260620113057&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.6.1.2-RELEASE&userid=1834153345&jmhm=f863b466d46e2ff46401579155d4a125&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7b4aa6710591857cce90984276e9c061
-#EXTINF:-1 tvg-id="CCTV 5 體育" tvg-name="CCTV 5 體育" tvg-logo="" group-title="🌏",CCTV 5 體育
-https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
-#EXTINF:-1 tvg-id="CCTV 5+ 體育賽事" tvg-name="CCTV 5+ 體育賽事" tvg-logo="" group-title="🌏",CCTV 5+ 體育賽事
-https://cdn.19891230.eu.org/api/CCTV5+/index.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="" group-title="🌏",五星体育
-https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="🌏",国语🔊愛爾達體育1台
-http://gat.xyys.site/cdnlive.php?mode=play;id=95243f1030a854eab5305eccad5cf992;token=CADtQqrhvJcKnfMGNgqMrhDsYuV86aY7
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="" group-title="🌏",咪咕4k
+#EXTINF:-1 group-title="⚽世界杯",咪咕4k
 http://feilong123.vip/409990236/iptv/gdy.php?id=46
-#EXTINF:-1 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="" group-title="🌏",咪咕4k
+#EXTINF:-1 group-title="⚽世界杯",咪咕4k
 http://feilong123.vip/409990236/iptv/gdy.php?id=7
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="" group-title="🌏",睛彩竞技
+#EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
+http://rihou.cc:555/tv/%5BPd%5D%E6%BE%B3%E9%97%A8%E4%BD%93%E8%82%B2
+#EXTINF:-1 group-title="⚽世界杯",粤语🔊广东体育
+http://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
+https://stream.sports3.win/iptv/tv/tv/tv-tv-1-57807ad27a.m3u8
+#EXTINF:-1 group-title="⚽世界杯",粤语🔊广东体育
+https://stream.sports3.win/iptv/tv/tv/tv-tv-1-c5c334f445.m3u8
+#EXTINF:-1 group-title="⚽世界杯",咪视界4K
 http://feilong123.vip/409990236/iptv/gdy.php?id=18
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="" group-title="🌏",睛彩竞技
-http://feilong123.vip/409990236/iptv/gdy.php?id=24
-#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="🌏",加拿大TSN
+#EXTINF:-1 group-title="⚽世界杯",加拿大TSN
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
-#EXTINF:-1 tvg-id="所长TSN 4K CA" tvg-name="所长TSN 4K CA" tvg-logo="" group-title="🌏",所长TSN 4K CA
-https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
-#EXTINF:-1 tvg-id="所长beIN SPORTS 4K HDR" tvg-name="所长beIN SPORTS 4K HDR" tvg-logo="" group-title="🌏",所长beIN SPORTS 4K HDR
-https://iptv.852851.xyz/ch/c715b17f58cb773f5cf8c463bcad7290/master.m3u8
-#EXTINF:-1 tvg-id="Sky Sport Tennis IT" tvg-name="Sky Sport Tennis IT" tvg-logo="" group-title="🌏",Sky Sport Tennis IT
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1937780
-#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="🌏",Sky Sports Tennis UK
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/825813
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="🌏",Tennis Channel
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/31209
-#EXTINF:-1 tvg-id="TRUE TENNIS" tvg-name="TRUE TENNIS" tvg-logo="" group-title="🌏",TRUE TENNIS
-http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1776208
-#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="" group-title="🌏",博斯魅力
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
-#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="" group-title="🌏",博斯網球
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動 一" tvg-name="博斯運動 一" tvg-logo="" group-title="🌏",博斯運動 一
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動 二" tvg-name="博斯運動 二" tvg-logo="" group-title="🌏",博斯運動 二
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang08/index.m3u8
-#EXTINF:-1 tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="" group-title="🌏",博斯無限
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang10/index.m3u8
-#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy" tvg-logo="" group-title="🌏",Playboy
+#EXTINF:-1 group-title="央视广西",南宁新闻综合
+http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+#EXTINF:-1 group-title="央视广西",南宁新闻综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 group-title="央视广西",南宁新闻综合
+http://live.xmcdn.com/live/305/64.m3u8?aac
+#EXTINF:-1 group-title="央视广西",南宁都市生活
+http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+#EXTINF:-1 group-title="央视广西",南宁都市生活
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 group-title="央视广西",广西新闻
+http://lcq6182.x3322.net:1217/yspios.php?id=gxws
+#EXTINF:-1 group-title="央视广西",广西新闻
+http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视广西",CCTV1
+http://17752995.xyz:51111/608807420
+#EXTINF:-1 group-title="央视广西",CCTV4
+http://17752995.xyz:51111/631780421
+#EXTINF:-1 group-title="央视广西",CCTV5
+http://17752995.xyz:51111/641886683
+#EXTINF:-1 group-title="央视广西",CCTV5+
+http://17752995.xyz:51111/641886773
+#EXTINF:-1 group-title="央视广西",CCTV8
+http://17752995.xyz:51111/624878356
+#EXTINF:-1 group-title="央视广西",CCTV12
+http://17752995.xyz:51111/673168185
+#EXTINF:-1 group-title="央视广西",CCTV-1高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv1
+#EXTINF:-1 group-title="央视广西",CCTV-4高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv4
+#EXTINF:-1 group-title="央视广西",CCTV-5高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
+#EXTINF:-1 group-title="央视广西",CCTV-8高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv8
+#EXTINF:-1 group-title="央视广西",CCTV-12高清
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv12
+#EXTINF:-1 group-title="央视广西",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="央视广西",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="央视广西",凤凰香港
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="🌏",CCTV-2高清
+http://192.168.31.4:1217/yspios.php?id=cctv2
+#EXTINF:-1 group-title="🌏",CCTV-5+高清
+http://192.168.31.4:1217/yspios.php?id=cctv5p
+#EXTINF:-1 group-title="🌏",CCTV-13高清
+http://192.168.31.4:1217/yspios.php?id=cctv13
+#EXTINF:-1 group-title="🌏",CCTV-17高清
+http://192.168.31.4:1217/yspios.php?id=cctv17
+#EXTINF:-1 group-title="🌏",湖南卫视
+http://192.168.31.4:1217/yspios.php?id=hnws
+#EXTINF:-1 group-title="🌏",民視台灣台
+http://192.168.31.4:19750/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",東森新聞台
+http://192.168.31.4:19750/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",TVBS新聞
+http://192.168.31.4:19750/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=13jak7
+#EXTINF:-1 group-title="🌏",寰宇新聞台灣台
+http://192.168.31.4:19750/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",愛爾達生活旅遊台
+http://192.168.31.4:19750/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC 4K" tvg-name="BBC 4K" tvg-logo="" group-title="🌏",BBC 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
-#EXTINF:-1 tvg-id="TravelXP 4K" tvg-name="TravelXP 4K" tvg-logo="" group-title="🌏",TravelXP 4K
+#EXTINF:-1 group-title="🌏",TravelXP 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119905
+#EXTINF:-1 group-title="🌏",博斯魅力
+http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",博斯魅力
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
+#EXTINF:-1 group-title="🌏",博斯網球
+http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",博斯網球
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
+#EXTINF:-1 group-title="🌏",博斯運動 一
+http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%B8%80%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",博斯運動 一
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
+#EXTINF:-1 group-title="🌏",博斯運動 二
+http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%BA%8C%E5%8F%B0&token=13jak7
+#EXTINF:-1 group-title="🌏",博斯運動 二
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang08/index.m3u8
+#EXTINF:-1 group-title="🌏",博斯無限
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang10/index.m3u8
+#EXTINF:-1 group-title="🌏",Sky Sport Tennis IT
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1937780
+#EXTINF:-1 group-title="🌏",Sky Sports Tennis UK
+http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/825813
+#EXTINF:-1 group-title="🌏",Tennis Channel
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/31209
+#EXTINF:-1 group-title="🌏",TRUE TENNIS
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1776208
+#EXTINF:-1 group-title="🌏",澳门体育
+https://stream.sports3.win/iptv/tv/tv/tv-tv-1-57807ad27a.m3u8
+#EXTINF:-1 group-title="🌏",粤语🔊澳门体育
+http://rihou.cc:555/tv/%5BPd%5D%E6%BE%B3%E9%97%A8%E4%BD%93%E8%82%B2
+#EXTINF:-1 group-title="🌏",粤语🔊广东体育
+http://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 group-title="🌏",ELTA体育1
+https://live13a.jynrrs.com/live/16697898.m3u8
+#EXTINF:-1 group-title="🌏",ELTA体育1
+https://live.666666.zip/stream/16697898.m3u8
+#EXTINF:-1 group-title="🌏",广东体育
+https://stream.sports3.win/iptv/tv/tv/tv-tv-1-c5c334f445.m3u8
+#EXTINF:-1 group-title="🌏",五星体育
+https://cdn15.163189.xyz/163189/wxty
+#EXTINF:-1 group-title="🌏",CCTV5
+http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
+#EXTINF:-1 group-title="🌏",咪咕4k
+http://feilong123.vip/409990236/iptv/gdy.php?id=46
+#EXTINF:-1 group-title="🌏",咪咕4k
+http://feilong123.vip/409990236/iptv/gdy.php?id=7
+#EXTINF:-1 group-title="🌏",粤语🔊澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 group-title="🌏",粤语🔊澳门体育
+http://rihou.cc:555/tv/%5BPd%5D%E6%BE%B3%E9%97%A8%E4%BD%93%E8%82%B2
+#EXTINF:-1 group-title="🌏",粤语🔊广东体育
+http://cdn2.163189.xyz/163189/gdty
+#EXTINF:-1 group-title="🌏",粤语🔊澳门体育
+https://stream.sports3.win/iptv/tv/tv/tv-tv-1-57807ad27a.m3u8
+#EXTINF:-1 group-title="🌏",粤语🔊广东体育
+https://stream.sports3.win/iptv/tv/tv/tv-tv-1-c5c334f445.m3u8
+#EXTINF:-1 group-title="🌏",国语🔊愛爾達體育1台
+https://stream.sports3.win/iptv/tv/elta/tv-elta-1-9f7841705f.m3u8
+#EXTINF:-1 group-title="🌏",国语🔊愛爾達體育1台
+https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+#EXTINF:-1 group-title="🌏",国语🔊愛爾達體育1台
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
+#EXTINF:-1 group-title="🌏",咪视界4K
+http://feilong123.vip/409990236/iptv/gdy.php?id=18
+#EXTINF:-1 group-title="🌏",加拿大TSN
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
+#EXTINF:-1 group-title="🌏",NHK BSP4K JP
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc
+#EXTINF:-1 group-title="🌏",BBC 4K
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+#EXTINF:-1 group-title="🌏",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="港澳台_6",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港澳台_6",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港澳台_6",凤凰香港
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港澳台_6",凤凰资讯
+http://101.35.240.114:88/phenix.php?id=fhzx
+#EXTINF:-1 group-title="港澳台_6",凤凰中文
+http://101.35.240.114:88/phenix.php?id=fhzw
+#EXTINF:-1 group-title="港澳台_6",凤凰香港
+http://101.35.240.114:88/phenix.php?id=fhhk
+#EXTINF:-1 group-title="港澳台_6",CCTV1
+https://cdn.19891230.eu.org/api/CCTV1/index.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV4
+https://cdn.19891230.eu.org/api/CCTV4/index.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV5
+https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV8
+https://cdn.19891230.eu.org/api/CCTV8/index.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV12
+https://cdn.19891230.eu.org/api/CCTV12/index.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV1
+http://go.bkpcp.top/mg/cctv1
+#EXTINF:-1 group-title="港澳台_6",CCTV4
+http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 group-title="港澳台_6",CCTV5
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 group-title="港澳台_6",CCTV8
+http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 group-title="港澳台_6",CCTV12
+http://go.bkpcp.top/mg/cctv12
+#EXTINF:-1 group-title="港澳台_6",CCTV1
+http://17752995.xyz:51111/608807420
+#EXTINF:-1 group-title="港澳台_6",CCTV4
+http://17752995.xyz:51111/631780421
+#EXTINF:-1 group-title="港澳台_6",CCTV5
+http://17752995.xyz:51111/641886683
+#EXTINF:-1 group-title="港澳台_6",CCTV5+
+http://17752995.xyz:51111/641886773
+#EXTINF:-1 group-title="港澳台_6",CCTV8
+http://17752995.xyz:51111/624878356
+#EXTINF:-1 group-title="港澳台_6",CCTV12
+http://17752995.xyz:51111/673168185
+#EXTINF:-1 group-title="港澳台_6",CCTV1
+http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0%24%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%85%92%E5%BA%97
+#EXTINF:-1 group-title="港澳台_6",CCTV4
+http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0%24%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%85%92%E5%BA%97
+#EXTINF:-1 group-title="港澳台_6",CCTV5
+http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0%24%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%85%92%E5%BA%97
+#EXTINF:-1 group-title="港澳台_6",CCTV8
+http://39.165.39.49:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0%24%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%85%92%E5%BA%97
+#EXTINF:-1 group-title="港澳台_6",CCTV12
+http://39.165.39.49:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0%24%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8%E9%85%92%E5%BA%97
+#EXTINF:-1 group-title="港澳台_6",CCTV1
+http://107.150.60.122/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV4
+http://107.150.60.122/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV5
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV5+
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV8
+http://107.150.60.122/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="港澳台_6",CCTV12
+http://107.150.60.122/live/cctv12hd.m3u8
