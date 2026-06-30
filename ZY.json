@@ -27,8 +27,8 @@
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
             {
-      "name": "日本",
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/kamonka/kamonka.github.io/main/tv.txt"
+      "name": "smt",
+      "url": "https://raw.githubusercontent.com/lcq61871/iptvz/main/smt.m3u"
     },
         {
             "name": "🐬港台国际",
