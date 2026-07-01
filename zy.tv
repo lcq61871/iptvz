@@ -100,11 +100,21 @@ Playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 TravelXP 4K,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119905
 
 Tennis,#genre#
+ESPN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119665
+ESPN Deportes,http://89.187.179.148:826/anto.j/c9yJDcXyPe/109910
 Tennis Channel,http://89.187.179.148:826/anto.j/c9yJDcXyPe/31209
-T2 Tennis Channel,https://pb-vuh0zokcxo4al.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-vuh0zokcxo4al/317f9f80-a8b1-47da-afe2-2a88883e9c71/3.m3u8
+TSN2 CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120274
+TSN5 CA,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120277
+BBC 4K UK (Not 24/7),http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+BBC One UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
+BBC Two UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
 Sky Sports Tennis UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/118612
+TNT Sports 1 UK,http://89.187.179.148:826/anto.j/c9yJDcXyPe/110708
+beIN Sports 2 FR,http://panel.pro2box.cc/456876/bpMnYZA/14153
+beIN Sports 3 FR,http://panel.pro2box.cc/456876/bpMnYZA/14152
 Sky Sport Tennis DE,http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310093
 Sky Sport Tennis IT,http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136494
+Sky Sport Arena IT,http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/136478
 Stan Sport AU 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119634
 Stan Sport AU 02,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119635
 Stan Sport AU 03,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119636
@@ -135,139 +145,3 @@ Stan Sport AU 27,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119660
 Stan Sport AU 28,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119661
 Stan Sport AU 29,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119662
 Stan Sport AU 30,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119663
-
-
-港澳台_6,#genre#
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-凤凰资讯,http://101.35.240.114:88/phenix.php?id=fhzx
-凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
-凤凰香港,http://101.35.240.114:88/phenix.php?id=fhhk
-CCTV1,https://cdn.19891230.eu.org/api/CCTV1/index.m3u8
-CCTV4,https://cdn.19891230.eu.org/api/CCTV4/index.m3u8
-CCTV5,https://cdn.19891230.eu.org/api/CCTV5/index.m3u8
-CCTV8,https://cdn.19891230.eu.org/api/CCTV8/index.m3u8
-CCTV12,https://cdn.19891230.eu.org/api/CCTV12/index.m3u8
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV1,http://17752995.xyz:51111/608807420
-CCTV4,http://17752995.xyz:51111/631780421
-CCTV5,http://17752995.xyz:51111/641886683
-CCTV5+,http://17752995.xyz:51111/641886773
-CCTV8,http://17752995.xyz:51111/624878356
-CCTV12,http://17752995.xyz:51111/673168185
-CCTV1,http://39.165.39.49:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV4,http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV5,http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV8,http://39.165.39.49:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV12,http://39.165.39.49:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$河南移动酒店
-CCTV1,http://107.150.60.122/live/cctv1hd.m3u8
-CCTV4,http://107.150.60.122/live/cctv4hd.m3u8
-CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV8,http://107.150.60.122/live/cctv8hd.m3u8
-CCTV12,http://107.150.60.122/live/cctv12hd.m3u8
-
-
-世界杯录像_6,#genre#
-
-⚽ 06-27 11:00 世界杯 埃及vs伊朗 [高清回放1],https://stream.sports3.win/iptv/recording/4460958/recording-0-1276600-d55fab92fb.m3u8
-⚽ 06-27 11:00 世界杯 埃及vs伊朗 [超清中文1],https://stream.sports3.win/iptv/recording/4460958/recording-10-1276601-51560b6649.m3u8
-⚽ 06-27 11:00 世界杯 埃及vs伊朗 [超清外语1],https://stream.sports3.win/iptv/recording/4460958/recording-20-1276602-dc519257e6.m3u8
-⚽ 06-27 11:00 世界杯 新西兰vs比利时 [高清回放1],https://stream.sports3.win/iptv/recording/4460922/recording-0-1276597-096aefd9d8.m3u8
-⚽ 06-27 11:00 世界杯 新西兰vs比利时 [超清中文1],https://stream.sports3.win/iptv/recording/4460922/recording-10-1276598-b2e965a640.m3u8
-⚽ 06-27 11:00 世界杯 新西兰vs比利时 [超清外语1],https://stream.sports3.win/iptv/recording/4460922/recording-20-1276599-844c2ecdd7.m3u8
-⚽ 06-27 08:00 世界杯 佛得角vs沙特阿拉伯 [高清回放1],https://stream.sports3.win/iptv/recording/4460966/recording-0-1276594-37832839f3.m3u8
-⚽ 06-27 08:00 世界杯 佛得角vs沙特阿拉伯 [超清中文1],https://stream.sports3.win/iptv/recording/4460966/recording-10-1276595-277316bcf0.m3u8
-⚽ 06-27 08:00 世界杯 佛得角vs沙特阿拉伯 [超清外语1],https://stream.sports3.win/iptv/recording/4460966/recording-20-1276596-2952ab6f4e.m3u8
-⚽ 06-27 08:00 世界杯 乌拉圭vs西班牙 [高清回放1],https://stream.sports3.win/iptv/recording/4460925/recording-0-1276591-7d2502d4fc.m3u8
-⚽ 06-27 08:00 世界杯 乌拉圭vs西班牙 [超清中文1],https://stream.sports3.win/iptv/recording/4460925/recording-10-1276592-b21fbd2eaa.m3u8
-⚽ 06-27 08:00 世界杯 乌拉圭vs西班牙 [超清外语1],https://stream.sports3.win/iptv/recording/4460925/recording-20-1276593-682711471e.m3u8
-⚽ 06-27 03:00 世界杯 塞内加尔vs伊拉克 [高清回放1],https://stream.sports3.win/iptv/recording/4460969/recording-0-1276587-099f12efda.m3u8
-⚽ 06-27 03:00 世界杯 塞内加尔vs伊拉克 [超清中文1],https://stream.sports3.win/iptv/recording/4460969/recording-10-1276588-031ed79e84.m3u8
-⚽ 06-27 03:00 世界杯 塞内加尔vs伊拉克 [超清外语1],https://stream.sports3.win/iptv/recording/4460969/recording-20-1276589-8dfd185af9.m3u8
-⚽ 06-27 03:00 世界杯 挪威vs法国 [高清回放1],https://stream.sports3.win/iptv/recording/4460928/recording-0-1276584-08b9806e65.m3u8
-⚽ 06-27 03:00 世界杯 挪威vs法国 [超清中文1],https://stream.sports3.win/iptv/recording/4460928/recording-10-1276585-1ee7692ddd.m3u8
-⚽ 06-27 03:00 世界杯 挪威vs法国 [超清外语1],https://stream.sports3.win/iptv/recording/4460928/recording-20-1276586-13bd2a3f6a.m3u8
-⚽ 06-26 10:00 世界杯 巴拉圭vs澳大利亚 [高清回放1],https://stream.sports3.win/iptv/recording/4460949/recording-0-1276671-958317dd57.m3u8
-⚽ 06-26 10:00 世界杯 巴拉圭vs澳大利亚 [超清中文1],https://stream.sports3.win/iptv/recording/4460949/recording-10-1276672-e5a0f15d6b.m3u8
-⚽ 06-26 10:00 世界杯 巴拉圭vs澳大利亚 [超清外语1],https://stream.sports3.win/iptv/recording/4460949/recording-20-1276673-f597b53ae0.m3u8
-⚽ 06-26 10:00 世界杯 土耳其vs美国 [高清回放1],https://stream.sports3.win/iptv/recording/4459829/recording-0-1276668-a57fe365d3.m3u8
-⚽ 06-26 10:00 世界杯 土耳其vs美国 [超清中文1],https://stream.sports3.win/iptv/recording/4459829/recording-10-1276669-bbe2c9dd3e.m3u8
-⚽ 06-26 10:00 世界杯 土耳其vs美国 [超清外语1],https://stream.sports3.win/iptv/recording/4459829/recording-20-1276670-6a8a9382e3.m3u8
-⚽ 06-26 07:00 世界杯 日本vs瑞典 [高清回放1],https://stream.sports3.win/iptv/recording/4460955/recording-0-1276665-fd3ad41813.m3u8
-⚽ 06-26 07:00 世界杯 日本vs瑞典 [超清中文1],https://stream.sports3.win/iptv/recording/4460955/recording-10-1276666-a44daa3617.m3u8
-⚽ 06-26 07:00 世界杯 日本vs瑞典 [超清外语1],https://stream.sports3.win/iptv/recording/4460955/recording-20-1276667-b5b4d68428.m3u8
-⚽ 06-26 07:00 世界杯 突尼斯vs荷兰 [高清回放1],https://stream.sports3.win/iptv/recording/4460919/recording-0-1276662-f415b47d7c.m3u8
-⚽ 06-26 07:00 世界杯 突尼斯vs荷兰 [超清中文1],https://stream.sports3.win/iptv/recording/4460919/recording-10-1276663-90bd486edd.m3u8
-⚽ 06-26 07:00 世界杯 突尼斯vs荷兰 [超清外语1],https://stream.sports3.win/iptv/recording/4460919/recording-20-1276664-33e9cbf1e6.m3u8
-⚽ 06-26 04:00 世界杯 库拉索vs科特迪瓦 [高清回放1],https://stream.sports3.win/iptv/recording/4460952/recording-0-1276659-67b72625a3.m3u8
-⚽ 06-26 04:00 世界杯 库拉索vs科特迪瓦 [超清中文1],https://stream.sports3.win/iptv/recording/4460952/recording-10-1276660-ff1bbfd794.m3u8
-⚽ 06-26 04:00 世界杯 库拉索vs科特迪瓦 [超清外语1],https://stream.sports3.win/iptv/recording/4460952/recording-20-1276661-ce5195960d.m3u8
-⚽ 06-26 04:00 世界杯 厄瓜多尔vs德国 [高清回放1],https://stream.sports3.win/iptv/recording/4460916/recording-0-1276656-3424344159.m3u8
-⚽ 06-26 04:00 世界杯 厄瓜多尔vs德国 [超清中文1],https://stream.sports3.win/iptv/recording/4460916/recording-10-1276657-eba9d86a5b.m3u8
-⚽ 06-26 04:00 世界杯 厄瓜多尔vs德国 [超清外语1],https://stream.sports3.win/iptv/recording/4460916/recording-20-1276658-51d7293620.m3u8
-⚽ 06-25 09:00 世界杯 南非vs韩国 [高清回放1],https://stream.sports3.win/iptv/recording/4460940/recording-0-1276720-affa9aa591.m3u8
-⚽ 06-25 09:00 世界杯 南非vs韩国 [超清中文1],https://stream.sports3.win/iptv/recording/4460940/recording-10-1276721-bb147f2071.m3u8
-⚽ 06-25 09:00 世界杯 南非vs韩国 [超清外语1],https://stream.sports3.win/iptv/recording/4460940/recording-20-1276722-2f40b4972d.m3u8
-⚽ 06-25 09:00 世界杯 捷克vs墨西哥 [高清回放1],https://stream.sports3.win/iptv/recording/4459823/recording-0-1276717-2e644e77fb.m3u8
-⚽ 06-25 09:00 世界杯 捷克vs墨西哥 [超清中文1],https://stream.sports3.win/iptv/recording/4459823/recording-10-1276718-7e0e9e04bb.m3u8
-⚽ 06-25 09:00 世界杯 捷克vs墨西哥 [超清外语1],https://stream.sports3.win/iptv/recording/4459823/recording-20-1276719-37cd9608ea.m3u8
-⚽ 06-25 06:00 世界杯 摩洛哥vs海地 [高清回放1],https://stream.sports3.win/iptv/recording/4460946/recording-0-1276714-19fa1eac5e.m3u8
-⚽ 06-25 06:00 世界杯 摩洛哥vs海地 [超清中文1],https://stream.sports3.win/iptv/recording/4460946/recording-10-1276715-ac5cef4101.m3u8
-⚽ 06-25 06:00 世界杯 摩洛哥vs海地 [超清外语1],https://stream.sports3.win/iptv/recording/4460946/recording-20-1276716-4776779448.m3u8
-⚽ 06-25 06:00 世界杯 苏格兰vs巴西 [高清回放1],https://stream.sports3.win/iptv/recording/4460912/recording-0-1276711-179031e781.m3u8
-⚽ 06-25 06:00 世界杯 苏格兰vs巴西 [超清中文1],https://stream.sports3.win/iptv/recording/4460912/recording-10-1276712-36ce5d57c9.m3u8
-⚽ 06-25 06:00 世界杯 苏格兰vs巴西 [超清外语1],https://stream.sports3.win/iptv/recording/4460912/recording-20-1276713-0cb2be8b2e.m3u8
-⚽ 06-25 03:00 世界杯 波黑vs卡塔尔 [高清回放1],https://stream.sports3.win/iptv/recording/4460943/recording-0-1276708-f61b13bfe9.m3u8
-⚽ 06-25 03:00 世界杯 波黑vs卡塔尔 [超清中文1],https://stream.sports3.win/iptv/recording/4460943/recording-10-1276709-44cc150206.m3u8
-⚽ 06-25 03:00 世界杯 波黑vs卡塔尔 [超清外语1],https://stream.sports3.win/iptv/recording/4460943/recording-20-1276710-40ee76f37c.m3u8
-⚽ 06-25 03:00 世界杯 瑞士vs加拿大 [高清回放1],https://stream.sports3.win/iptv/recording/4459826/recording-0-1276705-d641f22266.m3u8
-⚽ 06-25 03:00 世界杯 瑞士vs加拿大 [超清中文1],https://stream.sports3.win/iptv/recording/4459826/recording-10-1276706-2b778e7f22.m3u8
-⚽ 06-25 03:00 世界杯 瑞士vs加拿大 [超清外语1],https://stream.sports3.win/iptv/recording/4459826/recording-20-1276707-fcf1ae489c.m3u8
-⚽ 06-24 10:00 世界杯 哥伦比亚vs刚果(金) [高清回放1],https://stream.sports3.win/iptv/recording/4460974/recording-0-1276760-7f21ab3272.m3u8
-⚽ 06-24 10:00 世界杯 哥伦比亚vs刚果(金) [超清中文1],https://stream.sports3.win/iptv/recording/4460974/recording-10-1276761-695d14132a.m3u8
-⚽ 06-24 10:00 世界杯 哥伦比亚vs刚果(金) [超清外语1],https://stream.sports3.win/iptv/recording/4460974/recording-20-1276762-a463250ded.m3u8
-⚽ 06-24 07:00 世界杯 巴拿马vs克罗地亚 [高清回放1],https://stream.sports3.win/iptv/recording/4460977/recording-0-1276755-799a3e5a0e.m3u8
-⚽ 06-24 07:00 世界杯 巴拿马vs克罗地亚 [超清中文1],https://stream.sports3.win/iptv/recording/4460977/recording-10-1276756-c075a87a42.m3u8
-⚽ 06-24 07:00 世界杯 巴拿马vs克罗地亚 [超清外语1],https://stream.sports3.win/iptv/recording/4460977/recording-20-1276757-ca9688a939.m3u8
-⚽ 06-24 04:00 世界杯 英格兰vs加纳 [高清回放1],https://stream.sports3.win/iptv/recording/4460936/recording-0-1276752-df94ded14c.m3u8
-⚽ 06-24 04:00 世界杯 英格兰vs加纳 [超清中文1],https://stream.sports3.win/iptv/recording/4460936/recording-10-1276753-f7c10fb1a0.m3u8
-⚽ 06-24 04:00 世界杯 英格兰vs加纳 [超清外语1],https://stream.sports3.win/iptv/recording/4460936/recording-20-1276754-c2cc433686.m3u8
-⚽ 06-24 01:00 世界杯 葡萄牙vs乌兹别克斯坦 [高清回放1],https://stream.sports3.win/iptv/recording/4460933/recording-0-1276746-a3df459303.m3u8
-⚽ 06-24 01:00 世界杯 葡萄牙vs乌兹别克斯坦 [超清中文1],https://stream.sports3.win/iptv/recording/4460933/recording-10-1276747-3f58ea3e46.m3u8
-⚽ 06-24 01:00 世界杯 葡萄牙vs乌兹别克斯坦 [超清外语1],https://stream.sports3.win/iptv/recording/4460933/recording-20-1276748-4de1878242.m3u8
-⚽ 06-23 11:00 世界杯 约旦vs阿尔及利亚 [高清回放1],https://stream.sports3.win/iptv/recording/4460971/recording-0-1276798-56011feb21.m3u8
-⚽ 06-23 11:00 世界杯 约旦vs阿尔及利亚 [超清中文1],https://stream.sports3.win/iptv/recording/4460971/recording-10-1276799-0e8fc803cb.m3u8
-⚽ 06-23 11:00 世界杯 约旦vs阿尔及利亚 [超清外语1],https://stream.sports3.win/iptv/recording/4460971/recording-20-1276800-ccee9bc6b0.m3u8
-⚽ 06-23 08:00 世界杯 挪威vs塞内加尔 [高清回放1],https://stream.sports3.win/iptv/recording/4460968/recording-0-1276795-8daf9b8115.m3u8
-⚽ 06-23 08:00 世界杯 挪威vs塞内加尔 [超清中文1],https://stream.sports3.win/iptv/recording/4460968/recording-10-1276796-cce2a3fdf4.m3u8
-⚽ 06-23 08:00 世界杯 挪威vs塞内加尔 [超清外语1],https://stream.sports3.win/iptv/recording/4460968/recording-20-1276797-a2b88fa680.m3u8
-⚽ 06-23 05:00 世界杯 法国vs伊拉克 [高清回放1],https://stream.sports3.win/iptv/recording/4460927/recording-0-1276791-c9f83b4cc3.m3u8
-⚽ 06-23 05:00 世界杯 法国vs伊拉克 [超清中文1],https://stream.sports3.win/iptv/recording/4460927/recording-10-1276792-9db6646f5d.m3u8
-⚽ 06-23 05:00 世界杯 法国vs伊拉克 [超清外语1],https://stream.sports3.win/iptv/recording/4460927/recording-20-1276793-c06374d5b1.m3u8
-⚽ 06-23 01:00 世界杯 阿根廷vs奥地利 [高清回放1],https://stream.sports3.win/iptv/recording/4460930/recording-0-1276784-d88db05276.m3u8
-⚽ 06-23 01:00 世界杯 阿根廷vs奥地利 [超清中文1],https://stream.sports3.win/iptv/recording/4460930/recording-10-1276785-8e2e2cac7e.m3u8
-⚽ 06-23 01:00 世界杯 阿根廷vs奥地利 [超清外语1],https://stream.sports3.win/iptv/recording/4460930/recording-20-1276786-6cf1bcbbde.m3u8
-⚽ 06-22 09:00 世界杯 新西兰vs埃及 [高清回放1],https://stream.sports3.win/iptv/recording/4460957/recording-0-1276837-eea7fd3ea2.m3u8
-⚽ 06-22 09:00 世界杯 新西兰vs埃及 [超清中文1],https://stream.sports3.win/iptv/recording/4460957/recording-10-1276838-c91d7cb2f3.m3u8
-⚽ 06-22 09:00 世界杯 新西兰vs埃及 [超清外语1],https://stream.sports3.win/iptv/recording/4460957/recording-20-1276839-248bd1c2d4.m3u8
-⚽ 06-22 06:00 世界杯 乌拉圭vs佛得角 [高清回放1],https://stream.sports3.win/iptv/recording/4460965/recording-0-1276834-6c3fb925ae.m3u8
-⚽ 06-22 06:00 世界杯 乌拉圭vs佛得角 [超清中文1],https://stream.sports3.win/iptv/recording/4460965/recording-10-1276835-63e57a84d8.m3u8
-⚽ 06-22 06:00 世界杯 乌拉圭vs佛得角 [超清外语1],https://stream.sports3.win/iptv/recording/4460965/recording-20-1276836-f021b91e09.m3u8
-⚽ 06-22 03:00 世界杯 比利时vs伊朗 [高清回放1],https://stream.sports3.win/iptv/recording/4460921/recording-0-1276831-6e7131fdb7.m3u8
-⚽ 06-22 03:00 世界杯 比利时vs伊朗 [超清中文1],https://stream.sports3.win/iptv/recording/4460921/recording-10-1276832-c346a52470.m3u8
-⚽ 06-22 03:00 世界杯 比利时vs伊朗 [超清外语1],https://stream.sports3.win/iptv/recording/4460921/recording-20-1276833-6a7198bf31.m3u8
-⚽ 06-22 00:00 世界杯 西班牙vs沙特阿拉伯 [高清回放1],https://stream.sports3.win/iptv/recording/4460924/recording-0-1276824-5fc676dad5.m3u8
-⚽ 06-22 00:00 世界杯 西班牙vs沙特阿拉伯 [超清中文1],https://stream.sports3.win/iptv/recording/4460924/recording-10-1276825-efac6fb3b5.m3u8
-⚽ 06-22 00:00 世界杯 西班牙vs沙特阿拉伯 [超清外语1],https://stream.sports3.win/iptv/recording/4460924/recording-20-1276826-cb1d189cb7.m3u8
-⚽ 06-21 12:00 世界杯 突尼斯vs日本 [高清回放1],https://stream.sports3.win/iptv/recording/4460954/recording-0-1258700-24b99eebb3.m3u8
-⚽ 06-21 12:00 世界杯 突尼斯vs日本 [超清中文1],https://stream.sports3.win/iptv/recording/4460954/recording-10-1258701-550289d211.m3u8
-⚽ 06-21 12:00 世界杯 突尼斯vs日本 [超清外语1],https://stream.sports3.win/iptv/recording/4460954/recording-20-1258702-47a56437a4.m3u8
-⚽ 06-21 08:00 世界杯 厄瓜多尔vs库拉索 [高清回放1],https://stream.sports3.win/iptv/recording/4460951/recording-0-1258694-d5e8bde9ad.m3u8
-⚽ 06-21 08:00 世界杯 厄瓜多尔vs库拉索 [超清中文1],https://stream.sports3.win/iptv/recording/4460951/recording-10-1258695-4309728091.m3u8
-⚽ 06-21 08:00 世界杯 厄瓜多尔vs库拉索 [超清外语1],https://stream.sports3.win/iptv/recording/4460951/recording-20-1258696-49e80356a6.m3u8
