@@ -5,10 +5,10 @@
 
 #EXTINF:-1 group-title="⚽世界杯",CCTV5
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-#EXTINF:-1 group-title="⚽世界杯",咪咕4k
-http://feilong123.vip/409990236/iptv/gdy.php?id=46
-#EXTINF:-1 group-title="⚽世界杯",咪咕4k
-http://feilong123.vip/409990236/iptv/gdy.php?id=7
+#EXTINF:-1 group-title="⚽世界杯",至臻视界4K
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&%2424M-FifastbLive
+#EXTINF:-1 group-title="⚽世界杯",咪视界4K
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
 #EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
 https://6.cdn.hi.hn/163189/amty
 #EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
@@ -149,6 +149,8 @@ http://192.168.31.4:19750/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="🌏",TravelXP 4K
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119905
+#EXTINF:-1 group-title="🌏",FashionTV FR
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 group-title="Tennis",ESPN
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119665
 #EXTINF:-1 group-title="Tennis",ESPN Deportes
