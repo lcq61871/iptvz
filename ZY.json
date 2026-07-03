@@ -9,6 +9,10 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
 	  	    {
+      "name": "自用M3U",
+      "url": "https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.m3u"
+    },
+	  	    {
       "name": "小书",
       "url": "http://192.168.31.4:1905/m3u"
     },
@@ -27,8 +31,8 @@
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
             {
-      "name": "smt",
-      "url": "https://raw.githubusercontent.com/lcq61871/iptvz/main/smt.m3u"
+      "name": "KULAO",
+      "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
     },
         {
             "name": "🐬港台国际",
@@ -54,10 +58,6 @@
       "playerType": 2,
       "timeout": 10
     },
-    {
-      "name": "kulao",
-      "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
-	}，
       {
       "name": "rebeliptv体育",
       "url": "http://192.168.31.4:8080/m3u"
