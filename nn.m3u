@@ -27,16 +27,7 @@ http://17752995.xyz:51111/641886773
 http://17752995.xyz:51111/624878356
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="",CCTV12
 http://17752995.xyz:51111/673168185
-#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" tvg-logo="" group-title="",CCTV-1高清
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 tvg-id="CCTV-4高清" tvg-name="CCTV-4高清" tvg-logo="" group-title="",CCTV-4高清
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-#EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" tvg-logo="" group-title="",CCTV-5高清
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-#EXTINF:-1 tvg-id="CCTV-8高清" tvg-name="CCTV-8高清" tvg-logo="" group-title="",CCTV-8高清
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" tvg-logo="" group-title="",CCTV-12高清
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="",凤凰资讯
 http://120.234.44.98:18180/TV00000000000000000009@HHZT
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="",凤凰资讯
