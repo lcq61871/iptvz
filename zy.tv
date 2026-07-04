@@ -16,6 +16,17 @@ CCTV-5+,http://lcq6182.x3322.net:28787/live/cctv5plus.m3u8
 
 央视广西,#genre#
 
+CCTV1,http://17752995.xyz:51111/608807420
+CCTV4,http://17752995.xyz:51111/631780421
+CCTV5,http://17752995.xyz:51111/641886683
+CCTV5+,http://17752995.xyz:51111/641886773
+CCTV8,http://17752995.xyz:51111/624878356
+CCTV12,http://17752995.xyz:51111/673168185
+CCTV-1高清,http://lcq6182.x3322.net:28787/live/cctv1.m3u8
+CCTV-4高清,http://lcq6182.x3322.net:28787/live/cctv4.m3u8
+CCTV-5高清,http://lcq6182.x3322.net:28787/live/cctv5.m3u8
+CCTV-8高清,http://lcq6182.x3322.net:28787/live/cctv8.m3u8
+CCTV-12高清,http://lcq6182.x3322.net:28787/live/cctv12.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
@@ -23,29 +34,21 @@ CCTV-5+,http://lcq6182.x3322.net:28787/live/cctv5plus.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 广西新闻,http://lcq6182.x3322.net:1217/yspios.php?id=gxws
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://17752995.xyz:51111/608807420
-CCTV4,http://17752995.xyz:51111/631780421
-CCTV5,http://17752995.xyz:51111/641886683
-CCTV5+,http://17752995.xyz:51111/641886773
-CCTV8,http://17752995.xyz:51111/624878356
-CCTV12,http://17752995.xyz:51111/673168185
-CCTV-1高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv1
-CCTV-4高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv4
-CCTV-5高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
-CCTV-8高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv8
-CCTV-12高清,http://lcq6182.x3322.net:1217/yspios.php?id=cctv12
-凤凰资讯,https://tv123.cc.cd/live.php?ch=d96f785f2224
+
+凤凰资讯,http://120.234.44.98:18180/TV00000000000000000009@HHZT
+凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰中文,https://tv123.cc.cd/live.php?ch=9f65eef52223
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰香港,https://tv123.cc.cd/live.php?ch=3ce1ba6d2225
+凤凰中文,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
+凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+凤凰中文,http://120.234.44.98:18180/TV00000000000000000008@HHZT
+凤凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 
 
 
 🌏,#genre#
-CCTV-5高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-CCTV-5+高清,https://16.cdn.hi.hn/163189/cctv5p-2
+CCTV5,http://lcq6182.x3322.net:28787/live/cctv5.m3u8
+CCTV-5+,http://lcq6182.x3322.net:28787/live/cctv5plus.m3u8
 
 博斯魅力,http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0&token=13jak7
 博斯魅力,https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
