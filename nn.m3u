@@ -1,227 +1,53 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://github.boki.moe/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/dszb.txt
-
-#EXTINF:-1 group-title="常看频道",CCTV-1
-http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-12
-http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-12社会与法
-http://173.208.212.130:8181/720p/cctv12.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-12社会与法
-http://173.208.212.130:8181/1080p/cctv12.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-12社会与法
-https://live.264788.xyz/channel/cctv12?streamid=7274a33e11b479af1bb9e15efd258e4b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-12社会与法
-https://live.264788.xyz/channel/cctv12?streamid=2ffaa6964c764868df1ed3aa59a57a7d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-12社会与法
-https://live.264788.xyz/channel/cctv12?streamid=1ac62f22b4b7bbd88bf306dbabfc0cab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-1综合
-http://173.208.212.130:8181/720p/cctv1.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-1综合
-http://173.208.212.130:8181/1080p/cctv1.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-1综合
-https://live.264788.xyz/channel/cctv1?streamid=b3819637a4c479c8ccd4d25e42eb96ca&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-1综合
-https://live.264788.xyz/channel/cctv1?streamid=7d30132546d771c3ffff77a937dee30d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-1综合
-https://live.264788.xyz/channel/cctv1?streamid=478674d2f4e92891de4f30951016036f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-4
-http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-4中文国际
-http://173.208.212.130:8181/720p/cctv4.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-4中文国际
-http://173.208.212.130:8181/1080p/cctv4.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-4中文国际
-https://live.264788.xyz/channel/cctv4?streamid=1efbca0be5bd36b4a23a71db15a0ce8a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-4中文国际
-https://live.264788.xyz/channel/cctv4?streamid=322dde75a155820f409e33444cb6cd15&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-4中文国际
-https://live.264788.xyz/channel/cctv4?streamid=fd1184358330cda8bca2c2b1e36355f0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-5
-http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-5体育
-http://173.208.212.130:8181/1080p/cctv5.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-5体育
-http://173.208.212.130:8181/720p/cctv5.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-5体育
-https://live.264788.xyz/channel/cctv5?streamid=504fa453c7bb756531e1811917356ce7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-5体育
-https://live.264788.xyz/channel/cctv5?streamid=75e09d8ebb5b5dac2dd7ed2dd2f0ecac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-5体育
-https://live.264788.xyz/channel/cctv5?streamid=bfdc7fd4fdd7c31f07cacd34d3cb0a5a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-8
-http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-8电视剧
-http://173.208.212.130:8181/720p/cctv8.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-8电视剧
-http://173.208.212.130:8181/1080p/cctv8.m3u8
-#EXTINF:-1 group-title="常看频道",CCTV-8电视剧
-https://live.264788.xyz/channel/cctv8?streamid=2527d55fd09df3db4f5d3824ddd8b58e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-8电视剧
-https://live.264788.xyz/channel/cctv8?streamid=6c3489b6be6b56162e89e7a5b9a39b61&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="常看频道",CCTV-8电视剧
-https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4105c8edd745b4625&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="4K世界杯回放",7月3日-西班牙vs奥地利
-http://82.156.243.185:34567/xhs/4459728
-#EXTINF:-1 group-title="4K世界杯回放",7月3日-葡萄牙vs克罗地亚
-http://82.156.243.185:34567/xhs/4459727
-#EXTINF:-1 group-title="4K世界杯回放",7月2日-英格兰vs刚果民主共和国
-http://82.156.243.185:34567/xhs/4459724
-#EXTINF:-1 group-title="4K世界杯回放",7月2日-比利时vs塞内加尔
-http://82.156.243.185:34567/xhs/4459726
-#EXTINF:-1 group-title="4K世界杯回放",7月1日-法国vs瑞典 [超清中文1]
-http://82.156.243.185:34567/xhs/4459721
-#EXTINF:-1 group-title="4K世界杯回放",7月1日-科特迪瓦vs挪威 [超清中文1]
-http://82.156.243.185:34567/xhs/4459722
-#EXTINF:-1 group-title="4K世界杯回放",6月30日-荷兰vs摩洛哥 [超清中文1]
-https://stream.sports3.win/iptv/recording/4459719/recording-10-1489471-7407310338.m3u8
-#EXTINF:-1 group-title="4K世界杯回放",6月30日-德国vs巴拉圭 [超清中文1]
-https://stream.sports3.win/iptv/recording/4459718/recording-0-1471654-8658e8af0d.m3u8
-#EXTINF:-1 group-title="4K世界杯回放",6月30日-巴西vs日本 [超清中文1]
-https://stream.sports3.win/iptv/recording/4459720/recording-10-1466933-7de080615b.m3u8
-#EXTINF:-1 group-title="4K世界杯回放",6月29日-南非vs加拿大 [超清中文1]
-https://stream.sports3.win/iptv/recording/4459717/recording-10-1387146-8490c9751b.m3u8
-#EXTINF:-1 group-title="4K世界杯回放",6月28日-巴拿马vs英格兰
-http://82.156.243.185:34567/xhs/4460937
-#EXTINF:-1 group-title="4K世界杯回放",6月28日-克罗地亚vs加纳
-http://82.156.243.185:34567/xhs/4460978
-#EXTINF:-1 group-title="4K世界杯回放",6月27日-乌拉圭vs西班牙
-http://82.156.243.185:34567/xhs/4460925
-#EXTINF:-1 group-title="4K世界杯回放",6月27日-新西兰vs比利时
-http://82.156.243.185:34567/xhs/4460922
-#EXTINF:-1 group-title="4K世界杯回放",6月27日-挪威vs法国
-http://82.156.243.185:34567/xhs/4460928
-#EXTINF:-1 group-title="4K世界杯回放",6月27日-塞内加尔vs伊拉克
-http://82.156.243.185:34567/xhs/4460969
-#EXTINF:-1 group-title="4K世界杯回放",6月26日-突尼斯vs荷兰
-http://82.156.243.185:34567/xhs/4460919
-#EXTINF:-1 group-title="4K世界杯回放",6月26日-日本vs瑞典
-http://82.156.243.185:34567/xhs/4460955
-#EXTINF:-1 group-title="4K世界杯回放",6月26日-厄瓜多尔vs德国
-http://82.156.243.185:34567/xhs/4460916
-#EXTINF:-1 group-title="4K世界杯回放",6月25日-瑞士vs加拿大
-http://82.156.243.185:34567/xhs/4459826
-#EXTINF:-1 group-title="4K世界杯回放",6月25日-苏格兰vs巴西
-http://82.156.243.185:34567/xhs/4460912
-#EXTINF:-1 group-title="4K世界杯回放",6月24日-葡萄牙vs乌兹别克斯坦
-http://82.156.243.185:34567/xhs/4460933
-#EXTINF:-1 group-title="4K世界杯回放",6月24日-英格兰vs加纳
-http://82.156.243.185:34567/xhs/4460936
-#EXTINF:-1 group-title="4K世界杯回放",6月23日-挪威vs塞内加尔
-http://82.156.243.185:34567/xhs/4460968
-#EXTINF:-1 group-title="4K世界杯回放",6月23日-法国vs伊拉克
-http://82.156.243.185:34567/xhs/4460927
-#EXTINF:-1 group-title="4K世界杯回放",6月23日-阿根廷vs奥地利
-http://82.156.243.185:34567/xhs/4460930
-#EXTINF:-1 group-title="4K世界杯回放",6月22日-乌拉圭vs佛得角
-http://82.156.243.185:34567/xhs/4460965
-#EXTINF:-1 group-title="4K世界杯回放",6月22日-西班牙vs沙特阿拉伯
-http://82.156.243.185:34567/xhs/4460924
-#EXTINF:-1 group-title="4K世界杯回放",6月22日-比利时vs伊朗
-http://82.156.243.185:34567/xhs/4460921
-#EXTINF:-1 group-title="4K世界杯回放",6月21日-德国vs科特迪瓦
-http://82.156.243.185:34567/xhs/4460915
-#EXTINF:-1 group-title="4K世界杯回放",6月21日-荷兰vs瑞典
-http://82.156.243.185:34567/xhs/4460918
-#EXTINF:-1 group-title="4K世界杯回放",6月20日-巴西vs海地
-http://82.156.243.185:34567/xhs/4460911
-#EXTINF:-1 group-title="4K世界杯回放",6月20日-美国vs澳大利亚
-http://82.156.243.185:34567/xhs/4459828
-#EXTINF:-1 group-title="4K世界杯回放",6月19日-加拿大vs卡塔尔
-http://82.156.243.185:34567/xhs/4459825
-#EXTINF:-1 group-title="4K世界杯回放",6月19日-瑞士vs波黑
-http://82.156.243.185:34567/xhs/4460942
-#EXTINF:-1 group-title="4K世界杯回放",6月19日-捷克vs南非
-http://82.156.243.185:34567/xhs/4460939
-#EXTINF:-1 group-title="4K世界杯回放",6月18日-英格兰vs克罗地亚
-http://82.156.243.185:34567/xhs/4460935
-#EXTINF:-1 group-title="4K世界杯回放",6月18日-葡萄牙vs刚果民主共和国
-http://82.156.243.185:34567/xhs/4460932
-#EXTINF:-1 group-title="4K世界杯回放",6月17日-阿根廷vs阿尔及利亚
-http://82.156.243.185:34567/replay/4460929
-#EXTINF:-1 group-title="4K世界杯回放",6月17日-伊拉克vs挪威
-http://82.156.243.185:34567/replay/4460967
-#EXTINF:-1 group-title="4K世界杯回放",6月17日--法国vs塞内加尔
-http://82.156.243.185:34567/replay/4460926
-#EXTINF:-1 group-title="4K世界杯回放",6月16日-西班牙vs佛得角
-http://82.156.243.185:34567/replay/4460923
-#EXTINF:-1 group-title="4K世界杯回放",6月15日-德国vs库拉索
-http://82.156.243.185:34567/replay/4460914
-#EXTINF:-1 group-title="4K世界杯回放",6月14日-巴西vs摩洛哥
-http://82.156.243.185:34567/replay/4460910
-#EXTINF:-1 group-title="⚽世界杯",CCTV5
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-#EXTINF:-1 group-title="⚽世界杯",咪咕4k
-http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&%2424M-FifastbLive
-#EXTINF:-1 group-title="⚽世界杯",咪咕4k
-http://feilong123.vip/409990236/iptv/gdy.php?id=7
-#EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
-https://6.cdn.hi.hn/163189/amty
-#EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
-http://rihou.cc:555/tv/[Pd]%E6%BE%B3%E9%97%A8%E4%BD%93%E8%82%B2
-#EXTINF:-1 group-title="⚽世界杯",粤语🔊广东体育
-http://8.134.175.232:4022/udp/239.77.0.112:5146
-#EXTINF:-1 group-title="⚽世界杯",粤语🔊澳门体育
-https://stream.sports3.win/iptv/tv/tv/tv-tv-1-57807ad27a.m3u8
-#EXTINF:-1 group-title="⚽世界杯",粤语🔊广东体育
-https://stream.sports3.win/iptv/tv/tv/tv-tv-1-c5c334f445.m3u8
-#EXTINF:-1 group-title="⚽世界杯",咪视界4K
-http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
-#EXTINF:-1 group-title="⚽世界杯",加拿大TSN
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
-#EXTINF:-1 group-title="央视广西",南宁新闻综合
+#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="",南宁新闻综合
 http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 group-title="央视广西",南宁新闻综合
+#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="",南宁新闻综合
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-#EXTINF:-1 group-title="央视广西",南宁新闻综合
+#EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="",南宁新闻综合
 http://live.xmcdn.com/live/305/64.m3u8?aac
-#EXTINF:-1 group-title="央视广西",南宁都市生活
+#EXTINF:-1 tvg-id="南宁都市生活" tvg-name="南宁都市生活" tvg-logo="" group-title="",南宁都市生活
 http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 group-title="央视广西",南宁都市生活
+#EXTINF:-1 tvg-id="南宁都市生活" tvg-name="南宁都市生活" tvg-logo="" group-title="",南宁都市生活
 http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-#EXTINF:-1 group-title="央视广西",广西新闻
+#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="" group-title="",广西新闻
 http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视广西",广西新闻
+#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="" group-title="",广西新闻
 http://101.66.194.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视广西",广西新闻
+#EXTINF:-1 tvg-id="广西新闻" tvg-name="广西新闻" tvg-logo="" group-title="",广西新闻
 http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视广西",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="",CCTV1
 http://17752995.xyz:51111/608807420
-#EXTINF:-1 group-title="央视广西",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="",CCTV4
 http://17752995.xyz:51111/631780421
-#EXTINF:-1 group-title="央视广西",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="",CCTV5
 http://17752995.xyz:51111/641886683
-#EXTINF:-1 group-title="央视广西",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="",CCTV5+
 http://17752995.xyz:51111/641886773
-#EXTINF:-1 group-title="央视广西",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="",CCTV8
 http://17752995.xyz:51111/624878356
-#EXTINF:-1 group-title="央视广西",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="",CCTV12
 http://17752995.xyz:51111/673168185
-#EXTINF:-1 group-title="央视广西",CCTV-1高清
+#EXTINF:-1 tvg-id="CCTV-1高清" tvg-name="CCTV-1高清" tvg-logo="" group-title="",CCTV-1高清
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 group-title="央视广西",CCTV-4高清
+#EXTINF:-1 tvg-id="CCTV-4高清" tvg-name="CCTV-4高清" tvg-logo="" group-title="",CCTV-4高清
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-#EXTINF:-1 group-title="央视广西",CCTV-5高清
+#EXTINF:-1 tvg-id="CCTV-5高清" tvg-name="CCTV-5高清" tvg-logo="" group-title="",CCTV-5高清
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-#EXTINF:-1 group-title="央视广西",CCTV-8高清
+#EXTINF:-1 tvg-id="CCTV-8高清" tvg-name="CCTV-8高清" tvg-logo="" group-title="",CCTV-8高清
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 group-title="央视广西",CCTV-12高清
+#EXTINF:-1 tvg-id="CCTV-12高清" tvg-name="CCTV-12高清" tvg-logo="" group-title="",CCTV-12高清
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
-#EXTINF:-1 group-title="央视广西",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="",凤凰资讯
 http://120.234.44.98:18180/TV00000000000000000009@HHZT
-#EXTINF:-1 group-title="央视广西",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="",凤凰资讯
 https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="央视广西",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="",凤凰资讯
 https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="央视广西",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="",凤凰中文
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="央视广西",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="",凤凰中文
 http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视广西",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="",凤凰中文
 http://120.234.44.98:18180/TV00000000000000000008@HHZT
-#EXTINF:-1 group-title="央视广西",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="",凤凰香港
 http://120.234.44.98:18180/TV00000000000000000024@HHZT
-#EXTINF:-1 group-title="央视广西",凤凰香港
-https://cdn6.163189.xyz/163189/fhhk
