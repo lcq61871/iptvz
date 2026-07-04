@@ -80,15 +80,15 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4
 
 ⚽世界杯,#genre#
 
-CCTV5,http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
-咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=46
+CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+咪咕4k,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&%2424M-FifastbLive
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
 粤语🔊澳门体育,https://6.cdn.hi.hn/163189/amty
 粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-粤语🔊广东体育,https://2.cdn.hi.hn/163189/gdty
+粤语🔊广东体育,http://8.134.175.232:4022/udp/239.77.0.112:5146
 粤语🔊澳门体育,https://stream.sports3.win/iptv/tv/tv/tv-tv-1-57807ad27a.m3u8
 粤语🔊广东体育,https://stream.sports3.win/iptv/tv/tv/tv-tv-1-c5c334f445.m3u8
-咪视界4K,http://feilong123.vip/409990236/iptv/gdy.php?id=18
+咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
 加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 
 央视广西,#genre#
@@ -97,7 +97,8 @@ CCTV5,http://lcq6182.x3322.net:1217/yspios.php?id=cctv5
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://lcq6182.x3322.net:1217/yspios.php?id=gxws
+广西新闻,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+广西新闻,http://101.66.194.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://17752995.xyz:51111/608807420
 CCTV4,http://17752995.xyz:51111/631780421
