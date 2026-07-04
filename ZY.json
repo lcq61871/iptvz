@@ -9,8 +9,8 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.tv"
     },
 	  	    {
-      "name": "自用M3U",
-      "url": "https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.m3u"
+      "name": "韩国U",
+      "url": "https://raw.githubusercontent.com/krtv322/kortv/06e46114a5d464c08aaf7a667df264519424f05e/ktv.m3u"
     },
 	  	    {
       "name": "小书",
@@ -31,7 +31,7 @@
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
             {
-      "name": "KULAO",
+      "name": "央视内W",
       "url": "http://192.168.31.4:28787/list.m3u"
     },
         {
