@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视广西",CCTV1
+http://17752995.xyz:51111/608807420
+#EXTINF:-1 group-title="央视广西",CCTV4
+http://17752995.xyz:51111/631780421
+#EXTINF:-1 group-title="央视广西",CCTV5
+http://17752995.xyz:51111/641886683
+#EXTINF:-1 group-title="央视广西",CCTV5+
+http://17752995.xyz:51111/641886773
+#EXTINF:-1 group-title="央视广西",CCTV8
+http://17752995.xyz:51111/624878356
+#EXTINF:-1 group-title="央视广西",CCTV12
+http://17752995.xyz:51111/673168185
 
 #EXTINF:-1 group-title="央视广西",南宁新闻综合
 http://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -16,18 +28,6 @@ http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid
 http://101.66.194.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视广西",广西新闻
 http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视广西",CCTV1
-http://17752995.xyz:51111/608807420
-#EXTINF:-1 group-title="央视广西",CCTV4
-http://17752995.xyz:51111/631780421
-#EXTINF:-1 group-title="央视广西",CCTV5
-http://17752995.xyz:51111/641886683
-#EXTINF:-1 group-title="央视广西",CCTV5+
-http://17752995.xyz:51111/641886773
-#EXTINF:-1 group-title="央视广西",CCTV8
-http://17752995.xyz:51111/624878356
-#EXTINF:-1 group-title="央视广西",CCTV12
-http://17752995.xyz:51111/673168185
 
 
 #EXTINF:-1 group-title="央视广西",凤凰资讯
