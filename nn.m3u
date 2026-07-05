@@ -12,10 +12,6 @@ http://17752995.xyz:51111/624878356
 #EXTINF:-1 group-title="央视广西",CCTV12
 http://17752995.xyz:51111/673168185
 
-#EXTINF:-1 group-title="央视广西",CCTV14
-http://192.168.31.4:28787/live/cctv1.m3u8
-#EXTINF:-1 group-title="央视广西",CCTV13
-http://lcq6182.x3322.net:28787/live/cctv1.m3u8
 #EXTINF:-1 group-title="央视广西",南宁新闻综合
 http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="央视广西",南宁新闻综合
