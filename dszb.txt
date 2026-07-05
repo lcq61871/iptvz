@@ -34,7 +34,8 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4
 凤凰香港, http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD0zJmtleT0lMkElMkElMkElMkE=
 4K世界杯回放,#genre#
 
-
+7月5日-巴拉圭vs法国,http://82.156.243.185:34567/xhs/4459800
+7月5日-加拿大vs摩洛哥,http://82.156.243.185:34567/xhs/4459801
 7月4日-阿根廷vs佛得角 [超清中文1],http://82.156.243.185:34567/xhs/4459731
 7月4日-澳大利亚vs埃及 [超清中文1],http://82.156.243.185:34567/xhs/4459797
 7月3日-西班牙vs奥地利,http://82.156.243.185:34567/xhs/4459728
@@ -89,9 +90,9 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=6a85d271479df7e4
 CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 咪咕4k,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=toShengfen&mode=1&%2424M-FifastbLive
 咪咕4k,http://feilong123.vip/409990236/iptv/gdy.php?id=7
-粤语🔊澳门体育,https://6.cdn.hi.hn/163189/amty
+粤语🔊澳门体育,https://iptv.aibo.lol/qd/amty.m3u8
 粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-粤语🔊广东体育,http://8.134.175.232:4022/udp/239.77.0.112:5146
+粤语🔊广东体育,https://iptv.aibo.lol/qd/gdty.m3u8
 粤语🔊澳门体育,https://stream.sports3.win/iptv/tv/tv/tv-tv-1-57807ad27a.m3u8
 粤语🔊广东体育,https://stream.sports3.win/iptv/tv/tv/tv-tv-1-c5c334f445.m3u8
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
@@ -117,14 +118,13 @@ CCTV-4高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 CCTV-5高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 CCTV-8高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV-12高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
-凤凰资讯,http://120.234.44.98:18180/TV00000000000000000009@HHZT
-凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
+凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://120.234.44.98:18180/TV00000000000000000008@HHZT
-凤凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
+
 
 
 
