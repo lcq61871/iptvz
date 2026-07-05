@@ -23,9 +23,9 @@ http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 group-title="央视广西",南宁都市生活
 http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 #EXTINF:-1 group-title="央视广西",广西新闻
-http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+http://60.10.139.113:8801/hls/52/index.m3u8
 #EXTINF:-1 group-title="央视广西",广西新闻
-http://101.66.194.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+http://192.151.150.154/live/gxwshd.m3u8
 #EXTINF:-1 group-title="央视广西",广西新闻
 http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 
