@@ -47,6 +47,8 @@ CCTV-12高清,http://lcq6182.x3322.net:28787/live/cctv12.m3u8
 
 
 🌏,#genre#
+
+CCTV1,http://192.168.31.4:28787/live/cctv1.m3u8
 CCTV5,http://lcq6182.x3322.net:28787/live/cctv5.m3u8
 CCTV-5+,http://lcq6182.x3322.net:28787/live/cctv5plus.m3u8
 
