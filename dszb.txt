@@ -87,7 +87,7 @@ CCTV-8电视剧, https://live.264788.xyz/channel/cctv8?streamid=40de643d4d718184
 
 ⚽世界杯,#genre#
 
-CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+CCTV5,http://17752995.xyz:51111/641886683
 至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&%244M
 咪视界4k,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
 粤语🔊澳门体育,https://iptv.aibo.lol/qd/amty.m3u8
@@ -98,32 +98,26 @@ CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 
 央视广西,#genre#
-南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
-南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-广西新闻,http://101.66.194.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1,http://17752995.xyz:51111/608807420
 CCTV4,http://17752995.xyz:51111/631780421
 CCTV5,http://17752995.xyz:51111/641886683
 CCTV5+,http://17752995.xyz:51111/641886773
 CCTV8,http://17752995.xyz:51111/624878356
 CCTV12,http://17752995.xyz:51111/673168185
-CCTV-1高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-CCTV-4高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-CCTV-5高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-CCTV-8高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-CCTV-12高清,https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
-凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
-凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+广西新闻,http://60.10.139.113:8801/hls/52/index.m3u8
+广西新闻,http://192.151.150.154/live/gxwshd.m3u8
+广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 凤凰中文,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-凤凰中文,http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
-凤凰中文,http://120.234.44.98:18180/TV00000000000000000008@HHZT
-凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
-
-
+凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 
 
