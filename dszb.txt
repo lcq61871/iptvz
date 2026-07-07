@@ -105,12 +105,17 @@ CCTV5,http://17752995.xyz:51111/641886683
 加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 
 央视广西,#genre#
-
+CCTV1,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV1,http://17752995.xyz:51111/608807420
+CCTV4,http://rihou.cc:555/tv/[mg]CCTV-04
 CCTV4,http://17752995.xyz:51111/631780421
+CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV5,http://17752995.xyz:51111/641886683
+CCTV5+,http://rihou.cc:555/tv/[mg]CCTV-5p
 CCTV5+,http://17752995.xyz:51111/641886773
+CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV8,http://17752995.xyz:51111/624878356
+CCTV12,http://rihou.cc:555/tv/[mg]CCTV-12
 CCTV12,http://17752995.xyz:51111/673168185
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
