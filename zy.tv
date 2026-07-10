@@ -1,23 +1,6 @@
 
 ⚽咪咕,#genre#
 
-CCTV-01,http://116.52.28.98:8877/608807420
-CCTV-02,http://116.52.28.98:8877/631780532
-CCTV-03,http://116.52.28.98:8877/624878271
-CCTV-04,http://116.52.28.98:8877/631780421
-CCTV-05,http://116.52.28.98:8877/641886683
-CCTV-5+,http://116.52.28.98:8877/641886773
-CCTV-06,http://116.52.28.98:8877/624878396
-CCTV-08,http://116.52.28.98:8877/624878356
-CCTV-10,http://116.52.28.98:8877/624878405
-CCTV-12,http://116.52.28.98:8877/673168185
-CCTV1,http://17752995.xyz:51111/608807420
-CCTV4,http://17752995.xyz:51111/631780421
-CCTV5,http://17752995.xyz:51111/641886683
-CCTV5+,http://17752995.xyz:51111/641886773
-CCTV8,http://17752995.xyz:51111/624878356
-CCTV12,http://17752995.xyz:51111/673168185
-
 CCTV1综合,http://wfenf.x3322.net:7788/608807420
 CCTV2财经,http://wfenf.x3322.net:7788/631780532
 CCTV3综艺,http://wfenf.x3322.net:7788/624878271
@@ -39,32 +22,29 @@ CCTV17农业农村,http://wfenf.x3322.net:7788/673168256
 
 央视广西,#genre#
 
-CCTV-01,http://116.52.28.98:8877/608807420
-CCTV-02,http://116.52.28.98:8877/631780532
-CCTV-03,http://116.52.28.98:8877/624878271
-CCTV-04,http://116.52.28.98:8877/631780421
-CCTV-05,http://116.52.28.98:8877/641886683
-CCTV-5+,http://116.52.28.98:8877/641886773
-CCTV-06,http://116.52.28.98:8877/624878396
-CCTV-08,http://116.52.28.98:8877/624878356
-CCTV-10,http://116.52.28.98:8877/624878405
-CCTV-12,http://116.52.28.98:8877/673168185
-
+CCTV-01,http://183.247.194.196:7788/608807420
+CCTV-02,http://183.247.194.196:7788/631780532
+CCTV-04,http://183.247.194.196:7788/631780421
+CCTV-05,http://183.247.194.196:7788/641886683
+CCTV-5+,http://183.247.194.196:7788/641886773
+CCTV-06,http://183.247.194.196:7788/624878396
+CCTV-08,http://183.247.194.196:7788/624878356
+CCTV-10,http://183.247.194.196:7788/624878405
+CCTV-12,http://183.247.194.196:7788/673168185
 
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://60.10.139.113:8801/hls/52/index.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-凤凰资讯,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-凤凰中文,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
-凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+凤凰香港,https://cdn.qd.je/163189/fhhk
+凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
 
 
 🌏,#genre#
