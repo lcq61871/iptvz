@@ -1,24 +1,38 @@
 
-⚽世界杯,#genre#
+⚽咪咕,#genre#
 
-CCTV5,http://17752995.xyz:51111/641886683
-至臻视界4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1&%244M
-咪视界4k,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3%24
-粤语🔊澳门体育,https://iptv.aibo.lol/qd/amty.m3u8
-粤语🔊澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
-粤语🔊广东体育,https://iptv.aibo.lol/qd/gdty.m3u8
-粤语🔊澳门体育,https://stream.sports3.win/iptv/tv/tv/tv-tv-1-57807ad27a.m3u8
-粤语🔊广东体育,https://stream.sports3.win/iptv/tv/tv/tv-tv-1-c5c334f445.m3u8
-加拿大TSN,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
-
-央视广西,#genre#
-
+CCTV-01,http://116.52.28.98:8877/608807420
+CCTV-02,http://116.52.28.98:8877/631780532
+CCTV-03,http://116.52.28.98:8877/624878271
+CCTV-04,http://116.52.28.98:8877/631780421
+CCTV-05,http://116.52.28.98:8877/641886683
+CCTV-5+,http://116.52.28.98:8877/641886773
+CCTV-06,http://116.52.28.98:8877/624878396
+CCTV-08,http://116.52.28.98:8877/624878356
+CCTV-10,http://116.52.28.98:8877/624878405
+CCTV-12,http://116.52.28.98:8877/673168185
 CCTV1,http://17752995.xyz:51111/608807420
 CCTV4,http://17752995.xyz:51111/631780421
 CCTV5,http://17752995.xyz:51111/641886683
 CCTV5+,http://17752995.xyz:51111/641886773
 CCTV8,http://17752995.xyz:51111/624878356
 CCTV12,http://17752995.xyz:51111/673168185
+
+
+央视广西,#genre#
+
+CCTV-01,http://116.52.28.98:8877/608807420
+CCTV-02,http://116.52.28.98:8877/631780532
+CCTV-03,http://116.52.28.98:8877/624878271
+CCTV-04,http://116.52.28.98:8877/631780421
+CCTV-05,http://116.52.28.98:8877/641886683
+CCTV-5+,http://116.52.28.98:8877/641886773
+CCTV-06,http://116.52.28.98:8877/624878396
+CCTV-08,http://116.52.28.98:8877/624878356
+CCTV-10,http://116.52.28.98:8877/624878405
+CCTV-12,http://116.52.28.98:8877/673168185
+
+
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
@@ -36,8 +50,6 @@ CCTV12,http://17752995.xyz:51111/673168185
 
 
 🌏,#genre#
-CCTV5,http://lcq6182.x3322.net:28787/live/cctv5.m3u8
-CCTV-5+,http://lcq6182.x3322.net:28787/live/cctv5plus.m3u8
 
 博斯魅力,http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0&token=13jak7
 博斯魅力,https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
