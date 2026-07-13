@@ -1,5 +1,5 @@
 
-⚽咪咕,#genre#
+备用1,#genre#
 
 CCTV-01,http://183.247.194.196:7788/608807420
 CCTV-02,http://183.247.194.196:7788/631780532
@@ -14,26 +14,6 @@ CCTV-12,http://183.247.194.196:7788/673168185
 
 
 CCTV-01,http://110.154.192.76:7788/608807420 CCTV-02,http://110.154.192.76:7788/631780532 CCTV-04,http://110.154.192.76:7788/631780421 CCTV-05,http://110.154.192.76:7788/641886683 CCTV-5+,http://110.154.192.76:7788/641886773 CCTV-06,http://110.154.192.76:7788/624878396 CCTV-08,http://110.154.192.76:7788/624878356 CCTV-10,http://110.154.192.76:7788/624878405 CCTV-12,http://110.154.192.76:7788/673168185
-
-
-
-CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
-CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
-CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
-CCTV-04咪咕,http://rihou.cc:555/tv/[mg]CCTV-04
-CCTV-05咪咕,http://rihou.cc:555/tv/[mg]CCTV-05
-CCTV-5+咪咕,http://rihou.cc:555/tv/[mg]CCTV-5p
-CCTV-06咪咕,http://rihou.cc:555/tv/[mg]CCTV-06
-CCTV-07咪咕,http://rihou.cc:555/tv/[mg]CCTV-07
-CCTV-08咪咕,http://rihou.cc:555/tv/[mg]CCTV-08
-CCTV-09咪咕,http://rihou.cc:555/tv/[mg]CCTV-09
-CCTV-10咪咕,http://rihou.cc:555/tv/[mg]CCTV-10
-CCTV-11咪咕,http://rihou.cc:555/tv/[mg]CCTV-11
-CCTV-12咪咕,http://rihou.cc:555/tv/[mg]CCTV-12
-CCTV-13咪咕,http://rihou.cc:555/tv/[mg]CCTV-13
-CCTV-14咪咕,http://rihou.cc:555/tv/[mg]CCTV-14
-CCTV-15咪咕,http://rihou.cc:555/tv/[mg]CCTV-15
-CCTV-16咪咕,http://rihou.cc:555/tv/[mg]CCTV-16
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
@@ -50,6 +30,9 @@ CCTV-16咪咕,http://rihou.cc:555/tv/[mg]CCTV-16
 凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
 凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
 凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
+
+
+备用2,#genre#
 
 CCTV1综合,http://wfenf.x3322.net:7788/608807420
 CCTV2财经,http://wfenf.x3322.net:7788/631780532
@@ -68,6 +51,22 @@ CCTV13新闻,http://wfenf.x3322.net:7788/608807423
 CCTV14少儿,http://wfenf.x3322.net:7788/624878440
 CCTV15音乐,http://wfenf.x3322.net:7788/673168223
 CCTV17农业农村,http://wfenf.x3322.net:7788/673168256
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+广西新闻,http://192.151.150.154/live/gxwshd.m3u8
+广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
+凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰香港,https://cdn.qd.je/163189/fhhk
+凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
+凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
+凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
 央视广西,#genre#
