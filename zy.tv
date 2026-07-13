@@ -6,30 +6,13 @@ CCTV-02,http://183.247.194.196:7788/631780532
 CCTV-04,http://183.247.194.196:7788/631780421
 CCTV-05,http://183.247.194.196:7788/641886683
 CCTV-5+,http://183.247.194.196:7788/641886773
-CCTV-06,http://183.247.194.196:7788/624878396
-CCTV-08,http://183.247.194.196:7788/624878356
-CCTV-10,http://183.247.194.196:7788/624878405
-CCTV-12,http://183.247.194.196:7788/673168185
-
-
-
 CCTV-01,http://110.154.192.76:7788/608807420 CCTV-02,http://110.154.192.76:7788/631780532 CCTV-04,http://110.154.192.76:7788/631780421 CCTV-05,http://110.154.192.76:7788/641886683 CCTV-5+,http://110.154.192.76:7788/641886773 CCTV-06,http://110.154.192.76:7788/624878396 CCTV-08,http://110.154.192.76:7788/624878356 CCTV-10,http://110.154.192.76:7788/624878405 CCTV-12,http://110.154.192.76:7788/673168185
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://60.10.139.113:8801/hls/52/index.m3u8
 凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
-凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
-凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
 备用2,#genre#
@@ -52,23 +35,14 @@ CCTV14少儿,http://wfenf.x3322.net:7788/624878440
 CCTV15音乐,http://wfenf.x3322.net:7788/673168223
 CCTV17农业农村,http://wfenf.x3322.net:7788/673168256
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://60.10.139.113:8801/hls/52/index.m3u8
 凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
-凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
-凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
-备用3高清,#genre#
+
+高清,#genre#
 CCTV1,http://60.10.139.113:8801/hls/1/index.m3u8
 CCTV2,http://60.10.139.113:8801/hls/2/index.m3u8
 CCTV3,http://60.10.139.113:8801/hls/3/index.m3u8
@@ -89,21 +63,11 @@ CCTV17,http://60.10.139.113:8801/hls/98/index.m3u8
 CCTV世界地理-,http://60.10.139.113:8801/hls/73/index.m3u8
 CCTV央视文化精品-,http://60.10.139.113:8801/hls/80/index.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+广西新闻,http://60.10.139.113:8801/hls/52/index.m3u8
 凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
-凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
-凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
 央视广西,#genre#
@@ -128,6 +92,7 @@ CCTV-13咪咕,http://rihou.cc:555/tv/[mg]CCTV-13
 南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+广西新闻,http://60.10.139.113:8801/hls/52/index.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
 广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
