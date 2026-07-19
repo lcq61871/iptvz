@@ -35,7 +35,7 @@ CCTV-13咪咕,http://rihou.cc:555/tv/[mg]CCTV-13
 
 
 央视2,#genre#
-7月19日-季军赛-法国vs英格兰,https://stream.sports3.win/iptv/recording/recording-4459814-1966024.m3u8
+7月19日-季军赛-法国vs英格兰,http://82.156.243.185:34567/xhs/4459814
 CCTV1综合,http://wfenf.x3322.net:7788/608807420
 CCTV2财经,http://wfenf.x3322.net:7788/631780532
 CCTV3综艺,http://wfenf.x3322.net:7788/624878271
