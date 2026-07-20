@@ -2,6 +2,7 @@
 
 
 央视广西,#genre#
+7月20日-决赛-西班牙vs阿根廷,http://82.156.243.185:34567/xhs/4459815
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
@@ -35,7 +36,7 @@ CCTV-13咪咕,http://rihou.cc:555/tv/[mg]CCTV-13
 
 
 央视2,#genre#
-7月19日-季军赛-法国vs英格兰,http://82.156.243.185:34567/xhs/4459814
+7月20日-决赛-西班牙vs阿根廷,http://82.156.243.185:34567/xhs/4459815
 CCTV1综合,http://wfenf.x3322.net:7788/608807420
 CCTV2财经,http://wfenf.x3322.net:7788/631780532
 CCTV3综艺,http://wfenf.x3322.net:7788/624878271
