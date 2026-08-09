@@ -1,44 +1,22 @@
-# 必须包含此头文件结构
 proxies:
-  - name: "🇸🇬 SGP·新加坡06"
-    type: trojan
-    server: d56ab02c02.hk-a.nynode.one
-    port: 10036
-    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
-    sni: www.10sx.com
-    skip-cert-verify: true
-    udp: true
-  - name: "🇯🇵 JPN·日本01"
-    type: trojan
-    server: d56ab02c02.hk-a.nynode.one
-    port: 10051
-    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
-    sni: www.10sx.com
-    skip-cert-verify: true
-    udp: true
-  - name: "🇯🇵 JPN·日本02"
-    type: trojan
-    server: d56ab02c02.hk-a.nynode.one
-    port: 10052
-    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
-    sni: www.10sx.com
-    skip-cert-verify: true
-    udp: true
-  - name: "🇯🇵 JPN·日本03"
-    type: trojan
-    server: d56ab02c02.hk-a.nynode.one
-    port: 10053
-    password: 861d52da-c8b4-4395-bc43-75e0d4b54aec
-    sni: www.10sx.com
-    skip-cert-verify: true
-    udp: true
-
-# 增加策略组，这是 PassWall 正确解析的关键
-proxy-groups:
-  - name: 🚀 节点选择
-    type: select
-    proxies:
-      - 🇸🇬 SGP·新加坡06
-      - 🇯🇵 JPN·日本01
-      - 🇯🇵 JPN·日本02
-      - 🇯🇵 JPN·日本03
+  - {'name': '🇺🇸 美国·01', 'type': 'http', 'server': 'fan.365747.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国·洛杉矶01(三网优化)', 'type': 'http', 'server': 'fan.891058.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国·洛杉矶02(三网优化)', 'type': 'http', 'server': 'fan.596189.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国·圣何塞(三网优化)', 'type': 'http', 'server': 'fan.226278.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国·洛杉矶03(三网优化)', 'type': 'http', 'server': 'fan.607528.xyz', 'port': 8443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国·CN2 GIA', 'type': 'http', 'server': 'fan.743424.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国(优化)', 'type': 'http', 'server': 'fan.3453453.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国(原生·解锁)', 'type': 'http', 'server': 'fan.467115.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇭🇰 香港·01(移动优化·解锁)', 'type': 'http', 'server': 'fan.240104.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇭🇰 香港·02(解锁)', 'type': 'http', 'server': 'fan2.240104.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇭🇰 香港·03(网页专用)', 'type': 'http', 'server': 'fan.263491.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇯🇵 日本·01', 'type': 'http', 'server': 'fan.587475.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇯🇵 日本·02(联通优化·解锁)', 'type': 'http', 'server': 'fan.571589.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇯🇵 日本·03(优化)', 'type': 'http', 'server': 'fan.399763.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇰🇷 韩国·01', 'type': 'http', 'server': 'fan.572609.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇰🇷 韩国·02(住宅·原生)', 'type': 'http', 'server': 'fan.859973.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇰🇷 韩国·03', 'type': 'http', 'server': 'fan.212800.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇨🇳 台湾·Hinet(原生·解锁)', 'type': 'http', 'server': 'fan.764969.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇩🇪 德国·01(住宅·原生)', 'type': 'http', 'server': 'fan.973511.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇫🇷 法国·01(住宅·原生)', 'type': 'http', 'server': 'fan.132031.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
+  - {'name': '🇺🇸 美国·住宅原生(洛杉矶)', 'type': 'http', 'server': 'fan.420218.xyz', 'port': 443, 'tls': True, 'skip-cert-verify': True}
