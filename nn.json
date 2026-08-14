@@ -22,12 +22,6 @@
       "name": "咪咕体育",
       "url": "https://github.boki.moe/https://raw.githubusercontent.com/JFApril/D/refs/heads/main/TestLive.txt"
     },
-    {
-      "name": "🛬┃iptv_api直播",
-      "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u",
-      "playerType": 1
-    },
      {
       "name": "全国组播",
       "type": 0,
@@ -39,10 +33,10 @@
       "timeout": 10
     },
     {
-      "name": "香港频道",
+      "name": "香港YanG",
       "type": 0,
       "ua": "okhttp",
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
+      "url": "https://iptv.1989.click/playlist.m3u"
     },
     {
       "name": "台湾4GTV",
