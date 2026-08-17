@@ -124,8 +124,8 @@ NBA TV,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/29485
 Sky Sport F1 IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917711
 加拿大TSN,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
 ESPN,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119665
-Tennis Channel,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/31209
-Tennis Channel 2,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119668
+Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
+Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
 Sky Sports Tennis UK,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120357
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
 FashionTV FR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
