@@ -150,9 +150,24 @@ CCTV4美洲,http://119.233.255.62:1234/608807416
 
 
 
+
 🌏4K体育频道,#genre#
 
-加拿大TSN,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
-ESPN,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119665
-Fussball.TV 4K DE,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120339
-
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰香港,https://cdn.qd.je/163189/fhhk
+翡翠台(字幕),https://cdn.qd.je/163189/fct2
+无线新闻台,https://cdn.qd.je/163189/wxxw
+東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
+Sky Sport F1 IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917711
+加拿大TSN,http://89.187.179.148:826/1368/gXwiagaXda/119333
+ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
+Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
+Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
+Sky Sports Tennis IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917705
+Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
+FashionTV FR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
