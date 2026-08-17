@@ -31,8 +31,8 @@
             "url": "http://82.156.243.185:33389/fwc.m3u"
         },
             {
-      "name": "央视内W",
-      "url": "http://192.168.31.4:28787/list.m3u"
+      "name": "裤",
+      "url": "https://live.445569.xyz/live.m3u"
     },
         {
             "name": "🐬港台国际",
@@ -41,12 +41,8 @@
             "url": "http://tv123.vvvv.ee/tv.m3u"
         },
     {
-      "name": "哈哈央视",
-      "ua": "AptvPlayer/1.3.8",
-      "type": 0,
-      "url": "https://bit.ly/iptv-aptv",
-      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "name": "哈世界直播",
+      "url": "https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/KuTV.m3u"
     },
       {
       "name": "央视大全",
@@ -105,8 +101,8 @@
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
     },
 		     {
-            "name": "咖啡体育",
-			 "url": "https://damizhibo.com/iptv.m3u"
+            "name": "凤凰",
+			 "url": "https://cdn.qd.je/live.m3u"
          },
 	    {
             "name": "🐬海豚佬xxx视频资源🔞",
@@ -118,7 +114,7 @@
             "name": "🐬台湾Gather",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://iptv.yang-1989.eu.org/m3u/Gather.m3u"
+            "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
         }
   ]
 }
