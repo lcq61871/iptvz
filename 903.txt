@@ -121,7 +121,7 @@ TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
-Sky Sport F1 IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917711
+Sky Sport F1 uk,http://89.187.179.148:826/1368/gXwiagaXda/120348
 加拿大TSN,http://89.187.179.148:826/1368/gXwiagaXda/119333
 ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
 Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
