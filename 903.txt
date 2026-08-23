@@ -119,14 +119,14 @@ CCTV4美洲,http://119.233.255.62:1234/608807416
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
-Fox News Channel,http://89.187.179.148:826/1368/gXwiagaXda/31684
+NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
-NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
+NBA TV,http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:F1:B5:0C&stream=174795&extension=ts&play_token=Vf81JIH1He
 Sky Sport F1 uk,http://89.187.179.148:826/1368/gXwiagaXda/120348
-加拿大TSN,http://89.187.179.148:826/1368/gXwiagaXda/119333
-ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
-Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
-Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
+加拿大TSN,http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:F1:B5:0C&stream=20476&extension=ts&play_token=zdZgDoHaBv
+ESPN,http://mag.jee-ott.xyz:80/play/live.php?mac=A0:BB:3E:F1:B5:0C&stream=1431505&extension=ts&play_token=uCwRjeSwHK
+Tennis Channel,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930919&extension=ts&play_token=e0xtNfNfMl
+Tennis Channel 2,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930918&extension=ts&play_token=VPjyMrOa3c
 Sky Sports Tennis IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917705
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
 FashionTV FR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
