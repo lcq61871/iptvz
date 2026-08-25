@@ -1,4 +1,4 @@
-proxies:
+proxies: 
   - {"name":"🇺🇸 美国·洛杉矶(三网优化)","type":"trojan","server":"fan.596189.xyz","port":443,"password":"none","sni":"fan.596189.xyz","skip-cert-verify":true}
   - {"name":"🇺🇸 美国·圣何塞(三网优化)","type":"trojan","server":"fan.226278.xyz","port":443,"password":"none","sni":"fan.226278.xyz","skip-cert-verify":true}
   - {"name":"🇫🇷 法国·01(住宅·原生)","type":"trojan","server":"fan.132031.xyz","port":443,"password":"none","sni":"fan.132031.xyz","skip-cert-verify":true}
