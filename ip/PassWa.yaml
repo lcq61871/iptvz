@@ -1,4 +1,4 @@
-proxies: 
+proxies:  
   - {"name":"🇺🇸 美国·洛杉矶(三网优化)","type":"http","server":"fan.596189.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
   - {"name":"🇺🇸 美国·圣何塞(三网优化)","type":"http","server":"fan.226278.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
   - {"name":"🇫🇷 法国·01(住宅·原生)","type":"http","server":"fan.132031.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
