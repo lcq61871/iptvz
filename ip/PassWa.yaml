@@ -7,10 +7,10 @@ proxies:
   - {"name":"🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]","type":"vless","server":"104.20.63.254","port":443,"uuid":"cd3d8e5c-794f-4c34-8222-59d3e99e35fe","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"Host":"joeypg.ezbiz.dynv6.net"}},"udp":false}
   - {"name":"🇭🇰 香港·01(移动优化)","type":"http","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
   - {"name":"DE-自己德国","type":"vless","server":"104.20.63.254","port":443,"uuid":"cd3d8e5c-794f-4c34-8222-59d3e99e35fe","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"Host":"joeypg.ezbiz.dynv6.net"}},"udp":false}
-  - {"name":"HK-自己香港","type":"trojan","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
+  - {"name":"HK-自己香港","type":"vless","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
   - {"name":"HK-自己香港1","type":"vless","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
   - {"name":"HK-自己香港2","type":"vless","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
-  - {"name":"HK-自己台湾","type":"trojan","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
-  - {"name":"HK-自己美国","type":"vless","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
+  - {"name":"TW-自己台湾","type":"vless","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
+  - {"name":"US-自己美国","type":"vless","server":"fan.240104.xyz","port":443,"tls":true,"skip-cert-verify":true,"udp":false}
   - {"name":"Gary02-hysteria2-51146","type":"hysteria2","server":"gary02.1688848.xyz","port":51146,"password":"nCKwZIFgBH","sni":"www.bing.com","skip-cert-verify":true,"alpn":["h3"]}
   - {"name":"如回溯严重请换这个-tuic-15195","type":"tuic","server":"gary02.1688848.xyz","port":15195,"password":"nCKwZIFgBH","uuid":"616bcbcd-2249-4317-aa45-dc991f23ca84","sni":"www.bing.com","skip-cert-verify":true,"congestion-controller":"bbr","alpn":["h3"]}
