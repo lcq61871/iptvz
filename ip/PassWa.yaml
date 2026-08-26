@@ -1,4 +1,6 @@
 proxies: 
+  - {"name":"🇺🇸US_29|2.4MB/s|GPT⁺|YT-US|NF|D+|GM|21%","type":"vless","server":"43.169.19.179","port":443,"uuid":"9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/pg/10086-dfc816f117c49173","headers":{"Host":"8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr"}},"udp":true}
+  - {"name":"🇺🇸US-37.19.198.236-0135 | 22.926MB","type":"ss","server":"37.19.198.236","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","udp":true}
   - {"name":"🇺🇸 美国·洛杉矶(三网优化)","type":"trojan","server":"fan.596189.xyz","port":443,"password":"none","sni":"fan.596189.xyz","skip-cert-verify":true}
   - {"name":"🇺🇸 美国·圣何塞(三网优化)","type":"trojan","server":"fan.226278.xyz","port":443,"password":"none","sni":"fan.226278.xyz","skip-cert-verify":true}
   - {"name":"🇫🇷 法国·01(住宅·原生)","type":"trojan","server":"fan.132031.xyz","port":443,"password":"none","sni":"fan.132031.xyz","skip-cert-verify":true}
