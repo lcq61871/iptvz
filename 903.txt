@@ -118,7 +118,7 @@ CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
-Fox News Channel,http://89.187.179.148:826/1368/gXwiagaXda/31684
+
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
 NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
