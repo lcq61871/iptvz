@@ -1,4 +1,7 @@
 proxies: 
+  - {"name":"🇫🇷FR²_12|2.6MB/s|0%|GPT⁺|GM⁻|YT|TK|NF|X|History","type":"ss","server":"95.170.13.47","port":65443,"cipher":"aes-256-cfb","password":"7eadc6dbe2ae","udp":true}
+  - {"name":"CF随机节点02","type":"vless","server":"104.16.46.235","port":2053,"uuid":"bc263dce-db78-4ae2-a9d9-56349f14874a","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"Host":"gaoshujiedian123.pages.dev"}},"udp":true}
+  - {"name":"swiss","type":"ss","server":"158.173.152.166","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","udp":true}
   - {"name":"🇺🇸US_29|2.4MB/s|GPT⁺|YT-US|NF|D+|GM|21%","type":"vless","server":"43.169.19.179","port":443,"uuid":"9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/pg/10086-dfc816f117c49173","headers":{"Host":"8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr"}},"udp":true}
   - {"name":"🇺🇸US-37.19.198.236-0135 | 22.926MB","type":"ss","server":"37.19.198.236","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","udp":true}
   - {"name":"🇺🇸 美国·洛杉矶(三网优化)","type":"trojan","server":"fan.596189.xyz","port":443,"password":"none","sni":"fan.596189.xyz","skip-cert-verify":true}
