@@ -1,4 +1,6 @@
 proxies: 
+  - {"name":"🇺🇸美国3","type":"hysteria2","server":"198.200.57.142","port":22335,"password":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"]}
+  - {"name":"🇺🇸美国4","type":"hysteria2","server":"198.200.57.142","port":22335,"password":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"]}
   - {"name":"🇫🇷FR²_12|2.6MB/s|0%|GPT⁺|GM⁻|YT|TK|NF|X|History","type":"ss","server":"95.170.13.47","port":65443,"cipher":"aes-256-cfb","password":"7eadc6dbe2ae","udp":true}
   - {"name":"CF随机节点02","type":"vless","server":"104.16.46.235","port":2053,"uuid":"bc263dce-db78-4ae2-a9d9-56349f14874a","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"Host":"gaoshujiedian123.pages.dev"}},"udp":true}
   - {"name":"swiss","type":"ss","server":"158.173.152.166","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","udp":true}
