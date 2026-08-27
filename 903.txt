@@ -125,8 +125,9 @@ NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
 Sky Sport F1 uk,http://89.187.179.148:826/1368/gXwiagaXda/120348
 加拿大TSN,http://89.187.179.148:826/1368/gXwiagaXda/119333
 ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
-Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
 Tennis Channel,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930919&extension=ts&play_token=e0xtNfNfMl
+Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
+Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
 Tennis Channel 2,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930918&extension=ts&play_token=VPjyMrOa3c
 Sky Sports Tennis IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917705
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
