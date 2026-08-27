@@ -1,6 +1,6 @@
 proxies: 
-  - {"name":"🇺🇸美国3","type":"hysteria2","server":"198.200.57.142","port":22335,"password":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"]}
-  - {"name":"🇺🇸美国4","type":"hysteria2","server":"198.200.57.142","port":22335,"password":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"]}
+  - {"name":"🇺🇸美国3","type":"hysteria","server":"198.200.57.142","port":22335,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","up":"11 Mbps","down":"55 Mbps"}
+  - {"name":"🇺🇸美国4","type":"hysteria","server":"198.200.57.142","port":22335,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","up":"11 Mbps"}
   - {"name":"🇫🇷FR²_12|2.6MB/s|0%|GPT⁺|GM⁻|YT|TK|NF|X|History","type":"ss","server":"95.170.13.47","port":65443,"cipher":"aes-256-cfb","password":"7eadc6dbe2ae","udp":true}
   - {"name":"CF随机节点02","type":"vless","server":"104.16.46.235","port":2053,"uuid":"bc263dce-db78-4ae2-a9d9-56349f14874a","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2560","headers":{"Host":"gaoshujiedian123.pages.dev"}},"udp":true}
   - {"name":"swiss","type":"ss","server":"158.173.152.166","port":443,"cipher":"aes-128-gcm","password":"shadowsocks","udp":true}
@@ -15,5 +15,4 @@ proxies:
   - {"name":"HK-自己香港1","type":"ss","server":"t.g.d.5.b.t.4.d.1.hk03-ae5.entry.v51124-6.qpon","port":764,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
   - {"name":"HK-自己香港2","type":"ss","server":"m.d.j.y.b.y.g.d.1.sg03-ae5.entry.v51124-6.qpon","port":20084,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
   - {"name":"TW-自己台湾","type":"hysteria","server":"tw-25.497489.xyz","port":10099,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"tw-25.497489.xyz","skip-cert-verify":false,"alpn":["h3"],"up":"20 Mbps","down":"20 Mbps"}
-  - {"name":"US-自己美国","type":"hysteria2","server":"198.200.57.142","port":22335,"password":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"]}
-
+  - {"name":"US-自己美国","type":"hysteria","server":"198.200.57.142","port":22335,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","up":"11 Mbps","down":"55 Mbps"}
