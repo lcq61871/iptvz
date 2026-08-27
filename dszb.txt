@@ -1,5 +1,5 @@
-
-央视广西,#genre#
+ 
+央视1,#genre#
 
 CCTV-01咪咕,http://mg.cttv.vip/608807420
 CCTV-02咪咕,http://mg.cttv.vip/631780532
@@ -20,18 +20,14 @@ CCTV-15咪咕,http://mg.cttv.vip/673168223
 CCTV-16咪咕,http://58.255.201.70:10443/tsfile/live/1001_1.m3u8
 CCTV-17咪咕,http://mg.cttv.vip/673168256
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
-南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
-凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
-凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
 凤凰资讯,https://cdn.qd.je/163189/fhzx
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰香港,https://cdn.qd.je/163189/fhhk
+凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
+凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
+凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
 凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
 凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
 凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
@@ -64,35 +60,7 @@ CCTV17,https://cdn.qd.je/163189/cctv17
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰香港,https://cdn.qd.je/163189/fhhk
 
-自建/央视,#genre#
-
-CCTV1综合,http://192.168.31.249:1905/608807420
-CCTV2财经,http://192.168.31.249:1905/631780532
-CCTV3综艺,http://192.168.31.249:1905/624878271
-CCTV4中文国际,http://192.168.31.249:1905/631780421
-CCTV5体育,http://192.168.31.249:1905/641886683
-CCTV5+体育赛事,http://192.168.31.249:1905/641886773
-CCTV6电影,http://192.168.31.249:1905/624878396
-CCTV7国防军事,http://192.168.31.249:1905/673168121
-CCTV8电视剧,http://192.168.31.249:1905/624878356
-CCTV9纪录,http://192.168.31.249:1905/673168140
-CCTV10科教,http://192.168.31.249:1905/624878405
-CCTV11戏曲,http://192.168.31.249:1905/667987558
-CCTV12社会与法,http://192.168.31.249:1905/673168185
-CCTV13新闻,http://192.168.31.249:1905/608807423
-CCTV14少儿,http://192.168.31.249:1905/624878440
-CCTV15音乐,http://192.168.31.249:1905/673168223
-CCTV17农业农村,http://192.168.31.249:1905/673168256
-南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-
-
-
-咪咕央视,#genre#
+央视咪咕,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -111,17 +79,17 @@ CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
+
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
-凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
-凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰香港,https://cdn.qd.je/163189/fhhk
 
 
 
-
-咪咕央视2,#genre#
+央视咪咕2,#genre#
 CCTV1,http://45.192.97.170:8880/play/1.m3u8
 CCTV2,http://45.192.97.170:8880/play/2.m3u8
 CCTV3,http://45.192.97.170:8880/play/3.m3u8
@@ -141,12 +109,13 @@ CCTV15,http://45.192.97.170:8880/play/16.m3u8
 CCTV17,http://45.192.97.170:8880/play/17.m3u8
 CCTV4欧洲,http://45.192.97.170:8880/play/18.m3u8
 CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
+
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰中文,http://m.061899.xyz/mg/fhzw
-凤凰资讯,http://m.061899.xyz/mg/fhzx
-
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰香港,https://cdn.qd.je/163189/fhhk
 
 
 
@@ -160,15 +129,18 @@ CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
-Fox News Channel,http://89.187.179.148:826/1368/gXwiagaXda/31684
+
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
+NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
 Sky Sport F1 uk,http://89.187.179.148:826/1368/gXwiagaXda/120348
 加拿大TSN,http://89.187.179.148:826/1368/gXwiagaXda/119333
 ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
-Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
 Tennis Channel,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930919&extension=ts&play_token=e0xtNfNfMl
+Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
 Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
+Tennis Channel 2,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930918&extension=ts&play_token=VPjyMrOa3c
 Sky Sports Tennis IT,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917705
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
 FashionTV FR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+
