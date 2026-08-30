@@ -8,7 +8,8 @@ CCTV5+,https://cdn.qd.je/163189/cctv5p
 博斯魅力台, https://ha.msbot.dpdns.org/4gtv_api.php?id=493
 
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-
+Eurosport 1 FR,http://slh.kop.homes/knv4jf1npa/tfueqmjpjj/963923
+Eurosport 2 FR,http://slh.kop.homes/knv4jf1npa/tfueqmjpjj/963926
 Tennis Channel,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930919&extension=ts&play_token=e0xtNfNfMl
 Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
 Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
@@ -19,6 +20,48 @@ ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
 ESPN2,http://89.187.179.148:826/1368/gXwiagaXda/119666
 ESPN Deportes,http://89.187.179.148:826/1368/gXwiagaXda/109910
 
+Stan Sport美网全场次,#genre#
+
+Stan Sport AU Event 01,http://89.187.179.148:826/live/1368/gXwiagaXda/119634.ts
+Stan Sport AU Event 02,http://89.187.179.148:826/live/1368/gXwiagaXda/119635.ts
+Stan Sport AU Event 03,http://89.187.179.148:826/live/1368/gXwiagaXda/119636.ts
+Stan Sport AU Event 04,http://89.187.179.148:826/live/1368/gXwiagaXda/119637.ts
+Stan Sport AU Event 05,http://89.187.179.148:826/live/1368/gXwiagaXda/119638.ts
+Stan Sport AU Event 06,http://89.187.179.148:826/live/1368/gXwiagaXda/119639.ts
+Stan Sport AU Event 07,http://89.187.179.148:826/live/1368/gXwiagaXda/119640.ts
+Stan Sport AU Event 08,http://89.187.179.148:826/live/1368/gXwiagaXda/119641.ts
+Stan Sport AU Event 09,http://89.187.179.148:826/live/1368/gXwiagaXda/119642.ts
+Stan Sport AU Event 10,http://89.187.179.148:826/live/1368/gXwiagaXda/119643.ts
+Stan Sport AU Event 11,http://89.187.179.148:826/live/1368/gXwiagaXda/119644.ts
+Stan Sport AU Event 12,http://89.187.179.148:826/live/1368/gXwiagaXda/119645.ts
+Stan Sport AU Event 13,http://89.187.179.148:826/live/1368/gXwiagaXda/119646.ts
+Stan Sport AU Event 14,http://89.187.179.148:826/live/1368/gXwiagaXda/119647.ts
+Stan Sport AU Event 15,http://89.187.179.148:826/live/1368/gXwiagaXda/119648.ts
+Stan Sport AU Event 16,http://89.187.179.148:826/live/1368/gXwiagaXda/119649.ts
+Stan Sport AU Event 17,http://89.187.179.148:826/live/1368/gXwiagaXda/119650.ts
+Stan Sport AU Event 18,http://89.187.179.148:826/live/1368/gXwiagaXda/119651.ts
+Stan Sport AU Event 19,http://89.187.179.148:826/live/1368/gXwiagaXda/119652.ts
+Stan Sport AU Event 20,http://89.187.179.148:826/live/1368/gXwiagaXda/119653.ts
+Stan Sport AU Event 21,http://89.187.179.148:826/live/1368/gXwiagaXda/119654.ts
+Stan Sport AU Event 22,http://89.187.179.148:826/live/1368/gXwiagaXda/119655.ts
+Stan Sport AU Event 23,http://89.187.179.148:826/live/1368/gXwiagaXda/119656.ts
+Stan Sport AU Event 24,http://89.187.179.148:826/live/1368/gXwiagaXda/119657.ts
+Stan Sport AU Event 25,http://89.187.179.148:826/live/1368/gXwiagaXda/119658.ts
+Stan Sport AU Event 26,http://89.187.179.148:826/live/1368/gXwiagaXda/119659.ts
+Stan Sport AU Event 27,http://89.187.179.148:826/live/1368/gXwiagaXda/119660.ts
+Stan Sport AU Event 28,http://89.187.179.148:826/live/1368/gXwiagaXda/119661.ts
+Stan Sport AU Event 29,http://89.187.179.148:826/live/1368/gXwiagaXda/119662.ts
+Stan Sport AU Event 30,http://89.187.179.148:826/live/1368/gXwiagaXda/119663.ts
+Peacock 01 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117476
+Peacock 02 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117477
+Peacock 03 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117478
+Peacock 04 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117479
+Peacock 05 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117480
+Peacock 06 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117481
+Peacock 07 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117482
+Peacock 08 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117483
+Peacock 09 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117484
+Peacock 10 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117485
  
 央视1,#genre#
 
