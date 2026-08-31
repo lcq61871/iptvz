@@ -20,7 +20,7 @@ ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
 ESPN2,http://89.187.179.148:826/1368/gXwiagaXda/119666
 ESPN Deportes,http://89.187.179.148:826/1368/gXwiagaXda/109910
 
-Stan Sport美网全场次,#genre#
+Stan美网全场次,#genre#
 
 Stan Sport AU Event 01,http://89.187.179.148:826/live/1368/gXwiagaXda/119634.ts
 Stan Sport AU Event 02,http://89.187.179.148:826/live/1368/gXwiagaXda/119635.ts
