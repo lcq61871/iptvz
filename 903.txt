@@ -18,71 +18,28 @@ ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
 ESPN2,http://89.187.179.148:826/1368/gXwiagaXda/119666
 ESPN Deportes,http://89.187.179.148:826/1368/gXwiagaXda/109910
 
-Stan美网全场次,#genre#
 
-Stan Sport AU Event 01,http://89.187.179.148:826/live/1368/gXwiagaXda/119634.ts
-Stan Sport AU Event 02,http://89.187.179.148:826/live/1368/gXwiagaXda/119635.ts
-Stan Sport AU Event 03,http://89.187.179.148:826/live/1368/gXwiagaXda/119636.ts
-Stan Sport AU Event 04,http://89.187.179.148:826/live/1368/gXwiagaXda/119637.ts
-Stan Sport AU Event 05,http://89.187.179.148:826/live/1368/gXwiagaXda/119638.ts
-Stan Sport AU Event 06,http://89.187.179.148:826/live/1368/gXwiagaXda/119639.ts
-Stan Sport AU Event 07,http://89.187.179.148:826/live/1368/gXwiagaXda/119640.ts
-Stan Sport AU Event 08,http://89.187.179.148:826/live/1368/gXwiagaXda/119641.ts
-Stan Sport AU Event 09,http://89.187.179.148:826/live/1368/gXwiagaXda/119642.ts
-Stan Sport AU Event 10,http://89.187.179.148:826/live/1368/gXwiagaXda/119643.ts
-Stan Sport AU Event 11,http://89.187.179.148:826/live/1368/gXwiagaXda/119644.ts
-Stan Sport AU Event 12,http://89.187.179.148:826/live/1368/gXwiagaXda/119645.ts
-Stan Sport AU Event 13,http://89.187.179.148:826/live/1368/gXwiagaXda/119646.ts
-Stan Sport AU Event 14,http://89.187.179.148:826/live/1368/gXwiagaXda/119647.ts
-Stan Sport AU Event 15,http://89.187.179.148:826/live/1368/gXwiagaXda/119648.ts
-Stan Sport AU Event 16,http://89.187.179.148:826/live/1368/gXwiagaXda/119649.ts
-Stan Sport AU Event 17,http://89.187.179.148:826/live/1368/gXwiagaXda/119650.ts
-Stan Sport AU Event 18,http://89.187.179.148:826/live/1368/gXwiagaXda/119651.ts
-Stan Sport AU Event 19,http://89.187.179.148:826/live/1368/gXwiagaXda/119652.ts
-Stan Sport AU Event 20,http://89.187.179.148:826/live/1368/gXwiagaXda/119653.ts
-Stan Sport AU Event 21,http://89.187.179.148:826/live/1368/gXwiagaXda/119654.ts
-Stan Sport AU Event 22,http://89.187.179.148:826/live/1368/gXwiagaXda/119655.ts
-Stan Sport AU Event 23,http://89.187.179.148:826/live/1368/gXwiagaXda/119656.ts
-Stan Sport AU Event 24,http://89.187.179.148:826/live/1368/gXwiagaXda/119657.ts
-Stan Sport AU Event 25,http://89.187.179.148:826/live/1368/gXwiagaXda/119658.ts
-Stan Sport AU Event 26,http://89.187.179.148:826/live/1368/gXwiagaXda/119659.ts
-Stan Sport AU Event 27,http://89.187.179.148:826/live/1368/gXwiagaXda/119660.ts
-Stan Sport AU Event 28,http://89.187.179.148:826/live/1368/gXwiagaXda/119661.ts
-Stan Sport AU Event 29,http://89.187.179.148:826/live/1368/gXwiagaXda/119662.ts
-Stan Sport AU Event 30,http://89.187.179.148:826/live/1368/gXwiagaXda/119663.ts
-Peacock 01 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117476
-Peacock 02 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117477
-Peacock 03 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117478
-Peacock 04 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117479
-Peacock 05 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117480
-Peacock 06 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117481
-Peacock 07 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117482
-Peacock 08 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117483
-Peacock 09 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117484
-Peacock 10 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117485
- 
 央视1,#genre#
 
-CCTV-01咪咕,http://175.17.83.114:1234/608807420
-CCTV-02咪咕,http://175.17.83.114:1234/631780532
-CCTV-03咪咕,http://175.17.83.114:1234/624878271
-CCTV-04咪咕,http://175.17.83.114:1234/631780421
-CCTV-05咪咕,http://175.17.83.114:1234/641886683
-CCTV-5+咪咕,http://175.17.83.114:1234/641886773
-CCTV-06咪咕,http://175.17.83.114:1234/624878396
-CCTV-07咪咕,http://175.17.83.114:1234/673168121
-CCTV-08咪咕,http://175.17.83.114:1234/624878356
-CCTV-09咪咕,http://175.17.83.114:1234/673168140
-CCTV-10咪咕,http://175.17.83.114:1234/624878405
-CCTV-11咪咕,http://175.17.83.114:1234/667987558
-CCTV-12咪咕,http://175.17.83.114:1234/673168185
-CCTV-13咪咕,http://175.17.83.114:1234/608807423
-CCTV-14咪咕,http://175.17.83.114:1234/624878440
-CCTV-15咪咕,http://175.17.83.114:1234/673168223
+CCTV-01咪咕,http://129.150.55.255:31905/608807420
+CCTV-02咪咕,http://129.150.55.255:31905/631780532
+CCTV-03咪咕,http://129.150.55.255:31905/624878271
+CCTV-04咪咕,http://129.150.55.255:31905/631780421
+CCTV-05咪咕,http://129.150.55.255:31905/641886683
+CCTV-5+咪咕,http://129.150.55.255:31905/641886773
+CCTV-06咪咕,http://129.150.55.255:31905/624878396
+CCTV-07咪咕,http://129.150.55.255:31905/673168121
+CCTV-08咪咕,http://129.150.55.255:31905/624878356
+CCTV-09咪咕,http://129.150.55.255:31905/673168140
+CCTV-10咪咕,http://129.150.55.255:31905/624878405
+CCTV-11咪咕,http://129.150.55.255:31905/667987558
+CCTV-12咪咕,http://129.150.55.255:31905/673168185
+CCTV-13咪咕,http://129.150.55.255:31905/608807423
+CCTV-14咪咕,http://129.150.55.255:31905/624878440
+CCTV-15咪咕,http://129.150.55.255:31905/673168223
 CCTV-16咪咕,http://58.255.201.70:10443/tsfile/live/1001_1.m3u8
-CCTV-17咪咕,http://175.17.83.114:1234/673168256
-cct4欧洲咪咕,http://175.17.83.114:1234/608807419
-cct4美洲咪咕,http://175.17.83.114:1234/608807416
+CCTV-17咪咕,http://129.150.55.255:31905/673168256
+
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
