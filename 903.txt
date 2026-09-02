@@ -2,8 +2,8 @@
 
 美网公开赛,#genre#
 
-CCTV5,https://cdn.qd.je/163189/cctv5
-CCTV5+,https://cdn.qd.je/163189/cctv5p
+CCTV-05咪咕,http://129.150.55.255:31905/641886683
+CCTV-5+咪咕,http://129.150.55.255:31905/641886773
 博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
 博斯魅力台, https://ha.msbot.dpdns.org/4gtv_api.php?id=493
 
