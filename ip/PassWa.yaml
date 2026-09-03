@@ -1,4 +1,10 @@
 proxies: 
+
+  - {"name":"🇭🇰|香港家宽-IEPL 02","type":"trojan","server":"Sclass-A1.catcat321.com","port":20098,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰|香港家宽-直连","type":"trojan","server":"dd2d1.catcat321.com","port":36728,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"d.hkh3.cat.bilibili.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰|香港-进阶IEPL 01","type":"trojan","server":"Sclass-A1.catcat321.com","port":20046,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇭🇰|香港-IEPL 02","type":"trojan","server":"Sclass-00.catcat321.com","port":20015,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
+
   - {"name":"🇺🇸美国3","type":"hysteria","server":"198.200.57.142","port":22335,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","up":"11 Mbps","down":"55 Mbps"}
   - {"name":"🇺🇸美国4","type":"hysteria","server":"198.200.57.142","port":22335,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","up":"11 Mbps","down":"55 Mbps"}
   - {"name":"🇫🇷FR²_12|2.6MB/s|0%|GPT⁺|GM⁻|YT|TK|NF|X|History","type":"ss","server":"95.170.13.47","port":65443,"cipher":"aes-256-cfb","password":"7eadc6dbe2ae","udp":true}
