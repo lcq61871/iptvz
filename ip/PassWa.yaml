@@ -16,7 +16,9 @@ proxies:
   - {"name":"🇫🇷 法国·01(住宅·原生)","type":"trojan","server":"fan.132031.xyz","port":443,"password":"none","sni":"fan.132031.xyz","skip-cert-verify":true}
   - {"name":"Limberg-hysteria2-46514","type":"hysteria2","server":"gary01.1688848.xyz","port":46514,"password":"ONmAzcPKwC","sni":"www.bing.com","skip-cert-verify":true,"alpn":["h3"]}
   - {"name":"🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]","type":"vless","server":"104.20.63.254","port":443,"uuid":"cd3d8e5c-794f-4c34-8222-59d3e99e35fe","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"Host":"joeypg.ezbiz.dynv6.net"}},"udp":false}
-  - {"name":"DE-自己德国","type":"trojan","server":"Sclass-00.catcat321.com","port":20015,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
+
+  - {"name":"DE-自己德国","type":"trojan","server":"Sclass-A1.catcat321.com","port":20098,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
+
   - {"name":"HK-自己香港1","type":"ss","server":"t.g.d.5.b.t.4.d.1.hk03-ae5.entry.v51124-6.qpon","port":764,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
   - {"name":"HK-自己香港2","type":"ss","server":"m.d.j.y.b.y.g.d.1.sg03-ae5.entry.v51124-6.qpon","port":20084,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
   - {"name":"TW-自己台湾","type":"hysteria","server":"tw-25.497489.xyz","port":10099,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"tw-25.497489.xyz","skip-cert-verify":false,"alpn":["h3"],"up":"20 Mbps","down":"20 Mbps"}
