@@ -149,8 +149,9 @@ CCTV-17咪咕,http://mg.cttv.vip/673168256
 凤凰香港,https://cdn.qd.je/163189/fhhk
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
 无线新闻台,https://cdn.qd.je/163189/wxxw
-東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
