@@ -1,12 +1,9 @@
 
 
 美网公开赛,#genre#
-回放,https://rutracker.org/forum/viewtopic.php?t=6903903
+
 CCTV5体育,http://47.119.24.76:59093/641886683
 CCTV5+体育赛事,http://47.119.24.76:59093/641886773
-
-博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
-博斯魅力台, https://ha.msbot.dpdns.org/4gtv_api.php?id=493
 
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
 Tennis Channel,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930919&extension=ts&play_token=e0xtNfNfMl
