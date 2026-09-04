@@ -1,9 +1,12 @@
 proxies: 
+  - {"name":"好1自己德国香港S04 | IEPL","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
+
+  - {"name":"DE-自己德国","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
+
   - {"name":"🇭🇰|好2香港家宽-IEPL 02","type":"trojan","server":"Sclass-A1.catcat321.com","port":20098,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
   - {"name":"好3香港高速 01| CTCM|流媒体","type":"vless","server":"cfyes.ziyoufly.xyz","port":443,"uuid":"1414ca74-438e-44a5-85c2-327cd4841401","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ziyou","headers":{"Host":"cf-ak-hk01.23523463.xyz"}},"udp":true}
   - {"name":"🇭🇰|好2自己香港1香港家宽-直连","住宅IP|BGP|CTCM","type":"vless","server":"cfyes.777078.xyz","port":443,"uuid":"94b3472a-ae1d-4ec0-957f-a5d8a61f978c","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/liangxin/data/hk4","headers":{"Host":"lx-hk4.7770008.xyz"}},"udp":true}
   - {"name":"🇭🇰 好4自己香港2香港04住宅IP|BGP|CTCM","type":"vless","server":"cfyes.777078.xyz","port":443,"uuid":"94b3472a-ae1d-4ec0-957f-a5d8a61f978c","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/liangxin/data/hk4","headers":{"Host":"lx-hk4.7770008.xyz"}},"udp":true}
-  - {"name":"好1自己德国香港S04 | IEPL","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
 
   - {"name":"🇭🇰|香港-进阶IEPL 01","type":"trojan","server":"Sclass-A1.catcat321.com","port":20046,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
   - {"name":"🇭🇰|香港-IEPL 02","type":"trojan","server":"Sclass-00.catcat321.com","port":20015,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
@@ -16,8 +19,6 @@ proxies:
   
   - {"name":"Limberg-hysteria2-46514","type":"hysteria2","server":"gary01.1688848.xyz","port":46514,"password":"ONmAzcPKwC","sni":"www.bing.com","skip-cert-verify":true,"alpn":["h3"]}
   - {"name":"🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]","type":"vless","server":"104.20.63.254","port":443,"uuid":"cd3d8e5c-794f-4c34-8222-59d3e99e35fe","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"Host":"joeypg.ezbiz.dynv6.net"}},"udp":false}
-
-  - {"name":"DE-自己德国","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
 
   - {"name":"HK-自己香港1","type":"trojan","server":"Sclass-A1.catcat321.com","port":20098,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
 
