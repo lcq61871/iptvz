@@ -4,7 +4,7 @@
 
 CCTV5体育,http://47.119.24.76:59093/641886683
 CCTV5+体育赛事,http://47.119.24.76:59093/641886773
-
+博斯網球,http://125.227.210.55:3060/VideoInput/play.ts
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
 Tennis Channel,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930919&extension=ts&play_token=e0xtNfNfMl
 Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
@@ -146,12 +146,13 @@ CCTV-17咪咕,http://mg.cttv.vip/673168256
 凤凰香港,https://cdn.qd.je/163189/fhhk
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
 无线新闻台,https://cdn.qd.je/163189/wxxw
+東森新聞台,http://125.227.210.55:4046/VideoInput/play.ts
 東森新聞台,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
 寰宇新聞台灣台,http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
-亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
-博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
+TLC旅遊生活,http://125.227.210.55:4047/VideoInput/play.ts
+博斯網球台,http://125.227.210.55:3060/VideoInput/play.ts
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
 NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
 NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
