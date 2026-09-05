@@ -1,4 +1,4 @@
-proxies: 
+proxies:  
   - {"name":"好1自己德国香港S04 | IEPL","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
 
   - {"name":"DE-自己德国","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
