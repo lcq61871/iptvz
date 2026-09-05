@@ -2,10 +2,12 @@ proxies:
   
   - { name: 🇸🇬新加坡专线02|BGP|流媒体, server: aws-linkhy10.lxyun.xyz, port: 60000, ports: 60000-65530, mport: 60000-65530, udp: true, skip-cert-verify: true, sni: iosapps.itunes.apple.com, type: hysteria2, password: 8a5e55ef-2283-4c7a-9664-b3f4b5fe575d, fingerprint: 2b6c9b75b2ef903fbe66ee91d1801941dea0ddb5429505ae3bce65e2fb17ad45 }
   - { name: 🇭🇰香港专线02|BGP|住宅IP, server: aws-linkhy2.lxyun.xyz, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 8a5e55ef-2283-4c7a-9664-b3f4b5fe575d, fingerprint: f39333d989d685541f08cb96cd8986f9854fed3674e5cc24c4bfbba81035dacf }
+  - {"name":"🇸🇬新加坡专线02|BGP|流媒体","type":"hysteria2","server":"aws-linkhy10.lxyun.xyz","port":60000,"ports":"60000-65530","password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"iosapps.itunes.apple.com","skip-cert-verify":true,"udp":true}
+  - {"name":"DE-自己德国","type":"hysteria2","server":"aws-linkhy2.lxyun.xyz","port":443,"password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"www.hoyoverse.com","skip-cert-verify":true,"udp":true}
   
   - {"name":"好1自己德国香港S04 | IEPL","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
 
-  - {"name":"DE-自己德国","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
+  - {"name":"DE-自己德国1","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
 
   - {"name":"🇭🇰|好2自己德国香港-中转 01","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","udp":true,"tls-host":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"fast-open":true}
   - {"name":"🇸🇬|好2自己美国新加坡-直连","type":"trojan","server":"dd2d1.catcat321.com","port":18684,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"d.sgj1.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
