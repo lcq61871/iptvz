@@ -1,5 +1,10 @@
 proxies:  
-  - {"name":"好1自己德国香港S04 | IEPL","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
+  
+  - {"name":"🇭🇰|香港-中转 01","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"udp":true}
+  - {"name":"🇸🇬|新加坡-直连","type":"trojan","server":"dd2d1.catcat321.com","port":18684,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"d.sgj1.cat.bilibili.com","skip-cert-verify":true,"udp":true}
+
+
+- {"name":"好1自己德国香港S04 | IEPL","type":"ss","server":"m.d.s.y.b.u.4.d.1.hk04-ae5.entry.v51124-6.qpon","port":808,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":true}
 
   - {"name":"DE-自己德国","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
 
