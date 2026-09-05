@@ -1,4 +1,4 @@
-proxies:  
+proxies:   
   
   - { name: 🇸🇬新加坡专线02|BGP|流媒体, server: aws-linkhy10.lxyun.xyz, port: 60000, ports: 60000-65530, mport: 60000-65530, udp: true, skip-cert-verify: true, sni: iosapps.itunes.apple.com, type: hysteria2, password: 8a5e55ef-2283-4c7a-9664-b3f4b5fe575d, fingerprint: 2b6c9b75b2ef903fbe66ee91d1801941dea0ddb5429505ae3bce65e2fb17ad45 }
   - { name: 🇭🇰香港专线02|BGP|住宅IP, server: aws-linkhy2.lxyun.xyz, port: 443, udp: true, skip-cert-verify: true, sni: www.hoyoverse.com, type: hysteria2, password: 8a5e55ef-2283-4c7a-9664-b3f4b5fe575d, fingerprint: f39333d989d685541f08cb96cd8986f9854fed3674e5cc24c4bfbba81035dacf }
