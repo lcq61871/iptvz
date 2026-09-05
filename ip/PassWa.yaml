@@ -3,7 +3,7 @@ proxies:
 
   - {"name":"DE-自己德国","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
 
-  - {"name":"🇭🇰|好2自己德国香港-中转 01",""server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
+  - {"name":"🇭🇰|好2自己德国香港-中转 01","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","udp":true,"tls-host":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"fast-open":true}
   - {"name":"🇸🇬|好2自己美国新加坡-直连","type":"trojan","server":"dd2d1.catcat321.com","port":18684,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"d.sgj1.cat.bilibili.com","skip-cert-verify":true,"udp":true,"fast-open":true}
   - {"name":"🇭🇰|好2香港家宽-IEPL 02","type":"trojan","server":"Sclass-A1.catcat321.com","port":20098,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
   - {"name":"好3香港高速 01| CTCM|流媒体","type":"vless","server":"cfyes.ziyoufly.xyz","port":443,"uuid":"1414ca74-438e-44a5-85c2-327cd4841401","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ziyou","headers":{"Host":"cf-ak-hk01.23523463.xyz"}},"udp":true}
@@ -27,4 +27,4 @@ proxies:
   - {"name":"HK-自己香港2","type":"vless","server":"cfyes.777078.xyz","port":443,"uuid":"94b3472a-ae1d-4ec0-957f-a5d8a61f978c","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/liangxin/data/hk4","headers":{"Host":"lx-hk4.7770008.xyz"}},"udp":true}
 
   - {"name":"TW-自己台湾","type":"hysteria","server":"tw-25.497489.xyz","port":10099,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"tw-25.497489.xyz","skip-cert-verify":false,"alpn":["h3"],"up":"20 Mbps","down":"20 Mbps"}
-  - {"name":"US-自己美国","type":"trojan","server":"dd2d1.catcat321.com","port":18684,"password":"78336a2f-c533-4345-9791-445ec02194f4","udp":true,"tls-host":"d.sgj1.cat.bilibili.com","skip-cert-verify":true,"fast-open":true}
+  - {"name":"US-自己美国","type":"trojan","server":"rrr1.tube-cat.com","port":18575,"password":"78336a2f-c533-4345-9791-445ec02194f4","udp":true,"tls-host":"r.hk3.cat.bilibili.com","skip-cert-verify":true,"fast-open":true}
