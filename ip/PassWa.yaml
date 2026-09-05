@@ -1,13 +1,12 @@
 proxies:   
 
-  - {"name":"🇸🇬新加坡专线02|BGP|流媒体","type":"hysteria2","server":"aws-linkhy10.lxyun.xyz","port":60000,"ports":"60000-65530","password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"iosapps.itunes.apple.com","skip-cert-verify":true,"udp":true}
   - {"name":"🇭🇰香港专线02|BGP|住宅IP","type":"hysteria2","server":"aws-linkhy2.lxyun.xyz","port":443,"password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"www.hoyoverse.com","skip-cert-verify":true,"udp":true}
   - {"name":"🇸🇬|新加坡-直连","type":"trojan","server":"dd2d1.catcat321.com","port":18684,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"d.sgj1.cat.bilibili.com","skip-cert-verify":true,"udp":true}
   
   - {"name":"DE-自己德国","type":"hysteria2","server":"aws-linkhy2.lxyun.xyz","port":443,"password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"www.hoyoverse.com","skip-cert-verify":true,"udp":true}
   
-  - {"name":"HK-自己香港1","type":"trojan","server":"Sclass-A1.catcat321.com","port":20098,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
-
+  - {"name":"HK-自己香港1","type":"trojan","server":"dd2d1.catcat321.com","port":18684,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"d.sgj1.cat.bilibili.com","skip-cert-verify":true,"udp":true}
+  
   - {"name":"HK-自己香港2","type":"vless","server":"cfyes.777078.xyz","port":443,"uuid":"94b3472a-ae1d-4ec0-957f-a5d8a61f978c","cipher":"none","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/liangxin/data/hk4","headers":{"Host":"lx-hk4.7770008.xyz"}},"udp":true}
 
   - {"name":"TW-自己台湾","type":"hysteria","server":"tw-25.497489.xyz","port":10099,"auth_str":"github.com/Alvin9999-newpac/fanqiang","sni":"tw-25.497489.xyz","skip-cert-verify":false,"alpn":["h3"],"up":"20 Mbps","down":"20 Mbps"}
