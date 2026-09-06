@@ -8,9 +8,8 @@ proxies:
 
   - {"name":"TW-自己台湾","type":"hysteria2","server":"aws-linkhy22.lxyun.xyz","port":443,"password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"bilibili-tw.biliimg.com","skip-cert-verify":true,"udp":true}
  
-  - {"name":"US-自己美国","type":"hysteria2","server":"203.10.97.121","port":60000,"ports":"60000-65530","password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"www.apple.com","skip-cert-verify":true,"udp":true}
- 
+  - {"name":"US-自己美国","type":"hysteria2","server":"gary02.1688848.xyz","port":41335,"password":"nCKwZIFgBH","sni":"www.bing.com","skip-cert-verify":true,"udp":true}
+
   - {"name":"🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]","type":"vless","server":"104.20.63.254","port":443,"uuid":"cd3d8e5c-794f-4c34-8222-59d3e99e35fe","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"Host":"joeypg.ezbiz.dynv6.net"}},"udp":false}
 
-  - {"name":"🇺🇸 Gary02-hysteria2-41335 95.37EB📊 15821Days⏳","type":"hysteria2","server":"gary02.1688848.xyz","port":41335,"password":"nCKwZIFgBH","sni":"www.bing.com","skip-cert-verify":true,"udp":true}
-
+  
