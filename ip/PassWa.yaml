@@ -1,5 +1,6 @@
 proxies:   
- 
+  - {"name":"🇭🇰香港高速01|BGP|CMCU-3189676688","type":"vless","server":"aws-link1.lxyun.xyz","port":36458,"uuid":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","tls":true,"servername":"iosapps.itunes.apple.com","skip-cert-verify":true,"flow":"xtls-rprx-vision","udp":true,"client-fingerprint":"safari"}
+
   - {"name":"DE-自己德国","type":"hysteria2","server":"aws-linkhy2.lxyun.xyz","port":443,"password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"www.hoyoverse.com","skip-cert-verify":true,"udp":true}
   
   - {"name":"HK-自己香港1","type":"hysteria2","server":"aws-linkhy1.lxyun.xyz","port":443,"password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"download-porter.hoyoverse.com","skip-cert-verify":true,"udp":true}
