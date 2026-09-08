@@ -2,7 +2,7 @@ proxies:
   
   - {"name":"DE-自己德国","type":"hysteria2","server":"aws-linkhy2.lxyun.xyz","port":443,"password":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","sni":"www.hoyoverse.com","skip-cert-verify":true,"udp":true}
   
-  - {"name":"HK-自己香港1","type":"vless","server":"aws-link1.lxyun.xyz","port":36458,"uuid":"8a5e55ef-2283-4c7a-9664-b3f4b5fe575d","tls":true,"sni":"iosapps.itunes.apple.com","flow":"xtls-rprx-vision","skip-cert-verify":true,"udp":true}
+  - {"name":"HK-自己香港1","type":"vless","server":"cfyes.ziyoufly.xyz","port":443,"uuid":"1414ca74-438e-44a5-85c2-327cd4841401","tls":true,"servername":"cf-aws-hk01.545733545.xyz","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ziyou","headers":{"Host":"cf-aws-hk01.545733545.xyz"}},"udp":true}
 
   - {"name":"HK-自己香港2","type":"trojan","server":"rrr1.tube-cat.com","port":52385,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk8.cat.bilibili.com","skip-cert-verify":true,"udp":true}
 
