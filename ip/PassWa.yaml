@@ -12,4 +12,7 @@ proxies:
 
   - {"name":"🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]","type":"vless","server":"104.20.63.254","port":443,"uuid":"cd3d8e5c-794f-4c34-8222-59d3e99e35fe","tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"Host":"joeypg.ezbiz.dynv6.net"}},"udp":false}
 
+  - {"name":"德国","type":"ss","server":"k.d.s.2.5.t.q.d.1.hk03-ae5.entry.v51124-6.qpon","port":764,"cipher":"aes-256-gcm","password":"4f887636-0b35-398f-9d22-bb0f4e45c36e","udp":false}
+
+
   
