@@ -198,6 +198,7 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇新聞台灣台,http://iptv.852851.xyz/l/2hxFj98oqnsT6KMb659ipdhBKilPL61eDVyycl3NqJ3SuEbG9Tylk0PvbndzA-cB/index.m3u8
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+亞洲旅遊台,http://iptv.852851.xyz/l/3S-pCXodkfMvEPAjQyu9eSO72ayCP4QAgpwtdYSnHOSgS1cG1Ry4EunbpHLJnXj9/index.m3u8
 亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=250
 TLC旅遊生活,http://125.227.210.55:4047/VideoInput/play.ts
 博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
