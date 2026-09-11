@@ -1,7 +1,7 @@
 
 proxies:    
   
- - {"name":"DE-自己德国","type":"trojan","server":"sclass-00.catcat321.com","port":20134,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","udp":true}
+  - {"name":"DE-自己德国","type":"trojan","server":"sclass-00.catcat321.com","port":20134,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","udp":true}
 
   - {"name":"HK-自己香港1","type":"trojan","server":"sclass-00.catcat321.com","port":20058,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
 
