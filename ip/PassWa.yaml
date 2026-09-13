@@ -5,7 +5,7 @@ proxies:
 
   - {"name":"HK-自己香港2","type":"trojan","server":"rrr1.tube-cat.com","port":52385,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"r.hk8.cat.bilibili.com","skip-cert-verify":true,"udp":true}
 
-  - {"name":"TW-自己台湾","type":"trojan","server":"sclass-00.catcat321.com","port":20044,"password":"78336a2f-c533-4345-9791-445ec02194f4","sni":"hk.catxstar.com","skip-cert-verify":true,"udp":true}
+  - {"name":"TW-自己台湾","type":"hysteria","server":"tw-25.497489.xyz","port":10099,"auth-str":"github.com/Alvin9999-newpac/fanqiang","up":"20 Mbps","down":"20 Mbps","sni":"tw-25.497489.xyz","alpn":["h3"],"udp":true}
   
   - {"name":"US-自己美国","type":"hysteria2","server":"gary02.1688848.xyz","port":41335,"password":"nCKwZIFgBH","sni":"www.bing.com","skip-cert-verify":true,"udp":true}
 
