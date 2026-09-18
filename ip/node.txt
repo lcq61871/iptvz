@@ -7,11 +7,14 @@ vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.20.63.254:443?encryption=none&s
 
 
 
-
 tuic://616bcbcd-2249-4317-aa45-dc991f23ca84:nCKwZIFgBH@gary02.1688848.xyz:50759?sni=www.bing.com&alpn=h3,h2,http/1.1&congestion_control=bbr&allow_insecure=1#如回溯严重请换这个tuic-50759
 hysteria2://ONmAzcPKwC@gary01.1688848.xyz:26797?sni=www.bing.com&alpn=h3,h2,http/1.1&insecure=1#Limberg-hysteria2-26797
 tuic://6b763801-0cce-4e58-8bff-f9bae2f5ae1f:ONmAzcPKwC@gary01.1688848.xyz:24145?sni=www.bing.com&alpn=h3,h2,http/1.1&congestion_control=bbr#如回溯严重请换这个-tuic-24145
+
+
+
 ss://aes-256-gcm:4f887636-0b35-398f-9d22-bb0f4e45c36e@k.d.s.2.5.t.q.d.1.hk03-ae5.entry.v51124-6.qpon:764#好1
 hysteria://tw-25.497489.xyz:10099?auth=github.com/Alvin9999-newpac/fanqiang&peer=tw-25.497489.xyz&alpn=h3&upmbps=20&downmbps=20&insecure=0#🇨🇳台湾2
 hysteria://tw-25.497489.xyz:10099?auth=github.com/Alvin9999-newpac/fanqiang&peer=tw-25.497489.xyz&alpn=h3&upmbps=20&downmbps=20#🇨🇳台湾1-111843808
 hysteria://198.200.57.142:22335?auth=github.com/Alvin9999-newpac/fanqiang&peer=bing.com&alpn=h3&upmbps=11&downmbps=55&insecure=1#🇺🇸美国4-591401469
+trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20044?security=tls&sni=hk.catxstar.com&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BC%7C%E5%8F%B0%E6%B9%BE-IEPL%2002
