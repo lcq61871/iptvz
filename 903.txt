@@ -131,7 +131,7 @@ CCTV-17咪咕,http://mg.cttv.vip/673168256
 東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-寰宇新聞台灣台,http://iptv.852851.xyz/l/2hxFj98oqnsT6KMb659ipdhBKilPL61eDVyycl3NqJ3SuEbG9Tylk0PvbndzA-cB/index.m3u8
+寰宇新聞台灣台,http://iptv.852851.xyz/l/__8k8geJp3u3xuPMBJCfjFAeJoJ4EQFneWckXd_9McCtVdZeJ3NMk-4jXTT4P1Mj/index.m3u8
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
 
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
