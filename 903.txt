@@ -133,7 +133,7 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇新聞台灣台,http://iptv.852851.xyz/l/__8k8geJp3u3xuPMBJCfjFAeJoJ4EQFneWckXd_9McCtVdZeJ3NMk-4jXTT4P1Mj/index.m3u8
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
-博斯網球,http://iptv.852851.xyz/l/05l-3j1KRNe48RGpOdqs-0rXrigr7mjVF71J08zIfZxMb-hAl--ngHrnSfSoPvLO/index.m3u8
+博斯網球,http://125.227.210.55:3060/VideoInput/play.ts
 博斯網球,http://iptv.852851.xyz/l/3cHdMEMj_P0oAWb057n0shHnyXJfN4Ffi_Anm9aB5147s2zZnEZp4dJvSW5EJ4Wi/index.m3u8
 博斯魅力,http://iptv.852851.xyz/l/elhn9KFuxdDCD4OMWk_3Jg9u8YLT1fuxjpaJoIJdH1kI1II-bPXG4zaZwd0-A6qO/index.m3u8
 
