@@ -133,6 +133,9 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 寰宇新聞台灣台,http://iptv.852851.xyz/l/__8k8geJp3u3xuPMBJCfjFAeJoJ4EQFneWckXd_9McCtVdZeJ3NMk-4jXTT4P1Mj/index.m3u8
 寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+博斯網球,http://iptv.852851.xyz/l/05l-3j1KRNe48RGpOdqs-0rXrigr7mjVF71J08zIfZxMb-hAl--ngHrnSfSoPvLO/index.m3u8
+博斯網球,http://iptv.852851.xyz/l/3cHdMEMj_P0oAWb057n0shHnyXJfN4Ffi_Anm9aB5147s2zZnEZp4dJvSW5EJ4Wi/index.m3u8
+博斯魅力,http://iptv.852851.xyz/l/elhn9KFuxdDCD4OMWk_3Jg9u8YLT1fuxjpaJoIJdH1kI1II-bPXG4zaZwd0-A6qO/index.m3u8
 
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
 NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
