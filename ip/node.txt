@@ -10,7 +10,7 @@ vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.20.63.254:443?encryption=none&s
 tuic://616bcbcd-2249-4317-aa45-dc991f23ca84:nCKwZIFgBH@gary02.1688848.xyz:50759?sni=www.bing.com&alpn=h3,h2,http/1.1&congestion_control=bbr&allow_insecure=1#如回溯严重请换这个tuic-50759
 hysteria2://ONmAzcPKwC@gary01.1688848.xyz:26797?sni=www.bing.com&alpn=h3,h2,http/1.1&insecure=1#Limberg-hysteria2-26797
 tuic://6b763801-0cce-4e58-8bff-f9bae2f5ae1f:ONmAzcPKwC@gary01.1688848.xyz:24145?sni=www.bing.com&alpn=h3,h2,http/1.1&congestion_control=bbr#如回溯严重请换这个-tuic-24145
-
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?type=ws&path=%2F0962&host=nimm.mpd.cc.cd&sni=nimm.mpd.cc.cd&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%EF%BC%BF%20%E4%BB%A3%E7%A0%81%E6%98%9F%E6%B2%B3%EF%BC%BD
 
 
 ss://aes-256-gcm:4f887636-0b35-398f-9d22-bb0f4e45c36e@k.d.s.2.5.t.q.d.1.hk03-ae5.entry.v51124-6.qpon:764#好1
