@@ -1,5 +1,25 @@
+中国频道,#genre#
+CCTV17,http://iptv.852851.xyz/l/je_mXAcdeaz1QVqRZ5kdEo1FGbeRfkC0J-laqMsZWIO5hm1127a9v-kBg0NqS24G/play
+CCTV15,http://iptv.852851.xyz/l/3xG-Qxj3_NYJ9s3SmTj1KaaJAsIRbEZe5zPxjQLnNbSyxH-WpGiC704aGqeY4R4a/play
+CCTV14,http://iptv.852851.xyz/l/hZCOgaMOZ-tRua4DPz2bBuQD-T1dTyp9_HNMfczU59Lsmab_Q53wRIEE8y6RwZhk/play
+CCTV13,http://iptv.852851.xyz/l/MN3eHsygEOMmtgZivUlHRhLLYHCfP3I8mbdNEnaPLxrRbmvvdLp6LRyQuvuMH647/play
+CCTV12,http://iptv.852851.xyz/l/BkLA1pNSoiQKqRs2EFTkufZ1Bu5sP9G6pJ2RkqWju9saV9Du84PA2S51yBKN-_UT/play
+CCTV11,http://iptv.852851.xyz/l/VAdcCQQSWA7O-BgBGmwzsgWpqjVFMC5d8h4SIS80QKW0ubh7cTn3r4XCNUcKM9QW/play
+CCTV10,http://iptv.852851.xyz/l/oSRfukbeEcL6N5HBd5WFSNStsV_8s-ug-gg7gD7FvqEYtkFYk-t9lQdrj98z6WpB/play
+CCTV9,http://iptv.852851.xyz/l/cgWLMrM-W3KndoDLXaTH0Q92oBnP34VV5hAGBVEVzzI0LuTwBU0U-cf6ewEwoZN7/play
+CCTV8,http://iptv.852851.xyz/l/FGgJ2BSo6VX6twNuBfo53jF1VcIzszlQOZcvz8JiTcJEDY4gUwvEAMRATEUOp9IR/play
+CCTV7,http://iptv.852851.xyz/l/PDkkaNO0vHWHRteT8yPeuWGKYbJAPQnJooKppvDIhdL7IJJzu3mjZ7p2MSJMwxGC/play
+CCTV6,http://iptv.852851.xyz/l/HJ0HbV88Pu6rIbKLN9jwHRH6upZh0vK1m4bvK2lycZc2w0YnCDLKAUm4PW3wd0s7/play
+CCTV5+体育赛事,http://iptv.852851.xyz/l/_bdd7CREXmM5UJDvwZZNaBLEVZQv7xtiHIlEU-X4YisSrDn3yLu4YUg9LeuI9LAo/index.m3u8
+CCTV5,http://iptv.852851.xyz/l/Awty_lPiEy9alAeEkJaiynLSSFdjc2S9F6ZBA41Ike3_OVEnLx81uUk83M6Fu3G4/play
+CCTV4,http://iptv.852851.xyz/l/Pzs1m48BkplGGVK0BgqF7-EwtCcVFRMYOHV-_UnUgE3ozMCr0hK6k8bZjbiCpvYU/play
+CCTV3,http://iptv.852851.xyz/l/01Z_WzWGXNpN-j28fwGlekE9jl_3NPXoliRNwbskqbr-TFOaI72j4RwoZupEFRdt/play
+CCTV2,http://iptv.852851.xyz/l/X3T6O7IWV_UIfx35ZQjTIxz4uyDogeyuxUIZHshFGuUxfYs9xZmK2Lt2mUFiLNrq/play
+CCTV1,http://iptv.852851.xyz/l/5pDb4b8Bv5js0o5Pk0JTRZ6kW5llrtVqfV9U3yPlFGr6sltppensnjlcTrae_51O/play
 
-🏟️ 亚运会,#genre#
+
+
+亚运会,#genre#
 CCTV4K,http://iptv.852851.xyz/l/UNZGcqKPu_SMURmmxTyhSN5OJDKowdf_-z0QH33P_OSOJkg-VQNgfgwUN2wn8JP9/index.m3u8
 CCTV5+,http://iptv.852851.xyz/l/kpxE-HEzQF2xnisIFUoIJLnrR7uYZ-O5Ub2vgc4YMAGALSnpc2Wb9Kq6IIPH9OPE/index.m3u8
 CCTV16 4K奧林匹克,http://iptv.852851.xyz/l/IzU3oGxAchyO-w_f63zBFVMBDueZEQIxOBpNipLxBEFBJk6iyCuEsyizqdhGfBN1/index.m3u8
