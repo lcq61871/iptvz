@@ -22,6 +22,29 @@ CCTV17,http://m.061899.xyz/mg/cctv17
 
 央视1,#genre#
 
+CCTV-1,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv1
+CCTV-2,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv2
+CCTV-3,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv3
+CCTV-4,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv4
+CCTV-5,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5
+CCTV-5+,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5p
+CCTV-6,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv6
+CCTV-7,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv7
+CCTV-8,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv8
+CCTV-9,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv9
+CCTV-10,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv10
+CCTV-11,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv11
+CCTV-12,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv12
+CCTV-13,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv13
+CCTV-14,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv14
+CCTV-15,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv15
+CCTV-16,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv16
+CCTV-16(4K),http://5700.de5.net/cctv/ysp.php?action=play&id=cctv164k
+CCTV-17,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv17
+CCTV-4K,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv4k
+CCTV-8K,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv8k
+
+
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
