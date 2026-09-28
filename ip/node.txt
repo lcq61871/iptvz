@@ -1,5 +1,5 @@
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20134?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#DE-自己德国
-trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20058?sni=hk.catxstar.com&allowInsecure=1#HK-自己香港1
+anytls://9sK2mP8xQ7vL3nZ6@8uhb.pnuqcnp.cn:443?sni=images.ctfassets.net&insecure=1#HK-自己香港1
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-a1.catcat321.com:20010?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#HK-自己香港2
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20044?security=tls&sni=hk.catxstar.com&allowInsecure=1&type=tcp&headerType=none#TW-自己台湾
 hysteria2://nCKwZIFgBH@gary02.1688848.xyz:41335?sni=www.bing.com&insecure=1#US-自己美国
