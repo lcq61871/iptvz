@@ -1,3 +1,18 @@
+亚运会,#genre#
+CCTV5,http://iptv.852851.xyz/l/zeI0BMocF2w5hESW1KD7WZ73Yb4C_7znlNrganAqHqJG8-VOYyeyg8bS9yWT_cBI/index.m3u8
+CCTV16奧林匹克,http://iptv.852851.xyz/l/zwLYt7qWYCuPiohcLb5mj7A9_uAZdoT7ZH9V_-_sC50uT6HFZSmV2flxNB6k0Iez/index.m3u8
+CCTV5+体育赛事,http://iptv.852851.xyz/l/hGqSnzSGDrpUb9nHrhb7hWxHhkJ7vzpGdFEPJKXXDTB93km_RAPvjK1Gs2BH04mo/index.m3u8
+CCTV4K,http://iptv.852851.xyz/l/pDOySpC7H4xaBj9DkvQE3tJesbXF6RnTBu8G6g_tz7g-2Uj59Zd97KukyM38gByE/index.m3u8
+CCTV5+,http://iptv.852851.xyz/l/dyvdic3zap5eCzdFF3pAFJFd1V6lIeWIKMw6PQo8duCq1HsU-RcCOHGcLQ-1mbim/index.m3u8
+CCTV16 4K奧林匹克,http://iptv.852851.xyz/l/AZQTzw6kK2nNFZ6K-juRy-tBucEkJkOoYwuYZcgggkOtWVBIWYUftFwxorocpj6Z/index.m3u8
+CCTV5,http://iptv.852851.xyz/l/zic_qlQjQZODEg1afXFVpCMmaa1s8alKz9XtyVwM-H9vx1o6_I7rLdGUtZ3THKJP/index.m3u8
+Asian Games CH01,http://iptv.852851.xyz/l/oJzp9O-XhBr7dwFPO7B-u96awa8vDP3npKeHnN3pzWJodFkSv0QXCsajiMc7mC4W/index.m3u8
+Asian Games CH02,http://iptv.852851.xyz/l/j-O6st_uM81NgXHFS68P_A19rC35miXrGH2jdyK7HAsANLoCFO29ZWeo7d2agKiU/index.m3u8
+Asian Games CH03,http://iptv.852851.xyz/l/3jXuVC3Fraa5SQpnagcMGjrePut1Hm56cHAhCMLRWtQmVJlmV-Q217zPks-UNiwb/index.m3u8
+Asian Games CH04,http://iptv.852851.xyz/l/MJjYFdslczYgi8n7B04e7qz10HWo95u0IHTME52iDPOAahuj34FADqXCExsvc4UB/index.m3u8
+Asian Games CH05,http://iptv.852851.xyz/l/3XwUkVWOrubVVkvNoG8UoXQj2HVf-amlNmBcV3Ig6wgma1LKRnm0FiMEGvTCaIkF/index.m3u8
+Asian Games CH06,http://iptv.852851.xyz/l/hcAzzVNzYfA9DBYMy4thnOaBlCB9EpCo-_g3FHtrEWdlIZTsWZWlToXXQug9w8I3/index.m3u8
+
 中国频道,#genre#
 CCTV1,http://m.061899.xyz/mg/cctv1
 CCTV2,http://m.061899.xyz/mg/cctv2
