@@ -1,15 +1,14 @@
 亚运会,#genre#
+5线路CCTV-5,http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
+5线CCTV5+,http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
 1线路CCTV-5,http://m.061899.xyz/mg/cctv5
-1线路CCTV-5+,http://m.061899.xyz/mg/cctv5p
+1线CCTV-5+,http://m.061899.xyz/mg/cctv5p
 2线路CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+2线CCTV-5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
 3线路CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
+3线CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 4线路CCTV5,http://iptv.852851.xyz/l/zeI0BMocF2w5hESW1KD7WZ73Yb4C_7znlNrganAqHqJG8-VOYyeyg8bS9yWT_cBI/index.m3u8
-CCTV5,http://iptv.852851.xyz/l/zic_qlQjQZODEg1afXFVpCMmaa1s8alKz9XtyVwM-H9vx1o6_I7rLdGUtZ3THKJP/index.m3u8
-
-CCTV5+体育赛事,http://iptv.852851.xyz/l/hGqSnzSGDrpUb9nHrhb7hWxHhkJ7vzpGdFEPJKXXDTB93km_RAPvjK1Gs2BH04mo/index.m3u8
-CCTV5+体育赛事,http://iptv.852851.xyz/l/dyvdic3zap5eCzdFF3pAFJFd1V6lIeWIKMw6PQo8duCq1HsU-RcCOHGcLQ-1mbim/index.m3u8
+4线CCTV5,http://iptv.852851.xyz/l/zic_qlQjQZODEg1afXFVpCMmaa1s8alKz9XtyVwM-H9vx1o6_I7rLdGUtZ3THKJP/index.m3u8
 
 Asian Games CH01,http://iptv.852851.xyz/l/oJzp9O-XhBr7dwFPO7B-u96awa8vDP3npKeHnN3pzWJodFkSv0QXCsajiMc7mC4W/index.m3u8
 Asian Games CH02,http://iptv.852851.xyz/l/j-O6st_uM81NgXHFS68P_A19rC35miXrGH2jdyK7HAsANLoCFO29ZWeo7d2agKiU/index.m3u8
