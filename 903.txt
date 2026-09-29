@@ -1,6 +1,7 @@
 亚运会-央视5台,#genre#
-5线路CCTV-5,http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
-5线5+,http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
+5线路CCTV-5,http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
+5线5+,http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
+
 1线路CCTV-5,http://m.061899.xyz/mg/cctv5
 1线5+,http://m.061899.xyz/mg/cctv5p
 2线路CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
