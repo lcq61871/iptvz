@@ -1,3 +1,5 @@
+
+
 亚运会-央视5台,#genre#
 CCTV5,http://123.10.79.211:808/hls/5/index.m3u8
 5线路CCTV-5,http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
@@ -330,3 +332,10 @@ Tennis Channel,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&strea
 Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
 Tennis Channel 2,http://185.80.197.65:80/play/live.php?mac=A0:BB:3E:0B:34:B8&stream=1930918&extension=ts&play_token=VPjyMrOa3c
 Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
+
+
+🌏测试,#genre#
+湖北电信,http://59.174.161.101:4022/rtp/239.254.96.96:8550
+河南,http://171.8.138.13:8800/rtp/239.16.20.2:10020
+湖南,http://118.248.155.220:8889/udp/239.76.253.158:9000
+涮,http://124.114.103.202:6789/rtp/239.112.205.221:5140
