@@ -188,11 +188,6 @@ CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
 CCTV-04咪咕,http://rihou.cc:555/tv/[mg]CCTV-04
 CCTV-05咪咕,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV-5+咪咕,http://rihou.cc:555/tv/[mg]CCTV-5+
-
-CCTV-05咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5
-CCTV-5+咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5p
-
-
 CCTV-06咪咕,http://rihou.cc:555/tv/[mg]CCTV-06
 CCTV-07咪咕,http://rihou.cc:555/tv/[mg]CCTV-07
 CCTV-08咪咕,http://rihou.cc:555/tv/[mg]CCTV-08
@@ -229,10 +224,6 @@ CCTV3,https://cdn.qd.je/163189/cctv3
 CCTV4,https://cdn.qd.je/163189/cctv4
 CCTV5,https://cdn.qd.je/163189/cctv5
 CCTV5+,https://cdn.qd.je/163189/cctv5p
-
-CCTV-05咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5
-CCTV-5+咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5p
-
 CCTV6,https://cdn.qd.je/163189/cctv6
 CCTV7,https://cdn.qd.je/163189/cctv7
 CCTV8,https://cdn.qd.je/163189/cctv8
@@ -258,10 +249,6 @@ CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
 CCTV4,http://go.bkpcp.top/mg/cctv4
-
-CCTV-05咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5
-CCTV-5+咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5p
-
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5+,http://go.bkpcp.top/mg/cctv5p
 CCTV6,http://go.bkpcp.top/mg/cctv6
@@ -312,10 +299,6 @@ CCTV-01咪咕,http://mg.cttv.vip/608807420
 CCTV-02咪咕,http://mg.cttv.vip/631780532
 CCTV-03咪咕,http://mg.cttv.vip/624878271
 CCTV-04咪咕,http://mg.cttv.vip/631780421
-CCTV-05咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5
-CCTV-5+咪咕,http://5700.de5.net/cctv/ysp.php?action=play&id=cctv5p
-
-
 CCTV-05咪咕,http://mg.cttv.vip/641886683
 CCTV-5+咪咕,http://mg.cttv.vip/641886773
 CCTV-06咪咕,http://mg.cttv.vip/624878396
@@ -328,8 +311,6 @@ CCTV-12咪咕,http://mg.cttv.vip/673168185
 CCTV-13咪咕,http://mg.cttv.vip/608807423
 CCTV-14咪咕,http://mg.cttv.vip/624878440
 CCTV-15咪咕,http://mg.cttv.vip/673168223
-CCTV-16咪咕,http://58.255.201.70:10443/tsfile/live/1001_1.m3u8
-CCTV-17咪咕,http://mg.cttv.vip/673168256
 
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
