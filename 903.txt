@@ -4,6 +4,8 @@
 
 8线路 CCTV5,https://cdn16.123.rr.kg/163189/cctv5
 8线路 CCTV5+,https://cdn16.123.rr.kg/163189/cctv5p
+2线路 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
+2线路 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 
 CCTV5,http://f.123.rr.kg/163189/cctv5
 CCTV5+,http://f.123.rr.kg/163189/cctv5p
@@ -22,8 +24,6 @@ CCTV5+,http://f.123.rr.kg/163189/cctv5p
 4线路 CCTV5+,http://m.061899.xyz/mg/cctv5p
 3线路 CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
 3线路 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
-2线路 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
-2线路 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 
 
 
