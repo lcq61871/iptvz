@@ -227,7 +227,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 
 
 
-央视咪咕2,#genre#
+#央视咪咕2,#genre#
 
 CCTV1,http://f.123.rr.kg/163189/cctv1
 CCTV2,http://f.123.rr.kg/163189/cctv2
