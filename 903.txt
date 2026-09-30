@@ -4,6 +4,7 @@
 
 8线路 CCTV5,https://cdn16.123.rr.kg/163189/cctv5
 8线路 CCTV5+,https://cdn16.123.rr.kg/163189/cctv5p
+
 CCTV5,http://f.123.rr.kg/163189/cctv5
 CCTV5+,http://f.123.rr.kg/163189/cctv5p
 
