@@ -7,7 +7,7 @@ OUTPUT_STREAMS_URL = (
 )
 
 # 目标输出文件名
-OUTPUT_FILE = "904.txt"
+OUTPUT_FILE = "903.txt"
 
 
 def get_remote_content(url, description):
@@ -44,7 +44,7 @@ def main():
     if output_streams_text:
         combined_content.append(output_streams_text)
 
-    # 3. 合并并保存为 904.txt
+    # 3. 合并并保存为 903.txt
     if combined_content:
         final_text = "\n\n".join(combined_content)
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
