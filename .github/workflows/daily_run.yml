@@ -27,10 +27,10 @@ jobs:
       - name: Execute hbsxzb.py
         run: python hbsxzb.py
 
-      - name: Commit and push generated 904.txt
+      - name: Commit and push generated 903.txt
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add 904.txt
-          git commit -m "Auto update 904.txt" || echo "No changes to commit"
+          git add 903.txt
+          git commit -m "Auto update 903.txt" || echo "No changes to commit"
           git push
