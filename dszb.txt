@@ -1,137 +1,68 @@
+常看频道,#genre#
+CCTV-01咪咕, http://mg.cttv.vip/608807420
+CCTV-01咪咕, http://rihou.cc:555/tv/[mg]CCTV-01
+CCTV-04咪咕, http://mg.cttv.vip/631780421
+CCTV-04咪咕, http://rihou.cc:555/tv/[mg]CCTV-04
+CCTV-08咪咕, http://mg.cttv.vip/624878356
+CCTV-08咪咕, http://rihou.cc:555/tv/[mg]CCTV-08
+CCTV-1, http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+CCTV-12, http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+CCTV-4, http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+CCTV-5, http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+CCTV-8, http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+CCTV12社会与法, http://wfenf.x3322.net:7788/673168185
+CCTV12社会与法, http://mg.cttv.vip/673168185
+CCTV1综合, http://mg.cttv.vip/608807420
+CCTV1综合, http://wfenf.x3322.net:7788/608807420
+CCTV4中文国际, http://mg.cttv.vip/631780421
+CCTV4中文国际, http://wfenf.x3322.net:7788/631780421
+CCTV5体育, http://mg.cttv.vip/641886683
+CCTV5体育, http://wfenf.x3322.net:7788/641886683
+CCTV8电视剧, http://mg.cttv.vip/624878356
+CCTV8电视剧, http://wfenf.x3322.net:7788/624878356
+凤凰中文, https://cdn6.cc.cd/163189/fhzw
+凤凰中文, https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯, https://cdn6.cc.cd/163189/fhzx
+凤凰资讯, https://cdn6.163189.xyz/163189/fhzx
+凤凰香港, https://cdn6.cc.cd/163189/fhhk
+凤凰香港, https://cdn6.163189.xyz/163189/fhhk
 
-亚运会-中网,#genre#
 
-8线路 CCTV5,https://cdn16.123.rr.kg/163189/cctv5
-8线路 CCTV5+,https://cdn16.123.rr.kg/163189/cctv5p
-2线路 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
-2线路 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV5,http://f.123.rr.kg/163189/cctv5
-CCTV5+,http://f.123.rr.kg/163189/cctv5p
-
-南央视 CCTV-5体育,http://118.248.155.220:8889/udp/239.76.253.155:9000
-南央视 CCTV-5+体育赛事,http://118.248.155.220:8889/udp/239.76.253.168:9000
-北央视 CCTV-5体育,http://59.174.160.24:4022/rtp/239.69.1.123:10376
-北央视 CCTV-5+体育赛事,http://59.174.160.24:4022/rtp/239.254.96.234:9484
-
-5线路 CCTV-5,http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
-5线路 CCTV5+,http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
-4线路 CCTV-5,http://m.061899.xyz/mg/cctv5
-4线路 CCTV5+,http://m.061899.xyz/mg/cctv5p
-3线路 CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8
-3线路 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
-
-Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
-Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
-Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
-
-
-中国频道,#genre#
-CCTV1,http://www.li0580.top:4022/udp/233.50.201.118:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV1,http://www.li0580.top:4022/udp/233.50.201.222:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV1,http://www.li0580.top:4022/udp/233.50.200.130:5140%24%E7%BA%BF%E8%B7%AF4
-CCTV1,http://www.li0580.top:4022/udp/233.50.200.143:5140%24%E7%BA%BF%E8%B7%AF5
-CCTV1,http://www.li0580.top:4022/udp/233.50.200.99:5140%24%E7%BA%BF%E8%B7%AF6
-CCTV1,http://www.li0580.top:4022/udp/233.50.201.1:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV2,http://www.li0580.top:4022/udp/233.50.200.100:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV2,http://www.li0580.top:4022/udp/233.50.201.119:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV2,http://www.li0580.top:4022/udp/233.50.200.25:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV2,http://www.li0580.top:4022/udp/233.50.201.2:5140%24%E7%BA%BF%E8%B7%AF4
-CCTV3,http://www.li0580.top:4022/udp/233.50.201.196:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV3,http://www.li0580.top:4022/udp/233.50.200.107:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV4,http://www.li0580.top:4022/udp/233.50.200.101:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV4,http://www.li0580.top:4022/udp/233.50.201.4:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV5,http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV5,http://www.li0580.top:4022/udp/233.50.200.108:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV5,http://www.li0580.top:4022/udp/233.50.201.17:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV5+,http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV6,http://www.li0580.top:4022/udp/233.50.201.198:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV6,http://www.li0580.top:4022/udp/233.50.200.109:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV6,http://www.li0580.top:4022/udp/233.50.201.18:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV7,http://www.li0580.top:4022/udp/233.50.200.102:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV7,http://www.li0580.top:4022/udp/233.50.201.120:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV7,http://www.li0580.top:4022/udp/233.50.200.24:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV7,http://www.li0580.top:4022/udp/233.50.201.7:5140%24%E7%BA%BF%E8%B7%AF4
-CCTV8,http://www.li0580.top:4022/udp/233.50.200.110:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV8,http://www.li0580.top:4022/udp/233.50.201.199:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV8,http://www.li0580.top:4022/udp/233.50.201.19:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV9,http://www.li0580.top:4022/udp/233.50.201.121:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV9,http://www.li0580.top:4022/udp/233.50.200.23:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV10,http://www.li0580.top:4022/udp/233.50.201.122:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV10,http://www.li0580.top:4022/udp/233.50.200.22:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV10,http://www.li0580.top:4022/udp/233.50.201.10:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV11,http://www.li0580.top:4022/udp/233.50.201.11:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV12,http://www.li0580.top:4022/udp/233.50.201.123:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV12,http://www.li0580.top:4022/udp/233.50.200.21:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV12,http://www.li0580.top:4022/udp/233.50.201.12:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV13,http://www.li0580.top:4022/udp/233.50.200.111:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV13,http://www.li0580.top:4022/udp/233.50.201.246:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV13,http://www.li0580.top:4022/udp/233.50.201.13:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV14,http://www.li0580.top:4022/udp/233.50.200.103:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV14,http://www.li0580.top:4022/udp/233.50.201.124:5140%24%E7%BA%BF%E8%B7%AF3
-CCTV14,http://www.li0580.top:4022/udp/233.50.200.20:5140%24%E7%BA%BF%E8%B7%AF4
-CCTV14,http://www.li0580.top:4022/udp/233.50.201.14:5140%24%E7%BA%BF%E8%B7%AF5
-CCTV15,http://www.li0580.top:4022/udp/233.50.201.15:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV16,http://www.li0580.top:4022/udp/233.50.201.192:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV16,http://www.li0580.top:4022/udp/233.50.200.112:5140%24%E7%BA%BF%E8%B7%AF2
-CCTV17,http://www.li0580.top:4022/udp/233.50.200.113:5140%24%E7%BA%BF%E8%B7%AF1
-CCTV17,http://www.li0580.top:4022/udp/233.50.201.35:5140%24%E7%BA%BF%E8%B7%AF2
+央视2,#genre#
+CCTV1综合,http://wfenf.x3322.net:7788/608807420
+CCTV2财经,http://wfenf.x3322.net:7788/631780532
+CCTV3综艺,http://wfenf.x3322.net:7788/624878271
+CCTV4中文国际,http://wfenf.x3322.net:7788/631780421
+CCTV5体育,http://wfenf.x3322.net:7788/641886683
+CCTV5+体育赛事,http://wfenf.x3322.net:7788/641886773
+CCTV6电影,http://wfenf.x3322.net:7788/624878396
+CCTV7国防军事,http://wfenf.x3322.net:7788/673168121
+CCTV8电视剧,http://wfenf.x3322.net:7788/624878356
+CCTV9纪录,http://wfenf.x3322.net:7788/673168140
+CCTV10科教,http://wfenf.x3322.net:7788/624878405
+CCTV11戏曲,http://wfenf.x3322.net:7788/667987558
+CCTV12社会与法,http://wfenf.x3322.net:7788/673168185
+CCTV13新闻,http://wfenf.x3322.net:7788/608807423
+CCTV14少儿,http://wfenf.x3322.net:7788/624878440
+CCTV15音乐,http://wfenf.x3322.net:7788/673168223
+CCTV17农业农村,http://wfenf.x3322.net:7788/673168256
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
 凤凰资讯,https://cdn.qd.je/163189/fhzx
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰香港,https://cdn.qd.je/163189/fhhk
-凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
-凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
-凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
-凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
-凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
-央视1,#genre#
-
-CCTV-1综合D,http://104.152.209.49:8181/720p/cctv1.m3u8
-CCTV-2财经D,http://104.152.209.49:8181/720p/cctv2.m3u8
-CCTV-3综艺D,http://104.152.209.49:8181/720p/cctv3.m3u8
-CCTV-4中文国际D,http://104.152.209.49:8181/720p/cctv4.m3u8
-CCTV-5体育D,http://104.152.209.49:8181/720p/cctv5.m3u8
-CCTV-6电影D,http://104.152.209.49:8181/720p/cctv6.m3u8
-CCTV-7国防军事D,http://104.152.209.49:8181/720p/cctv7.m3u8
-CCTV-8电视剧D,http://104.152.209.49:8181/720p/cctv8.m3u8
-CCTV-9纪录D,http://104.152.209.49:8181/720p/cctv9.m3u8
-CCTV-10科教D,http://104.152.209.49:8181/720p/cctv10.m3u8
-CCTV-11戏曲D,http://104.152.209.49:8181/720p/cctv11.m3u8
-CCTV-12社会与法D,http://104.152.209.49:8181/720p/cctv12.m3u8
-CCTV-13新闻D,http://104.152.209.49:8181/720p/cctv13.m3u8
-CCTV-14少儿D,http://104.152.209.49:8181/720p/cctv14.m3u8
-CCTV-15音乐D,http://104.152.209.49:8181/720p/cctv15.m3u8
-CCTV-16奥林匹克D,http://104.152.209.49:8181/720p/cctv16.m3u8
-CCTV-17农业农村D,http://104.152.209.49:8181/720p/cctv17.m3u8
-CCTV-5+HDD,http://104.152.209.49:8181/720p/cctv5p.m3u8
-CCTV-4K超高清D,http://104.152.209.49:8181/720p/cctv4k.m3u8
-CCTV-8K超高清D,http://104.152.209.49:8181/720p/cctv8k.m3u8
-CCTV-第一剧场D,http://104.152.209.49:8181/720p/dyjc.m3u8
-CCTV-风云剧场D,http://104.152.209.49:8181/720p/fyjc.m3u8
-CCTV-怀旧剧场D,http://104.152.209.49:8181/720p/hjjc.m3u8
-CCTV-兵器科技D,http://104.152.209.49:8181/720p/gfjs.m3u8
-CCTV-女性时尚D,http://104.152.209.49:8181/720p/nxss.m3u8
-CCTV-世界地理D,http://104.152.209.49:8181/720p/sjdl.m3u8
-CCTV-卫生健康D,http://104.152.209.49:8181/720p/wsjk.m3u8
-CCTV-央视文化精品D,http://104.152.209.49:8181/720p/ysjp.m3u8
-CCTV-风云音乐D,http://104.152.209.49:8181/720p/fyyy.m3u8
-CCTV-央视台球D,http://104.152.209.49:8181/720p/ystq.m3u8
-CCTV-风云足球D,http://104.152.209.49:8181/720p/fyzq.m3u8
-CCTV-高尔夫网球D,http://104.152.209.49:8181/720p/gefwq.m3u8
 
 
+央视广西,#genre#
 CCTV-01咪咕,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-02咪咕,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-03咪咕,http://rihou.cc:555/tv/[mg]CCTV-03
 CCTV-04咪咕,http://rihou.cc:555/tv/[mg]CCTV-04
 CCTV-05咪咕,http://rihou.cc:555/tv/[mg]CCTV-05
-CCTV-5+咪咕,http://rihou.cc:555/tv/[mg]CCTV-5+
+CCTV-5+咪咕,http://rihou.cc:555/tv/[mg]CCTV-5p
 CCTV-06咪咕,http://rihou.cc:555/tv/[mg]CCTV-06
 CCTV-07咪咕,http://rihou.cc:555/tv/[mg]CCTV-07
 CCTV-08咪咕,http://rihou.cc:555/tv/[mg]CCTV-08
@@ -140,55 +71,26 @@ CCTV-10咪咕,http://rihou.cc:555/tv/[mg]CCTV-10
 CCTV-11咪咕,http://rihou.cc:555/tv/[mg]CCTV-11
 CCTV-12咪咕,http://rihou.cc:555/tv/[mg]CCTV-12
 CCTV-13咪咕,http://rihou.cc:555/tv/[mg]CCTV-13
-CCTV-14咪咕,http://rihou.cc:555/tv/[mg]CCTV-14
-CCTV-15咪咕,http://rihou.cc:555/tv/[mg]CCTV-15
-CCTV-16咪咕,http://rihou.cc:555/tv/[mg]CCTV-16
-CCTV-17咪咕,http://rihou.cc:555/tv/[mg]CCTV-17
-
-
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁新闻综合,http://live.xmcdn.com/live/305/64.m3u8?aac
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
+广西新闻,http://36.136.38.87:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 凤凰中文,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
 凤凰香港,http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰香港,https://cdn.qd.je/163189/fhhk
 凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
 凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
 凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
-央视2,#genre#
 
-CCTV1,https://cdn.qd.je/163189/cctv1
-CCTV2,https://cdn.qd.je/163189/cctv2
-CCTV3,https://cdn.qd.je/163189/cctv3
-CCTV4,https://cdn.qd.je/163189/cctv4
-CCTV5,https://cdn.qd.je/163189/cctv5
-CCTV5+,https://cdn.qd.je/163189/cctv5p
-CCTV6,https://cdn.qd.je/163189/cctv6
-CCTV7,https://cdn.qd.je/163189/cctv7
-CCTV8,https://cdn.qd.je/163189/cctv8
-CCTV9,https://cdn.qd.je/163189/cctv9
-CCTV11,https://cdn.qd.je/163189/cctv11
-CCTV12,https://cdn.qd.je/163189/cctv12
-CCTV13,https://cdn.qd.je/163189/cctv13
-CCTV13-2,https://cdn.qd.je/163189/cctv13-2
-CCTV14,https://cdn.qd.je/163189/cctv14
-CCTV15,https://cdn.qd.je/163189/cctv15
-CCTV16,https://cdn.qd.je/163189/cctv16
-CCTV16-2,https://cdn.qd.je/163189/cctv16-2
-CCTV17,https://cdn.qd.je/163189/cctv17
-南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-
-央视咪咕,#genre#
+全网通咪咕,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -207,43 +109,50 @@ CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
-
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
+凤凰资讯,https://iptv.aibo.lol/qd/fhzx.m3u8
+凤凰中文,https://iptv.aibo.lol/qd/fhzw.m3u8
+凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
+
+
+
+
+咪咕频道,#genre#
+CCTV1,http://m.061899.xyz/mg/cctv1
+CCTV2,http://m.061899.xyz/mg/cctv2
+CCTV3,http://m.061899.xyz/mg/cctv3
+CCTV4,http://m.061899.xyz/mg/cctv4
+CCTV5,http://m.061899.xyz/mg/cctv5
+CCTV5+,http://m.061899.xyz/mg/cctv5p
+CCTV6,http://m.061899.xyz/mg/cctv6
+CCTV7,http://m.061899.xyz/mg/cctv7
+CCTV8,http://m.061899.xyz/mg/cctv8
+CCTV9,http://m.061899.xyz/mg/cctv9
+CCTV10,http://m.061899.xyz/mg/cctv10
+CCTV11,http://m.061899.xyz/mg/cctv11
+CCTV12,http://m.061899.xyz/mg/cctv12
+CCTV13,http://m.061899.xyz/mg/cctv13
+CCTV14,http://m.061899.xyz/mg/cctv14
+CCTV15,http://m.061899.xyz/mg/cctv15
+CCTV16,http://m.061899.xyz/mg/cctv16
+CCTV17,http://m.061899.xyz/mg/cctv17
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+广西新闻,http://192.151.150.154/live/gxwshd.m3u8
+凤凰中文,http://m.061899.xyz/mg/fhzw
+凤凰资讯,http://m.061899.xyz/mg/fhzx
+
 
 
 
 🌏4K体育频道,#genre#
 
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰香港,https://cdn.qd.je/163189/fhhk
-翡翠台(字幕),https://cdn.qd.je/163189/fct2
-无线新闻台,https://cdn.qd.je/163189/wxxw
-東森新聞台,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-
-博斯網球,http://125.227.210.55:3060/VideoInput/play.ts
-博斯網球,http://iptv.852851.xyz/l/3cHdMEMj_P0oAWb057n0shHnyXJfN4Ffi_Anm9aB5147s2zZnEZp4dJvSW5EJ4Wi/index.m3u8
-博斯魅力,http://iptv.852851.xyz/l/elhn9KFuxdDCD4OMWk_3Jg9u8YLT1fuxjpaJoIJdH1kI1II-bPXG4zaZwd0-A6qO/index.m3u8
-
-CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
-NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
-Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
-Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
-Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
+加拿大TSN,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119333
+ESPN,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119665
+Fussball.TV 4K DE,http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120339
 
 
-FashionTV FR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
-Sky Sport F1 uk,http://89.187.179.148:826/1368/gXwiagaXda/120348
-Sky Sport F1 uk,http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917711
-加拿大TSN,http://89.187.179.148:826/1368/gXwiagaXda/119333
-加拿大TSN,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
-ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
+
+
