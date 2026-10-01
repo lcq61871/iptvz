@@ -3,7 +3,7 @@ name: Auto Merge Streams Daily
 on:
   schedule:
     # 北京时间凌晨 02:00 对应 UTC 时间前一天 18:00
-    - cron: '0 18 * * *'
+    - cron: '0 20 * * *'
   workflow_dispatch: # 支持在 GitHub 页面手动触发运行
 
 jobs:
