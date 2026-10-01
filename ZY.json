@@ -24,11 +24,11 @@
       "name": "juli达",
       "url": "https://cdn.qd.je/live.m3u"
     },
-    {
-            "name": "🐬体育台",
+		{
+            "name": "Kimentanm",
             "type": 0,
-            "ua": "okhttp",
-            "url": "http://82.156.243.185:33389/fwc.m3u"
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
         },
             {
       "name": "裤",
