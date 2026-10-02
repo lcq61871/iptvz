@@ -25,6 +25,31 @@ Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
 Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
 
 
+
+CCTV5,http://218.13.170.98:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://125.43.240.24:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://114.241.110.141:85/tsfile/live/5/1005_1.m3u8?key=txiptv
+CCTV5,http://106.115.27.111:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://183.162.120.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://125.42.151.31:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://183.162.120.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://183.10.180.81:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://123.55.3.111:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://125.43.240.183:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://125.43.244.2:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://114.241.110.141:85/tsfile/live/23/1023_1.m3u8?key=txiptv
+
+CCTV5,http://ott.mobaibox.com/PLTV/3/224/3221228395/index.m3u8
+CCTV5,http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
+CCTV5,http://ott.mobaibox.com/PLTV/3/224/3221228965/index.m3u8
+CCTV5,http://ott.mobaibox.com/PLTV/4/224/3221227537/index.m3u8
+CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221228076/index.m3u8
+CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221228895/index.m3u8
+CCTV5+,http://ott.mobaibox.com/PLTV/4/224/3221227502/index.m3u8
+
+
 中国频道,#genre#
 CCTV1,http://www.li0580.top:4022/udp/233.50.201.118:5140%24%E7%BA%BF%E8%B7%AF1
 CCTV1,http://www.li0580.top:4022/udp/233.50.201.222:5140%24%E7%BA%BF%E8%B7%AF3
