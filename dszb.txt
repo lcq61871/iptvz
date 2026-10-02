@@ -91,7 +91,7 @@ CCTV17,http://www.li0580.top:4022/udp/233.50.201.35:5140%24%E7%BA%BF%E8%B7%AF2
 凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
-央视1,#genre#
+咪咕央视1,#genre#
 
 CCTV-1综合D,http://104.152.209.49:8181/720p/cctv1.m3u8
 CCTV-2财经D,http://104.152.209.49:8181/720p/cctv2.m3u8
@@ -140,7 +140,7 @@ CCTV-高尔夫网球D,http://104.152.209.49:8181/720p/gefwq.m3u8
 凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
-央视2,#genre#
+咪咕央视2,#genre#
 
 CCTV1,https://cdn.qd.je/163189/cctv1
 CCTV2,https://cdn.qd.je/163189/cctv2
@@ -168,7 +168,7 @@ CCTV17,https://cdn.qd.je/163189/cctv17
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰香港,https://cdn.qd.je/163189/fhhk
 
-央视咪咕,#genre#
+咪咕央视3,#genre#
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
