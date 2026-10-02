@@ -1,6 +1,10 @@
 
 亚运会-中网,#genre#
 
+南央视 CCTV-5体育,http://1.192.242.239:8188/rtp/239.16.20.53:10530
+南央视 CCTV-5+体育赛事,http://1.192.242.239:8188/rtp/239.16.20.5:10050
+
+
 8线路 CCTV5,https://cdn16.123.rr.kg/163189/cctv5
 8线路 CCTV5+,https://cdn16.123.rr.kg/163189/cctv5p
 2线路 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
@@ -8,8 +12,6 @@
 CCTV5,http://f.123.rr.kg/163189/cctv5
 CCTV5+,http://f.123.rr.kg/163189/cctv5p
 
-南央视 CCTV-5体育,http://1.192.242.239:8188/rtp/239.16.20.53:10530
-南央视 CCTV-5+体育赛事,http://1.192.242.239:8188/rtp/239.16.20.5:10050
 北央视 CCTV-5体育,http://59.174.160.24:4022/rtp/239.69.1.123:10376
 北央视 CCTV-5+体育赛事,http://59.174.160.24:4022/rtp/239.254.96.234:9484
 
@@ -24,7 +26,6 @@ Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c19
 Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
 Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
 Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
-
 
 中国频道,#genre#
 CCTV1,http://www.li0580.top:4022/udp/233.50.201.118:5140%24%E7%BA%BF%E8%B7%AF1
