@@ -1,4 +1,4 @@
-hysteria2://dafdd572-01be-417a-8b0d-ca605817b615@hinet.huhu.icu:16000?sni=123.1234567890spcloud.com&insecure=1&mport=10000-20000##DE-自己德国
+hysteria2://dafdd572-01be-417a-8b0d-ca605817b615@hinet.huhu.icu:16000?sni=123.1234567890spcloud.com&insecure=1&mport=10000-20000#DE-自己德国
 hysteria2://dafdd572-01be-417a-8b0d-ca605817b615@hinet.huhu.icu:16000?sni=123.1234567890spcloud.com&insecure=1&mport=10000-20000#HK-自己香港1
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-a1.catcat321.com:20010?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#HK-自己香港2
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20044?security=tls&sni=hk.catxstar.com&allowInsecure=1&type=tcp&headerType=none#TW-自己台湾
