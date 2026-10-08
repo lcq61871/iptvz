@@ -202,9 +202,9 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 凤凰香港,https://cdn.qd.je/163189/fhhk
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
 无线新闻台,https://cdn.qd.je/163189/wxxw
-東森新聞台,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+東森新聞台,https://tv123.cc.cd/live.php?ch=1704&sid=1a4a83881dd610015e365847155da73e&exp=1791500903&sig=092594adfd0407676874840e1a6708bfca524e5db2f20491a47ff321dbaf2f72
+東森新聞台,https://tv123.cc.cd/live.php?ch=701&sid=1a4a83881dd610015e365847155da73e&exp=1791500903&sig=07960f2b62ec974b00e8ee44f47c7c8b7a1887e3771b91c0eb6d1d36dcb5a50f
+TVBS新聞,https://tv123.cc.cd/live.php?ch=1707&sid=1a4a83881dd610015e365847155da73e&exp=1791500903&sig=4441df3d4f8d2a3fd601dcad67d6b03d4186f0d7a076c86de9b15ace2fe7efa3
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 
 博斯網球,http://125.227.210.55:3060/VideoInput/play.ts
