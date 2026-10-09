@@ -167,34 +167,6 @@ CCTV17,https://cdn.qd.je/163189/cctv17
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰香港,https://cdn.qd.je/163189/fhhk
 
-咪咕央视3,#genre#
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17
-
-南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-
-
 
 🌏4K体育频道,#genre#
 
@@ -203,6 +175,7 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
 无线新闻台,https://cdn.qd.je/163189/wxxw
 
+民视新聞,http://211.72.174.95:8117/0.ts
 台北華視,http://211.72.174.95:8114/0.ts
 東森新聞台,https://tv123.cc.cd/live.php?ch=1704&sid=1a4a83881dd610015e365847155da73e&exp=1791500903&sig=092594adfd0407676874840e1a6708bfca524e5db2f20491a47ff321dbaf2f72
 東森新聞台,https://tv123.cc.cd/live.php?ch=701&sid=1a4a83881dd610015e365847155da73e&exp=1791500903&sig=07960f2b62ec974b00e8ee44f47c7c8b7a1887e3771b91c0eb6d1d36dcb5a50f
