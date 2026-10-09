@@ -314,6 +314,48 @@ Peacock 07 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117482
 Peacock 08 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117483
 Peacock 09 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117484
 Peacock 10 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117485
+CCTV-1 综合,http://192.168.31.4:8767/cctv1.m3u8
+CCTV-2 财经,http://192.168.31.4:8767/cctv2.m3u8
+CCTV-3 综艺,http://192.168.31.4:8767/cctv3.m3u8
+CCTV-4 中文国际,http://192.168.31.4:8767/cctv4.m3u8
+CCTV-5 体育,http://192.168.31.4:8767/cctv5.m3u8
+CCTV-5+ 体育赛事,http://192.168.31.4:8767/cctv5p.m3u8
+CCTV-6 电影,http://192.168.31.4:8767/cctv6.m3u8
+CCTV-7 国防军事,http://192.168.31.4:8767/cctv7.m3u8
+CCTV-8 电视剧,http://192.168.31.4:8767/cctv8.m3u8
+CCTV-9 纪录,http://192.168.31.4:8767/cctv9.m3u8
+CCTV-10 科教,http://192.168.31.4:8767/cctv10.m3u8
+CCTV-11 戏曲,http://192.168.31.4:8767/cctv11.m3u8
+CCTV-12 社会与法,http://192.168.31.4:8767/cctv12.m3u8
+CCTV-13 新闻,http://192.168.31.4:8767/cctv13.m3u8
+CCTV-14 少儿,http://192.168.31.4:8767/cctv14.m3u8
+CCTV-15 音乐,http://192.168.31.4:8767/cctv15.m3u8
+CCTV-16 奥林匹克,http://192.168.31.4:8767/cctv16.m3u8
+CCTV-16 4K,http://192.168.31.4:8767/cctv164k.m3u8
+CCTV-17 农业农村,http://192.168.31.4:8767/cctv17.m3u8
+CCTV-4K 超高清,http://192.168.31.4:8767/cctv4k.m3u8
+CCTV-8K 超高清,http://192.168.31.4:8767/cctv8k.m3u8
+CGTN 纪录,http://192.168.31.4:8767/cgtndoc.m3u8
+CCTV 风云剧场,http://192.168.31.4:8767/cctvfyjc.m3u8
+CCTV 第一剧场,http://192.168.31.4:8767/cctvdyjc.m3u8
+CCTV 怀旧剧场,http://192.168.31.4:8767/cctvhjjc.m3u8
+
+北京卫视,http://192.168.31.4:8767/bjws.m3u8
+江苏卫视,http://192.168.31.4:8767/jsws.m3u8
+东方卫视,http://192.168.31.4:8767/dfws.m3u8
+浙江卫视,http://192.168.31.4:8767/zjws.m3u8
+湖南卫视,http://192.168.31.4:8767/hnws.m3u8
+广东卫视,http://192.168.31.4:8767/gdws.m3u8
+广西卫视,http://192.168.31.4:8767/gxws.m3u8
+黑龙江卫视,http://192.168.31.4:8767/hljws.m3u8
+重庆卫视,http://192.168.31.4:8767/cqws.m3u8
+深圳卫视,http://192.168.31.4:8767/szws.m3u8
+辽宁卫视,http://192.168.31.4:8767/lnws.m3u8
+吉林卫视,http://192.168.31.4:8767/jlws.m3u8
+
+
+
+
 
 北央视,#genre#
 CCTV-1综合,http://27.18.83.8:9100/rtp/239.254.96.96:8550
