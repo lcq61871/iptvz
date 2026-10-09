@@ -182,8 +182,6 @@ TVBS新聞,https://tv123.cc.cd/live.php?ch=1707&sid=1a4a83881dd610015e365847155d
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 
 博斯網球,http://125.227.210.55:3060/VideoInput/play.ts
-博斯網球,http://iptv.852851.xyz/l/3cHdMEMj_P0oAWb057n0shHnyXJfN4Ffi_Anm9aB5147s2zZnEZp4dJvSW5EJ4Wi/index.m3u8
-博斯魅力,http://iptv.852851.xyz/l/elhn9KFuxdDCD4OMWk_3Jg9u8YLT1fuxjpaJoIJdH1kI1II-bPXG4zaZwd0-A6qO/index.m3u8
 
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
 NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
