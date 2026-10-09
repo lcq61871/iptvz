@@ -175,14 +175,12 @@ CCTV17,https://cdn.qd.je/163189/cctv17
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
 无线新闻台,https://cdn.qd.je/163189/wxxw
 
-民视新聞,http://211.72.174.95:8117/0.ts
 台北華視,http://211.72.174.95:8114/0.ts
-
+民视新聞,http://211.72.174.95:8117/0.ts
 TVBS新聞,https://tv123.cc.cd/live.php?ch=1707&sid=1a4a83881dd610015e365847155da73e&exp=1791500903&sig=4441df3d4f8d2a3fd601dcad67d6b03d4186f0d7a076c86de9b15ace2fe7efa3
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 
 博斯網球,http://125.227.210.55:3060/VideoInput/play.ts
-博斯網球,http://iptv.852851.xyz/l/3cHdMEMj_P0oAWb057n0shHnyXJfN4Ffi_Anm9aB5147s2zZnEZp4dJvSW5EJ4Wi/index.m3u8
 
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
 NBC News,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
@@ -325,10 +323,6 @@ CCTV 怀旧剧场,http://192.168.31.4:8767/cctvhjjc.m3u8
 深圳卫视,http://192.168.31.4:8767/szws.m3u8
 辽宁卫视,http://192.168.31.4:8767/lnws.m3u8
 吉林卫视,http://192.168.31.4:8767/jlws.m3u8
-
-
-
-
 
 北央视,#genre#
 CCTV-1综合,http://27.18.83.8:9100/rtp/239.254.96.96:8550
