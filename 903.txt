@@ -21,6 +21,8 @@ Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
 
 
 咪咕央视1,#genre#
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 
 CCTV-1 综合,http://47.100.209.208:8767/cctv1.m3u8
 CCTV-2 财经,http://47.100.209.208:8767/cctv2.m3u8
@@ -91,6 +93,8 @@ CCTV-高尔夫网球D,http://104.152.209.49:8181/720p/gefwq.m3u8
 
 
 咪咕央视2,#genre#
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 
 CCTV1,https://cdn.qd.je/163189/cctv1
 CCTV2,https://cdn.qd.je/163189/cctv2
