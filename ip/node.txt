@@ -1,6 +1,6 @@
+
+
 hysteria2://nCKwZIFgBH@gary02.1688848.xyz:22008?sni=www.bing.com&insecure=1#US-自己美国留学
-
-
 
 tuic://614DE7EE‑2DE3‑484D‑2FE5‑72400DA831D4:nCKwZIFgBH@gary02.1688848.xyz:41300?alpn=h3,h2,http/1.1&congestion_control=bbr&allow_insecure=1&sni=www.bing.com#如回溯严重请换这个‑tuic‑41300%2095.37EB📊%2015786Days⏳
 
