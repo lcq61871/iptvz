@@ -1,3 +1,6 @@
+tuic://614DE7EE‑2DE3‑484D‑2FE5‑72400DA831D4:nCKwZIFgBH@gary02.1688848.xyz:41300?alpn=h3,h2,http/1.1&congestion_control=bbr&allow_insecure=1&sni=www.bing.com#如回溯严重请换这个‑tuic‑41300%2095.37EB📊%2015786Days⏳
+
+
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20134?peer=hk.catxstar.com&sni=hk.catxstar.com&security=tls&allowInsecure=0#DE-自己德国
 trojan://78336a2f-c533-4345-9791-445ec02194f4@Sclass-A1.catcat321.com:20092?peer=hk.catxstar.com&sni=hk.catxstar.com#HK-自己香港1
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-a1.catcat321.com:20010?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#HK-自己香港2
