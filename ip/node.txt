@@ -1,5 +1,5 @@
 ss://YWVzLTI1Ni1nY206Y2RkMDZlYjUtMjM2YS0zMjhjLWEwNmItOTJhNTJmYWFjOGJm@5.g.0.6.8.g.3.3.b.hk03-ae5.entry.v51124-1.qpon:760#DE-自己德国
-trojan://78336a2f-c533-4345-9791-445ec02194f4@Sclass-A1.catcat321.com:20092?peer=hk.catxstar.com&sni=hk.catxstar.com#HK-自己香港1
+ss://YWVzLTI1Ni1nY206Y2RkMDZlYjUtMjM2YS0zMjhjLWEwNmItOTJhNTJmYWFjOGJm@y.d.0.6.t.s.h.3.b.hk05-ae5.entry.v51124-1.qpon:1812#HK-自己香港1
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-a1.catcat321.com:20010?security=tls&sni=hk.catxstar.com&type=tcp&headerType=none#HK-自己香港2
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20044?security=tls&sni=hk.catxstar.com&allowInsecure=1&type=tcp&headerType=none#TW-自己台湾
 hysteria2://nCKwZIFgBH@gary02.1688848.xyz:22008?sni=www.bing.com&insecure=1#US-自己美国
