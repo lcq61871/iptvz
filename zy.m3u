@@ -1,8 +1,7 @@
-
-#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz,https://github.com/garyshare/epg_merge_filter/releases/download/latest/merged_epg.xml.gz,https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-
+#EXT-X-SUB-URL https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.m3u
 
 
 
