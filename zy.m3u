@@ -2,9 +2,9 @@
 #EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://cdn.qd.je/live.m3u
 
-#EXTINF:-1 tvg-name="翡翠台" group-
+
+
 
 #EXTINF:-1 group-title="亚运会-中网",南央视CCTV-5体育
 http://171.8.84.49:8800/rtp/239.16.20.53:10530
