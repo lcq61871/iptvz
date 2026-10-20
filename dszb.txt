@@ -1,21 +1,3 @@
-宁波网球赛,#genre#
-南央视CCTV-5体育,http://171.8.84.49:8800/rtp/239.16.20.53:10530
-南央视CCTV-5+体育赛事,http://171.8.84.49:8800/rtp/239.16.20.5:10050
-
-央视 CCTV-5体育,http://1.192.242.239:8188/rtp/239.16.20.53:10530
-央视 CCTV-5+体育赛事,http://1.192.242.239:8188/rtp/239.16.20.5:10050
-
-2线路 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
-2线路 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
-
-高清 CCTV5,http://47.100.209.208:8767/cctv5.m3u8
-高清 CCTV5+,http://47.100.209.208:8767/cctv5p.m3u8
-
-
-5线路 CCTV-5,http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
-5线路 CCTV5+,http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
-4线路 CCTV-5,http://m.061899.xyz/mg/cctv5
-4线路 CCTV5+,http://m.061899.xyz/mg/cctv5p
 
 Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
 Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
