@@ -1,35 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="南央视CCTV-5体育" tvg-name="南央视CCTV-5体育" tvg-logo="" group-title="宁波网球赛,#genre#",南央视CCTV-5体育
+#EXTINF:-1 tvg-id="南央视CCTV-5体育" tvg-name="南央视CCTV-5体育" tvg-logo="" group-title="宁波网球赛",南央视CCTV-5体育
 http://171.8.84.49:8800/rtp/239.16.20.53:10530
-#EXTINF:-1 tvg-id="南央视CCTV-5+体育赛事" tvg-name="南央视CCTV-5+体育赛事" tvg-logo="" group-title="宁波网球赛,#genre#",南央视CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="南央视CCTV-5+体育赛事" tvg-name="南央视CCTV-5+体育赛事" tvg-logo="" group-title="宁波网球赛",南央视CCTV-5+体育赛事
 http://171.8.84.49:8800/rtp/239.16.20.5:10050
-#EXTINF:-1 tvg-id="央视 CCTV-5体育" tvg-name="央视 CCTV-5体育" tvg-logo="" group-title="宁波网球赛,#genre#",央视 CCTV-5体育
-http://1.192.242.239:8188/rtp/239.16.20.53:10530
-#EXTINF:-1 tvg-id="央视 CCTV-5+体育赛事" tvg-name="央视 CCTV-5+体育赛事" tvg-logo="" group-title="宁波网球赛,#genre#",央视 CCTV-5+体育赛事
-http://1.192.242.239:8188/rtp/239.16.20.5:10050
-#EXTINF:-1 tvg-id="2线路 CCTV5" tvg-name="2线路 CCTV5" tvg-logo="" group-title="宁波网球赛,#genre#",2线路 CCTV5
+#EXTINF:-1 tvg-id="2线路 CCTV5" tvg-name="2线路 CCTV5" tvg-logo="" group-title="宁波网球赛",2线路 CCTV5
 http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="2线路 CCTV5+" tvg-name="2线路 CCTV5+" tvg-logo="" group-title="宁波网球赛,#genre#",2线路 CCTV5+
+#EXTINF:-1 tvg-id="2线路 CCTV5+" tvg-name="2线路 CCTV5+" tvg-logo="" group-title="宁波网球赛",2线路 CCTV5+
 http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="高清 CCTV5" tvg-name="高清 CCTV5" tvg-logo="" group-title="宁波网球赛,#genre#",高清 CCTV5
-http://47.100.209.208:8767/cctv5.m3u8
-#EXTINF:-1 tvg-id="高清 CCTV5+" tvg-name="高清 CCTV5+" tvg-logo="" group-title="宁波网球赛,#genre#",高清 CCTV5+
-http://47.100.209.208:8767/cctv5p.m3u8
-#EXTINF:-1 tvg-id="5线路 CCTV-5" tvg-name="5线路 CCTV-5" tvg-logo="" group-title="宁波网球赛,#genre#",5线路 CCTV-5
+#EXTINF:-1 tvg-id="1线路 CCTV-5" tvg-name="1线路 CCTV-5" tvg-logo="" group-title="宁波网球赛",1线路 CCTV-5
 http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
-#EXTINF:-1 tvg-id="5线路 CCTV5+" tvg-name="5线路 CCTV5+" tvg-logo="" group-title="宁波网球赛,#genre#",5线路 CCTV5+
+#EXTINF:-1 tvg-id="1线路 CCTV5+" tvg-name="1线路 CCTV5+" tvg-logo="" group-title="宁波网球赛",1线路 CCTV5+
 http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
-#EXTINF:-1 tvg-id="4线路 CCTV-5" tvg-name="4线路 CCTV-5" tvg-logo="" group-title="宁波网球赛,#genre#",4线路 CCTV-5
-http://m.061899.xyz/mg/cctv5
-#EXTINF:-1 tvg-id="4线路 CCTV5+" tvg-name="4线路 CCTV5+" tvg-logo="" group-title="宁波网球赛,#genre#",4线路 CCTV5+
-http://m.061899.xyz/mg/cctv5p
-#EXTINF:-1 tvg-id="Super Tennis IT" tvg-name="Super Tennis IT" tvg-logo="" group-title="宁波网球赛,#genre#",Super Tennis IT
+#EXTINF:-1 tvg-id="Super Tennis IT" tvg-name="Super Tennis IT" tvg-logo="" group-title="宁波网球赛",Super Tennis IT
 https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="宁波网球赛,#genre#",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="宁波网球赛",Tennis Channel
 http://89.187.179.148:826/1368/gXwiagaXda/31209
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="宁波网球赛,#genre#",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="宁波网球赛",Tennis Channel 2
 http://89.187.179.148:826/1368/gXwiagaXda/119668
-#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="宁波网球赛,#genre#",Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="宁波网球赛",Sky Sports Tennis UK
 http://89.187.179.148:826/1368/gXwiagaXda/120357
 #EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="咪咕央视1",南宁新闻综合
 http://hls.nntv.cn/nnlive/XWZH_24.m3u8
@@ -448,17 +436,19 @@ http://89.187.179.148:826/1368/gXwiagaXda/117484
 #EXTINF:-1 tvg-id="Peacock 10 (Not 24/7)" tvg-name="Peacock 10 (Not 24/7)" tvg-logo="" group-title="咪咕体育",Peacock 10 (Not 24/7)
 http://89.187.179.148:826/1368/gXwiagaXda/117485
 #EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="" group-title="咪咕体育",CCTV-2 财经
-http://192.168.31.4:16677/cctv2.m3u8
+http://192.168.31.4:8767/cctv2.m3u8
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="" group-title="咪咕体育",CCTV-5 体育
-http://192.168.31.4:16677/cctv5.m3u8
+http://192.168.31.4:8767/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="" group-title="咪咕体育",CCTV-5+ 体育赛事
-http://192.168.31.4:16677/cctv5p.m3u8
+http://192.168.31.4:8767/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="咪咕体育",CCTV-13 新闻
-http://192.168.31.4:16677/cctv13.m3u8
+http://192.168.31.4:8767/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="" group-title="咪咕体育",CCTV-17 农业农村
-http://192.168.31.4:16677/cctv17.m3u8
+http://192.168.31.4:8767/cctv17.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕体育",湖南卫视
-http://192.168.31.4:16677/hnws.m3u8
+http://192.168.31.4:8767/hnws.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕体育",湖南卫视
+http://192.168.31.150:16677/hnws.m3u8
 #EXTINF:-1 tvg-id="TVB黄金华剧" tvg-name="TVB黄金华剧" tvg-logo="" group-title="咪咕体育",TVB黄金华剧
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-id="TVB翡翠马来" tvg-name="TVB翡翠马来" tvg-logo="" group-title="咪咕体育",TVB翡翠马来
