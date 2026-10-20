@@ -252,12 +252,12 @@ Peacock 07 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117482
 Peacock 08 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117483
 Peacock 09 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117484
 Peacock 10 (Not 24/7),http://89.187.179.148:826/1368/gXwiagaXda/117485
-CCTV-2 财经,http://192.168.31.4:16677/cctv2.m3u8
-CCTV-5 体育,http://192.168.31.4:16677/cctv5.m3u8
-CCTV-5+ 体育赛事,http://192.168.31.4:16677/cctv5p.m3u8
-CCTV-13 新闻,http://192.168.31.4:16677/cctv13.m3u8
-CCTV-17 农业农村,http://192.168.31.4:16677/cctv17.m3u8
-湖南卫视,http://192.168.31.4:16677/hnws.m3u8
+CCTV-2 财经,http://192.168.31.150:16677/cctv2.m3u8
+CCTV-5 体育,http://192.168.31.150:16677/cctv5.m3u8
+CCTV-5+ 体育赛事,http://192.168.31.150:16677/cctv5p.m3u8
+CCTV-13 新闻,http://192.168.31.150:16677/cctv13.m3u8
+CCTV-17 农业农村,http://192.168.31.150:16677/cctv17.m3u8
+湖南卫视,http://192.168.31.150:16677/hnws.m3u8
 TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 TVB翡翠马来,http://iptv.4666888.xyz/iptv2A.php?id=28
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
