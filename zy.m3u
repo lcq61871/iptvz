@@ -447,8 +447,6 @@ http://192.168.31.4:8767/cctv13.m3u8
 http://192.168.31.4:8767/cctv17.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕体育",湖南卫视
 http://192.168.31.4:8767/hnws.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕体育",湖南卫视
-http://192.168.31.150:16677/hnws.m3u8
 #EXTINF:-1 tvg-id="TVB黄金华剧" tvg-name="TVB黄金华剧" tvg-logo="" group-title="咪咕体育",TVB黄金华剧
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-id="TVB翡翠马来" tvg-name="TVB翡翠马来" tvg-logo="" group-title="咪咕体育",TVB翡翠马来
