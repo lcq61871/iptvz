@@ -1,27 +1,98 @@
 #EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
-#EXT-X-APTV-PREVIEW: FALSE
-#EXT-X-APTV-LATENCY: FALSE
-#EXT-X-APTV-LOGO: FALSE
-#EXTINF:-1 tvg-id="南央视CCTV-5体育" tvg-name="南央视CCTV-5体育" tvg-logo="" group-title="宁波网球赛",南央视CCTV-5体育
-http://171.8.84.49:8800/rtp/239.16.20.53:10530
-#EXTINF:-1 tvg-id="南央视CCTV-5+体育赛事" tvg-name="南央视CCTV-5+体育赛事" tvg-logo="" group-title="宁波网球赛",南央视CCTV-5+体育赛事
-http://171.8.84.49:8800/rtp/239.16.20.5:10050
-#EXTINF:-1 tvg-id="2线路 CCTV5" tvg-name="2线路 CCTV5" tvg-logo="" group-title="宁波网球赛",2线路 CCTV5
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="2线路 CCTV5+" tvg-name="2线路 CCTV5+" tvg-logo="" group-title="宁波网球赛",2线路 CCTV5+
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="1线路 CCTV-5" tvg-name="1线路 CCTV-5" tvg-logo="" group-title="宁波网球赛",1线路 CCTV-5
-http://www.li0580.top:4022/udp/233.50.201.197:5140%24%E7%BA%BF%E8%B7%AF1
-#EXTINF:-1 tvg-id="1线路 CCTV5+" tvg-name="1线路 CCTV5+" tvg-logo="" group-title="宁波网球赛",1线路 CCTV5+
-http://www.li0580.top:4022/udp/233.50.201.220:5140%24%E7%BA%BF%E8%B7%AF1
-#EXTINF:-1 tvg-id="Super Tennis IT" tvg-name="Super Tennis IT" tvg-logo="" group-title="宁波网球赛",Super Tennis IT
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="" group-title="咪咕体育",CCTV-2 财经
+http://192.168.31.4:8767/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="" group-title="咪咕体育",CCTV-5 体育
+http://192.168.31.4:8767/cctv5.m3u8
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="" group-title="咪咕体育",CCTV-5+ 体育赛事
+http://192.168.31.4:8767/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="咪咕体育",CCTV-13 新闻
+http://192.168.31.4:8767/cctv13.m3u8
+#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="" group-title="咪咕体育",CCTV-17 农业农村
+http://192.168.31.4:8767/cctv17.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕体育",湖南卫视
+http://192.168.31.4:8767/hnws.m3u8
+#EXTINF:-1 tvg-id="台北華視" tvg-name="台北華視" tvg-logo="" group-title="收集",台北華視
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 tvg-id="Super Tennis IT" tvg-name="Super Tennis IT" tvg-logo="" group-title="收集",Super Tennis IT
 https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="宁波网球赛",Tennis Channel
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="收集",Tennis Channel
 http://89.187.179.148:826/1368/gXwiagaXda/31209
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="宁波网球赛",Tennis Channel 2
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="收集",Tennis Channel 2
 http://89.187.179.148:826/1368/gXwiagaXda/119668
-#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="宁波网球赛",Sky Sports Tennis UK
+#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="收集",Sky Sports Tennis UK
 http://89.187.179.148:826/1368/gXwiagaXda/120357
+#EXTINF:-1 tvg-id="TNT Sports 1 UK" tvg-name="TNT Sports 1 UK" tvg-logo="" group-title="收集",TNT Sports 1 UK
+https://tgbot-sub.sharewithyou.dpdns.org/live/0OpPXrJ64Q26AiNKUPDY0DLcL2s0NulzMi4yRVfR7MblKrub5jP5jvFqhe4dDy736TKBgd7c9bfyMuluHnM9tvYQClS9ApyH8pokevMtwA8uTP7WqKC9MoN_AoP5xADbEQ4DtSbrBxZKIk9GAw1lfzW39cR8WUMpDkaMEIj3l4ErxldRMVQryQPRn5eRBmwvSlLuOkPxHGxY93r_cTOXwKE1Oj-yD8x9EIEfNW7GMA?u=7985545243
+#EXTINF:-1 tvg-id="Stan Sport AU Event 01" tvg-name="Stan Sport AU Event 01" tvg-logo="" group-title="收集",Stan Sport AU Event 01
+http://89.187.179.148:826/live/1368/gXwiagaXda/119634.ts
+#EXTINF:-1 tvg-id="FASHION TV HD" tvg-name="FASHION TV HD" tvg-logo="" group-title="收集",FASHION TV HD
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119469
+#EXTINF:-1 tvg-id="Playboy LA" tvg-name="Playboy LA" tvg-logo="" group-title="收集",Playboy LA
+http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6280/index.m3u8
+#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy" tvg-logo="" group-title="收集",Playboy
+http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12135/index.m3u8
+#EXTINF:-1 tvg-id="Playboy Plus" tvg-name="Playboy Plus" tvg-logo="" group-title="收集",Playboy Plus
+http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6242/index.m3u8
+#EXTINF:-1 tvg-id="驚豔台" tvg-name="驚豔台" tvg-logo="" group-title="收集",驚豔台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+#EXTINF:-1 tvg-id="潘朵啦玩美台" tvg-name="潘朵啦玩美台" tvg-logo="" group-title="收集",潘朵啦玩美台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+#EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" tvg-logo="" group-title="收集",松視1台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+#EXTINF:-1 tvg-id="松視2台" tvg-name="松視2台" tvg-logo="" group-title="收集",松視2台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+#EXTINF:-1 tvg-id="松視3台" tvg-name="松視3台" tvg-logo="" group-title="收集",松視3台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="收集",香蕉台
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+#EXTINF:-1 tvg-id="少妇白洁1(XK8039)-童汐" tvg-name="少妇白洁1(XK8039)-童汐" tvg-logo="" group-title="收集",少妇白洁1(XK8039)-童汐
+https://t33.cdn2020.com/video/m3u8/2021/06/26/211a053a/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁2(XK8044)-童汐" tvg-name="少妇白洁2(XK8044)-童汐" tvg-logo="" group-title="收集",少妇白洁2(XK8044)-童汐
+https://t33.cdn2020.com/video/m3u8/2021/07/10/66f7c99f/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁3(XK8048)-童汐" tvg-name="少妇白洁3(XK8048)-童汐" tvg-logo="" group-title="收集",少妇白洁3(XK8048)-童汐
+https://t33.cdn2020.com/video/m3u8/2021/07/23/3203cba6/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁4(XK8059)-童汐" tvg-name="少妇白洁4(XK8059)-童汐" tvg-logo="" group-title="收集",少妇白洁4(XK8059)-童汐
+https://t33.cdn2020.com/video/m3u8/2021/08/21/85331d8e/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁5(XK8071)-童汐" tvg-name="少妇白洁5(XK8071)-童汐" tvg-logo="" group-title="收集",少妇白洁5(XK8071)-童汐
+https://t33.cdn2020.com/video/m3u8/2021/10/02/09d29d49/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁MDSR-0005-1失身的新婚少妇" tvg-name="少妇白洁MDSR-0005-1失身的新婚少妇" tvg-logo="" group-title="收集",少妇白洁MDSR-0005-1失身的新婚少妇
+https://t33.cdn2020.com/video/m3u8/2023/10/15/30848161/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁第二章MDSR-0005-2小晶的信" tvg-name="少妇白洁第二章MDSR-0005-2小晶的信" tvg-logo="" group-title="收集",少妇白洁第二章MDSR-0005-2小晶的信
+https://t33.cdn2020.com/video/m3u8/2023/10/28/a03b295d/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁第三章MDSR-0005-3风情万种的少妇" tvg-name="少妇白洁第三章MDSR-0005-3风情万种的少妇" tvg-logo="" group-title="收集",少妇白洁第三章MDSR-0005-3风情万种的少妇
+https://t33.cdn2020.com/video/m3u8/2024/09/28/11472e69/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁MDSR-0005-4一路风流的新婚少妇" tvg-name="少妇白洁MDSR-0005-4一路风流的新婚少妇" tvg-logo="" group-title="收集",少妇白洁MDSR-0005-4一路风流的新婚少妇
+https://t33.cdn2020.com/video/m3u8/2024/10/04/485a4db7/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁第五章MDSR-0005-5多情不敢难自抑-艾熙 欣晴" tvg-name="少妇白洁第五章MDSR-0005-5多情不敢难自抑-艾熙 欣晴" tvg-logo="" group-title="收集",少妇白洁第五章MDSR-0005-5多情不敢难自抑-艾熙 欣晴
+https://t33.cdn2020.com/video/m3u8/2025/10/02/8e83b8e4/index.m3u8
+#EXTINF:-1 tvg-id="少妇白洁第六章MDSR-0005-6绿帽风云谁是谁的妻-艾熙 苏畅 艾悠" tvg-name="少妇白洁第六章MDSR-0005-6绿帽风云谁是谁的妻-艾熙 苏畅 艾悠" tvg-logo="" group-title="收集",少妇白洁第六章MDSR-0005-6绿帽风云谁是谁的妻-艾熙 苏畅 艾悠
+https://t33.cdn2020.com/video/m3u8/2025/10/18/64827eee/index.m3u8
+#EXTINF:-1 tvg-id="南央视CCTV-5体育" tvg-name="南央视CCTV-5体育" tvg-logo="" group-title="🏟️体育赛事",南央视CCTV-5体育
+http://171.8.84.49:8800/rtp/239.16.20.53:10530
+#EXTINF:-1 tvg-id="南央视CCTV-5+体育赛事" tvg-name="南央视CCTV-5+体育赛事" tvg-logo="" group-title="🏟️体育赛事",南央视CCTV-5+体育赛事
+http://171.8.84.49:8800/rtp/239.16.20.5:10050
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="🏟️体育赛事",CCTV5
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="🏟️体育赛事",CCTV5+
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="" group-title="🏟️体育赛事",CCTV-5体育
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 tvg-id="CCTV5+体育" tvg-name="CCTV5+体育" tvg-logo="" group-title="🏟️体育赛事",CCTV5+体育
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 tvg-id="Super Tennis IT" tvg-name="Super Tennis IT" tvg-logo="" group-title="🏟️体育赛事",Super Tennis IT
+https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="🏟️体育赛事",Tennis Channel
+http://89.187.179.148:826/1368/gXwiagaXda/31209
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="🏟️体育赛事",Tennis Channel 2
+http://89.187.179.148:826/1368/gXwiagaXda/119668
+#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="🏟️体育赛事",Sky Sports Tennis UK
+http://89.187.179.148:826/1368/gXwiagaXda/120357
+#EXTINF:-1 tvg-id="TNT Sports 1 UK" tvg-name="TNT Sports 1 UK" tvg-logo="" group-title="🏟️体育赛事",TNT Sports 1 UK
+http://live.iptvtotaal.com:8000/039297388/686957770/203479
+#EXTINF:-1 tvg-id="TNT Sports 1 UK" tvg-name="TNT Sports 1 UK" tvg-logo="" group-title="🏟️体育赛事",TNT Sports 1 UK
+https://tgbot-sub.sharewithyou.dpdns.org/live/0OpPXrJ64Q26AiNKUPDY0DLcL2s0NulzMi4yRVfR7MblKrub5jP5jvFqhe4dDy736TKBgd7c9bfyMuluHnM9tvYQClS9ApyH8pokevMtwA8uTP7WqKC9MoN_AoP5xADbEQ4DtSbrBxZKIk9GAw1lfzW39cR8WUMpDkaMEIj3l4ErxldRMVQryQPRn5eRBmwvSlLuOkPxHGxY93r_cTOXwKE1Oj-yD8x9EIEfNW7GMA?u=7985545243
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="🏟️体育赛事",NBA TV
+http://89.187.179.148:826/1368/gXwiagaXda/29485
 #EXTINF:-1 tvg-id="南宁新闻综合" tvg-name="南宁新闻综合" tvg-logo="" group-title="咪咕央视1",南宁新闻综合
 http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 tvg-id="南宁都市生活" tvg-name="南宁都市生活" tvg-logo="" group-title="咪咕央视1",南宁都市生活
@@ -232,45 +303,49 @@ http://go.bkpcp.top/mg/cctv15
 http://go.bkpcp.top/mg/cctv16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="咪咕央视2",CCTV17
 http://go.bkpcp.top/mg/cctv17
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="🌏4K体育频道",凤凰资讯
-https://cdn.qd.je/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="🌏4K体育频道",凤凰香港
-https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 tvg-id="翡翠台(字幕)" tvg-name="翡翠台(字幕)" tvg-logo="" group-title="🌏4K体育频道",翡翠台(字幕)
+#EXTINF:-1 tvg-id="翡翠台(字幕)" tvg-name="翡翠台(字幕)" tvg-logo="" group-title="🌏港澳台美",翡翠台(字幕)
 https://cdn.qd.je/163189/fct2
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="🌏4K体育频道",无线新闻台
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="🌏港澳台美",凤凰资讯
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="🌏港澳台美",凤凰香港
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="🌏港澳台美",无线新闻台
 https://cdn.qd.je/163189/wxxw
-#EXTINF:-1 tvg-id="台北華視" tvg-name="台北華視" tvg-logo="" group-title="🌏4K体育频道",台北華視
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="" group-title="🌏港澳台美",澳视澳门
+https://cdn.qd.je/163189/asam
+#EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="" group-title="🌏港澳台美",千禧经典台
+https://cdn.qd.je/163189/tvbc
+#EXTINF:-1 tvg-id="台北華視" tvg-name="台北華視" tvg-logo="" group-title="🌏港澳台美",台北華視
 http://211.72.174.95:8114/0.ts
-#EXTINF:-1 tvg-id="民视新聞" tvg-name="民视新聞" tvg-logo="" group-title="🌏4K体育频道",民视新聞
+#EXTINF:-1 tvg-id="民视新聞" tvg-name="民视新聞" tvg-logo="" group-title="🌏港澳台美",民视新聞
 http://211.72.174.95:8117/0.ts
-#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="" group-title="🌏4K体育频道",博斯網球
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="" group-title="🌏港澳台美",TVBS新闻
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="" group-title="🌏港澳台美",博斯網球
 http://125.227.210.55:3060/VideoInput/play.ts
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="🌏4K体育频道",CNN
-https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
-#EXTINF:-1 tvg-id="NBC News" tvg-name="NBC News" tvg-logo="" group-title="🌏4K体育频道",NBC News
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
-#EXTINF:-1 tvg-id="Super Tennis IT" tvg-name="Super Tennis IT" tvg-logo="" group-title="🌏4K体育频道",Super Tennis IT
-https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="🌏4K体育频道",Tennis Channel
-http://89.187.179.148:826/1368/gXwiagaXda/31209
-#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="🌏4K体育频道",Tennis Channel 2
-http://89.187.179.148:826/1368/gXwiagaXda/119668
-#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="🌏4K体育频道",Sky Sports Tennis UK
-http://89.187.179.148:826/1368/gXwiagaXda/120357
-#EXTINF:-1 tvg-id="FashionTV FR" tvg-name="FashionTV FR" tvg-logo="" group-title="🌏4K体育频道",FashionTV FR
+#EXTINF:-1 tvg-id="FashionTV FR" tvg-name="FashionTV FR" tvg-logo="" group-title="🌏港澳台美",FashionTV FR
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="🌏4K体育频道",NBA TV
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="" group-title="🌏港澳台美",CNN
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
+#EXTINF:-1 tvg-id="NBC News" tvg-name="NBC News" tvg-logo="" group-title="🌏港澳台美",NBC News
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/3e088b25-3e79-4f34-bbdf-afbcd40497f3/4.m3u8
+#EXTINF:-1 tvg-id="Super Tennis IT" tvg-name="Super Tennis IT" tvg-logo="" group-title="🌏港澳台美",Super Tennis IT
+https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="🌏港澳台美",Tennis Channel
+http://89.187.179.148:826/1368/gXwiagaXda/31209
+#EXTINF:-1 tvg-id="Tennis Channel 2" tvg-name="Tennis Channel 2" tvg-logo="" group-title="🌏港澳台美",Tennis Channel 2
+http://89.187.179.148:826/1368/gXwiagaXda/119668
+#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="🌏港澳台美",Sky Sports Tennis UK
+http://89.187.179.148:826/1368/gXwiagaXda/120357
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="🌏港澳台美",NBA TV
 http://89.187.179.148:826/1368/gXwiagaXda/29485
-#EXTINF:-1 tvg-id="Sky Sport F1 uk" tvg-name="Sky Sport F1 uk" tvg-logo="" group-title="🌏4K体育频道",Sky Sport F1 uk
+#EXTINF:-1 tvg-id="Sky Sport F1 uk" tvg-name="Sky Sport F1 uk" tvg-logo="" group-title="🌏港澳台美",Sky Sport F1 uk
 http://89.187.179.148:826/1368/gXwiagaXda/120348
-#EXTINF:-1 tvg-id="Sky Sport F1 uk" tvg-name="Sky Sport F1 uk" tvg-logo="" group-title="🌏4K体育频道",Sky Sport F1 uk
-http://innovationtv.eu/8sxjqr05j3/8nt9rilu1f/1917711
-#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="🌏4K体育频道",加拿大TSN
+#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="🌏港澳台美",加拿大TSN
 http://89.187.179.148:826/1368/gXwiagaXda/119333
-#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="🌏4K体育频道",加拿大TSN
+#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="🌏港澳台美",加拿大TSN
 https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="🌏4K体育频道",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="🌏港澳台美",ESPN
 http://89.187.179.148:826/1368/gXwiagaXda/119665
 #EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="" group-title="咪咕体育",咪咕视频1
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&%248M%20FHD
@@ -493,51 +568,65 @@ http://iptv.4666888.xyz/iptv2A.php?id=51
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="" group-title="咪咕体育",中天新闻台
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="北央视",CCTV-1综合
-http://115.171.216.23:4000/rtp/225.1.8.1:8008
+http://124.112.188.29:4022/rtp/238.1.78.166:7200
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="" group-title="北央视",CCTV-2财经
-http://115.171.216.23:4000/rtp/225.1.8.2:8084
+http://124.112.188.29:4022/rtp/238.1.78.235:7752
 #EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" tvg-logo="" group-title="北央视",CCTV-3综艺
-http://115.171.216.23:4000/rtp/225.1.8.88:8000
+http://124.112.188.29:4022/rtp/238.1.78.170:7232
 #EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" tvg-logo="" group-title="北央视",CCTV-4中文国际
-http://115.171.216.23:4000/rtp/225.1.8.4:8092
+http://124.112.188.29:4022/rtp/238.1.78.236:7760
 #EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="" group-title="北央视",CCTV-5体育
-http://115.171.216.23:4000/rtp/225.1.8.89:8000
-#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" tvg-logo="" group-title="北央视",CCTV-5+体育赛事
-http://115.171.216.23:4000/rtp/225.1.8.20:8004
+http://124.112.188.29:4022/rtp/238.1.78.171:7240
 #EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" tvg-logo="" group-title="北央视",CCTV-6电影
-http://115.171.216.23:4000/rtp/225.1.8.84:8000
+http://124.112.188.29:4022/rtp/238.1.78.172:7248
 #EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" tvg-logo="" group-title="北央视",CCTV-7国防军事
-http://115.171.216.23:4000/rtp/225.1.8.7:8104
+http://124.112.188.29:4022/rtp/238.1.78.239:7784
 #EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="" group-title="北央视",CCTV-8电视剧
-http://115.171.216.23:4000/rtp/225.1.8.85:8000
+http://124.112.188.29:4022/rtp/238.1.78.173:7256
 #EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" tvg-logo="" group-title="北央视",CCTV-9纪录
-http://115.171.216.23:4000/rtp/225.1.8.9:8112
+http://124.112.188.29:4022/rtp/238.1.78.240:7792
 #EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" tvg-logo="" group-title="北央视",CCTV-10科教
-http://115.171.216.23:4000/rtp/225.1.8.10:8116
+http://124.112.188.29:4022/rtp/238.1.78.241:7800
 #EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="" group-title="北央视",CCTV-11戏曲
-http://115.171.216.23:4000/rtp/225.1.8.73:8120
+http://124.112.188.29:4022/rtp/238.1.78.206:7502
 #EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="" group-title="北央视",CCTV-12社会与法
-http://115.171.216.23:4000/rtp/225.1.8.12:8124
+http://124.112.188.29:4022/rtp/238.1.78.242:7808
 #EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" tvg-logo="" group-title="北央视",CCTV-13新闻
-http://115.171.216.23:4000/rtp/225.1.8.168:8130
+http://124.112.188.29:4022/rtp/238.1.79.35:4392
 #EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" tvg-logo="" group-title="北央视",CCTV-14少儿
-http://115.171.216.23:4000/rtp/225.1.8.14:8132
+http://124.112.188.29:4022/rtp/238.1.78.243:7816
 #EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" tvg-logo="" group-title="北央视",CCTV-15音乐
-http://115.171.216.23:4000/rtp/225.1.8.74:8136
+http://124.112.188.29:4022/rtp/238.1.78.222:7648
 #EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="" group-title="北央视",CCTV-17农业农村
-http://115.171.216.23:4000/rtp/225.1.8.17:8144
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="北央视",CCTV-1综合
-http://115.171.216.23:4000/rtp/225.1.8.33:8002
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="北央视",CCTV-1综合
-http://115.171.216.23:4000/rtp/225.1.8.53:8060
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="北央视",CCTV-1综合
-http://115.171.216.23:4000/rtp/225.1.8.81:8176
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="北央视",CCTV-1综合
-http://115.171.216.23:4000/rtp/225.1.8.126:8002
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="北央视",CCTV-1综合
-http://115.171.216.23:4000/rtp/225.1.8.194:4120
-#EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="北央视",CCTV-1综合
-http://115.171.216.23:4000/rtp/225.1.8.210:8068
+http://124.112.188.29:4022/rtp/238.1.78.178:7296
+#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" tvg-logo="" group-title="北央视",CCTV-5+体育赛事
+http://124.112.188.29:4022/rtp/238.1.78.237:7768
+#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="" group-title="北央视",CCTV4K超高清
+http://124.112.188.29:4022/rtp/238.1.78.137:6968
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="" group-title="北央视",CCTV怀旧剧场
+http://124.112.188.29:4022/rtp/238.1.79.61:4624
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="" group-title="北央视",CCTV风云剧场
+http://124.112.188.29:4022/rtp/238.1.79.62:4632
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="" group-title="北央视",CCTV第一剧场
+http://124.112.188.29:4022/rtp/238.1.79.63:4640
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="" group-title="北央视",CCTV电视指南
+http://124.112.188.29:4022/rtp/238.1.79.53:4560
+#EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="" group-title="北央视",CCTV央视文化精品
+http://124.112.188.29:4022/rtp/238.1.79.54:4568
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="" group-title="北央视",CCTV女性时尚
+http://124.112.188.29:4022/rtp/238.1.79.55:4576
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="" group-title="北央视",CCTV兵器科技
+http://124.112.188.29:4022/rtp/238.1.79.56:4584
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" tvg-logo="" group-title="北央视",CCTV风云足球
+http://124.112.188.29:4022/rtp/238.1.79.57:4592
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="" group-title="北央视",CCTV世界地理
+http://124.112.188.29:4022/rtp/238.1.79.60:4616
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" tvg-logo="" group-title="北央视",CCTV风云音乐
+http://124.112.188.29:4022/rtp/238.1.79.64:4648
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" tvg-logo="" group-title="北央视",CCTV高尔夫网球
+http://124.112.188.29:4022/rtp/238.1.79.58:4600
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" tvg-logo="" group-title="北央视",CCTV央视台球
+http://124.112.188.29:4022/rtp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="南央视",CCTV-1综合
 http://171.8.84.49:8800/rtp/239.16.20.1:10010
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="" group-title="南央视",CCTV-2财经
@@ -573,71 +662,39 @@ http://171.8.84.49:8800/rtp/239.16.20.15:10150
 #EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="" group-title="南央视",CCTV-17农业农村
 http://171.8.84.49:8800/rtp/239.16.20.7:10070
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="东央视",CCTV-1综合
-http://183.236.43.98:4013/udp/239.77.1.144:5146
+http://116.9.3.106:4000/udp/239.81.0.102:4056
 #EXTINF:-1 tvg-id="CCTV-2财经" tvg-name="CCTV-2财经" tvg-logo="" group-title="东央视",CCTV-2财经
-http://183.236.43.98:4013/udp/239.77.1.158:5146
+http://116.9.3.106:4000/udp/239.81.0.115:4056
 #EXTINF:-1 tvg-id="CCTV-3综艺" tvg-name="CCTV-3综艺" tvg-logo="" group-title="东央视",CCTV-3综艺
-http://183.236.43.98:4013/udp/239.77.0.169:5146
+http://116.9.3.106:4000/udp/239.81.0.231:4056
 #EXTINF:-1 tvg-id="CCTV-4中文国际" tvg-name="CCTV-4中文国际" tvg-logo="" group-title="东央视",CCTV-4中文国际
-http://183.236.43.98:4013/udp/239.77.1.163:5146
+http://116.9.3.106:4000/udp/239.81.0.96:4056
 #EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV-5体育" tvg-logo="" group-title="东央视",CCTV-5体育
-http://183.236.43.98:4013/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" tvg-logo="" group-title="东央视",CCTV-5+体育赛事
-http://183.236.43.98:4013/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" tvg-logo="" group-title="东央视",CCTV-5+体育赛事
-http://183.236.43.98:4013/udp/239.77.1.31:5146
+http://116.9.3.106:4000/udp/239.81.0.232:4056
 #EXTINF:-1 tvg-id="CCTV-6电影" tvg-name="CCTV-6电影" tvg-logo="" group-title="东央视",CCTV-6电影
-http://183.236.43.98:4013/udp/239.77.0.171:5146
+http://116.9.3.106:4000/udp/239.81.0.233:4056
 #EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-name="CCTV-7国防军事" tvg-logo="" group-title="东央视",CCTV-7国防军事
-http://183.236.43.98:4013/udp/239.77.0.138:5146
+http://116.9.3.106:4000/udp/239.81.0.116:4056
 #EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-name="CCTV-8电视剧" tvg-logo="" group-title="东央视",CCTV-8电视剧
-http://183.236.43.98:4013/udp/239.77.0.172:5146
+http://116.9.3.106:4000/udp/239.81.0.234:4056
 #EXTINF:-1 tvg-id="CCTV-9纪录" tvg-name="CCTV-9纪录" tvg-logo="" group-title="东央视",CCTV-9纪录
-http://183.236.43.98:4013/udp/239.77.0.135:5146
+http://116.9.3.106:4000/udp/239.81.0.117:4056
 #EXTINF:-1 tvg-id="CCTV-10科教" tvg-name="CCTV-10科教" tvg-logo="" group-title="东央视",CCTV-10科教
-http://183.236.43.98:4013/udp/239.77.0.134:5146
+http://116.9.3.106:4000/udp/239.81.0.118:4056
 #EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-name="CCTV-11戏曲" tvg-logo="" group-title="东央视",CCTV-11戏曲
-http://183.236.43.98:4013/udp/239.77.1.238:5146
+http://116.9.3.106:4000/udp/239.81.0.229:4056
 #EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-name="CCTV-12社会与法" tvg-logo="" group-title="东央视",CCTV-12社会与法
-http://183.236.43.98:4013/udp/239.77.0.136:5146
+http://116.9.3.106:4000/udp/239.81.0.119:4056
 #EXTINF:-1 tvg-id="CCTV-13新闻" tvg-name="CCTV-13新闻" tvg-logo="" group-title="东央视",CCTV-13新闻
-http://183.236.43.98:4013/udp/239.253.43.196:5146
+http://116.9.3.106:4000/udp/239.81.0.206:4056
 #EXTINF:-1 tvg-id="CCTV-14少儿" tvg-name="CCTV-14少儿" tvg-logo="" group-title="东央视",CCTV-14少儿
-http://183.236.43.98:4013/udp/239.77.1.161:5146
+http://116.9.3.106:4000/udp/239.81.0.120:4056
 #EXTINF:-1 tvg-id="CCTV-15音乐" tvg-name="CCTV-15音乐" tvg-logo="" group-title="东央视",CCTV-15音乐
-http://183.236.43.98:4013/udp/239.77.1.239:5146
-#EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-name="CCTV-16奥林匹克" tvg-logo="" group-title="东央视",CCTV-16奥林匹克
-http://183.236.43.98:4013/udp/239.77.0.165:5146
+http://116.9.3.106:4000/udp/239.81.0.230:4056
 #EXTINF:-1 tvg-id="CCTV-17农业农村" tvg-name="CCTV-17农业农村" tvg-logo="" group-title="东央视",CCTV-17农业农村
-http://183.236.43.98:4013/udp/239.77.1.121:5146
-#EXTINF:-1 tvg-id="CCTV-4K超高清" tvg-name="CCTV-4K超高清" tvg-logo="" group-title="东央视",CCTV-4K超高清
-http://183.236.43.98:4013/udp/239.77.0.194:5146
-#EXTINF:-1 tvg-id="CCTV-4K超高清" tvg-name="CCTV-4K超高清" tvg-logo="" group-title="东央视",CCTV-4K超高清
-http://183.236.43.98:4013/udp/239.77.0.174:5146
-#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-name="CCTV-兵器科技" tvg-logo="" group-title="东央视",CCTV-兵器科技
-http://183.236.43.98:4013/udp/239.253.43.9:5146
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-name="CCTV-第一剧场" tvg-logo="" group-title="东央视",CCTV-第一剧场
-http://183.236.43.98:4013/udp/239.253.43.15:5146
-#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-name="CCTV-电视指南" tvg-logo="" group-title="东央视",CCTV-电视指南
-http://183.236.43.98:4013/udp/239.253.43.10:5146
-#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-name="CCTV-风云剧场" tvg-logo="" group-title="东央视",CCTV-风云剧场
-http://183.236.43.98:4013/udp/239.253.43.16:5146
-#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-name="CCTV-风云音乐" tvg-logo="" group-title="东央视",CCTV-风云音乐
-http://183.236.43.98:4013/udp/239.253.43.6:5146
-#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-name="CCTV-风云足球" tvg-logo="" group-title="东央视",CCTV-风云足球
-http://183.236.43.98:4013/udp/239.253.43.14:5146
-#EXTINF:-1 tvg-id="CCTV-高尔夫·网球" tvg-name="CCTV-高尔夫·网球" tvg-logo="" group-title="东央视",CCTV-高尔夫·网球
-http://183.236.43.98:4013/udp/239.253.43.12:5146
-#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-name="CCTV-怀旧剧场" tvg-logo="" group-title="东央视",CCTV-怀旧剧场
-http://183.236.43.98:4013/udp/239.253.43.5:5146
-#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-name="CCTV-女性时尚" tvg-logo="" group-title="东央视",CCTV-女性时尚
-http://183.236.43.98:4013/udp/239.253.43.8:5146
-#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-name="CCTV-世界地理" tvg-logo="" group-title="东央视",CCTV-世界地理
-http://183.236.43.98:4013/udp/239.253.43.7:5146
-#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-name="CCTV-央视台球" tvg-logo="" group-title="东央视",CCTV-央视台球
-http://183.236.43.98:4013/udp/239.253.43.11:5146
-#EXTINF:-1 tvg-id="CCTV-文化精品" tvg-name="CCTV-文化精品" tvg-logo="" group-title="东央视",CCTV-文化精品
-http://183.236.43.98:4013/udp/239.253.43.13:5146
+http://116.9.3.106:4000/udp/239.81.0.228:4056
+#EXTINF:-1 tvg-id="CCTV-5+体育赛事" tvg-name="CCTV-5+体育赛事" tvg-logo="" group-title="东央视",CCTV-5+体育赛事
+http://116.9.3.106:4000/udp/239.81.0.101:4056
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="西央视",CCTV-1综合
 http://106.59.2.53:55555/udp/239.200.201.135:8880
 #EXTINF:-1 tvg-id="CCTV-1综合" tvg-name="CCTV-1综合" tvg-logo="" group-title="西央视",CCTV-1综合
@@ -718,300 +775,3 @@ http://106.59.2.53:55555/rtp/239.200.200.202:8784
 http://106.59.2.53:55555/rtp/239.200.201.181:4220
 #EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="" group-title="西央视",CCTV-4欧洲
 http://106.59.2.53:55555/rtp/239.200.201.180:4220
-#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="" group-title="收集",博斯魅力
-http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="" group-title="收集",博斯魅力
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
-#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="" group-title="收集",博斯網球
-http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="" group-title="收集",博斯網球
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動 一" tvg-name="博斯運動 一" tvg-logo="" group-title="收集",博斯運動 一
-http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%B8%80%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="博斯運動 一" tvg-name="博斯運動 一" tvg-logo="" group-title="收集",博斯運動 一
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
-#EXTINF:-1 tvg-id="博斯運動 二" tvg-name="博斯運動 二" tvg-logo="" group-title="收集",博斯運動 二
-http://192.168.31.4:19750/playlist?channel=%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%BA%8C%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="博斯運動 二" tvg-name="博斯運動 二" tvg-logo="" group-title="收集",博斯運動 二
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang08/index.m3u8
-#EXTINF:-1 tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="" group-title="收集",博斯無限
-https://cdn.19891230.eu.org/4gtv/litv-xinchuang10/index.m3u8
-#EXTINF:-1 tvg-id="ELTA体育1" tvg-name="ELTA体育1" tvg-logo="" group-title="收集",ELTA体育1
-https://live13a.jynrrs.com/live/16697898.m3u8
-#EXTINF:-1 tvg-id="ELTA体育1" tvg-name="ELTA体育1" tvg-logo="" group-title="收集",ELTA体育1
-https://live.666666.zip/stream/16697898.m3u8
-#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="" group-title="收集",澳门体育
-https://cdn.qd.je/163189/amty
-#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="" group-title="收集",澳门综艺
-https://cdn.qd.je/163189/amzy
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="" group-title="收集",澳门莲花
-https://cdn.qd.je/163189/amlh
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="" group-title="收集",重温经典
-https://cdn.qd.je/163189/cwjd
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="收集",凤凰中文
-https://cdn.qd.je/163189/fhzw
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="收集",凤凰资讯
-https://cdn.qd.je/163189/fhzx
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="" group-title="收集",凤凰香港
-https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="" group-title="收集",TVB1
-https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-id="TVBj1" tvg-name="TVBj1" tvg-logo="" group-title="收集",TVBj1
-https://cdn.qd.je/163189/j1
-#EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集台" tvg-logo="" group-title="收集",翡翠剧集台
-https://cdn.qd.je/163189/tvbd
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="" group-title="收集",翡翠台
-https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="" group-title="收集",无线新闻台
-https://cdn.qd.je/163189/wxxw
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="" group-title="收集",广东珠江
-https://cdn.qd.je/163189/gdzj
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="" group-title="收集",广东体育
-https://cdn.qd.je/163189/gdty
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="收集",国语🔊愛爾達體育1台
-https://stream.sports3.win/iptv/tv/elta/tv-elta-1-9f7841705f.m3u8
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="收集",国语🔊愛爾達體育1台
-https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-#EXTINF:-1 tvg-id="国语🔊愛爾達體育1台" tvg-name="国语🔊愛爾達體育1台" tvg-logo="" group-title="收集",国语🔊愛爾達體育1台
-https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
-#EXTINF:-1 tvg-id="咪视界4K" tvg-name="咪视界4K" tvg-logo="" group-title="收集",咪视界4K
-http://feilong123.vip/409990236/iptv/gdy.php?id=18
-#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="收集",加拿大TSN
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
-#EXTINF:-1 tvg-id="加拿大TSN" tvg-name="加拿大TSN" tvg-logo="" group-title="收集",加拿大TSN
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
-#EXTINF:-1 tvg-id="BBC One UK" tvg-name="BBC One UK" tvg-logo="" group-title="收集",BBC One UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120265
-#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="" group-title="收集",BBC Two UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="收集",ESPN
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119665
-#EXTINF:-1 tvg-id="NHK BSP4K JP" tvg-name="NHK BSP4K JP" tvg-logo="" group-title="收集",NHK BSP4K JP
-https://xe.k-20.xyz/nhk
-#EXTINF:-1 tvg-id="BBC 4K" tvg-name="BBC 4K" tvg-logo="" group-title="收集",BBC 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
-#EXTINF:-1 tvg-id="NOW Sports 616 4K HK (Not 24/7)" tvg-name="NOW Sports 616 4K HK (Not 24/7)" tvg-logo="" group-title="收集",NOW Sports 616 4K HK (Not 24/7)
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
-#EXTINF:-1 tvg-id="Fussball.TV 4K DE" tvg-name="Fussball.TV 4K DE" tvg-logo="" group-title="收集",Fussball.TV 4K DE
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120339
-#EXTINF:-1 tvg-id="Fussball.TV 4K DE" tvg-name="Fussball.TV 4K DE" tvg-logo="" group-title="收集",Fussball.TV 4K DE
-http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/543140
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="" group-title="收集",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Tennis UK" tvg-name="Sky Sports Tennis UK" tvg-logo="" group-title="收集",Sky Sports Tennis UK
-http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/825813
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="" group-title="收集",Tennis Channel
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/31209
-#EXTINF:-1 tvg-id="TRUE TENNIS" tvg-name="TRUE TENNIS" tvg-logo="" group-title="收集",TRUE TENNIS
-http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1776208
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="" group-title="收集",Eurosport
-http://hanaiptv.com:8080/samQuNi96G/U6Z9mTNgRG/110713
-#EXTINF:-1 tvg-id="Sky Sports F1 4K UK" tvg-name="Sky Sports F1 4K UK" tvg-logo="" group-title="收集",Sky Sports F1 4K UK
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119326
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="" group-title="收集",民視台灣台
-http://192.168.31.4:19750/playlist?channel=%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="" group-title="收集",東森新聞台
-http://192.168.31.4:19750/playlist?channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="" group-title="收集",TVBS新聞
-http://192.168.31.4:19750/playlist?channel=TVBS%E6%96%B0%E8%81%9E&token=13jak7
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="" group-title="收集",寰宇新聞台灣台
-http://192.168.31.4:19750/playlist?channel=%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="" group-title="收集",愛爾達生活旅遊台
-http://192.168.31.4:19750/playlist?channel=%E6%84%9B%E7%88%BE%E9%81%94%E7%94%9F%E6%B4%BB%E6%97%85%E9%81%8A%E5%8F%B0&token=13jak7
-#EXTINF:-1 tvg-id="TravelXP 4K" tvg-name="TravelXP 4K" tvg-logo="" group-title="收集",TravelXP 4K
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119905
-#EXTINF:-1 tvg-id="FashionTV FR" tvg-name="FashionTV FR" tvg-logo="" group-title="收集",FashionTV FR
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="FASHION TV HD" tvg-name="FASHION TV HD" tvg-logo="" group-title="收集",FASHION TV HD
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119469
-#EXTINF:-1 tvg-id="Playboy LA" tvg-name="Playboy LA" tvg-logo="" group-title="收集",Playboy LA
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy" tvg-logo="" group-title="收集",Playboy
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/12135/index.m3u8
-#EXTINF:-1 tvg-id="Playboy Plus" tvg-name="Playboy Plus" tvg-logo="" group-title="收集",Playboy Plus
-http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6242/index.m3u8
-#EXTINF:-1 tvg-id="驚豔台" tvg-name="驚豔台" tvg-logo="" group-title="收集",驚豔台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
-#EXTINF:-1 tvg-id="潘朵啦玩美台" tvg-name="潘朵啦玩美台" tvg-logo="" group-title="收集",潘朵啦玩美台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-#EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" tvg-logo="" group-title="收集",松視1台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
-#EXTINF:-1 tvg-id="松視2台" tvg-name="松視2台" tvg-logo="" group-title="收集",松視2台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
-#EXTINF:-1 tvg-id="松視3台" tvg-name="松視3台" tvg-logo="" group-title="收集",松視3台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="收集",香蕉台
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
-#EXTINF:-1 tvg-id="松視1" tvg-name="松視1" tvg-logo="" group-title="收集",松視1
-http://srteamhls.gotvsports.com:41111/wryqzmqlxxmi1zs2/index.m3u8
-#EXTINF:-1 tvg-id="松視2" tvg-name="松視2" tvg-logo="" group-title="收集",松視2
-http://srteamhls.gotvsports.com:41111/5bllcktdn92dudy6/index.m3u8
-#EXTINF:-1 tvg-id="松視3" tvg-name="松視3" tvg-logo="" group-title="收集",松視3
-http://srteamhls.gotvsports.com:41111/nzz5mti2l46gknhp/index.m3u8
-#EXTINF:-1 tvg-id="極限電影台" tvg-name="極限電影台" tvg-logo="" group-title="收集",極限電影台
-http://srteamhls.gotvsports.com:41111/s0doso0ydxe3yk2s/index.m3u8
-#EXTINF:-1 tvg-id="潘多拉完美" tvg-name="潘多拉完美" tvg-logo="" group-title="收集",潘多拉完美
-http://srteamhls.gotvsports.com:41111/04v9iycrpkoelo1b/index.m3u8
-#EXTINF:-1 tvg-id="潘多拉粉紅" tvg-name="潘多拉粉紅" tvg-logo="" group-title="收集",潘多拉粉紅
-http://srteamhls.gotvsports.com:41111/t08gdnfdy3rycim0/index.m3u8
-#EXTINF:-1 tvg-id="樂活頻道" tvg-name="樂活頻道" tvg-logo="" group-title="收集",樂活頻道
-http://srteamhls.gotvsports.com:41111/i0a2mditbdzv0h4e/index.m3u8
-#EXTINF:-1 tvg-id="HOT" tvg-name="HOT" tvg-logo="" group-title="收集",HOT
-http://srteamhls.gotvsports.com:41111/krxh0hci5hfbsq7o/index.m3u8
-#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="收集",香蕉台
-http://srteamhls.gotvsports.com:41111/o1um0allc3pkwbae/index.m3u8
-#EXTINF:-1 tvg-id="Happy" tvg-name="Happy" tvg-logo="" group-title="收集",Happy
-http://srteamhls.gotvsports.com:41111/ynmiv1i5as4k1oue/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁1(XK8039)-童汐" tvg-name="少妇白洁1(XK8039)-童汐" tvg-logo="" group-title="收集",少妇白洁1(XK8039)-童汐
-https://t33.cdn2020.com/video/m3u8/2021/06/26/211a053a/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁2(XK8044)-童汐" tvg-name="少妇白洁2(XK8044)-童汐" tvg-logo="" group-title="收集",少妇白洁2(XK8044)-童汐
-https://t33.cdn2020.com/video/m3u8/2021/07/10/66f7c99f/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁3(XK8048)-童汐" tvg-name="少妇白洁3(XK8048)-童汐" tvg-logo="" group-title="收集",少妇白洁3(XK8048)-童汐
-https://t33.cdn2020.com/video/m3u8/2021/07/23/3203cba6/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁4(XK8059)-童汐" tvg-name="少妇白洁4(XK8059)-童汐" tvg-logo="" group-title="收集",少妇白洁4(XK8059)-童汐
-https://t33.cdn2020.com/video/m3u8/2021/08/21/85331d8e/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁5(XK8071)-童汐" tvg-name="少妇白洁5(XK8071)-童汐" tvg-logo="" group-title="收集",少妇白洁5(XK8071)-童汐
-https://t33.cdn2020.com/video/m3u8/2021/10/02/09d29d49/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁MDSR-0005-1失身的新婚少妇" tvg-name="少妇白洁MDSR-0005-1失身的新婚少妇" tvg-logo="" group-title="收集",少妇白洁MDSR-0005-1失身的新婚少妇
-https://t33.cdn2020.com/video/m3u8/2023/10/15/30848161/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁第二章MDSR-0005-2小晶的信" tvg-name="少妇白洁第二章MDSR-0005-2小晶的信" tvg-logo="" group-title="收集",少妇白洁第二章MDSR-0005-2小晶的信
-https://t33.cdn2020.com/video/m3u8/2023/10/28/a03b295d/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁第三章MDSR-0005-3风情万种的少妇" tvg-name="少妇白洁第三章MDSR-0005-3风情万种的少妇" tvg-logo="" group-title="收集",少妇白洁第三章MDSR-0005-3风情万种的少妇
-https://t33.cdn2020.com/video/m3u8/2024/09/28/11472e69/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁MDSR-0005-4一路风流的新婚少妇" tvg-name="少妇白洁MDSR-0005-4一路风流的新婚少妇" tvg-logo="" group-title="收集",少妇白洁MDSR-0005-4一路风流的新婚少妇
-https://t33.cdn2020.com/video/m3u8/2024/10/04/485a4db7/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁第五章MDSR-0005-5多情不敢难自抑-艾熙 欣晴" tvg-name="少妇白洁第五章MDSR-0005-5多情不敢难自抑-艾熙 欣晴" tvg-logo="" group-title="收集",少妇白洁第五章MDSR-0005-5多情不敢难自抑-艾熙 欣晴
-https://t33.cdn2020.com/video/m3u8/2025/10/02/8e83b8e4/index.m3u8
-#EXTINF:-1 tvg-id="少妇白洁第六章MDSR-0005-6绿帽风云谁是谁的妻-艾熙 苏畅 艾悠" tvg-name="少妇白洁第六章MDSR-0005-6绿帽风云谁是谁的妻-艾熙 苏畅 艾悠" tvg-logo="" group-title="收集",少妇白洁第六章MDSR-0005-6绿帽风云谁是谁的妻-艾熙 苏畅 艾悠
-https://t33.cdn2020.com/video/m3u8/2025/10/18/64827eee/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv1.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-1 综合
-http://192.168.31.4:8767/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv2.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-2 财经
-http://192.168.31.4:8767/cctv2.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3 综艺" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv3.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-3 综艺
-http://192.168.31.4:8767/cctv3.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4 中文国际" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv4.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4 中文国际
-http://192.168.31.4:8767/cctv4.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv5.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5 体育
-http://192.168.31.4:8767/cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv5p.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5+ 体育赛事
-http://192.168.31.4:8767/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv6.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-6 电影
-http://192.168.31.4:8767/cctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7 国防军事" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv7.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-7 国防军事
-http://192.168.31.4:8767/cctv7.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv8.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-8 电视剧
-http://192.168.31.4:8767/cctv8.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv9.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-9 纪录
-http://192.168.31.4:8767/cctv9.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv10.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-10 科教
-http://192.168.31.4:8767/cctv10.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11 戏曲" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv11.png" group-title="央视",CCTV-11 戏曲
-http://192.168.31.4:8767/cctv11.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12 社会与法" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv12.png" group-title="央视",CCTV-12 社会与法
-http://192.168.31.4:8767/cctv12.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv13.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-13 新闻
-http://192.168.31.4:8767/cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14 少儿" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv14.png" group-title="央视",CCTV-14 少儿
-http://192.168.31.4:8767/cctv14.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv15.png" group-title="央视",CCTV-15 音乐
-http://192.168.31.4:8767/cctv15.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv16.png" group-title="央视",CCTV-16 奥林匹克
-http://192.168.31.4:8767/cctv16.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 4K" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv164k.png" group-title="央视",CCTV-16 4K
-http://192.168.31.4:8767/cctv164k.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv17.png" group-title="央视",CCTV-17 农业农村
-http://192.168.31.4:8767/cctv17.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV-4K 超高清" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv4k.png" group-title="央视",CCTV-4K 超高清
-http://192.168.31.4:8767/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K 超高清" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv8k.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-8K 超高清
-http://192.168.31.4:8767/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtn.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN
-http://192.168.31.4:8767/cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN 法语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnfr.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN 法语
-http://192.168.31.4:8767/cgtnfr.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN 俄语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnru.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN 俄语
-http://192.168.31.4:8767/cgtnru.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN 阿拉伯语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnar.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN 阿拉伯语
-http://192.168.31.4:8767/cgtnar.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN 西班牙语" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtnes.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN 西班牙语
-http://192.168.31.4:8767/cgtnes.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN 纪录" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cgtndoc.png" group-title="央视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN 纪录
-http://192.168.31.4:8767/cgtndoc.m3u8
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV 风云剧场" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctvfyjc.png" group-title="央视",CCTV 风云剧场
-http://192.168.31.4:8767/cctvfyjc.m3u8
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV 第一剧场" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctvdyjc.png" group-title="央视",CCTV 第一剧场
-http://192.168.31.4:8767/cctvdyjc.m3u8
-#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV 怀旧剧场" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctvhjjc.png" group-title="央视",CCTV 怀旧剧场
-http://192.168.31.4:8767/cctvhjjc.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/bjws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京卫视
-http://192.168.31.4:8767/bjws.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/jsws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视
-http://192.168.31.4:8767/jsws.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/dfws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视
-http://192.168.31.4:8767/dfws.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/zjws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视
-http://192.168.31.4:8767/zjws.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/hnws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视
-http://192.168.31.4:8767/hnws.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/hbws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖北卫视
-http://192.168.31.4:8767/hbws.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/gdws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视
-http://192.168.31.4:8767/gdws.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/gxws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广西卫视
-http://192.168.31.4:8767/gxws.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/hljws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",黑龙江卫视
-http://192.168.31.4:8767/hljws.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/hainanws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
-http://192.168.31.4:8767/hainanws.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cqws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",重庆卫视
-http://192.168.31.4:8767/cqws.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/szws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视
-http://192.168.31.4:8767/szws.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/scws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
-http://192.168.31.4:8767/scws.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/henanws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河南卫视
-http://192.168.31.4:8767/henanws.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/dnws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东南卫视
-http://192.168.31.4:8767/dnws.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/gzws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视
-http://192.168.31.4:8767/gzws.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/jxws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
-http://192.168.31.4:8767/jxws.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/lnws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视
-http://192.168.31.4:8767/lnws.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/ahws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",安徽卫视
-http://192.168.31.4:8767/ahws.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/hebws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河北卫视
-http://192.168.31.4:8767/hebws.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/sdws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视
-http://192.168.31.4:8767/sdws.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/tjws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视
-http://192.168.31.4:8767/tjws.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/jlws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视
-http://192.168.31.4:8767/jlws.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/saxws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",陕西卫视
-http://192.168.31.4:8767/saxws.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/nxws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",宁夏卫视
-http://192.168.31.4:8767/nxws.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/nmgws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",内蒙古卫视
-http://192.168.31.4:8767/nmgws.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/ynws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云南卫视
-http://192.168.31.4:8767/ynws.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/shanxiws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山西卫视
-http://192.168.31.4:8767/shanxiws.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/gsws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
-http://192.168.31.4:8767/gsws.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/qhws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",青海卫视
-http://192.168.31.4:8767/qhws.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/xizangws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",西藏卫视
-http://192.168.31.4:8767/xizangws.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/xjws.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视
-http://192.168.31.4:8767/xjws.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV-1" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cetv1.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV-1
-http://192.168.31.4:8767/cetv1.m3u8
-#EXTINF:-1 tvg-id="国学" tvg-name="国学频道" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/guoxue.png" group-title="卫视" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",国学频道
-http://192.168.31.4:8767/guoxue.m3u8
