@@ -1,4 +1,8 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz,https://github.com/garyshare/epg_merge_filter/releases/download/latest/merged_epg.xml.gz,https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.m3u
+
 #EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="" group-title="收集",CCTV-2 财经
 http://192.168.31.4:8767/cctv2.m3u8
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="" group-title="收集",CCTV-5 体育
@@ -26,7 +30,7 @@ https://tgbot-sub.sharewithyou.dpdns.org/live/0OpPXrJ64Q26AiNKUPDY0DLcL2s0NulzMi
 #EXTINF:-1 tvg-id="Stan Sport AU Event 01" tvg-name="Stan Sport AU Event 01" tvg-logo="" group-title="收集",Stan Sport AU Event 01
 http://89.187.179.148:826/live/1368/gXwiagaXda/119634.ts
 #EXTINF:-1 tvg-id="FASHION TV HD" tvg-name="FASHION TV HD" tvg-logo="" group-title="收集",FASHION TV HD
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119469
 #EXTINF:-1 tvg-id="Playboy LA" tvg-name="Playboy LA" tvg-logo="" group-title="收集",Playboy LA
 http://a0bn5xro.rostelekom.xyz/iptv/2TBC4G2WWDG6RSUSN5SXSQEC/6280/index.m3u8
 #EXTINF:-1 tvg-id="Playboy" tvg-name="Playboy" tvg-logo="" group-title="收集",Playboy
