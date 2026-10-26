@@ -1,19 +1,25 @@
-#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz,https://github.com/garyshare/epg_merge_filter/releases/download/latest/merged_epg.xml.gz,https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://raw.githubusercontent.com/lcq61871/iptvz/refs/heads/main/zy.m3u
+#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXT-X-APTV-PREVIEW: FALSE
+#EXT-X-APTV-LATENCY: FALSE
+#EXT-X-APTV-LOGO: FALSE
 
-#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="" group-title="收集",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv2.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-2 财经
 http://192.168.31.4:8767/cctv2.m3u8
-#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="" group-title="收集",CCTV-5 体育
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv5.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5 体育
 http://192.168.31.4:8767/cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="" group-title="收集",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv5p.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5+ 体育赛事
 http://192.168.31.4:8767/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="收集",CCTV-13 新闻
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv13.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-13 新闻
 http://192.168.31.4:8767/cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="" group-title="收集",CCTV-17 农业农村
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv17.png" group-title="收集",CCTV-17 农业农村
 http://192.168.31.4:8767/cctv17.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="收集",湖南卫视
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/hnws.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视
+http://192.168.31.4:8767/hnws.m3u8
+
 http://192.168.31.4:8767/hnws.m3u8
 #EXTINF:-1 tvg-id="台北華視" tvg-name="台北華視" tvg-logo="" group-title="收集",台北華視
 http://211.72.174.95:8114/0.ts
