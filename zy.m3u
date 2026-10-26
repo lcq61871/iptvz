@@ -1,15 +1,15 @@
-#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz,https://epg.pw/xmltv/epg_CN.xml.gz" x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
-#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="" group-title="咪咕体育",CCTV-2 财经
+#EXTM3U 
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="" group-title="收集",CCTV-2 财经
 http://192.168.31.4:8767/cctv2.m3u8
-#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="" group-title="咪咕体育",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="" group-title="收集",CCTV-5 体育
 http://192.168.31.4:8767/cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="" group-title="咪咕体育",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="" group-title="收集",CCTV-5+ 体育赛事
 http://192.168.31.4:8767/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="咪咕体育",CCTV-13 新闻
+#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="" group-title="收集",CCTV-13 新闻
 http://192.168.31.4:8767/cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="" group-title="咪咕体育",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="" group-title="收集",CCTV-17 农业农村
 http://192.168.31.4:8767/cctv17.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="咪咕体育",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="收集",湖南卫视
 http://192.168.31.4:8767/hnws.m3u8
 #EXTINF:-1 tvg-id="台北華視" tvg-name="台北華視" tvg-logo="" group-title="收集",台北華視
 http://211.72.174.95:8114/0.ts
