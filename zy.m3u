@@ -14,7 +14,7 @@ http://192.168.31.4:8767/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv13.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-13 新闻
 http://192.168.31.4:8767/cctv13.m3u8
 
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv17.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/cctv17.png" group-title="收集",CCTV-17 农业农村
 http://192.168.31.4:8767/cctv17.m3u8
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://garysclub.sharewithyou.dpdns.org/logos/ysp-live-logos/hnws.png" group-title="收集" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视
