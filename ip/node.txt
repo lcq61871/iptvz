@@ -18,5 +18,5 @@ vless://4129e82f-1e67-4fa3-be62-d6addd467a31@207.57.125.21:443?encryption=none&s
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20193?allowInsecure=1&insecure=1&security=tls&sni=us.catxstar.com&type=tcp&headerType=none#US-好2
 
 ss://aes-256-gcm:4f887636-0b35-398f-9d22-bb0f4e45c36e@k.d.s.2.5.t.q.d.1.hk03-ae5.entry.v51124-6.qpon:764#快港
-ss://YWVzLTI1Ni1nY206Y2RkMDZlYjUtMjM2YS0zMjhjLWEwNmItOTJhNTJmYWFjOGJm@5.g.0.6.8.g.3.3.b.hk03-ae5.entry.v51124-1.qpon:760#快港
-vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.20.63.254:443?encryption=none&security=tls&type=ws&host=joeypg.ezbiz.dynv6.net&path=%2F%3Fed%3D2048&allowInsecure=1#🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]-原
+ss://YWVzLTI1Ni1nY206Y2RkMDZlYjUtMjM2YS0zMjhjLWEwNmItOTJhNTJmYWFjOGJm@5.g.0.6.8.g.3.3.b.hk03-ae5.entry.v51124-1.qpon:760#快港2
+vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.20.63.254:443?encryption=none&security=tls&type=ws&host=joeypg.ezbiz.dynv6.net&path=%2F%3Fed%3D2048&allowInsecure=1#🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]
