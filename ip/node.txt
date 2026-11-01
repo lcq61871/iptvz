@@ -7,6 +7,8 @@ trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20193?allo
  
 
 vless://4129e82f-1e67-4fa3-be62-d6addd467a31@markmonitor.com:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#⚠︎%20🇭🇰1HK¹-SG⁰_6|GPT⁺|CP|YT-CN|NF|D+|X
+vless://4129e82f-1e67-4fa3-be62-d6addd467a31@68.64.178.52:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#⚠︎%20HK%20[1优选高速%2072.1ms%209.36Mbps]
+vless://4129e82f-1e67-4fa3-be62-d6addd467a31@172.67.68.103:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#⚠︎%20🇭🇰1HK⁻¹_3|LastResult
 
 vless://bm9uZTo0MTI5ZTgyZi0xZTY3LTRmYTMtYmU2Mi1kNmFkZGQ0NjdhMzFAbWFya21vbml0b3IuY29tOjQ0Mw?path=/&remarks=%F0%9F%87%AD%F0%9F%87%B0HK%C2%B9-SG%E2%81%B0_6%7CGPT%E2%81%BA%7CCP%7CYT-CN%7CNF%7CD%2B%7CX&obfsParam=rogerfederer.pages.dev&obfs=websocket&tls=1&peer=rogerfederer.pages.dev&udp=1&fingerprint=chrome
 vless://bm9uZTo0MTI5ZTgyZi0xZTY3LTRmYTMtYmU2Mi1kNmFkZGQ0NjdhMzFAMTcyLjY3LjY4LjEwMzo0NDM?path=/&remarks=%F0%9F%87%AD%F0%9F%87%B0HK%E2%81%BB%C2%B9_3%7CLastResult&obfsParam=rogerfederer.pages.dev&obfs=websocket&tls=1&peer=rogerfederer.pages.dev&udp=1&fingerprint=chrome
