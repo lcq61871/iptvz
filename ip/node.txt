@@ -4,7 +4,7 @@ trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20134?secu
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20044?security=tls&sni=hk.catxstar.com&allowInsecure=1&type=tcp&headerType=none#TW-自己台湾
 trojan://nCKwZIFgBH@gary02.1688848.xyz:32382?allowInsecure=1&peer=www.bing.com&alpn=h3,h2,http/1.1#US-自己美国
 trojan://78336a2f-c533-4345-9791-445ec02194f4@sclass-00.catcat321.com:20193?allowInsecure=1&insecure=1&security=tls&sni=us.catxstar.com&type=tcp&headerType=none#🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]
-
+ 
 
 
 
