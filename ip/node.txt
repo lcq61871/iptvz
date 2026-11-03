@@ -8,7 +8,7 @@ vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.20.52.121:443?encryption=none&s
 
 vless://4129e82f-1e67-4fa3-be62-d6addd467a31@markmonitor.com:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#1般香港
 vless://4129e82f-1e67-4fa3-be62-d6addd467a31@68.64.178.52:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#⚠︎%20HK%20[1般香港%2072.1ms%209.36Mbps]
-vless://4129e82f-1e67-4fa3-be62-d6addd467a31@172.67.68.103:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#1般香港HK⁻¹_3|LastResult
+vless://4129e82f-1e67-4fa3-be62-d6addd467a31@172.67.68.103:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#1般香港HK⁻¹_3|LastResult  
 
 
 
