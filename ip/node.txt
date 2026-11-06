@@ -6,7 +6,7 @@ trojan://nCKwZIFgBH@gary02.1688848.xyz:32382?allowInsecure=1&peer=www.bing.com&a
 vless://4129e82f-1e67-4fa3-be62-d6addd467a31@207.57.125.21:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&fp=chrome&type=ws&host=rogerfederer.pages.dev&path=%2F#🇩🇪DE¹-US⁰_8|13%|GPT⁺|GM⁻|CP|YT|TK|NF|D+|X|Succeed|[广播|机房]
 
 vless://4129e82f-1e67-4fa3-be62-d6addd467a31@162.159.197.1:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&allowInsecure=1&type=ws&host=rogerfederer.pages.dev&path=%2F#🇺🇸US¹-US⁰_11|26%|GPT⁺|CP|YT|TK|NF|D+|X|LastResult
-
+vless://bm9uZTo0OTVjNzE5NS04NWI4LTQ5OGEtYmYyMC0yZWE5Y2U5MTc1YjVAMTg4LjExNC45Ny42OjQ0Mw?path=/fdip%23&remarks=%3E%3E@v2ray1_ng&obfsParam=snip.edgeoneai.cc.cd&obfs=websocket&tls=1&peer=snip.edgeoneai.cc.cd&alpn=http/1.1&udp=1&fingerprint=chrome&ech=cloudflare-ech.com%2Budp://1.1.1.1
 hysteria2://nCKwZIFgBH@gary02.1688848.xyz:25020?peer=www.bing.com&insecure=1&alpn=h3#Gary02-hysteria2-25020
 
 
