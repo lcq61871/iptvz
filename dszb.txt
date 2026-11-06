@@ -72,32 +72,6 @@ CCTV-高尔夫网球D,http://104.152.209.49:8181/720p/gefwq.m3u8
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 
-CCTV1,https://cdn.qd.je/163189/cctv1
-CCTV2,https://cdn.qd.je/163189/cctv2
-CCTV3,https://cdn.qd.je/163189/cctv3
-CCTV4,https://cdn.qd.je/163189/cctv4
-CCTV5,https://cdn.qd.je/163189/cctv5
-CCTV5+,https://cdn.qd.je/163189/cctv5p
-CCTV6,https://cdn.qd.je/163189/cctv6
-CCTV7,https://cdn.qd.je/163189/cctv7
-CCTV8,https://cdn.qd.je/163189/cctv8
-CCTV9,https://cdn.qd.je/163189/cctv9
-CCTV11,https://cdn.qd.je/163189/cctv11
-CCTV12,https://cdn.qd.je/163189/cctv12
-CCTV13,https://cdn.qd.je/163189/cctv13
-CCTV13-2,https://cdn.qd.je/163189/cctv13-2
-CCTV14,https://cdn.qd.je/163189/cctv14
-CCTV15,https://cdn.qd.je/163189/cctv15
-CCTV16,https://cdn.qd.je/163189/cctv16
-CCTV16-2,https://cdn.qd.je/163189/cctv16-2
-CCTV17,https://cdn.qd.je/163189/cctv17
-
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-
-
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -116,6 +90,11 @@ CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
+
+广西新闻,http://192.151.150.154/live/gxwshd.m3u8
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰中文,https://cdn.qd.je/163189/fhzw
+凤凰香港,https://cdn.qd.je/163189/fhhk
 
 🌏港澳台美,#genre#
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
