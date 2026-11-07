@@ -3,7 +3,7 @@ name: Convert TXT to M3U
 on:
   schedule:
     # 对应北京时间每天凌晨 02:00 (UTC 时间前一天 18:00)
-    - cron: '1 18 * * *'
+    - cron: '0 21 * * *'
   push:
     paths:
       - '903.txt'
