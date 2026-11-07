@@ -1,0 +1,29 @@
+name: Convert TXT to M3U
+
+on:
+  push:
+    paths:
+      - '903.txt'  # 当 903.txt 发生修改并推送到仓库时触发
+  workflow_dispatch:允许手动在网页端点击运行
+
+jobs:
+  convert:
+  runs-on: ubuntu-latest
+  steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Run conversion script
+      run: python txt_to_m3u.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add 903.m3u
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-convert 903.txt to 903.m3u" && git push)
