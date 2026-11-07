@@ -114,41 +114,41 @@ http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",南宁都市生活
 http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV1
-http://go.bkpcp.top/mg/cctv1
+http://51.75.118.151:20299/cctv1.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV2
-http://go.bkpcp.top/mg/cctv2
+http://51.75.118.151:20299/cctv2.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV3
-http://go.bkpcp.top/mg/cctv3
+http://51.75.118.151:20299/cctv3.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV4
-http://go.bkpcp.top/mg/cctv4
+http://51.75.118.151:20299/cctv4.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV5
-http://go.bkpcp.top/mg/cctv5
+http://51.75.118.151:20299/cctv5.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV5+
-http://go.bkpcp.top/mg/cctv5p
+http://51.75.118.151:20299/cctv5p.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV6
-http://go.bkpcp.top/mg/cctv6
+http://51.75.118.151:20299/cctv6.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV7
-http://go.bkpcp.top/mg/cctv7
+http://51.75.118.151:20299/cctv7.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV8
-http://go.bkpcp.top/mg/cctv8
+http://51.75.118.151:20299/cctv8.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV9
-http://go.bkpcp.top/mg/cctv9
+http://51.75.118.151:20299/cctv9.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV10
-http://go.bkpcp.top/mg/cctv10
+http://51.75.118.151:20299/cctv10.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV11
-http://go.bkpcp.top/mg/cctv11
+http://51.75.118.151:20299/cctv11.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV12
-http://go.bkpcp.top/mg/cctv12
+http://51.75.118.151:20299/cctv12.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV13
-http://go.bkpcp.top/mg/cctv13
+http://51.75.118.151:20299/cctv13.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV14
-http://go.bkpcp.top/mg/cctv14
+http://51.75.118.151:20299/cctv14.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV15
-http://go.bkpcp.top/mg/cctv15
+http://51.75.118.151:20299/cctv15.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV16
-http://go.bkpcp.top/mg/cctv16
+http://51.75.118.151:20299/cctv16.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",CCTV17
-http://go.bkpcp.top/mg/cctv17
+http://51.75.118.151:20299/cctv17.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",广西新闻
 http://192.151.150.154/live/gxwshd.m3u8
 #EXTINF:-1 group-title="咪咕央视2" catchup="default" catchup-days="7",凤凰资讯
@@ -422,99 +422,165 @@ http://iptv.4666888.xyz/iptv2A.php?id=51
 #EXTINF:-1 group-title="咪咕体育" catchup="default" catchup-days="7",中天新闻台
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-1综合
-http://110.178.145.185:8188/udp/239.1.1.7:8007
+http://118.248.156.76:8889/udp/239.76.253.151:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-1综合
+http://118.248.156.76:8889/udp/239.76.251.87:9000
 #EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-2财经
-http://110.178.145.185:8188/udp/239.1.1.8:8008
+http://118.248.156.76:8889/udp/239.76.253.152:9000
 #EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-3综艺
-http://110.178.145.185:8188/udp/239.1.1.9:8009
+http://118.248.156.76:8889/udp/239.76.253.153:9000
 #EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4中文国际
-http://110.178.145.185:8188/udp/239.1.1.10:8010
+http://118.248.156.76:8889/udp/239.76.253.154:9000
 #EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-5体育
-http://110.178.145.185:8188/udp/239.1.1.11:8011
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-6电影
-http://110.178.145.185:8188/udp/239.1.1.13:8013
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-7国防军事
-http://110.178.145.185:8188/rtp/239.1.1.14:8014
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-8电视剧
-http://110.178.145.185:8188/udp/239.1.1.15:8015
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-9纪录
-http://110.178.145.185:8188/udp/239.1.1.16:8016
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-10科教
-http://110.178.145.185:8188/udp/239.1.1.17:8017
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-11戏曲
-http://110.178.145.185:8188/rtp/239.1.1.18:8018
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-12社会与法
-http://110.178.145.185:8188/udp/239.1.1.19:8019
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-13新闻
-http://110.178.145.185:8188/udp/239.1.1.20:8020
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-14少儿
-http://110.178.145.185:8188/udp/239.1.1.21:8021
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-15音乐
-http://110.178.145.185:8188/rtp/239.1.1.22:8022
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-16奥林匹克
-http://110.178.145.185:8188/udp/239.1.1.122:8122
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-17农业农村
-http://110.178.145.185:8188/udp/239.1.1.23:8023
+http://118.248.156.76:8889/udp/239.76.253.155:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-5体育
+http://118.248.156.76:8889/udp/239.76.254.214:9000
 #EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-5+体育赛事
-http://110.178.145.185:8188/udp/239.1.1.12:8012
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV风云剧场
-http://110.178.145.185:8188/udp/239.1.1.93:8093
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV第一剧场
-http://110.178.145.185:8188/udp/239.1.1.94:8094
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV怀旧剧场
-http://110.178.145.185:8188/udp/239.1.1.95:8095
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV女性时尚
-http://110.178.145.185:8188/udp/239.1.1.89:8089
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV电视指南
-http://110.178.145.185:8188/udp/239.1.1.90:8090
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV央视文化精品
-http://110.178.145.185:8188/udp/239.1.1.91:8091
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV风云音乐
-http://110.178.145.185:8188/udp/239.1.1.96:8096
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV兵器科技
-http://110.178.145.185:8188/udp/239.1.1.97:8097
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV世界地理
-http://110.178.145.185:8188/udp/239.1.1.99:8099
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV央视台球
-http://110.178.145.185:8188/udp/239.1.1.100:8100
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV风云足球
-http://110.178.145.185:8188/udp/239.1.1.101:8101
-#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV高尔夫网球
-http://110.178.145.185:8188/udp/239.1.1.102:8102
+http://118.248.156.76:8889/udp/239.76.253.168:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-5+体育赛事
+http://118.248.156.76:8889/udp/239.76.251.88:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-5+体育赛事
+http://118.248.156.76:8889/udp/239.76.254.215:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-6电影
+http://118.248.156.76:8889/udp/239.76.253.156:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-7国防军事
+http://118.248.156.76:8889/udp/239.76.253.157:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-8电视剧
+http://118.248.156.76:8889/udp/239.76.253.158:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-9纪录
+http://118.248.156.76:8889/udp/239.76.253.159:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-10科教
+http://118.248.156.76:8889/udp/239.76.253.160:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-11戏曲
+http://118.248.156.76:8889/udp/239.76.252.251:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-12社会与法
+http://118.248.156.76:8889/udp/239.76.253.162:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-13新闻
+http://118.248.156.76:8889/udp/239.76.253.93:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-13新闻
+http://118.248.156.76:8889/udp/239.76.251.84:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-14少儿
+http://118.248.156.76:8889/udp/239.76.253.164:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-15音乐
+http://118.248.156.76:8889/udp/239.76.252.252:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-16奥林匹克
+http://118.248.156.76:8889/udp/239.76.253.98:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-17农业农村
+http://118.248.156.76:8889/udp/239.76.252.238:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-16奥林匹克4K
+http://118.248.156.76:8889/udp/239.76.253.230:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-16奥林匹克4K
+http://118.248.156.76:8889/udp/239.76.254.200:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4K超高清
+http://118.248.156.76:8889/udp/239.76.254.101:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4K超高清
+http://118.248.156.76:8889/udp/239.76.254.64:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-第一剧场
+http://118.248.156.76:8889/udp/239.76.254.49:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-风云剧场
+http://118.248.156.76:8889/udp/239.76.254.50:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-怀旧剧场
+http://118.248.156.76:8889/udp/239.76.254.53:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-电视指南
+http://118.248.156.76:8889/udp/239.76.254.61:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-世界地理
+http://118.248.156.76:8889/udp/239.76.254.57:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-兵器科技
+http://118.248.156.76:8889/udp/239.76.254.59:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-央视台球
+http://118.248.156.76:8889/udp/239.76.254.58:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-文化精品
+http://118.248.156.76:8889/udp/239.76.254.56:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-女性时尚
+http://118.248.156.76:8889/udp/239.76.254.55:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-风云足球
+http://118.248.156.76:8889/udp/239.76.254.52:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-风云音乐
+http://118.248.156.76:8889/udp/239.76.254.51:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-高尔夫网球
+http://118.248.156.76:8889/udp/239.76.254.62:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4中文国际 欧洲
+http://118.248.156.76:8889/udp/239.76.253.95:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4中文国际 美洲
+http://118.248.156.76:8889/udp/239.76.253.96:9000
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-1综合
+http://118.248.156.76:8889/udp/239.76.246.151:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-2财经
+http://118.248.156.76:8889/udp/239.76.246.152:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-3综艺
+http://118.248.156.76:8889/udp/239.76.246.153:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4中文国际
+http://118.248.156.76:8889/udp/239.76.246.154:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4中文国际
+http://118.248.156.76:8889/udp/239.76.245.195:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-5体育
+http://118.248.156.76:8889/udp/239.76.246.155:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-5+体育赛事
+http://118.248.156.76:8889/udp/239.76.246.168:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-6电影
+http://118.248.156.76:8889/udp/239.76.246.156:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-7国防军事
+http://118.248.156.76:8889/udp/239.76.246.157:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-8电视剧
+http://118.248.156.76:8889/udp/239.76.246.158:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-9纪录
+http://118.248.156.76:8889/udp/239.76.246.159:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-10科教
+http://118.248.156.76:8889/udp/239.76.246.160:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-11戏曲
+http://118.248.156.76:8889/udp/239.76.245.251:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-12社会与法
+http://118.248.156.76:8889/udp/239.76.246.162:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-13新闻
+http://118.248.156.76:8889/udp/239.76.246.93:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-14少儿
+http://118.248.156.76:8889/udp/239.76.246.164:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-15音乐
+http://118.248.156.76:8889/udp/239.76.245.252:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-16奥林匹克
+http://118.248.156.76:8889/udp/239.76.246.98:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-17农业农村
+http://118.248.156.76:8889/udp/239.76.245.238:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-16奥林匹克4K
+http://118.248.156.76:8889/udp/239.76.246.230:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4中文国际 欧洲
+http://118.248.156.76:8889/udp/239.76.246.95:1234
+#EXTINF:-1 group-title="北央视" catchup="default" catchup-days="7",CCTV-4中文国际 美洲
+http://118.248.156.76:8889/udp/239.76.246.96:1234
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-1综合
-http://171.8.138.16:8800/rtp/239.16.20.1:10010
+http://1.192.242.239:8188/rtp/239.16.20.1:10010
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-2财经
-http://171.8.138.16:8800/rtp/239.16.20.2:10020
+http://1.192.242.239:8188/rtp/239.16.20.2:10020
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-3综艺
-http://171.8.138.16:8800/rtp/239.16.20.3:10030
+http://1.192.242.239:8188/rtp/239.16.20.3:10030
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-4中文国际
-http://171.8.138.16:8800/rtp/239.16.20.4:10040
+http://1.192.242.239:8188/rtp/239.16.20.4:10040
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-5体育
-http://171.8.138.16:8800/rtp/239.16.20.53:10530
+http://1.192.242.239:8188/rtp/239.16.20.53:10530
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-5+体育赛事
-http://171.8.138.16:8800/rtp/239.16.20.5:10050
+http://1.192.242.239:8188/rtp/239.16.20.5:10050
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-6电影
-http://171.8.138.16:8800/rtp/239.16.20.6:10060
+http://1.192.242.239:8188/rtp/239.16.20.6:10060
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-7国防军事
-http://171.8.138.16:8800/rtp/239.16.20.51:10510
+http://1.192.242.239:8188/rtp/239.16.20.51:10510
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-8电视剧
-http://171.8.138.16:8800/rtp/239.16.20.8:10080
+http://1.192.242.239:8188/rtp/239.16.20.8:10080
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-9纪录
-http://171.8.138.16:8800/rtp/239.16.20.9:10090
+http://1.192.242.239:8188/rtp/239.16.20.9:10090
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-10科教
-http://171.8.138.16:8800/rtp/239.16.20.10:10100
+http://1.192.242.239:8188/rtp/239.16.20.10:10100
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-11戏曲
-http://171.8.138.16:8800/rtp/239.16.20.11:10110
+http://1.192.242.239:8188/rtp/239.16.20.11:10110
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-12社会与法
-http://171.8.138.16:8800/rtp/239.16.20.12:10120
+http://1.192.242.239:8188/rtp/239.16.20.12:10120
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-13新闻
-http://171.8.138.16:8800/rtp/239.16.20.13:10130
+http://1.192.242.239:8188/rtp/239.16.20.13:10130
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-14少儿
-http://171.8.138.16:8800/rtp/239.16.20.14:10140
+http://1.192.242.239:8188/rtp/239.16.20.14:10140
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-15音乐
-http://171.8.138.16:8800/rtp/239.16.20.15:10150
+http://1.192.242.239:8188/rtp/239.16.20.15:10150
 #EXTINF:-1 group-title="南央视" catchup="default" catchup-days="7",CCTV-17农业农村
-http://171.8.138.16:8800/rtp/239.16.20.7:10070
+http://1.192.242.239:8188/rtp/239.16.20.7:10070
 #EXTINF:-1 group-title="东央视" catchup="default" catchup-days="7",CCTV-1综合
 http://124.112.188.30:4022/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="东央视" catchup="default" catchup-days="7",CCTV-2财经
