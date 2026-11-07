@@ -3,6 +3,26 @@
 
 回放源,#genre#
 
+CCTV-1综合,https://cdn.qd.je/163189/cctv1
+CCTV-2财经,https://cdn.qd.je/163189/cctv2
+CCTV-3综艺,https://cdn.qd.je/163189/cctv3
+CCTV-4中文国际,https://cdn.qd.je/163189/cctv4
+CCTV-5体育,https://cdn.qd.je/163189/cctv5
+CCTV-5体育,https://cdn.qd.je/163189/cctv5p
+CCTV-6电影,https://cdn.qd.je/163189/cctv6
+CCTV-7国防军事,https://cdn.qd.je/163189/cctv7
+CCTV-8电视剧,https://cdn.qd.je/163189/cctv8
+CCTV-9纪录,https://cdn.qd.je/163189/cctv9
+CCTV-11戏曲,https://cdn.qd.je/163189/cctv11
+CCTV-12社会与法,https://cdn.qd.je/163189/cctv12
+CCTV-13新闻,https://cdn.qd.je/163189/cctv13
+CCTV-13新闻,https://cdn.qd.je/163189/cctv13-2
+CCTV-14少儿,https://cdn.qd.je/163189/cctv14
+CCTV-15音乐,https://cdn.qd.je/163189/cctv15
+CCTV-16奥林匹克,https://cdn.qd.je/163189/cctv16
+CCTV-17农业农村,https://cdn.qd.je/163189/cctv17
+
+
 CCTV1,http://47.100.209.208:8767/cctv1.m3u8
 CCTV2,http://47.100.209.208:8767/cctv2.m3u8
 CCTV3,http://47.100.209.208:8767/cctv3.m3u8
