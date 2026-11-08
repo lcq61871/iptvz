@@ -7,8 +7,8 @@ if not os.path.exists(input_file):
     print(f"Error: {input_file} not found.")
     exit(1)
 
-# 在文件头声明 M3U 格式，并可以声明支持回放（部分播放器如 TiviMate 需要）
-m3u_lines = ['#EXTM3U catchup="append" catchup-days="7" catchup-source=""\n']
+# 写入 M3U 文件头
+m3u_lines = ["#EXTM3U\n"]
 current_group = "未分类"
 
 with open(input_file, "r", encoding="utf-8") as f:
@@ -29,13 +29,18 @@ with open(input_file, "r", encoding="utf-8") as f:
             channel_name = parts[0].strip()
             channel_url = ",".join(parts[1:]).strip()
             
-            # 过滤链接
+            # 过滤有效的直播链接
             if channel_url.startswith(("http://", "https://", "rtp://", "udp://")):
                 
-                # 【可选逻辑】如果你想针对特定的源（例如名字里带回放，或者特定域名的源）加上回放标记：
-                # 比如：如果你的回放源链接包含某个特定关键词，可以给它加 catchup 标签
-                # 这里默认给所有源都加上支持 7 天回放的通用扩展属性：
-                extinf = f'#EXTINF:-1 group-title="{current_group}" catchup="default" catchup-days="7",{channel_name}\n'
+                # 核心修改：在这里拼接待回放参数的 #EXTINF 标签
+                # 你可以根据需要调整 catchup-source 里面的回放时间戳参数格式
+                extinf = (
+                    f'#EXTINF:-1 group-title="{current_group}" '
+                    f'catchup="append" '
+                    f'catchup-days="7" '
+                    f'catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}",'
+                    f'{channel_name}\n'
+                )
                 
                 m3u_lines.append(extinf)
                 m3u_lines.append(f"{channel_url}\n")
@@ -43,4 +48,4 @@ with open(input_file, "r", encoding="utf-8") as f:
 with open(output_file, "w", encoding="utf-8") as f:
     f.writelines(m3u_lines)
 
-print(f"Successfully converted {input_file} to {output_file} with catchup support!")
+print(f"Successfully converted {input_file} to {output_file} with 7-day catchup support!")
