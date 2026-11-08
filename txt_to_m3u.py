@@ -32,15 +32,19 @@ with open(input_file, "r", encoding="utf-8") as f:
             # 过滤有效的直播链接
             if channel_url.startswith(("http://", "https://", "rtp://", "udp://")):
                 
-                # 核心修改：在这里拼接待回放参数的 #EXTINF 标签
-                # 你可以根据需要调整 catchup-source 里面的回放时间戳参数格式
-                extinf = (
-                    f'#EXTINF:-1 group-title="{current_group}" '
-                    f'catchup="append" '
-                    f'catchup-days="7" '
-                    f'catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}",'
-                    f'{channel_name}\n'
-                )
+                # 判断链接中是否包含 :8767 端口
+                if ":8767" in channel_url:
+                    # 仅给带有 :8767 的源加上 7 天回放参数
+                    extinf = (
+                        f'#EXTINF:-1 group-title="{current_group}" '
+                        f'catchup="append" '
+                        f'catchup-days="7" '
+                        f'catchup-source="?playseek=${{(b)yyyyMMddHHmmss}}-${{(e)yyyyMMddHHmmss}}",'
+                        f'{channel_name}\n'
+                    )
+                else:
+                    # 其他源保持普通标签
+                    extinf = f'#EXTINF:-1 group-title="{current_group}",{channel_name}\n'
                 
                 m3u_lines.append(extinf)
                 m3u_lines.append(f"{channel_url}\n")
@@ -48,4 +52,4 @@ with open(input_file, "r", encoding="utf-8") as f:
 with open(output_file, "w", encoding="utf-8") as f:
     f.writelines(m3u_lines)
 
-print(f"Successfully converted {input_file} to {output_file} with 7-day catchup support!")
+print(f"Successfully converted {input_file} to {output_file} with selective catchup support!")
