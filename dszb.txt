@@ -1,19 +1,21 @@
-🏟️体育赛事,#genre#
-
-南央视CCTV-5体育,http://171.8.84.49:8800/rtp/239.16.20.53:10530
-南央视CCTV-5+体育赛事,http://171.8.84.49:8800/rtp/239.16.20.5:10050
-CCTV-5体育D,http://104.152.209.49:8181/720p/cctv5.m3u8
-CCTV-5+HDD,http://104.152.209.49:8181/720p/cctv5p.m3u8
-
-Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
-Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
-Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
-TNT Sports 1 UK,http://live.iptvtotaal.com:8000/039297388/686957770/203479
-TNT Sports 1 UK,https://tgbot-sub.sharewithyou.dpdns.org/live/0OpPXrJ64Q26AiNKUPDY0DLcL2s0NulzMi4yRVfR7MblKrub5jP5jvFqhe4dDy736TKBgd7c9bfyMuluHnM9tvYQClS9ApyH8pokevMtwA8uTP7WqKC9MoN_AoP5xADbEQ4DtSbrBxZKIk9GAw1lfzW39cR8WUMpDkaMEIj3l4ErxldRMVQryQPRn5eRBmwvSlLuOkPxHGxY93r_cTOXwKE1Oj-yD8x9EIEfNW7GMA?u=7985545243
-NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
-
-
+南央视,#genre#
+CCTV-1综合,http://1.192.242.239:8188/rtp/239.16.20.1:10010
+CCTV-2财经,http://1.192.242.239:8188/rtp/239.16.20.2:10020
+CCTV-3综艺,http://1.192.242.239:8188/rtp/239.16.20.3:10030
+CCTV-4中文国际,http://1.192.242.239:8188/rtp/239.16.20.4:10040
+CCTV-5体育,http://1.192.242.239:8188/rtp/239.16.20.53:10530
+CCTV-5+体育赛事,http://1.192.242.239:8188/rtp/239.16.20.5:10050
+CCTV-6电影,http://1.192.242.239:8188/rtp/239.16.20.6:10060
+CCTV-7国防军事,http://1.192.242.239:8188/rtp/239.16.20.51:10510
+CCTV-8电视剧,http://1.192.242.239:8188/rtp/239.16.20.8:10080
+CCTV-9纪录,http://1.192.242.239:8188/rtp/239.16.20.9:10090
+CCTV-10科教,http://1.192.242.239:8188/rtp/239.16.20.10:10100
+CCTV-11戏曲,http://1.192.242.239:8188/rtp/239.16.20.11:10110
+CCTV-12社会与法,http://1.192.242.239:8188/rtp/239.16.20.12:10120
+CCTV-13新闻,http://1.192.242.239:8188/rtp/239.16.20.13:10130
+CCTV-14少儿,http://1.192.242.239:8188/rtp/239.16.20.14:10140
+CCTV-15音乐,http://1.192.242.239:8188/rtp/239.16.20.15:10150
+CCTV-17农业农村,http://1.192.242.239:8188/rtp/239.16.20.7:10070
 
 咪咕央视1,#genre#
 
@@ -94,6 +96,7 @@ CCTV17,http://51.75.118.151:20299/cctv17.m3u8
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰香港,https://cdn.qd.je/163189/fhhk
 
+
 🌏港澳台美,#genre#
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
 凤凰资讯,https://cdn.qd.je/163189/fhzx
@@ -117,6 +120,21 @@ Sky Sport F1 uk,http://89.187.179.148:826/1368/gXwiagaXda/120348
 加拿大TSN,http://89.187.179.148:826/1368/gXwiagaXda/119333
 加拿大TSN,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
 ESPN,http://89.187.179.148:826/1368/gXwiagaXda/119665
+
+🏟️体育赛事,#genre#
+
+南央视CCTV-5体育,http://171.8.84.49:8800/rtp/239.16.20.53:10530
+南央视CCTV-5+体育赛事,http://171.8.84.49:8800/rtp/239.16.20.5:10050
+CCTV-5体育D,http://104.152.209.49:8181/720p/cctv5.m3u8
+CCTV-5+HDD,http://104.152.209.49:8181/720p/cctv5p.m3u8
+
+Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
+Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
+Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
+Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
+TNT Sports 1 UK,http://live.iptvtotaal.com:8000/039297388/686957770/203479
+TNT Sports 1 UK,https://tgbot-sub.sharewithyou.dpdns.org/live/0OpPXrJ64Q26AiNKUPDY0DLcL2s0NulzMi4yRVfR7MblKrub5jP5jvFqhe4dDy736TKBgd7c9bfyMuluHnM9tvYQClS9ApyH8pokevMtwA8uTP7WqKC9MoN_AoP5xADbEQ4DtSbrBxZKIk9GAw1lfzW39cR8WUMpDkaMEIj3l4ErxldRMVQryQPRn5eRBmwvSlLuOkPxHGxY93r_cTOXwKE1Oj-yD8x9EIEfNW7GMA?u=7985545243
+NBA TV,http://89.187.179.148:826/1368/gXwiagaXda/29485
 
 咪咕体育,#genre#
 CCTV-1 综合,http://192.168.31.4:8767/cctv1.m3u8
