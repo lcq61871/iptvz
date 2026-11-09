@@ -1,26 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="🏟️体育赛事",南央视CCTV-5体育
-http://171.8.84.49:8800/rtp/239.16.20.53:10530
-#EXTINF:-1 group-title="🏟️体育赛事",南央视CCTV-5+体育赛事
-http://171.8.84.49:8800/rtp/239.16.20.5:10050
-#EXTINF:-1 group-title="🏟️体育赛事",CCTV-5体育D
-http://104.152.209.49:8181/720p/cctv5.m3u8
-#EXTINF:-1 group-title="🏟️体育赛事",CCTV-5+HDD
-http://104.152.209.49:8181/720p/cctv5p.m3u8
-#EXTINF:-1 group-title="🏟️体育赛事",Super Tennis IT
-https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
-#EXTINF:-1 group-title="🏟️体育赛事",Tennis Channel
-http://89.187.179.148:826/1368/gXwiagaXda/31209
-#EXTINF:-1 group-title="🏟️体育赛事",Tennis Channel 2
-http://89.187.179.148:826/1368/gXwiagaXda/119668
-#EXTINF:-1 group-title="🏟️体育赛事",Sky Sports Tennis UK
-http://89.187.179.148:826/1368/gXwiagaXda/120357
-#EXTINF:-1 group-title="🏟️体育赛事",TNT Sports 1 UK
-http://live.iptvtotaal.com:8000/039297388/686957770/203479
-#EXTINF:-1 group-title="🏟️体育赛事",TNT Sports 1 UK
-https://tgbot-sub.sharewithyou.dpdns.org/live/0OpPXrJ64Q26AiNKUPDY0DLcL2s0NulzMi4yRVfR7MblKrub5jP5jvFqhe4dDy736TKBgd7c9bfyMuluHnM9tvYQClS9ApyH8pokevMtwA8uTP7WqKC9MoN_AoP5xADbEQ4DtSbrBxZKIk9GAw1lfzW39cR8WUMpDkaMEIj3l4ErxldRMVQryQPRn5eRBmwvSlLuOkPxHGxY93r_cTOXwKE1Oj-yD8x9EIEfNW7GMA?u=7985545243
-#EXTINF:-1 group-title="🏟️体育赛事",NBA TV
-http://89.187.179.148:826/1368/gXwiagaXda/29485
+#EXTINF:-1 group-title="南央视",CCTV-1综合
+http://1.192.242.239:8188/rtp/239.16.20.1:10010
+#EXTINF:-1 group-title="南央视",CCTV-2财经
+http://1.192.242.239:8188/rtp/239.16.20.2:10020
+#EXTINF:-1 group-title="南央视",CCTV-3综艺
+http://1.192.242.239:8188/rtp/239.16.20.3:10030
+#EXTINF:-1 group-title="南央视",CCTV-4中文国际
+http://1.192.242.239:8188/rtp/239.16.20.4:10040
+#EXTINF:-1 group-title="南央视",CCTV-5体育
+http://1.192.242.239:8188/rtp/239.16.20.53:10530
+#EXTINF:-1 group-title="南央视",CCTV-5+体育赛事
+http://1.192.242.239:8188/rtp/239.16.20.5:10050
+#EXTINF:-1 group-title="南央视",CCTV-6电影
+http://1.192.242.239:8188/rtp/239.16.20.6:10060
+#EXTINF:-1 group-title="南央视",CCTV-7国防军事
+http://1.192.242.239:8188/rtp/239.16.20.51:10510
+#EXTINF:-1 group-title="南央视",CCTV-8电视剧
+http://1.192.242.239:8188/rtp/239.16.20.8:10080
+#EXTINF:-1 group-title="南央视",CCTV-9纪录
+http://1.192.242.239:8188/rtp/239.16.20.9:10090
+#EXTINF:-1 group-title="南央视",CCTV-10科教
+http://1.192.242.239:8188/rtp/239.16.20.10:10100
+#EXTINF:-1 group-title="南央视",CCTV-11戏曲
+http://1.192.242.239:8188/rtp/239.16.20.11:10110
+#EXTINF:-1 group-title="南央视",CCTV-12社会与法
+http://1.192.242.239:8188/rtp/239.16.20.12:10120
+#EXTINF:-1 group-title="南央视",CCTV-13新闻
+http://1.192.242.239:8188/rtp/239.16.20.13:10130
+#EXTINF:-1 group-title="南央视",CCTV-14少儿
+http://1.192.242.239:8188/rtp/239.16.20.14:10140
+#EXTINF:-1 group-title="南央视",CCTV-15音乐
+http://1.192.242.239:8188/rtp/239.16.20.15:10150
+#EXTINF:-1 group-title="南央视",CCTV-17农业农村
+http://1.192.242.239:8188/rtp/239.16.20.7:10070
 #EXTINF:-1 group-title="咪咕央视1",南宁新闻综合
 http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="咪咕央视1",南宁都市生活
@@ -201,6 +213,28 @@ http://89.187.179.148:826/1368/gXwiagaXda/119333
 https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/77d9db0d-3fde-4e0c-a2fd-150fc780c9b7/3.m3u8
 #EXTINF:-1 group-title="🌏港澳台美",ESPN
 http://89.187.179.148:826/1368/gXwiagaXda/119665
+#EXTINF:-1 group-title="🏟️体育赛事",南央视CCTV-5体育
+http://171.8.84.49:8800/rtp/239.16.20.53:10530
+#EXTINF:-1 group-title="🏟️体育赛事",南央视CCTV-5+体育赛事
+http://171.8.84.49:8800/rtp/239.16.20.5:10050
+#EXTINF:-1 group-title="🏟️体育赛事",CCTV-5体育D
+http://104.152.209.49:8181/720p/cctv5.m3u8
+#EXTINF:-1 group-title="🏟️体育赛事",CCTV-5+HDD
+http://104.152.209.49:8181/720p/cctv5p.m3u8
+#EXTINF:-1 group-title="🏟️体育赛事",Super Tennis IT
+https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bllikk0toovuo/e25701ce-93e9-48c7-b6cb-291d9373a50f/2.m3u8
+#EXTINF:-1 group-title="🏟️体育赛事",Tennis Channel
+http://89.187.179.148:826/1368/gXwiagaXda/31209
+#EXTINF:-1 group-title="🏟️体育赛事",Tennis Channel 2
+http://89.187.179.148:826/1368/gXwiagaXda/119668
+#EXTINF:-1 group-title="🏟️体育赛事",Sky Sports Tennis UK
+http://89.187.179.148:826/1368/gXwiagaXda/120357
+#EXTINF:-1 group-title="🏟️体育赛事",TNT Sports 1 UK
+http://live.iptvtotaal.com:8000/039297388/686957770/203479
+#EXTINF:-1 group-title="🏟️体育赛事",TNT Sports 1 UK
+https://tgbot-sub.sharewithyou.dpdns.org/live/0OpPXrJ64Q26AiNKUPDY0DLcL2s0NulzMi4yRVfR7MblKrub5jP5jvFqhe4dDy736TKBgd7c9bfyMuluHnM9tvYQClS9ApyH8pokevMtwA8uTP7WqKC9MoN_AoP5xADbEQ4DtSbrBxZKIk9GAw1lfzW39cR8WUMpDkaMEIj3l4ErxldRMVQryQPRn5eRBmwvSlLuOkPxHGxY93r_cTOXwKE1Oj-yD8x9EIEfNW7GMA?u=7985545243
+#EXTINF:-1 group-title="🏟️体育赛事",NBA TV
+http://89.187.179.148:826/1368/gXwiagaXda/29485
 #EXTINF:-1 group-title="咪咕体育" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-1 综合
 http://192.168.31.4:8767/cctv1.m3u8
 #EXTINF:-1 group-title="咪咕体育" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-2 财经
@@ -486,99 +520,65 @@ http://89.187.179.148:826/1368/gXwiagaXda/117484
 #EXTINF:-1 group-title="咪咕体育",Peacock 10 (Not 24/7)
 http://89.187.179.148:826/1368/gXwiagaXda/117485
 #EXTINF:-1 group-title="北央视",CCTV-1综合
-http://110.178.145.116:8188/udp/239.1.1.7:8007
+http://124.112.188.30:4022/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="北央视",CCTV-2财经
-http://110.178.145.116:8188/udp/239.1.1.8:8008
+http://124.112.188.30:4022/rtp/238.1.78.235:7752
 #EXTINF:-1 group-title="北央视",CCTV-3综艺
-http://110.178.145.116:8188/udp/239.1.1.9:8009
+http://124.112.188.30:4022/rtp/238.1.78.170:7232
 #EXTINF:-1 group-title="北央视",CCTV-4中文国际
-http://110.178.145.116:8188/udp/239.1.1.10:8010
+http://124.112.188.30:4022/rtp/238.1.78.236:7760
 #EXTINF:-1 group-title="北央视",CCTV-5体育
-http://110.178.145.116:8188/udp/239.1.1.11:8011
+http://124.112.188.30:4022/rtp/238.1.78.171:7240
 #EXTINF:-1 group-title="北央视",CCTV-6电影
-http://110.178.145.116:8188/udp/239.1.1.13:8013
+http://124.112.188.30:4022/rtp/238.1.78.172:7248
 #EXTINF:-1 group-title="北央视",CCTV-7国防军事
-http://110.178.145.116:8188/rtp/239.1.1.14:8014
+http://124.112.188.30:4022/rtp/238.1.78.239:7784
 #EXTINF:-1 group-title="北央视",CCTV-8电视剧
-http://110.178.145.116:8188/udp/239.1.1.15:8015
+http://124.112.188.30:4022/rtp/238.1.78.173:7256
 #EXTINF:-1 group-title="北央视",CCTV-9纪录
-http://110.178.145.116:8188/udp/239.1.1.16:8016
+http://124.112.188.30:4022/rtp/238.1.78.240:7792
 #EXTINF:-1 group-title="北央视",CCTV-10科教
-http://110.178.145.116:8188/udp/239.1.1.17:8017
+http://124.112.188.30:4022/rtp/238.1.78.241:7800
 #EXTINF:-1 group-title="北央视",CCTV-11戏曲
-http://110.178.145.116:8188/rtp/239.1.1.18:8018
+http://124.112.188.30:4022/rtp/238.1.78.206:7502
 #EXTINF:-1 group-title="北央视",CCTV-12社会与法
-http://110.178.145.116:8188/udp/239.1.1.19:8019
+http://124.112.188.30:4022/rtp/238.1.78.242:7808
 #EXTINF:-1 group-title="北央视",CCTV-13新闻
-http://110.178.145.116:8188/udp/239.1.1.20:8020
+http://124.112.188.30:4022/rtp/238.1.79.35:4392
 #EXTINF:-1 group-title="北央视",CCTV-14少儿
-http://110.178.145.116:8188/udp/239.1.1.21:8021
+http://124.112.188.30:4022/rtp/238.1.78.243:7816
 #EXTINF:-1 group-title="北央视",CCTV-15音乐
-http://110.178.145.116:8188/rtp/239.1.1.22:8022
-#EXTINF:-1 group-title="北央视",CCTV-16奥林匹克
-http://110.178.145.116:8188/udp/239.1.1.122:8122
+http://124.112.188.30:4022/rtp/238.1.78.222:7648
 #EXTINF:-1 group-title="北央视",CCTV-17农业农村
-http://110.178.145.116:8188/udp/239.1.1.23:8023
+http://124.112.188.30:4022/rtp/238.1.78.178:7296
 #EXTINF:-1 group-title="北央视",CCTV-5+体育赛事
-http://110.178.145.116:8188/udp/239.1.1.12:8012
-#EXTINF:-1 group-title="北央视",CCTV风云剧场
-http://110.178.145.116:8188/udp/239.1.1.93:8093
-#EXTINF:-1 group-title="北央视",CCTV第一剧场
-http://110.178.145.116:8188/udp/239.1.1.94:8094
+http://124.112.188.30:4022/rtp/238.1.78.237:7768
+#EXTINF:-1 group-title="北央视",CCTV4K超高清
+http://124.112.188.30:4022/rtp/238.1.78.137:6968
 #EXTINF:-1 group-title="北央视",CCTV怀旧剧场
-http://110.178.145.116:8188/udp/239.1.1.95:8095
-#EXTINF:-1 group-title="北央视",CCTV女性时尚
-http://110.178.145.116:8188/udp/239.1.1.89:8089
+http://124.112.188.30:4022/rtp/238.1.79.61:4624
+#EXTINF:-1 group-title="北央视",CCTV风云剧场
+http://124.112.188.30:4022/rtp/238.1.79.62:4632
+#EXTINF:-1 group-title="北央视",CCTV第一剧场
+http://124.112.188.30:4022/rtp/238.1.79.63:4640
 #EXTINF:-1 group-title="北央视",CCTV电视指南
-http://110.178.145.116:8188/udp/239.1.1.90:8090
+http://124.112.188.30:4022/rtp/238.1.79.53:4560
 #EXTINF:-1 group-title="北央视",CCTV央视文化精品
-http://110.178.145.116:8188/udp/239.1.1.91:8091
-#EXTINF:-1 group-title="北央视",CCTV风云音乐
-http://110.178.145.116:8188/udp/239.1.1.96:8096
+http://124.112.188.30:4022/rtp/238.1.79.54:4568
+#EXTINF:-1 group-title="北央视",CCTV女性时尚
+http://124.112.188.30:4022/rtp/238.1.79.55:4576
 #EXTINF:-1 group-title="北央视",CCTV兵器科技
-http://110.178.145.116:8188/udp/239.1.1.97:8097
-#EXTINF:-1 group-title="北央视",CCTV世界地理
-http://110.178.145.116:8188/udp/239.1.1.99:8099
-#EXTINF:-1 group-title="北央视",CCTV央视台球
-http://110.178.145.116:8188/udp/239.1.1.100:8100
+http://124.112.188.30:4022/rtp/238.1.79.56:4584
 #EXTINF:-1 group-title="北央视",CCTV风云足球
-http://110.178.145.116:8188/udp/239.1.1.101:8101
+http://124.112.188.30:4022/rtp/238.1.79.57:4592
+#EXTINF:-1 group-title="北央视",CCTV世界地理
+http://124.112.188.30:4022/rtp/238.1.79.60:4616
+#EXTINF:-1 group-title="北央视",CCTV风云音乐
+http://124.112.188.30:4022/rtp/238.1.79.64:4648
 #EXTINF:-1 group-title="北央视",CCTV高尔夫网球
-http://110.178.145.116:8188/udp/239.1.1.102:8102
-#EXTINF:-1 group-title="南央视",CCTV-1综合
-http://1.192.242.239:8188/rtp/239.16.20.1:10010
-#EXTINF:-1 group-title="南央视",CCTV-2财经
-http://1.192.242.239:8188/rtp/239.16.20.2:10020
-#EXTINF:-1 group-title="南央视",CCTV-3综艺
-http://1.192.242.239:8188/rtp/239.16.20.3:10030
-#EXTINF:-1 group-title="南央视",CCTV-4中文国际
-http://1.192.242.239:8188/rtp/239.16.20.4:10040
-#EXTINF:-1 group-title="南央视",CCTV-5体育
-http://1.192.242.239:8188/rtp/239.16.20.53:10530
-#EXTINF:-1 group-title="南央视",CCTV-5+体育赛事
-http://1.192.242.239:8188/rtp/239.16.20.5:10050
-#EXTINF:-1 group-title="南央视",CCTV-6电影
-http://1.192.242.239:8188/rtp/239.16.20.6:10060
-#EXTINF:-1 group-title="南央视",CCTV-7国防军事
-http://1.192.242.239:8188/rtp/239.16.20.51:10510
-#EXTINF:-1 group-title="南央视",CCTV-8电视剧
-http://1.192.242.239:8188/rtp/239.16.20.8:10080
-#EXTINF:-1 group-title="南央视",CCTV-9纪录
-http://1.192.242.239:8188/rtp/239.16.20.9:10090
-#EXTINF:-1 group-title="南央视",CCTV-10科教
-http://1.192.242.239:8188/rtp/239.16.20.10:10100
-#EXTINF:-1 group-title="南央视",CCTV-11戏曲
-http://1.192.242.239:8188/rtp/239.16.20.11:10110
-#EXTINF:-1 group-title="南央视",CCTV-12社会与法
-http://1.192.242.239:8188/rtp/239.16.20.12:10120
-#EXTINF:-1 group-title="南央视",CCTV-13新闻
-http://1.192.242.239:8188/rtp/239.16.20.13:10130
-#EXTINF:-1 group-title="南央视",CCTV-14少儿
-http://1.192.242.239:8188/rtp/239.16.20.14:10140
-#EXTINF:-1 group-title="南央视",CCTV-15音乐
-http://1.192.242.239:8188/rtp/239.16.20.15:10150
-#EXTINF:-1 group-title="南央视",CCTV-17农业农村
-http://1.192.242.239:8188/rtp/239.16.20.7:10070
+http://124.112.188.30:4022/rtp/238.1.79.58:4600
+#EXTINF:-1 group-title="北央视",CCTV央视台球
+http://124.112.188.30:4022/rtp/238.1.79.59:4608
 #EXTINF:-1 group-title="东央视",CCTV-1综合
 http://106.59.2.209:55555/udp/239.200.201.135:8880
 #EXTINF:-1 group-title="东央视",CCTV-1综合
