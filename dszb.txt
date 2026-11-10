@@ -133,8 +133,11 @@ Super Tennis IT,https://d2bbbc1corbwv1.cloudfront.net/v1/manifest/3722c60a815c19
 Tennis Channel,http://89.187.179.148:826/1368/gXwiagaXda/31209
 Tennis Channel 2,http://89.187.179.148:826/1368/gXwiagaXda/119668
 Sky Sports Tennis UK,http://89.187.179.148:826/1368/gXwiagaXda/120357
+Sky Sports Main Event UK,http://89.187.179.148:826/1368/gXwiagaXda/120351
+Sky Sports F1 UK,http://89.187.179.148:826/1368/gXwiagaXda/120348
 beIN Sports 1 AU,http://89.187.179.148:826/1368/gXwiagaXda/110876
 beIN Sports 2 AU,http://89.187.179.148:826/1368/gXwiagaXda/110877
+beIN SPORTS,http://89.187.179.148:826/1368/gXwiagaXda/1501
 Fox Sports 501 AU,http://89.187.179.148:826/1368/gXwiagaXda/110881
 Fox Sports 502 AU,http://89.187.179.148:826/1368/gXwiagaXda/110882
 ESPN AU,http://89.187.179.148:826/1368/gXwiagaXda/110879
