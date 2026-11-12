@@ -69,35 +69,6 @@ CCTV-高尔夫网球D,http://104.152.209.49:8181/720p/gefwq.m3u8
 凤凰香港,https://iptv.aibo.lol/qd/fhhk.m3u8
 
 
-咪咕央视2,#genre#
-
-南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
-南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
-
-CCTV1综合,http://bobohome.ignorelist.com:20247/migu?id=608807420.m3u8
-CCTV2财经,http://bobohome.ignorelist.com:20247/migu?id=631780532.m3u8
-CCTV3综艺,http://bobohome.ignorelist.com:20247/migu?id=624878271.m3u8
-CCTV4中文国际,http://bobohome.ignorelist.com:20247/migu?id=631780421.m3u8
-CCTV5体育,http://bobohome.ignorelist.com:20247/migu?id=641886683.m3u8
-CCTV5+体育赛事,http://bobohome.ignorelist.com:20247/migu?id=641886773.m3u8
-CCTV6电影,http://bobohome.ignorelist.com:20247/migu?id=624878396.m3u8
-CCTV7国防军事,http://bobohome.ignorelist.com:20247/migu?id=673168121.m3u8
-CCTV8电视剧,http://bobohome.ignorelist.com:20247/migu?id=624878356.m3u8
-CCTV9纪录,http://bobohome.ignorelist.com:20247/migu?id=673168140.m3u8
-CCTV10科教,http://bobohome.ignorelist.com:20247/migu?id=624878405.m3u8
-CCTV11戏曲,http://bobohome.ignorelist.com:20247/migu?id=667987558.m3u8
-CCTV12社会与法,http://bobohome.ignorelist.com:20247/migu?id=673168185.m3u8
-CCTV13新闻,http://bobohome.ignorelist.com:20247/migu?id=608807423.m3u8
-CCTV14少儿,http://bobohome.ignorelist.com:20247/migu?id=624878440.m3u8
-CCTV15音乐,http://bobohome.ignorelist.com:20247/migu?id=673168223.m3u8
-CCTV17农业农村,http://bobohome.ignorelist.com:20247/migu?id=673168256.m3u8
-
-广西新闻,http://192.151.150.154/live/gxwshd.m3u8
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰香港,https://cdn.qd.je/163189/fhhk
-
-
 🌏港澳台美,#genre#
 翡翠台(字幕),https://cdn.qd.je/163189/fct2
 凤凰资讯,https://cdn.qd.je/163189/fhzx
