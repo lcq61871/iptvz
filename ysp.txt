@@ -1,3 +1,26 @@
+咪咕央视22,#genre#
+
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+
+CCTV1,http://51.75.118.151:20299/cctv1.m3u8
+CCTV2,http://51.75.118.151:20299/cctv2.m3u8
+CCTV3,http://51.75.118.151:20299/cctv3.m3u8
+CCTV4,http://51.75.118.151:20299/cctv4.m3u8
+CCTV5,http://51.75.118.151:20299/cctv5.m3u8
+CCTV5+,http://51.75.118.151:20299/cctv5p.m3u8
+CCTV6,http://51.75.118.151:20299/cctv6.m3u8
+CCTV7,http://51.75.118.151:20299/cctv7.m3u8
+CCTV8,http://51.75.118.151:20299/cctv8.m3u8
+CCTV9,http://51.75.118.151:20299/cctv9.m3u8
+CCTV10,http://51.75.118.151:20299/cctv10.m3u8
+CCTV11,http://51.75.118.151:20299/cctv11.m3u8
+CCTV12,http://51.75.118.151:20299/cctv12.m3u8
+CCTV13,http://51.75.118.151:20299/cctv13.m3u8
+CCTV14,http://51.75.118.151:20299/cctv14.m3u8
+CCTV15,http://51.75.118.151:20299/cctv15.m3u8
+CCTV16,http://51.75.118.151:20299/cctv16.m3u8
+CCTV17,http://51.75.118.151:20299/cctv17.m3u8
 
 
 
