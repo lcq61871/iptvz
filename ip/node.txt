@@ -1,3 +1,6 @@
+
+tuic://616bcbcd-2249-4317-aa45-dc991f23ca84:nCKwZIFgBH@gary04.1688848.xyz:45586?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3,h2,http/1.1&allow_insecure=1#Gary04-%E8%B0%81%E5%BF%AB%E7%94%A8%E8%B0%81-tuic-45586
+
 ss://YWVzLTI1Ni1nY206MGRjMGI0ZTgtYjcyZS0zNjAzLWJhZGUtMDU2MDlmOTEzMmMw@v.4.g.6.4.0.6.9.6.hk01-ae5.entry.v51124-3a.qpon:19273?#DE-自己德国
 vless://4129e82f-1e67-4fa3-be62-d6addd467a31@43.174.194.1:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&fp=chrome&type=ws&host=rogerfederer.pages.dev&path=%2F#HK-自己香港1
 ss://YWVzLTI1Ni1nY206Y2RkMDZlYjUtMjM2YS0zMjhjLWEwNmItOTJhNTJmYWFjOGJm@5.g.0.6.8.g.3.3.b.hk03-ae5.entry.v51124-1.qpon:760#HK-自己香港2
