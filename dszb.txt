@@ -1,5 +1,9 @@
 南央视,#genre#
-
+南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
+南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
+广西新闻,http://1.192.240.71:8188/rtp/239.16.20.84:10840
+凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰香港,https://cdn.qd.je/163189/fhhk
 CCTV-1综合,http://171.8.84.49:8800/rtp/239.16.20.1:10010
 CCTV-2财经,http://171.8.84.49:8800/rtp/239.16.20.2:10020
 CCTV-3综艺,http://171.8.84.49:8800/rtp/239.16.20.3:10030
