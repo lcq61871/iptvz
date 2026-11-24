@@ -177,10 +177,10 @@ http://89.187.179.148:826/1368/gXwiagaXda/120348
 http://89.187.179.148:826/1368/gXwiagaXda/119333
 #EXTINF:-1 group-title="🌏港澳台美",ESPN
 http://89.187.179.148:826/1368/gXwiagaXda/119665
-#EXTINF:-1 group-title="🏟️体育赛事",CCTV-5体育
-http://171.8.84.49:8800/rtp/239.16.20.53:10530
-#EXTINF:-1 group-title="🏟️体育赛事",CCTV-5+体育赛事
-http://171.8.84.49:8800/rtp/239.16.20.5:10050
+#EXTINF:-1 group-title="🏟️体育赛事",CCTV5体育
+http://bobohome.ignorelist.com:20247/migu?id=641886683.m3u8
+#EXTINF:-1 group-title="🏟️体育赛事",CCTV5+体育赛事
+http://bobohome.ignorelist.com:20247/migu?id=641886773.m3u8
 #EXTINF:-1 group-title="🏟️体育赛事",CCTV-5体育D
 http://104.152.209.49:8181/720p/cctv5.m3u8
 #EXTINF:-1 group-title="🏟️体育赛事",CCTV-5+HDD
