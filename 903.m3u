@@ -7,6 +7,40 @@ http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 group-title="南央视",凤凰香港
 https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 group-title="南央视",CCTV-1综合
+http://1.192.243.163:8188/rtp/239.16.20.1:10010
+#EXTINF:-1 group-title="南央视",CCTV-2财经
+http://1.192.243.163:8188/rtp/239.16.20.2:10020
+#EXTINF:-1 group-title="南央视",CCTV-3综艺
+http://1.192.243.163:8188/rtp/239.16.20.3:10030
+#EXTINF:-1 group-title="南央视",CCTV-4中文国际
+http://1.192.243.163:8188/rtp/239.16.20.4:10040
+#EXTINF:-1 group-title="南央视",CCTV-5体育
+http://1.192.243.163:8188/rtp/239.16.20.53:10530
+#EXTINF:-1 group-title="南央视",CCTV-5+体育赛事
+http://1.192.243.163:8188/rtp/239.16.20.5:10050
+#EXTINF:-1 group-title="南央视",CCTV-6电影
+http://1.192.243.163:8188/rtp/239.16.20.6:10060
+#EXTINF:-1 group-title="南央视",CCTV-7国防军事
+http://1.192.243.163:8188/rtp/239.16.20.51:10510
+#EXTINF:-1 group-title="南央视",CCTV-8电视剧
+http://1.192.243.163:8188/rtp/239.16.20.8:10080
+#EXTINF:-1 group-title="南央视",CCTV-9纪录
+http://1.192.243.163:8188/rtp/239.16.20.9:10090
+#EXTINF:-1 group-title="南央视",CCTV-10科教
+http://1.192.243.163:8188/rtp/239.16.20.10:10100
+#EXTINF:-1 group-title="南央视",CCTV-11戏曲
+http://1.192.243.163:8188/rtp/239.16.20.11:10110
+#EXTINF:-1 group-title="南央视",CCTV-12社会与法
+http://1.192.243.163:8188/rtp/239.16.20.12:10120
+#EXTINF:-1 group-title="南央视",CCTV-13新闻
+http://1.192.243.163:8188/rtp/239.16.20.13:10130
+#EXTINF:-1 group-title="南央视",CCTV-14少儿
+http://1.192.243.163:8188/rtp/239.16.20.14:10140
+#EXTINF:-1 group-title="南央视",CCTV-15音乐
+http://1.192.243.163:8188/rtp/239.16.20.15:10150
+#EXTINF:-1 group-title="南央视",CCTV-17农业农村
+http://1.192.243.163:8188/rtp/239.16.20.7:10070
 #EXTINF:-1 group-title="南央视",CCTV1综合
 http://bobohome.ignorelist.com:20247/migu?id=608807420.m3u8
 #EXTINF:-1 group-title="南央视",CCTV2财经
@@ -143,14 +177,14 @@ https://cdn.qd.je/163189/wxxw
 https://cdn.qd.je/163189/asam
 #EXTINF:-1 group-title="🌏港澳台美",千禧经典台
 https://cdn.qd.je/163189/tvbc
-#EXTINF:-1 group-title="🌏港澳台美",台北華視
-http://211.72.174.95:8114/0.ts
-#EXTINF:-1 group-title="🌏港澳台美",民视新聞
-http://211.72.174.95:8117/0.ts
+#EXTINF:-1 group-title="🌏港澳台美",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1 group-title="🌏港澳台美",华视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="🌏港澳台美",民视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="🌏港澳台美",TVBS新闻
-http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 group-title="🌏港澳台美",博斯網球
-http://125.227.210.55:3060/VideoInput/play.ts
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="🌏港澳台美",FashionTV FR
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 #EXTINF:-1 group-title="🌏港澳台美",CNN
@@ -219,6 +253,100 @@ https://amg00451-dazn-daznringside-lgus-2f6xc.amagi.tv/ts-us-w2-n2/playlist/amg0
 http://89.187.179.148:826/1368/gXwiagaXda/119906
 #EXTINF:-1 group-title="🏟️体育赛事",BBC One UK
 http://89.187.179.148:826/1368/gXwiagaXda/98853
+#EXTINF:-1 group-title="咪咕体育",至臻视界4K
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000015686
+#EXTINF:-1 group-title="咪咕体育",咪咕直播24K
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000005180
+#EXTINF:-1 group-title="咪咕体育",咪咕直播1
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000005308
+#EXTINF:-1 group-title="咪咕体育",咪咕直播2
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000005969
+#EXTINF:-1 group-title="咪咕体育",咪咕直播3
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000007218
+#EXTINF:-1 group-title="咪咕体育",咪咕直播4
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000008001
+#EXTINF:-1 group-title="咪咕体育",咪咕直播5
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000008176
+#EXTINF:-1 group-title="咪咕体育",咪咕直播6
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000008379
+#EXTINF:-1 group-title="咪咕体育",咪咕直播7
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000010129
+#EXTINF:-1 group-title="咪咕体育",咪咕直播8
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000010948
+#EXTINF:-1 group-title="咪咕体育",咪咕直播9
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000028638
+#EXTINF:-1 group-title="咪咕体育",咪咕直播10
+https://lnitv.cn:55555/data/api/m.php?id=3000000001000031494
+#EXTINF:-1 group-title="咪咕体育",咪咕直播11
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000005837
+#EXTINF:-1 group-title="咪咕体育",咪咕直播12
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011518
+#EXTINF:-1 group-title="咪咕体育",咪咕直播13
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011519
+#EXTINF:-1 group-title="咪咕体育",咪咕直播14
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011520
+#EXTINF:-1 group-title="咪咕体育",咪咕直播15
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011521
+#EXTINF:-1 group-title="咪咕体育",咪咕直播16
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011522
+#EXTINF:-1 group-title="咪咕体育",咪咕直播17
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011523
+#EXTINF:-1 group-title="咪咕体育",咪咕直播18
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011524
+#EXTINF:-1 group-title="咪咕体育",咪咕直播19
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011525
+#EXTINF:-1 group-title="咪咕体育",咪咕直播20
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011528
+#EXTINF:-1 group-title="咪咕体育",咪咕直播21
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011529
+#EXTINF:-1 group-title="咪咕体育",咪咕直播22
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011530
+#EXTINF:-1 group-title="咪咕体育",咪咕直播23
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000011531
+#EXTINF:-1 group-title="咪咕体育",咪咕直播24
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000000097
+#EXTINF:-1 group-title="咪咕体育",咪咕直播25
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000002019
+#EXTINF:-1 group-title="咪咕体育",咪咕直播26
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000002809
+#EXTINF:-1 group-title="咪咕体育",咪咕直播27
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000003915
+#EXTINF:-1 group-title="咪咕体育",咪咕直播28
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000004193
+#EXTINF:-1 group-title="咪咕体育",咪咕直播29
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000006077
+#EXTINF:-1 group-title="咪咕体育",咪咕直播30
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000006658
+#EXTINF:-1 group-title="咪咕体育",咪咕直播31
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000009788
+#EXTINF:-1 group-title="咪咕体育",咪咕直播32
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000010833
+#EXTINF:-1 group-title="咪咕体育",咪咕直播33
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000011297
+#EXTINF:-1 group-title="咪咕体育",咪咕直播34
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000011518
+#EXTINF:-1 group-title="咪咕体育",咪咕直播35
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000012558
+#EXTINF:-1 group-title="咪咕体育",咪咕直播36
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000012616
+#EXTINF:-1 group-title="咪咕体育",咪咕直播37
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000015470
+#EXTINF:-1 group-title="咪咕体育",咪咕直播38
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000015560
+#EXTINF:-1 group-title="咪咕体育",咪咕直播39
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000019839
+#EXTINF:-1 group-title="咪咕体育",咪咕直播40
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000021904
+#EXTINF:-1 group-title="咪咕体育",咪咕直播41
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000023434
+#EXTINF:-1 group-title="咪咕体育",咪咕直播42
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000025380
+#EXTINF:-1 group-title="咪咕体育",咪咕直播43
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000027691
+#EXTINF:-1 group-title="咪咕体育",咪咕直播44
+https://lnitv.cn:55555/data/api/m.php?id=3000000020000031315
+#EXTINF:-1 group-title="咪咕体育",咪咕直播45
+https://lnitv.cn:55555/data/api/m.php?id=3000000010000031669
 #EXTINF:-1 group-title="咪咕体育",咪咕视频1
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=001C366F865C602F58587E8BE8616930&mode=1&%248M%20FHD
 #EXTINF:-1 group-title="咪咕体育",咪咕视频2
