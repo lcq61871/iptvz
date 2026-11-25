@@ -1,5 +1,5 @@
 vless://bm9uZTo0MTI5ZTgyZi0xZTY3LTRmYTMtYmU2Mi1kNmFkZGQ0NjdhMzFAbWFya21vbml0b3IuY29tOjQ0Mw?path=/&remarks=%F0%9F%87%AD%F0%9F%87%B0HK%C2%B9-SG%E2%81%B0_6%7CGPT%E2%81%BA%7CCP%7CYT-CN%7CNF%7CD%2B%7CX&obfsParam=rogerfederer.pages.dev&obfs=websocket&tls=1&peer=rogerfederer.pages.dev&udp=1&fingerprint=chrome
-trojan://nCKwZIFgBH@gary04.1688848.xyz:38663?allowInsecure=1&peer=www.bing.com&alpn=h3,h2,http/1.1#Gary04-%E8%B0%81%E5%BF%AB%E7%94%A8%E8%B0%81-trojan-38663
+trojan://VOq7Ly5Svx70BL9N@gary02.1688848.xyz:42522?allowInsecure=1&peer=www.bing.com&alpn=h3,h2,http/1.1#US-Trojan-Gary02-np_479b6b43900c484d876cc3a4d8137d71
 
 ss://YWVzLTI1Ni1nY206MGRjMGI0ZTgtYjcyZS0zNjAzLWJhZGUtMDU2MDlmOTEzMmMw@v.4.g.6.4.0.6.9.6.hk01-ae5.entry.v51124-3a.qpon:19273?#DE-自己德国
 vless://4129e82f-1e67-4fa3-be62-d6addd467a31@43.174.194.1:443?encryption=none&security=tls&sni=rogerfederer.pages.dev&fp=chrome&type=ws&host=rogerfederer.pages.dev&path=%2F#HK-自己香港1
