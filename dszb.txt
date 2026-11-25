@@ -99,10 +99,11 @@ CCTV-高尔夫网球D,http://104.152.209.49:8181/720p/gefwq.m3u8
 无线新闻台,https://cdn.qd.je/163189/wxxw
 澳视澳门,https://cdn.qd.je/163189/asam
 千禧经典台,https://cdn.qd.je/163189/tvbc
-台北華視,http://211.72.174.95:8114/0.ts
-民视新聞,http://211.72.174.95:8117/0.ts
-TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-博斯網球,http://125.227.210.55:3060/VideoInput/play.ts
+东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
+民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+
 FashionTV FR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/eff167d7-fa70-46a6-a123-3408de90641d/0.m3u8
 BBC News International,https://pb-iiczlgfysam0q.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-iiczlgfysam0q/178a3542-91c8-46a6-9885-436137b36727/5.m3u8
